@@ -1,0 +1,24 @@
+{
+  "apps": [
+    {
+      "slug": "cableDropCalc",
+      "appName": {
+        "zh": "压降计算",
+        "en": "Cable Drop Calc",
+        "ja": "Cable Drop Calc",
+        "ko": "Cable Drop Calc"
+      },
+      "lastUpdated": "2026-05-30"
+    },
+    {
+      "slug": "compute24",
+      "appName": {
+        "zh": "益智算24",
+        "en": "Compute 24",
+        "ja": "Compute 24",
+        "ko": "Compute 24"
+      },
+      "lastUpdated": "2026-03-17"
+    }
+  ]
+}

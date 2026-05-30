@@ -2,7 +2,24 @@
 
 Vue/Vite static site for App privacy policies.
 
-Add a new app by editing `src/data/apps.ts`.
+Add a new app by editing `public/apps.json`.
+
+Example:
+
+```json
+{
+  "slug": "newAppProjectName",
+  "appName": {
+    "zh": "中文 App 名",
+    "en": "English App Name",
+    "ja": "日本語 App Name",
+    "ko": "한국어 App Name"
+  },
+  "lastUpdated": "2026-05-30"
+}
+```
+
+The page uses fixed privacy-policy templates for each language and replaces the app name and update date from `apps.json`.
 
 Routes:
 
@@ -14,6 +31,8 @@ Routes:
 
 Cloudflare Pages:
 
+Cloudflare Workers:
+
 - Build command: `npm run build`
-- Build output directory: `dist`
-- Root directory: `/`
+- Assets directory: `dist`
+- Deploy command: `npm run deploy`
