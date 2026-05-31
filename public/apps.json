@@ -1,24 +1,34 @@
 {
-  "apps": [
-    {
-      "slug": "cableDropCalc",
-      "appName": {
-        "zh": "压降计算",
-        "en": "Cable Drop Calc",
-        "ja": "Cable Drop Calc",
-        "ko": "Cable Drop Calc"
-      },
-      "lastUpdated": "2026-05-30"
-    },
-    {
-      "slug": "compute24",
-      "appName": {
-        "zh": "益智算24",
-        "en": "Compute 24",
-        "ja": "Compute 24",
-        "ko": "Compute 24"
-      },
-      "lastUpdated": "2026-03-17"
-    }
-  ]
+	"apps":[
+		{
+			"lastUpdated":"2026-05-30",
+			"appName":{
+				"ko":"Cable Drop Calc",
+				"ja":"Cable Drop Calc",
+				"en":"Cable Drop Calc",
+				"zh":"压降计算"
+			},
+			"slug":"cableDropCalc"
+		},
+		{
+			"lastUpdated":"2026-03-17",
+			"appName":{
+				"ko":"Compute 24",
+				"ja":"Compute 24",
+				"en":"Compute 24",
+				"zh":"益智算24"
+			},
+			"slug":"compute24"
+		},
+		{
+			"lastUpdated":"2026-05-31",
+			"appName":{
+				"ko":"폼 빠른입력",
+				"ja":"フォーム速入力",
+				"en":"Form QuickFill",
+				"zh":"表格速填"
+			},
+			"slug":"localFormFiller"
+		}
+	]
 }
