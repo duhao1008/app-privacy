@@ -29,6 +29,16 @@
 				"zh":"表格速填"
 			},
 			"slug":"localFormFiller"
+		},
+		{
+			"lastUpdated":"2026-05-31",
+			"appName":{
+				"ko":"회의록 박스",
+				"ja":"会議議事録ボックス",
+				"en":"Meeting Minutes Box",
+				"zh":"会议纪要盒"
+			},
+			"slug":"meetingMinutesKit"
 		}
 	]
 }
