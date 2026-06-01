@@ -13,7 +13,11 @@ Example:
     "zh": "中文 App 名",
     "en": "English App Name",
     "ja": "日本語 App Name",
-    "ko": "한국어 App Name"
+    "ko": "한국어 App Name",
+    "es": "Nombre de la app",
+    "pt": "Nome do app",
+    "de": "Deutscher App-Name",
+    "fr": "Nom de l'app"
   },
   "lastUpdated": "2026-05-30"
 }
@@ -27,6 +31,10 @@ Routes:
 - `/{slug}/en`
 - `/{slug}/ja`
 - `/{slug}/ko`
+- `/{slug}/es`
+- `/{slug}/pt`
+- `/{slug}/de`
+- `/{slug}/fr`
 - legacy: `/app_privacy/{slug}.html`
 
 Cloudflare Pages:

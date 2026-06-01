@@ -5,6 +5,7 @@ import {
   defaultContactEmail,
   fallbackPrivacyApps,
   findPrivacyApp,
+  getLocalizedAppName,
   loadPrivacyApps,
   localeLabels,
   locales,
@@ -43,6 +44,10 @@ const dateFormatter = computed(() => {
     en: 'en-US',
     ja: 'ja-JP',
     ko: 'ko-KR',
+    es: 'es-ES',
+    pt: 'pt-PT',
+    de: 'de-DE',
+    fr: 'fr-FR',
   }
   return new Intl.DateTimeFormat(localeMap[locale.value], {
     year: 'numeric',
@@ -162,8 +167,117 @@ const t = computed(() => {
       lastUpdated: '마지막 업데이트',
       notFound: '이 앱의 개인정보 처리방침을 찾을 수 없습니다.',
     },
+    es: {
+      homeTitle: 'Políticas de privacidad de apps',
+      homeLead: 'Elige una app para ver su política de privacidad.',
+      policy: 'Política de privacidad',
+      intro: (name: string) => `Esta Política de privacidad describe cómo ${name} (en adelante, la “App”) recopila, usa y protege la información del usuario.`,
+      collectTitle: '1. Recopilación de información',
+      collectBody: 'La App no recopila información personal de los usuarios. Todos los datos de la app se almacenan únicamente de forma local en el dispositivo del usuario y no se cargan en ningún servidor.',
+      usageTitle: '2. Uso de los datos',
+      usageBody: 'La App utiliza los datos almacenados localmente en el dispositivo solo para los siguientes fines:',
+      usageItems: ['Mostrar información únicamente dentro de la App', 'Guardar datos que los usuarios crean o configuran activamente dentro de la App', 'Proporcionar funciones locales relacionadas con la App'],
+      storageTitle: '3. Almacenamiento de datos',
+      storageBody: 'Todos los datos se almacenan únicamente de forma local en el dispositivo del usuario y no se transmiten a servidores externos.',
+      rightsTitle: '4. Derechos del usuario',
+      rightsBody: 'Los usuarios pueden gestionar los datos locales en cualquier momento de las siguientes formas:',
+      rightsItems: ['Borrarlos dentro de la App', 'Desinstalar la App para eliminar todos los datos relacionados'],
+      thirdTitle: '5. Servicios de terceros',
+      thirdBody: 'La App no utiliza servicios de terceros ni integra redes publicitarias.',
+      childrenTitle: '6. Privacidad de menores',
+      childrenBody: 'La App es adecuada para usuarios de todas las edades y no recopila información personal de menores.',
+      updateTitle: '7. Actualizaciones de la política de privacidad',
+      updateBody: 'Esta Política de privacidad puede actualizarse ocasionalmente. Cualquier actualización se publicará en esta página y se notificará a los usuarios cuando se actualice la App.',
+      contactTitle: '8. Contacto',
+      contactBody: 'Si tienes alguna pregunta sobre esta Política de privacidad, contáctanos en:',
+      lastUpdated: 'Última actualización',
+      notFound: 'No se encontró ninguna política de privacidad para esta app.',
+    },
+    pt: {
+      homeTitle: 'Políticas de privacidade dos apps',
+      homeLead: 'Escolha um app para ver a sua política de privacidade.',
+      policy: 'Política de privacidade',
+      intro: (name: string) => `Esta Política de privacidade descreve como ${name} (doravante denominado “App”) coleta, usa e protege as informações do usuário.`,
+      collectTitle: '1. Coleta de informações',
+      collectBody: 'O App não coleta nenhuma informação pessoal dos usuários. Todos os dados do app são armazenados apenas localmente no dispositivo do usuário e não são enviados a nenhum servidor.',
+      usageTitle: '2. Uso dos dados',
+      usageBody: 'O App utiliza os dados armazenados localmente no dispositivo apenas para as seguintes finalidades:',
+      usageItems: ['Exibição apenas dentro do App', 'Salvar dados que os usuários criam ou configuram ativamente dentro do App', 'Fornecer recursos locais relacionados ao App'],
+      storageTitle: '3. Armazenamento de dados',
+      storageBody: 'Todos os dados são armazenados apenas localmente no dispositivo do usuário e não são transmitidos a servidores externos.',
+      rightsTitle: '4. Direitos do usuário',
+      rightsBody: 'Os usuários podem gerenciar os dados locais a qualquer momento das seguintes formas:',
+      rightsItems: ['Apagá-los dentro do App', 'Desinstalar o App para excluir todos os dados relacionados'],
+      thirdTitle: '5. Serviços de terceiros',
+      thirdBody: 'O App não usa serviços de terceiros nem integra redes de publicidade.',
+      childrenTitle: '6. Privacidade infantil',
+      childrenBody: 'O App é adequado para usuários de todas as idades e não coleta informações pessoais de crianças.',
+      updateTitle: '7. Atualizações da política de privacidade',
+      updateBody: 'Esta Política de privacidade pode ser atualizada periodicamente. Quaisquer atualizações serão publicadas nesta página e os usuários serão notificados quando o App for atualizado.',
+      contactTitle: '8. Contato',
+      contactBody: 'Se você tiver dúvidas sobre esta Política de privacidade, entre em contato conosco em:',
+      lastUpdated: 'Última atualização',
+      notFound: 'Nenhuma política de privacidade foi encontrada para este app.',
+    },
+    de: {
+      homeTitle: 'App-Datenschutzerklärungen',
+      homeLead: 'Wähle eine App aus, um ihre Datenschutzerklärung anzuzeigen.',
+      policy: 'Datenschutzerklärung',
+      intro: (name: string) => `Diese Datenschutzerklärung beschreibt, wie ${name} (im Folgenden die „App“) Benutzerinformationen erfasst, verwendet und schützt.`,
+      collectTitle: '1. Erfassung von Informationen',
+      collectBody: 'Die App erfasst keine personenbezogenen Informationen von Benutzern. Alle App-Daten werden ausschließlich lokal auf dem Gerät des Benutzers gespeichert und nicht auf einen Server hochgeladen.',
+      usageTitle: '2. Verwendung der Daten',
+      usageBody: 'Die App verwendet lokal auf dem Gerät gespeicherte Daten nur für die folgenden Zwecke:',
+      usageItems: ['Nur zur Anzeige innerhalb der App', 'Zum Speichern von Daten, die Benutzer aktiv in der App erstellen oder festlegen', 'Zur Bereitstellung lokaler Funktionen der App'],
+      storageTitle: '3. Datenspeicherung',
+      storageBody: 'Alle Daten werden ausschließlich lokal auf dem Gerät des Benutzers gespeichert und nicht an externe Server übertragen.',
+      rightsTitle: '4. Rechte der Benutzer',
+      rightsBody: 'Benutzer können lokale Daten jederzeit auf folgende Weise verwalten:',
+      rightsItems: ['Innerhalb der App löschen', 'Die App deinstallieren, um alle zugehörigen Daten zu entfernen'],
+      thirdTitle: '5. Drittanbieterdienste',
+      thirdBody: 'Die App verwendet keine Drittanbieterdienste und integriert keine Werbenetzwerke.',
+      childrenTitle: '6. Datenschutz von Kindern',
+      childrenBody: 'Die App ist für Benutzer aller Altersgruppen geeignet und erfasst keine personenbezogenen Informationen von Kindern.',
+      updateTitle: '7. Aktualisierungen der Datenschutzerklärung',
+      updateBody: 'Diese Datenschutzerklärung kann von Zeit zu Zeit aktualisiert werden. Aktualisierungen werden auf dieser Seite veröffentlicht und Benutzer werden bei einer App-Aktualisierung informiert.',
+      contactTitle: '8. Kontakt',
+      contactBody: 'Wenn du Fragen zu dieser Datenschutzerklärung hast, kontaktiere uns bitte unter:',
+      lastUpdated: 'Zuletzt aktualisiert',
+      notFound: 'Für diese App wurde keine Datenschutzerklärung gefunden.',
+    },
+    fr: {
+      homeTitle: 'Politiques de confidentialité des apps',
+      homeLead: 'Choisissez une app pour consulter sa politique de confidentialité.',
+      policy: 'Politique de confidentialité',
+      intro: (name: string) => `La présente Politique de confidentialité décrit comment ${name} (ci-après l’« App ») collecte, utilise et protège les informations des utilisateurs.`,
+      collectTitle: '1. Collecte des informations',
+      collectBody: 'L’App ne collecte aucune information personnelle des utilisateurs. Toutes les données de l’app sont stockées uniquement localement sur l’appareil de l’utilisateur et ne sont envoyées à aucun serveur.',
+      usageTitle: '2. Utilisation des données',
+      usageBody: 'L’App utilise les données stockées localement sur l’appareil uniquement aux fins suivantes :',
+      usageItems: ['Affichage uniquement dans l’App', 'Enregistrement des données que les utilisateurs créent ou configurent activement dans l’App', 'Fourniture des fonctionnalités locales liées à l’App'],
+      storageTitle: '3. Stockage des données',
+      storageBody: 'Toutes les données sont stockées uniquement localement sur l’appareil de l’utilisateur et ne sont pas transmises à des serveurs externes.',
+      rightsTitle: '4. Droits des utilisateurs',
+      rightsBody: 'Les utilisateurs peuvent gérer les données locales à tout moment de la manière suivante :',
+      rightsItems: ['Les supprimer dans l’App', 'Désinstaller l’App pour supprimer toutes les données associées'],
+      thirdTitle: '5. Services tiers',
+      thirdBody: 'L’App n’utilise aucun service tiers et n’intègre aucun réseau publicitaire.',
+      childrenTitle: '6. Confidentialité des enfants',
+      childrenBody: 'L’App convient aux utilisateurs de tous âges et ne collecte aucune information personnelle concernant les enfants.',
+      updateTitle: '7. Mises à jour de la politique de confidentialité',
+      updateBody: 'Cette Politique de confidentialité peut être mise à jour de temps à autre. Toute mise à jour sera publiée sur cette page et les utilisateurs seront informés lors de la mise à jour de l’App.',
+      contactTitle: '8. Nous contacter',
+      contactBody: 'Si vous avez des questions au sujet de cette Politique de confidentialité, contactez-nous à :',
+      lastUpdated: 'Dernière mise à jour',
+      notFound: 'Aucune politique de confidentialité n’a été trouvée pour cette app.',
+    },
   }
   return text[locale.value]
+})
+
+const currentAppName = computed(() => {
+  if (!currentApp.value) return ''
+  return getLocalizedAppName(currentApp.value, locale.value)
 })
 </script>
 
@@ -174,7 +288,7 @@ const t = computed(() => {
       <p class="lead">{{ routeInfo.slug ? '' : t.homeLead }}</p>
       <div class="app-list">
         <a v-for="item in apps" :key="item.slug" class="app-link" :href="`/${item.slug}/zh`">
-          <strong>{{ item.appName.zh }}</strong>
+          <strong>{{ getLocalizedAppName(item, 'zh') }}</strong>
           <span>{{ item.slug }}</span>
         </a>
       </div>
@@ -189,8 +303,8 @@ const t = computed(() => {
         </a>
       </nav>
 
-      <h1>{{ currentApp.appName[locale] }} - {{ t.policy }}</h1>
-      <p>{{ t.intro(currentApp.appName[locale]) }}</p>
+      <h1>{{ currentAppName }} - {{ t.policy }}</h1>
+      <p>{{ t.intro(currentAppName) }}</p>
 
       <h2>{{ t.collectTitle }}</h2>
       <p>{{ t.collectBody }}</p>
@@ -224,7 +338,7 @@ const t = computed(() => {
       <p><a :href="`mailto:${email}`">{{ email }}</a></p>
 
       <footer>
-        <p>© 2026 {{ currentApp.appName[locale] }}</p>
+        <p>© 2026 {{ currentAppName }}</p>
         <p>{{ t.lastUpdated }}: {{ updatedDate }}</p>
       </footer>
     </article>

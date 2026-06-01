@@ -1,12 +1,16 @@
-export type Locale = 'zh' | 'en' | 'ja' | 'ko'
+export type Locale = 'zh' | 'en' | 'ja' | 'ko' | 'es' | 'pt' | 'de' | 'fr'
 
-export const locales: Locale[] = ['zh', 'en', 'ja', 'ko']
+export const locales: Locale[] = ['zh', 'en', 'ja', 'ko', 'es', 'pt', 'de', 'fr']
 
 export const localeLabels: Record<Locale, string> = {
   zh: '中文',
   en: 'English',
   ja: '日本語',
   ko: '한국어',
+  es: 'Español',
+  pt: 'Português',
+  de: 'Deutsch',
+  fr: 'Français',
 }
 
 export interface LocalizedText {
@@ -14,6 +18,10 @@ export interface LocalizedText {
   en: string
   ja: string
   ko: string
+  es?: string
+  pt?: string
+  de?: string
+  fr?: string
 }
 
 export interface PrivacyApp {
@@ -37,19 +45,13 @@ export const fallbackPrivacyApps: PrivacyApp[] = [
       en: 'Cable Drop Calc',
       ja: 'Cable Drop Calc',
       ko: 'Cable Drop Calc',
+      es: 'Cable Drop Calc',
+      pt: 'Cable Drop Calc',
+      de: 'Cable Drop Calc',
+      fr: 'Cable Drop Calc',
     },
     lastUpdated: '2026-05-30',
-  },
-  {
-    slug: 'compute24',
-    appName: {
-      zh: '益智算24',
-      en: 'Compute 24',
-      ja: 'Compute 24',
-      ko: 'Compute 24',
-    },
-    lastUpdated: '2026-03-17',
-  },
+  }
 ]
 
 export async function loadPrivacyApps(): Promise<PrivacyApp[]> {
@@ -81,6 +83,10 @@ function isPrivacyApp(value: unknown): value is PrivacyApp {
       app.appName?.ko &&
       app.lastUpdated,
   )
+}
+
+export function getLocalizedAppName(app: PrivacyApp, locale: Locale) {
+  return app.appName[locale] || app.appName.en || app.appName.zh
 }
 
 export function findPrivacyApp(apps: PrivacyApp[], slug: string) {

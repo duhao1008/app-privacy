@@ -6,7 +6,11 @@
 				"ko":"Cable Drop Calc",
 				"ja":"Cable Drop Calc",
 				"en":"Cable Drop Calc",
-				"zh":"压降计算"
+				"zh":"压降计算",
+				"es":"Cable Drop Calc",
+				"pt":"Cable Drop Calc",
+				"de":"Cable Drop Calc",
+				"fr":"Cable Drop Calc"
 			},
 			"slug":"cableDropCalc"
 		},
@@ -16,7 +20,11 @@
 				"ko":"Compute 24",
 				"ja":"Compute 24",
 				"en":"Compute 24",
-				"zh":"益智算24"
+				"zh":"益智算24",
+				"es":"Compute 24",
+				"pt":"Compute 24",
+				"de":"Compute 24",
+				"fr":"Compute 24"
 			},
 			"slug":"compute24"
 		},
@@ -26,7 +34,11 @@
 				"ko":"폼 빠른입력",
 				"ja":"フォーム速入力",
 				"en":"Form QuickFill",
-				"zh":"表格速填"
+				"zh":"表格速填",
+				"es":"Relleno rápido de formularios",
+				"pt":"Preenchimento rápido de formulários",
+				"de":"Formular-Schnellfüller",
+				"fr":"Remplissage rapide de formulaires"
 			},
 			"slug":"localFormFiller"
 		},
@@ -36,7 +48,11 @@
 				"ko":"회의록 박스",
 				"ja":"会議議事録ボックス",
 				"en":"Meeting Minutes Box",
-				"zh":"会议纪要盒"
+				"zh":"会议纪要盒",
+				"es":"Caja de actas de reunión",
+				"pt":"Caixa de atas de reunião",
+				"de":"Meeting-Protokollbox",
+				"fr":"Boîte de comptes rendus"
 			},
 			"slug":"meetingMinutesKit"
 		},
@@ -46,7 +62,11 @@
 				"ko":"갱신 증빙",
 				"ja":"更新証明",
 				"en":"Renewal Proof",
-				"zh":"续费凭证"
+				"zh":"续费凭证",
+				"es":"Comprobante de renovación",
+				"pt":"Comprovante de renovação",
+				"de":"Verlängerungsnachweis",
+				"fr":"Justificatif de renouvellement"
 			},
 			"slug":"renewalProofKit"
 		},
@@ -56,7 +76,11 @@
 				"ko":"보증 관리",
 				"ja":"保証管理",
 				"en":"Warranty Vault",
-				"zh":"保修管家"
+				"zh":"保修管家",
+				"es":"Caja de garantías",
+				"pt":"Cofre de garantias",
+				"de":"Garantie-Tresor",
+				"fr":"Coffre des garanties"
 			},
 			"slug":"warrantyVault"
 		}
