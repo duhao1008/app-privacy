@@ -49,6 +49,16 @@
 				"zh":"续费凭证"
 			},
 			"slug":"renewalProofKit"
+		},
+		{
+			"lastUpdated":"2026-06-01",
+			"appName":{
+				"ko":"보증 관리",
+				"ja":"保証管理",
+				"en":"Warranty Vault",
+				"zh":"保修管家"
+			},
+			"slug":"warrantyVault"
 		}
 	]
 }
