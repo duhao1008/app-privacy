@@ -97,6 +97,20 @@
 				"es":"Turnos Laborales"
 			},
 			"slug":"shiftRosterPocket"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Siegel-Logbuch",
+				"ko":"인감 사용 기록장",
+				"pt":"Registro de Carimbos",
+				"ja":"押印記録帳",
+				"en":"Seal Logbook",
+				"fr":"Registre de Sceaux",
+				"zh":"用印登记本",
+				"es":"Registro de Sellos"
+			},
+			"slug":"sealLogbook"
 		}
 	]
 }
