@@ -39,6 +39,16 @@
 				"zh":"会议纪要盒"
 			},
 			"slug":"meetingMinutesKit"
+		},
+		{
+			"lastUpdated":"2026-06-01",
+			"appName":{
+				"ko":"갱신 증빙",
+				"ja":"更新証明",
+				"en":"Renewal Proof",
+				"zh":"续费凭证"
+			},
+			"slug":"renewalProofKit"
 		}
 	]
 }
