@@ -111,6 +111,20 @@
 				"es":"Registro de Sellos"
 			},
 			"slug":"sealLogbook"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Übergabe Checkliste",
+				"ko":"인수인계 체크리스트",
+				"pt":"Lista de Passagem",
+				"ja":"引き継ぎチェックリスト",
+				"en":"Handover Checklist",
+				"fr":"Liste de Passation",
+				"zh":"交接清单",
+				"es":"Lista de Traspaso"
+			},
+			"slug":"handoverKit"
 		}
 	]
 }
