@@ -3,86 +3,100 @@
 		{
 			"lastUpdated":"2026-05-30",
 			"appName":{
+				"de":"Cable Drop Calc",
 				"ko":"Cable Drop Calc",
+				"pt":"Cable Drop Calc",
 				"ja":"Cable Drop Calc",
 				"en":"Cable Drop Calc",
+				"fr":"Cable Drop Calc",
 				"zh":"压降计算",
-				"es":"Cable Drop Calc",
-				"pt":"Cable Drop Calc",
-				"de":"Cable Drop Calc",
-				"fr":"Cable Drop Calc"
+				"es":"Cable Drop Calc"
 			},
 			"slug":"cableDropCalc"
 		},
 		{
 			"lastUpdated":"2026-03-17",
 			"appName":{
+				"de":"Compute 24",
 				"ko":"Compute 24",
+				"pt":"Compute 24",
 				"ja":"Compute 24",
 				"en":"Compute 24",
+				"fr":"Compute 24",
 				"zh":"益智算24",
-				"es":"Compute 24",
-				"pt":"Compute 24",
-				"de":"Compute 24",
-				"fr":"Compute 24"
+				"es":"Compute 24"
 			},
 			"slug":"compute24"
 		},
 		{
 			"lastUpdated":"2026-05-31",
 			"appName":{
+				"de":"Formular-Schnellfüller",
 				"ko":"폼 빠른입력",
+				"pt":"Preenchimento rápido de formulários",
 				"ja":"フォーム速入力",
 				"en":"Form QuickFill",
+				"fr":"Remplissage rapide de formulaires",
 				"zh":"表格速填",
-				"es":"Relleno rápido de formularios",
-				"pt":"Preenchimento rápido de formulários",
-				"de":"Formular-Schnellfüller",
-				"fr":"Remplissage rapide de formulaires"
+				"es":"Relleno rápido de formularios"
 			},
 			"slug":"localFormFiller"
 		},
 		{
 			"lastUpdated":"2026-05-31",
 			"appName":{
+				"de":"Meeting-Protokollbox",
 				"ko":"회의록 박스",
+				"pt":"Caixa de atas de reunião",
 				"ja":"会議議事録ボックス",
 				"en":"Meeting Minutes Box",
+				"fr":"Boîte de comptes rendus",
 				"zh":"会议纪要盒",
-				"es":"Caja de actas de reunión",
-				"pt":"Caixa de atas de reunião",
-				"de":"Meeting-Protokollbox",
-				"fr":"Boîte de comptes rendus"
+				"es":"Caja de actas de reunión"
 			},
 			"slug":"meetingMinutesKit"
 		},
 		{
 			"lastUpdated":"2026-06-01",
 			"appName":{
+				"de":"Verlängerungsnachweis",
 				"ko":"갱신 증빙",
+				"pt":"Comprovante de renovação",
 				"ja":"更新証明",
 				"en":"Renewal Proof",
+				"fr":"Justificatif de renouvellement",
 				"zh":"续费凭证",
-				"es":"Comprobante de renovación",
-				"pt":"Comprovante de renovação",
-				"de":"Verlängerungsnachweis",
-				"fr":"Justificatif de renouvellement"
+				"es":"Comprobante de renovación"
 			},
 			"slug":"renewalProofKit"
 		},
 		{
 			"lastUpdated":"2026-06-01",
 			"appName":{
+				"de":"Garantie-Tresor",
 				"ko":"보증 관리",
+				"pt":"Cofre de garantias",
 				"ja":"保証管理",
 				"en":"Warranty Vault",
+				"fr":"Coffre des garanties",
 				"zh":"保修管家",
-				"es":"Caja de garantías",
-				"pt":"Cofre de garantias",
-				"de":"Garantie-Tresor",
-				"fr":"Coffre des garanties"
+				"es":"Caja de garantías"
 			},
 			"slug":"warrantyVault"
+		},
+		{
+			"lastUpdated":"2026-06-01",
+			"appName":{
+				"de":"Schichtplan",
+				"ko":"교대근무표",
+				"pt":"Escala de Turnos",
+				"ja":"シフト表",
+				"en":"Shift Roster",
+				"fr":"Planning de Quarts",
+				"zh":"轮班表",
+				"es":"Turnos Laborales"
+			},
+			"slug":"shiftRosterPocket"
 		}
 	]
 }
