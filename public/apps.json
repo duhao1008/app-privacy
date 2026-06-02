@@ -200,6 +200,21 @@
 				"es":"Libro de Inspección"
 			},
 			"slug":"inspectionLogbook"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Angebot PDF Maker",
+				"ru":"Мастер смет PDF",
+				"ko":"견적서 도우미",
+				"pt":"Criador de Orçamentos",
+				"ja":"見積書アシスタント",
+				"en":"Quote PDF Maker",
+				"fr":"Créateur de Devis PDF",
+				"zh":"报价单助手",
+				"es":"Creador de Cotizaciones"
+			},
+			"slug":"quotePdfMaker"
 		}
 	]
 }
