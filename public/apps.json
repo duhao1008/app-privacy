@@ -290,6 +290,21 @@
 				"es":"Datos de Factura"
 			},
 			"slug":"invoiceHeaderVault"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Ausmusterungsbuch",
+				"ru":"Журнал списания",
+				"ko":"폐기 대장",
+				"pt":"Livro de Baixas",
+				"ja":"廃棄台帳",
+				"en":"Asset Scrap Ledger",
+				"fr":"Registre de Rebuts",
+				"zh":"报废台账",
+				"es":"Libro de Bajas"
+			},
+			"slug":"assetScrapLedger"
 		}
 	]
 }
