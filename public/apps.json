@@ -245,6 +245,21 @@
 				"es":"Registro Laboral"
 			},
 			"slug":"dailyWorkLogbook"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Vertragsverlängerung",
+				"ru":"Журнал продления",
+				"ko":"계약 갱신 대장",
+				"pt":"Registro de Renovação",
+				"ja":"契約更新台帳",
+				"en":"Contract Renewal Log",
+				"fr":"Renouvellement Contrats",
+				"zh":"合同续签台账",
+				"es":"Registro Renovación"
+			},
+			"slug":"contractRenewalDesk"
 		}
 	]
 }
