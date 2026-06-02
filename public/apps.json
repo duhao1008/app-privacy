@@ -380,6 +380,21 @@
 				"es":"Libro de Depósitos"
 			},
 			"slug":"rentalDepositLedger"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Stempelbuch",
+				"ru":"Журнал Печатей",
+				"ko":"도장 대장",
+				"pt":"Livro de Carimbos",
+				"ja":"印鑑台帳",
+				"en":"Stamp Ledger",
+				"fr":"Registre de Tampons",
+				"zh":"印章台账",
+				"es":"Libro de Sellos"
+			},
+			"slug":"officeStampLedger"
 		}
 	]
 }
