@@ -305,6 +305,21 @@
 				"es":"Libro de Bajas"
 			},
 			"slug":"assetScrapLedger"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Fahrten Dispoheft",
+				"ru":"Журнал авто",
+				"ko":"배차 대장",
+				"pt":"Livro de Despacho",
+				"ja":"配車台帳",
+				"en":"Dispatch Ledger",
+				"fr":"Registre Dispatch",
+				"zh":"派车台账",
+				"es":"Libro de Despacho"
+			},
+			"slug":"vehicleDispatchLedger"
 		}
 	]
 }
