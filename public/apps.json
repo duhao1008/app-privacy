@@ -140,6 +140,21 @@
 				"es":"Registro de Llaves"
 			},
 			"slug":"keyLedger"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Siegelbuch",
+				"ru":"Журнал пломб",
+				"ko":"봉인 대장",
+				"pt":"Livro de Lacres",
+				"ja":"封印台帳",
+				"en":"Seal Ledger",
+				"fr":"Registre de Scellés",
+				"zh":"封签台账",
+				"es":"Libro de Sellos"
+			},
+			"slug":"cargoSealLedger"
 		}
 	]
 }
