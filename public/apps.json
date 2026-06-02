@@ -215,6 +215,21 @@
 				"es":"Creador de Cotizaciones"
 			},
 			"slug":"quotePdfMaker"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Leihbuch",
+				"ru":"Журнал выдачи",
+				"ko":"대여 장부",
+				"pt":"Livro de Empréstimos",
+				"ja":"貸出台帳",
+				"en":"Loan Ledger",
+				"fr":"Registre de Prêts",
+				"zh":"借物台账",
+				"es":"Registro de Préstamos"
+			},
+			"slug":"assetLoanLedger"
 		}
 	]
 }
