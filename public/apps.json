@@ -335,6 +335,21 @@
 				"es":"Registro de Muestras"
 			},
 			"slug":"sampleLedger"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Zertifikat Register",
+				"ru":"Реестр сертификатов",
+				"ko":"인증서 장부",
+				"pt":"Registro Certificados",
+				"ja":"証書台帳",
+				"en":"Certificate Ledger",
+				"fr":"Registre Certificats",
+				"zh":"证书台账",
+				"es":"Registro Certificados"
+			},
+			"slug":"certificateLedger"
 		}
 	]
 }
