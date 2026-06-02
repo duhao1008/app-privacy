@@ -320,6 +320,21 @@
 				"es":"Libro de Despacho"
 			},
 			"slug":"vehicleDispatchLedger"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Musterbuch",
+				"ru":"Журнал образцов",
+				"ko":"샘플 장부",
+				"pt":"Registro de Amostras",
+				"ja":"サンプル台帳",
+				"en":"Sample Ledger",
+				"fr":"Registre Échantillons",
+				"zh":"样品台账",
+				"es":"Registro de Muestras"
+			},
+			"slug":"sampleLedger"
 		}
 	]
 }
