@@ -230,6 +230,21 @@
 				"es":"Registro de Préstamos"
 			},
 			"slug":"assetLoanLedger"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Arbeitslogbuch",
+				"ru":"Рабочий журнал",
+				"ko":"업무 장부",
+				"pt":"Livro de Trabalho",
+				"ja":"仕事台帳",
+				"en":"Work Logbook",
+				"fr":"Carnet de Travail",
+				"zh":"工作台账",
+				"es":"Registro Laboral"
+			},
+			"slug":"dailyWorkLogbook"
 		}
 	]
 }
