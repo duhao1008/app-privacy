@@ -260,6 +260,21 @@
 				"es":"Registro Renovación"
 			},
 			"slug":"contractRenewalDesk"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Archivbox",
+				"ru":"Архивная коробка",
+				"ko":"문서 보관함",
+				"pt":"Caixa de Arquivo",
+				"ja":"文書保存箱",
+				"en":"Archive Box",
+				"fr":"Boîte Archives",
+				"zh":"档案盒",
+				"es":"Caja de Archivo"
+			},
+			"slug":"archiveBoxLabeler"
 		}
 	]
 }
