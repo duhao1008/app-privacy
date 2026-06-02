@@ -395,6 +395,21 @@
 				"es":"Libro de Sellos"
 			},
 			"slug":"officeStampLedger"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Erstattungsmappe",
+				"ru":"Папка Возмещений",
+				"ko":"정산 폴더",
+				"pt":"Pasta Reembolsos",
+				"ja":"精算フォルダ",
+				"en":"Reimburse Folder",
+				"fr":"Dossier Remboursements",
+				"zh":"报销夹",
+				"es":"Carpeta Reembolsos"
+			},
+			"slug":"receiptReimburseKit"
 		}
 	]
 }
