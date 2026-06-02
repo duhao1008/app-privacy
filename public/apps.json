@@ -455,6 +455,21 @@
 				"es":"Registro de Destrucción"
 			},
 			"slug":"fileDestroyLedger"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Regal Etiketten",
+				"ru":"Этикетки Полок",
+				"ko":"선반 라벨",
+				"pt":"Etiquetas Prateleira",
+				"ja":"棚ラベル",
+				"en":"Shelf Labels",
+				"fr":"Étiquettes Rayon",
+				"zh":"货架标签",
+				"es":"Etiquetas Estante"
+			},
+			"slug":"shelfLabelKit"
 		}
 	]
 }
