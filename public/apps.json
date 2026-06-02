@@ -350,6 +350,21 @@
 				"es":"Registro Certificados"
 			},
 			"slug":"certificateLedger"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Dokumentenbuch Manager",
+				"ru":"Менеджер журнал доков",
+				"ko":"문서대장 관리자",
+				"pt":"Gestor Livro Documentos",
+				"ja":"文書台帳マネージャー",
+				"en":"Doc Ledger Manager",
+				"fr":"Gestion Registre Docs",
+				"zh":"收发文管家",
+				"es":"Gestor Libro Documentos"
+			},
+			"slug":"documentFlowLedger"
 		}
 	]
 }
