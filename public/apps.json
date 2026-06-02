@@ -125,6 +125,22 @@
 				"es":"Lista de Traspaso"
 			},
 			"slug":"handoverKit"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Schlüsselbuch",
+				"俄语":"Журнал ключей",
+				"ru":"Журнал ключей",
+				"ko":"열쇠대장",
+				"pt":"Livro de Chaves",
+				"ja":"鍵台帳",
+				"en":"Key Ledger",
+				"fr":"Registre de Clés",
+				"zh":"钥匙台账",
+				"es":"Registro de Llaves"
+			},
+			"slug":"keyLedger"
 		}
 	]
 }
