@@ -365,6 +365,21 @@
 				"es":"Gestor Libro Documentos"
 			},
 			"slug":"documentFlowLedger"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Kautionsbuch",
+				"ru":"Журнал залогов",
+				"ko":"보증금 장부",
+				"pt":"Livro de Depósitos",
+				"ja":"敷金台帳",
+				"en":"Deposit Ledger",
+				"fr":"Registre Dépôts",
+				"zh":"押金台账",
+				"es":"Libro de Depósitos"
+			},
+			"slug":"rentalDepositLedger"
 		}
 	]
 }
