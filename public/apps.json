@@ -410,6 +410,21 @@
 				"es":"Carpeta Reembolsos"
 			},
 			"slug":"receiptReimburseKit"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Uniform Register",
+				"ru":"Учет формы",
+				"ko":"유니폼 대장",
+				"pt":"Registro Uniformes",
+				"ja":"制服台帳",
+				"en":"Uniform Ledger",
+				"fr":"Registre Uniformes",
+				"zh":"工服台账",
+				"es":"Registro Uniformes"
+			},
+			"slug":"uniformAssetLedger"
 		}
 	]
 }
