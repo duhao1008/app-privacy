@@ -275,6 +275,21 @@
 				"es":"Caja de Archivo"
 			},
 			"slug":"archiveBoxLabeler"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Rechnungsdaten Safe",
+				"ru":"Данные для счета",
+				"ko":"세금계산서 보함",
+				"pt":"Dados de Fatura",
+				"ja":"請求先情報ボックス",
+				"en":"Invoice Header Vault",
+				"fr":"Infos de Facture",
+				"zh":"抬头夹",
+				"es":"Datos de Factura"
+			},
+			"slug":"invoiceHeaderVault"
 		}
 	]
 }
