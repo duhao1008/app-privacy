@@ -170,6 +170,21 @@
 				"es":"Oculta Etiquetas"
 			},
 			"slug":"waybillMasker"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Besucherausweis Log",
+				"ru":"Журнал пропусков",
+				"ko":"방문증 대장",
+				"pt":"Registro de Crachás",
+				"ja":"来訪者パス台帳",
+				"en":"Visitor Pass Ledger",
+				"fr":"Registre de Badges",
+				"zh":"访客证台账",
+				"es":"Registro de Pases"
+			},
+			"slug":"visitPassLedger"
 		}
 	]
 }
