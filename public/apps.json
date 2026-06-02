@@ -425,6 +425,21 @@
 				"es":"Registro Uniformes"
 			},
 			"slug":"uniformAssetLedger"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Werkzeug Ausleihbuch",
+				"ru":"Журна Инструментов",
+				"ko":"공구 대여 장부",
+				"pt":"Registro de Ferramentas",
+				"ja":"工貸出台帳",
+				"en":"Tool Borrow Log",
+				"fr":"Registre d'Outils",
+				"zh":"工具借还",
+				"es":"Registro de Herramientas"
+			},
+			"slug":"borrowedToolLedger"
 		}
 	]
 }
