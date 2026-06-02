@@ -185,6 +185,21 @@
 				"es":"Registro de Pases"
 			},
 			"slug":"visitPassLedger"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Inspektionsbuch",
+				"ru":"Журнал Осмотров",
+				"ko":"점검 대장",
+				"pt":"Livro de Inspeção",
+				"ja":"巡回点検台帳",
+				"en":"Inspection Ledger",
+				"fr":"Registre Inspection",
+				"zh":"巡检台账",
+				"es":"Libro de Inspección"
+			},
+			"slug":"inspectionLogbook"
 		}
 	]
 }
