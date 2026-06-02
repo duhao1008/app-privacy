@@ -155,6 +155,21 @@
 				"es":"Libro de Sellos"
 			},
 			"slug":"cargoSealLedger"
+		},
+		{
+			"lastUpdated":"2026-06-02",
+			"appName":{
+				"de":"Paketlabel Masker",
+				"ru":"Маска накладных",
+				"ko":"운송장 마스커",
+				"pt":"Mascara Etiquetas",
+				"ja":"送り状マスカー",
+				"en":"Waybill Masker",
+				"fr":"Masque Etiquettes",
+				"zh":"面单打码",
+				"es":"Oculta Etiquetas"
+			},
+			"slug":"waybillMasker"
 		}
 	]
 }
