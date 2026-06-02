@@ -440,6 +440,21 @@
 				"es":"Registro de Herramientas"
 			},
 			"slug":"borrowedToolLedger"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Vernichtungsbuch",
+				"ru":"Журнал уничтожения",
+				"ko":"폐기대장",
+				"pt":"Livro de Destruição",
+				"ja":"廃棄台帳",
+				"en":"Destroy Ledger",
+				"fr":"Registre Destruction",
+				"zh":"销毁台账",
+				"es":"Registro de Destrucción"
+			},
+			"slug":"fileDestroyLedger"
 		}
 	]
 }
