@@ -605,6 +605,21 @@
 				"es":"Tabla Ritmo Natación"
 			},
 			"slug":"swimPaceKit"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Badminton Rotation",
+				"ru":"Ротация Бадминтон",
+				"ko":"배드민턴 로테이션",
+				"pt":"Rotação Badminton",
+				"ja":"バドミントンローテ",
+				"en":"Badminton Rotation",
+				"fr":"Rotation Badminton",
+				"zh":"羽球轮转",
+				"es":"Rotación Bádminton"
+			},
+			"slug":"badmintonRoundRobin"
 		}
 	]
 }
