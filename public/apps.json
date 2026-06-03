@@ -725,6 +725,21 @@
 				"es":"Registro Bowling"
 			},
 			"slug":"bowlingFrameBook"
+		},
+		{
+			"lastUpdated":"2026-06-04",
+			"appName":{
+				"de":"Baseball Scorebook",
+				"ru":"Счетчик бейсбола",
+				"ko":"야구 스코어북",
+				"pt":"Placar de Beisebol",
+				"ja":"野球スコアブック",
+				"en":"Baseball Scorebook",
+				"fr":"Scorebook Baseball",
+				"zh":"棒球记分本",
+				"es":"Anotador de Béisbol"
+			},
+			"slug":"baseballScorebook"
 		}
 	]
 }
