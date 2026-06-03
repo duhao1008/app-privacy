@@ -545,6 +545,21 @@
 				"es":"Número Objetivo"
 			},
 			"slug":"targetNumberDuel"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Bogenschießen Punkte",
+				"ru":"Счет Стрельбы",
+				"ko":"양궁 과녁 점수",
+				"pt":"Pontuação de Arco",
+				"ja":"アーチェリー採点",
+				"en":"Archery Target Score",
+				"fr":"Score Tir à l'Arc",
+				"zh":"箭靶记分",
+				"es":"Puntaje de Tiro"
+			},
+			"slug":"archeryScoreBook"
 		}
 	]
 }
