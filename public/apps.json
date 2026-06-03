@@ -500,6 +500,21 @@
 				"es":"Registro de Credenciales"
 			},
 			"slug":"credentialBorrowLog"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Materialbuch",
+				"ru":"Журнал Товаров",
+				"ko":"용품 장부",
+				"pt":"Livro de Suprimentos",
+				"ja":"用品台帳",
+				"en":"Supply Ledger",
+				"fr":"Registre Fournitures",
+				"zh":"用品台账",
+				"es":"Libro de Suministros"
+			},
+			"slug":"officeSupplyLedger"
 		}
 	]
 }
