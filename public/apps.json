@@ -575,6 +575,21 @@
 				"es":"Marcador Bádminton"
 			},
 			"slug":"badmintonScoreBoard"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Schwimmtempo Tabelle",
+				"ru":"Таблица темпа плавания",
+				"ko":"수영 페이스표",
+				"pt":"Tabela Ritmo Natação",
+				"ja":"水泳ペース表",
+				"en":"Swim Pace Board",
+				"fr":"Table Rythme Natation",
+				"zh":"泳配表",
+				"es":"Tabla Ritmo Natación"
+			},
+			"slug":"swimPaceBoard"
 		}
 	]
 }
