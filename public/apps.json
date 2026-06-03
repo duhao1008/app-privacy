@@ -665,6 +665,21 @@
 				"es":"Tabla Ritmo Natación"
 			},
 			"slug":"swimPaceDesk"
+		},
+		{
+			"lastUpdated":"2026-06-04",
+			"appName":{
+				"de":"Darts Zähler",
+				"ru":"Счетчик дартса",
+				"ko":"다트 점수판",
+				"pt":"Placar de Dardos",
+				"ja":"ダーツスコア",
+				"en":"Darts Score",
+				"fr":"Score Fléchettes",
+				"zh":"飞镖计分",
+				"es":"Marcador Dardos"
+			},
+			"slug":"dartScoreBoard"
 		}
 	]
 }
