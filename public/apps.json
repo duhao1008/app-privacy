@@ -515,6 +515,21 @@
 				"es":"Libro de Suministros"
 			},
 			"slug":"officeSupplyLedger"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Wartungsbuch",
+				"ru":"Журнал ТО",
+				"ko":"유지보수 대장",
+				"pt":"Livro de Manutenção",
+				"ja":"保守台帳",
+				"en":"Maintenance Ledger",
+				"fr":"Carnet de Maintenance",
+				"zh":"保养台账",
+				"es":"Registro de Mantenimiento"
+			},
+			"slug":"equipmentCareLedger"
 		}
 	]
 }
