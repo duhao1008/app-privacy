@@ -650,6 +650,21 @@
 				"es":"Registro Escalada"
 			},
 			"slug":"climbGradeLog"
+		},
+		{
+			"lastUpdated":"2026-06-04",
+			"appName":{
+				"de":"Schwimmtempo Tabelle",
+				"ru":"Таблица Темпа Плавания",
+				"ko":"수영 페이스표",
+				"pt":"Tabela Ritmo Natação",
+				"ja":"スイムペース表",
+				"en":"Swim Pace Desk",
+				"fr":"Table Rythme Natation",
+				"zh":"泳速表",
+				"es":"Tabla Ritmo Natación"
+			},
+			"slug":"swimPaceDesk"
 		}
 	]
 }
