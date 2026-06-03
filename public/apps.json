@@ -530,6 +530,21 @@
 				"es":"Registro de Mantenimiento"
 			},
 			"slug":"equipmentCareLedger"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Zielzahl Kopfrechnen",
+				"ru":"Целевое число",
+				"ko":"목표수 암산",
+				"pt":"Número Alvo",
+				"ja":"目標数暗算",
+				"en":"Target Number Math",
+				"fr":"Nombre Cible",
+				"zh":"目标数速算",
+				"es":"Número Objetivo"
+			},
+			"slug":"targetNumberDuel"
 		}
 	]
 }
