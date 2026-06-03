@@ -620,6 +620,21 @@
 				"es":"Rotación Bádminton"
 			},
 			"slug":"badmintonRoundRobin"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Langhantel Last",
+				"ru":"Вес штанги",
+				"ko":"바벨 중량",
+				"pt":"Carga de Barra",
+				"ja":"バーベル配重",
+				"en":"Barbell Load",
+				"fr":"Charge Barre",
+				"zh":"杠铃配重",
+				"es":"Carga de Barra"
+			},
+			"slug":"barbellLoadPlanner"
 		}
 	]
 }
