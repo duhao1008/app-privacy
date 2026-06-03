@@ -710,6 +710,21 @@
 				"es":"Marcador Ping Pong"
 			},
 			"slug":"pingPongScoreKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-04",
+			"appName":{
+				"de":"Bowling Punktebuch",
+				"ru":"Счет боулинга",
+				"ko":"볼링 점수 기록",
+				"pt":"Registro de Boliche",
+				"ja":"ボウリング記録",
+				"en":"Bowling Score Log",
+				"fr":"Carnet Bowling",
+				"zh":"保龄计分",
+				"es":"Registro Bowling"
+			},
+			"slug":"bowlingFrameBook"
 		}
 	]
 }
