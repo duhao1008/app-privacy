@@ -635,6 +635,21 @@
 				"es":"Carga de Barra"
 			},
 			"slug":"barbellLoadPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-04",
+			"appName":{
+				"de":"Kletterlog",
+				"ru":"Журнал Скалолаза",
+				"ko":"클라이밍 기록",
+				"pt":"Registro de Escalada",
+				"ja":"クライミング記録",
+				"en":"Climb Log",
+				"fr":"Carnet d'Escalade",
+				"zh":"攀岩记录",
+				"es":"Registro Escalada"
+			},
+			"slug":"climbGradeLog"
 		}
 	]
 }
