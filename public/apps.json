@@ -680,6 +680,21 @@
 				"es":"Marcador Dardos"
 			},
 			"slug":"dartScoreBoard"
+		},
+		{
+			"lastUpdated":"2026-06-04",
+			"appName":{
+				"de":"Volley Rotation",
+				"ru":"Ротация Волейбол",
+				"ko":"배구 로테이션",
+				"pt":"Rotação Vôlei",
+				"ja":"バレー ローテーション",
+				"en":"Volley Rotation",
+				"fr":"Rotation Volley",
+				"zh":"排球轮转",
+				"es":"Rotación Vóley"
+			},
+			"slug":"volleyRotationScore"
 		}
 	]
 }
