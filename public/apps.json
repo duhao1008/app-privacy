@@ -560,6 +560,21 @@
 				"es":"Puntaje de Tiro"
 			},
 			"slug":"archeryScoreBook"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Badminton Zähler",
+				"ru":"Счет Бадминтон",
+				"ko":"배드민턴 스코어",
+				"pt":"Placar Badminton",
+				"ja":"バドミントンスコア",
+				"en":"Badminton Score",
+				"fr":"Score Badminton",
+				"zh":"羽球记分",
+				"es":"Marcador Bádminton"
+			},
+			"slug":"badmintonScoreBoard"
 		}
 	]
 }
