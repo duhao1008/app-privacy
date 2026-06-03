@@ -485,6 +485,21 @@
 				"es":"Lista de Entrega"
 			},
 			"slug":"handoverListKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Ausweis-Leihbuch",
+				"ru":"Журнал документов",
+				"ko":"증서 대여 기록",
+				"pt":"Registro de Credenciais",
+				"ja":"証照貸出ログ",
+				"en":"Credential Borrow Log",
+				"fr":"Registre Identifiants",
+				"zh":"证照借用",
+				"es":"Registro de Credenciales"
+			},
+			"slug":"credentialBorrowLog"
 		}
 	]
 }
