@@ -470,6 +470,21 @@
 				"es":"Etiquetas Estante"
 			},
 			"slug":"shelfLabelKit"
+		},
+		{
+			"lastUpdated":"2026-06-03",
+			"appName":{
+				"de":"Übergabe Checkliste",
+				"ru":"Чек-лист передачи",
+				"ko":"인수인계 체크리스트",
+				"pt":"Lista de Passagem",
+				"ja":"引継ぎチェックリスト",
+				"en":"Handover List",
+				"fr":"Liste de Passation",
+				"zh":"交接清单",
+				"es":"Lista de Entrega"
+			},
+			"slug":"handoverListKeeper"
 		}
 	]
 }
