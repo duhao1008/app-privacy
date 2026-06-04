@@ -980,6 +980,21 @@
 				"es":"Registro de Perfumes"
 			},
 			"slug":"scentLogBook"
+		},
+		{
+			"lastUpdated":"2026-06-05",
+			"appName":{
+				"de":"Wolf Richter",
+				"ru":"Волк Судья",
+				"ko":"늑대 판정관",
+				"pt":"Juiz Lobo",
+				"ja":"ウルフ審判",
+				"en":"Wolf Judge",
+				"fr":"Juge Loup",
+				"zh":"狼法官",
+				"es":"Juez Lobo"
+			},
+			"slug":"werewolfJudgeKit"
 		}
 	]
 }
