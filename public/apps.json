@@ -905,6 +905,21 @@
 				"es":"Marcador Squash"
 			},
 			"slug":"squashScoreKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-05",
+			"appName":{
+				"de":"Disc Punkte",
+				"ru":"Счет Диск",
+				"ko":"디스크 스코어",
+				"pt":"Placar Disco",
+				"ja":"ディスクスコア",
+				"en":"Disc Score",
+				"fr":"Score Disque",
+				"zh":"飞盘记分",
+				"es":"Marcador Disco"
+			},
+			"slug":"discScoreBoard"
 		}
 	]
 }
