@@ -965,6 +965,21 @@
 				"es":"Tablero de Pistas"
 			},
 			"slug":"mysteryClueBoard"
+		},
+		{
+			"lastUpdated":"2026-06-05",
+			"appName":{
+				"de":"Parfum Logbuch",
+				"ru":"Журнал духов",
+				"ko":"향수 기록",
+				"pt":"Registro de Perfumes",
+				"ja":"香水記録",
+				"en":"Perfume Log",
+				"fr":"Journal de Parfums",
+				"zh":"香水记录",
+				"es":"Registro de Perfumes"
+			},
+			"slug":"scentLogBook"
 		}
 	]
 }
