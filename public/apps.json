@@ -890,6 +890,21 @@
 				"es":"Libro de Yardas Golf"
 			},
 			"slug":"golfYardageBook"
+		},
+		{
+			"lastUpdated":"2026-06-05",
+			"appName":{
+				"de":"Squash Punkte",
+				"ru":"Счет Сквош",
+				"ko":"스쿼시 점수",
+				"pt":"Placar Squash",
+				"ja":"スカッシュ得点",
+				"en":"Squash Score",
+				"fr":"Score Squash",
+				"zh":"壁球记分",
+				"es":"Marcador Squash"
+			},
+			"slug":"squashScoreKeeper"
 		}
 	]
 }
