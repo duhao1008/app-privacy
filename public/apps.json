@@ -770,6 +770,21 @@
 				"es":"Puntuacion Esgrima"
 			},
 			"slug":"fencingScorePad"
+		},
+		{
+			"lastUpdated":"2026-06-04",
+			"appName":{
+				"de":"Gangtabelle",
+				"ru":"Таблица передач",
+				"ko":"기어비표",
+				"pt":"Tabela de Marchas",
+				"ja":"ギア比表",
+				"en":"Gear Ratio Table",
+				"fr":"Table de Braquets",
+				"zh":"齿比表",
+				"es":"Tabla de Marchas"
+			},
+			"slug":"bikeGearCalc"
 		}
 	]
 }
