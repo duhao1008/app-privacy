@@ -950,6 +950,21 @@
 				"es":"Cálculo Cortinas"
 			},
 			"slug":"curtainSizeCalc"
+		},
+		{
+			"lastUpdated":"2026-06-05",
+			"appName":{
+				"de":"Hinweisbrett",
+				"ru":"Доска улик",
+				"ko":"단서 보드",
+				"pt":"Quadro de Pistas",
+				"ja":"手がかりボード",
+				"en":"Clue Board",
+				"fr":"Tableau d'Indices",
+				"zh":"线索板",
+				"es":"Tablero de Pistas"
+			},
+			"slug":"mysteryClueBoard"
 		}
 	]
 }
