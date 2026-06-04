@@ -845,6 +845,21 @@
 				"es":"Marcador de Billar"
 			},
 			"slug":"poolMatchLedger"
+		},
+		{
+			"lastUpdated":"2026-06-04",
+			"appName":{
+				"de":"Besaitungslog",
+				"ru":"Журнал Струн",
+				"ko":"스트링 기록",
+				"pt":"Registro de Cordas",
+				"ja":"ストリング記録",
+				"en":"Stringing Log",
+				"fr":"Carnet Cordage",
+				"zh":"穿线档案",
+				"es":"Registro de Cuerdas"
+			},
+			"slug":"racketStringLog"
 		}
 	]
 }
