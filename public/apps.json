@@ -815,6 +815,21 @@
 				"es":"Ritmo Triatlón"
 			},
 			"slug":"triSplitPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-04",
+			"appName":{
+				"de":"Mehrkampf Punkte",
+				"ru":"Очки многоборья",
+				"ko":"종합경기 점수",
+				"pt":"Pontuação Combinada",
+				"ja":"全能スコア",
+				"en":"All-Around Score",
+				"fr":"Score Combiné",
+				"zh":"全能评分",
+				"es":"Puntaje Combinado"
+			},
+			"slug":"trackCombinedScore"
 		}
 	]
 }
