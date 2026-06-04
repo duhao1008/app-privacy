@@ -920,6 +920,21 @@
 				"es":"Marcador Disco"
 			},
 			"slug":"discScoreBoard"
+		},
+		{
+			"lastUpdated":"2026-06-05",
+			"appName":{
+				"de":"Waschlabel Helfer",
+				"ru":"Помощник по ярлыкам",
+				"ko":"세탁 라벨 도우미",
+				"pt":"Ajuda Etiqueta Lavagem",
+				"ja":"洗濯表示ヘルパー",
+				"en":"Laundry Label Helper",
+				"fr":"Assistant Étiquette Linge",
+				"zh":"洗标助手",
+				"es":"Ayuda Etiqueta Lavado"
+			},
+			"slug":"laundryCareLabel"
 		}
 	]
 }
