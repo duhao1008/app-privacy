@@ -830,6 +830,21 @@
 				"es":"Puntaje Combinado"
 			},
 			"slug":"trackCombinedScore"
+		},
+		{
+			"lastUpdated":"2026-06-04",
+			"appName":{
+				"de":"Billard Spielstand",
+				"ru":"Счетчик бильярда",
+				"ko":"당구 스코어북",
+				"pt":"Placar de Bilhar",
+				"ja":"ビリヤード得点帳",
+				"en":"Pool Match Score",
+				"fr":"Score Billard",
+				"zh":"台球局分",
+				"es":"Marcador de Billar"
+			},
+			"slug":"poolMatchLedger"
 		}
 	]
 }
