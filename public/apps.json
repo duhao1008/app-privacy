@@ -785,6 +785,21 @@
 				"es":"Tabla de Marchas"
 			},
 			"slug":"bikeGearCalc"
+		},
+		{
+			"lastUpdated":"2026-06-04",
+			"appName":{
+				"de":"Snooker Punktestand",
+				"ru":"Счетчик снукера",
+				"ko":"스누커 점수판",
+				"pt":"Placar de Snooker",
+				"ja":"スヌーカー得点",
+				"en":"Snooker Score",
+				"fr":"Score Snooker",
+				"zh":"斯诺克记分",
+				"es":"Marcador Snooker"
+			},
+			"slug":"snookerScorePad"
 		}
 	]
 }
