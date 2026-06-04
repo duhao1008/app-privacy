@@ -935,6 +935,21 @@
 				"es":"Ayuda Etiqueta Lavado"
 			},
 			"slug":"laundryCareLabel"
+		},
+		{
+			"lastUpdated":"2026-06-05",
+			"appName":{
+				"de":"Vorhang Rechner",
+				"ru":"Расчет штор",
+				"ko":"커튼 치수 계산기",
+				"pt":"Cálculo de Cortinas",
+				"ja":"カーテン寸法計算",
+				"en":"CurtainCalc Offline",
+				"fr":"Calcul Rideaux",
+				"zh":"窗帘尺算",
+				"es":"Cálculo Cortinas"
+			},
+			"slug":"curtainSizeCalc"
 		}
 	]
 }
