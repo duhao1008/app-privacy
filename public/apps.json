@@ -755,6 +755,21 @@
 				"es":"Mapa de Tiros"
 			},
 			"slug":"shootingHeatmapLog"
+		},
+		{
+			"lastUpdated":"2026-06-04",
+			"appName":{
+				"de":"Fechten Punkte",
+				"ru":"Счет фехтования",
+				"ko":"펜싱 점수판",
+				"pt":"Placar de Esgrima",
+				"ja":"フェンシング採点",
+				"en":"Fencing Score",
+				"fr":"Score Escrime",
+				"zh":"击剑计分",
+				"es":"Puntuacion Esgrima"
+			},
+			"slug":"fencingScorePad"
 		}
 	]
 }
