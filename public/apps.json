@@ -860,6 +860,21 @@
 				"es":"Registro de Cuerdas"
 			},
 			"slug":"racketStringLog"
+		},
+		{
+			"lastUpdated":"2026-06-04",
+			"appName":{
+				"de":"Ruder Pace",
+				"ru":"Темп гребли",
+				"ko":"로잉 페이스",
+				"pt":"Ritmo de Remo",
+				"ja":"ローイングペース",
+				"en":"Row Pace",
+				"fr":"Allure Aviron",
+				"zh":"划船配速",
+				"es":"Ritmo de Remo"
+			},
+			"slug":"rowingPaceLog"
 		}
 	]
 }
