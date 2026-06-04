@@ -875,6 +875,21 @@
 				"es":"Ritmo de Remo"
 			},
 			"slug":"rowingPaceLog"
+		},
+		{
+			"lastUpdated":"2026-06-04",
+			"appName":{
+				"de":"Golf Yardage Buch",
+				"ru":"Гольф Ярдаж Блокнот",
+				"ko":"골프 거리 노트",
+				"pt":"Livro de Jardas Golf",
+				"ja":"ゴルフ距離ノート",
+				"en":"Golf Yardage Book",
+				"fr":"Carnet Yardage Golf",
+				"zh":"高尔夫码数本",
+				"es":"Libro de Yardas Golf"
+			},
+			"slug":"golfYardageBook"
 		}
 	]
 }
