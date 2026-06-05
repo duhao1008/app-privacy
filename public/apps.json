@@ -1025,6 +1025,21 @@
 				"es":"Cola Karaoke"
 			},
 			"slug":"karaokeQueueBook"
+		},
+		{
+			"lastUpdated":"2026-06-05",
+			"appName":{
+				"de":"Hochzeit Tür Karten",
+				"ru":"Свадебные карты",
+				"ko":"웨딩 문전 게임 카드",
+				"pt":"Cartas Porta Casamento",
+				"ja":"お迎えゲームカード",
+				"en":"Wedding Gate Cards",
+				"fr":"Cartes Porte Mariage",
+				"zh":"接亲游戏卡",
+				"es":"Cartas Boda Puerta"
+			},
+			"slug":"weddingGateCards"
 		}
 	]
 }
