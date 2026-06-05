@@ -995,6 +995,21 @@
 				"es":"Juez Lobo"
 			},
 			"slug":"werewolfJudgeKit"
+		},
+		{
+			"lastUpdated":"2026-06-05",
+			"appName":{
+				"de":"Bilderwand Planer",
+				"ru":"Планировщик рамок",
+				"ko":"액자 위치 잡기",
+				"pt":"Planejador de Quadros",
+				"ja":"壁掛け位置決め",
+				"en":"Frame Wall Planner",
+				"fr":"Plan Mur de Cadres",
+				"zh":"挂画定位",
+				"es":"Plan de Pared con Marcos"
+			},
+			"slug":"frameWallPlanner"
 		}
 	]
 }
