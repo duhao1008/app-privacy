@@ -1010,6 +1010,21 @@
 				"es":"Plan de Pared con Marcos"
 			},
 			"slug":"frameWallPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-05",
+			"appName":{
+				"de":"Karaoke Warteschlange",
+				"ru":"Очередь Караоке",
+				"ko":"노래방 대기열",
+				"pt":"Fila Karaoke",
+				"ja":"カラオケ順番リスト",
+				"en":"Karaoke Queue",
+				"fr":"File Karaoke",
+				"zh":"K歌队列",
+				"es":"Cola Karaoke"
+			},
+			"slug":"karaokeQueueBook"
 		}
 	]
 }
