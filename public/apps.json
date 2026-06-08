@@ -1040,6 +1040,21 @@
 				"es":"Cartas Boda Puerta"
 			},
 			"slug":"weddingGateCards"
+		},
+		{
+			"lastUpdated":"2026-06-08",
+			"appName":{
+				"de":"Gardinen Maßbuch",
+				"ru":"Размеры штор",
+				"ko":"커튼 치수 노트",
+				"pt":"Medidas de Cortinas",
+				"ja":"カーテン採寸ノート",
+				"en":"Curtain Measure Book",
+				"fr":"Mesures de Rideaux",
+				"zh":"窗帘尺本",
+				"es":"Medidas de Cortinas"
+			},
+			"slug":"curtainMeasureBook"
 		}
 	]
 }
