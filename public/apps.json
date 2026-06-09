@@ -1220,6 +1220,21 @@
 				"es":"Diario de Color de Uñas"
 			},
 			"slug":"nailColorJournal"
+		},
+		{
+			"lastUpdated":"2026-06-09",
+			"appName":{
+				"de":"Guandan Punkte",
+				"ru":"Счет Гуаньдань",
+				"ko":"관단 점수판",
+				"pt":"Pontuação Guandan",
+				"ja":"グァンダンスコア",
+				"en":"Guandan Score",
+				"fr":"Score Guandan",
+				"zh":"掼蛋计分",
+				"es":"Puntuación Guandan"
+			},
+			"slug":"guandanScoreKeeper"
 		}
 	]
 }
