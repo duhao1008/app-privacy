@@ -1175,6 +1175,21 @@
 				"es":"Escape Timer"
 			},
 			"slug":"escapePartyTimer"
+		},
+		{
+			"lastUpdated":"2026-06-09",
+			"appName":{
+				"de":"Camping Checkliste",
+				"ru":"Список для кемпинга",
+				"ko":"캠핑 준비물 체크리스트",
+				"pt":"Lista de Camping",
+				"ja":"キャンプ持ち物リスト",
+				"en":"Camping Checklist",
+				"fr":"Liste Camping",
+				"zh":"露营清单",
+				"es":"Lista de Camping"
+			},
+			"slug":"campGearList"
 		}
 	]
 }
