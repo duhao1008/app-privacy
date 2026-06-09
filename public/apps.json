@@ -1115,6 +1115,21 @@
 				"es":"Sorteo de Asientos"
 			},
 			"slug":"concertSeatPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-09",
+			"appName":{
+				"de":"Mystery Spielleiter",
+				"ru":"Ведущий Детектива",
+				"ko":"추리 진행자",
+				"pt":"Mestre de Mistério",
+				"ja":"推理ホスト",
+				"en":"Mystery Host",
+				"fr":"Maître Mystère",
+				"zh":"推理主持",
+				"es":"Anfitrión Misterio"
+			},
+			"slug":"partyMysteryHost"
 		}
 	]
 }
