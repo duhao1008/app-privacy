@@ -1190,6 +1190,21 @@
 				"es":"Lista de Camping"
 			},
 			"slug":"campGearList"
+		},
+		{
+			"lastUpdated":"2026-06-09",
+			"appName":{
+				"de":"Con Planer",
+				"ru":"Планер Конвента",
+				"ko":"행사 체크노트",
+				"pt":"Planejador de Evento",
+				"ja":"イベント巡回ノート",
+				"en":"Con Planner",
+				"fr":"Planificateur Con",
+				"zh":"逛展本",
+				"es":"Planificador Con"
+			},
+			"slug":"comicConPlanner"
 		}
 	]
 }
