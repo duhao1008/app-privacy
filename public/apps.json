@@ -1100,6 +1100,21 @@
 				"es":"Regla de Alfombras"
 			},
 			"slug":"rugSizePlanner"
+		},
+		{
+			"lastUpdated":"2026-06-09",
+			"appName":{
+				"de":"Sitzplatz Los",
+				"ru":"Жребий Мест",
+				"ko":"자리 뽑기",
+				"pt":"Sorteio de Lugares",
+				"ja":"席くじ",
+				"en":"Seat Draw",
+				"fr":"Tirage de Places",
+				"zh":"座位抽签",
+				"es":"Sorteo de Asientos"
+			},
+			"slug":"concertSeatPlanner"
 		}
 	]
 }
