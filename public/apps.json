@@ -1235,6 +1235,21 @@
 				"es":"Puntuación Guandan"
 			},
 			"slug":"guandanScoreKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-10",
+			"appName":{
+				"de":"Stromkosten Zuhause",
+				"ru":"Расходы на свет",
+				"ko":"가전 전기요금",
+				"pt":"Custo Luz Casa",
+				"ja":"家電電気代",
+				"en":"Home Power Cost",
+				"fr":"Coût Élec Maison",
+				"zh":"家电电费",
+				"es":"Costo Luz Hogar"
+			},
+			"slug":"homePowerCost"
 		}
 	]
 }
