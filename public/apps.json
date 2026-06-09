@@ -1085,6 +1085,21 @@
 				"es":"Regla de Riego"
 			},
 			"slug":"plantWaterMeter"
+		},
+		{
+			"lastUpdated":"2026-06-09",
+			"appName":{
+				"de":"Teppich Lineal",
+				"ru":"Линейка ковров",
+				"ko":"러그 자",
+				"pt":"Régua de Tapetes",
+				"ja":"ラグ定規",
+				"en":"Rug Ruler",
+				"fr":"Règle de Tapis",
+				"zh":"地毯尺",
+				"es":"Regla de Alfombras"
+			},
+			"slug":"rugSizePlanner"
 		}
 	]
 }
