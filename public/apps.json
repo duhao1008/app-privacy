@@ -1130,6 +1130,21 @@
 				"es":"Anfitrión Misterio"
 			},
 			"slug":"partyMysteryHost"
+		},
+		{
+			"lastUpdated":"2026-06-09",
+			"appName":{
+				"de":"Pour Over Notizen",
+				"ru":"Заметки о Пуровере",
+				"ko":"핸드드립 노트",
+				"pt":"Notas de Café Coado",
+				"ja":"ハンドドリップノート",
+				"en":"Pour Over Notes",
+				"fr":"Notes de Café Filtre",
+				"zh":"手冲笔记",
+				"es":"Notas de Café Filtrado"
+			},
+			"slug":"brewNote"
 		}
 	]
 }
