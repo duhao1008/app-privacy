@@ -1160,6 +1160,21 @@
 				"es":"Gestor de Filtros"
 			},
 			"slug":"filterCycleKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-09",
+			"appName":{
+				"de":"Escape Timer",
+				"ru":"Escape Timer",
+				"ko":"방탈출 타이머",
+				"pt":"Escape Timer",
+				"ja":"脱出タイマー",
+				"en":"Escape Timer",
+				"fr":"Escape Timer",
+				"zh":"密室计时",
+				"es":"Escape Timer"
+			},
+			"slug":"escapePartyTimer"
 		}
 	]
 }
