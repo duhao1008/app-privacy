@@ -1250,6 +1250,21 @@
 				"es":"Costo Luz Hogar"
 			},
 			"slug":"homePowerCost"
+		},
+		{
+			"lastUpdated":"2026-06-10",
+			"appName":{
+				"de":"Rollen Ziehen",
+				"ru":"Жеребьевка ролей",
+				"ko":"역할 추첨",
+				"pt":"Sorteio de Papéis",
+				"ja":"役割抽選",
+				"en":"Role Draw",
+				"fr":"Tirage de Rôles",
+				"zh":"角色抽签",
+				"es":"Sorteo de Roles"
+			},
+			"slug":"partyRoleDraft"
 		}
 	]
 }
