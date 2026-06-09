@@ -1280,6 +1280,21 @@
 				"es":"Cartas de Castigo"
 			},
 			"slug":"partyPunishCards"
+		},
+		{
+			"lastUpdated":"2026-06-10",
+			"appName":{
+				"de":"Groessen Pocket",
+				"ru":"Размеры в кармане",
+				"ko":"사이즈 노트",
+				"pt":"Tamanhos de Bolso",
+				"ja":"サイズ手帳",
+				"en":"Size Fit Pocket",
+				"fr":"Tailles de Poche",
+				"zh":"尺码助手",
+				"es":"Tallas de Bolsillo"
+			},
+			"slug":"sizeFitPocket"
 		}
 	]
 }
