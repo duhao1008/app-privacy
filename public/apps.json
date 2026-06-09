@@ -1145,6 +1145,21 @@
 				"es":"Notas de Café Filtrado"
 			},
 			"slug":"brewNote"
+		},
+		{
+			"lastUpdated":"2026-06-09",
+			"appName":{
+				"de":"Filter Manager",
+				"ru":"Менеджер фильтров",
+				"ko":"필터 관리",
+				"pt":"Gestor de Filtros",
+				"ja":"フィルター管理",
+				"en":"Filter Keeper",
+				"fr":"Gestion Filtres",
+				"zh":"滤芯管家",
+				"es":"Gestor de Filtros"
+			},
+			"slug":"filterCycleKeeper"
 		}
 	]
 }
