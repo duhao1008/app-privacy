@@ -1295,6 +1295,21 @@
 				"es":"Tallas de Bolsillo"
 			},
 			"slug":"sizeFitPocket"
+		},
+		{
+			"lastUpdated":"2026-06-10",
+			"appName":{
+				"de":"Brettspiel Punkte",
+				"ru":"Очки Настолок",
+				"ko":"보드게임 점수",
+				"pt":"Pontuação Mesa",
+				"ja":"ボードゲーム得点",
+				"en":"Board Score",
+				"fr":"Score Jeux de Table",
+				"zh":"桌游计分",
+				"es":"Puntuación Mesa"
+			},
+			"slug":"boardScoreKeeper"
 		}
 	]
 }
