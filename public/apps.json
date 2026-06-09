@@ -1265,6 +1265,21 @@
 				"es":"Sorteo de Roles"
 			},
 			"slug":"partyRoleDraft"
+		},
+		{
+			"lastUpdated":"2026-06-10",
+			"appName":{
+				"de":"Strafkarten",
+				"ru":"Карты наказаний",
+				"ko":"벌칙 카드",
+				"pt":"Cartas de Castigo",
+				"ja":"罰ゲームカード",
+				"en":"Penalty Cards",
+				"fr":"Cartes de Gage",
+				"zh":"惩罚卡",
+				"es":"Cartas de Castigo"
+			},
+			"slug":"partyPunishCards"
 		}
 	]
 }
