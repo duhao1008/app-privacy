@@ -1070,6 +1070,21 @@
 				"es":"Haz 100 Rápido"
 			},
 			"slug":"fastMake100"
+		},
+		{
+			"lastUpdated":"2026-06-09",
+			"appName":{
+				"de":"Gießmaß",
+				"ru":"Линейка полива",
+				"ko":"물주기 자",
+				"pt":"Régua de Rega",
+				"ja":"水やり定規",
+				"en":"Water Ruler",
+				"fr":"Règle d'Arrosage",
+				"zh":"浇水尺",
+				"es":"Regla de Riego"
+			},
+			"slug":"plantWaterMeter"
 		}
 	]
 }
