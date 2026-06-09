@@ -1205,6 +1205,21 @@
 				"es":"Planificador Con"
 			},
 			"slug":"comicConPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-09",
+			"appName":{
+				"de":"Nagelfarben Tagebuch",
+				"ru":"Дневник Цветов Ногтей",
+				"ko":"네일 컬러 다이어리",
+				"pt":"Diário de Cores de Unha",
+				"ja":"ネイル色手",
+				"en":"Nail Color Journal",
+				"fr":"Journal Couleurs Ongles",
+				"zh":"甲色手账",
+				"es":"Diario de Color de Uñas"
+			},
+			"slug":"nailColorJournal"
 		}
 	]
 }
