@@ -1055,6 +1055,21 @@
 				"es":"Medidas de Cortinas"
 			},
 			"slug":"curtainMeasureBook"
+		},
+		{
+			"lastUpdated":"2026-06-09",
+			"appName":{
+				"de":"Schnell 100 Bilden",
+				"ru":"Быстро Сделай 100",
+				"ko":"빠른 100 만들기",
+				"pt":"Faça 100 Rápido",
+				"ja":"すぐ作る100",
+				"en":"Quick Make 100",
+				"fr":"Faire 100 Vite",
+				"zh":"速凑100",
+				"es":"Haz 100 Rápido"
+			},
+			"slug":"fastMake100"
 		}
 	]
 }
