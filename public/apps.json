@@ -1430,6 +1430,21 @@
 				"es":"Registro Acuario"
 			},
 			"slug":"aquariumCareLog"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Serien Notizen",
+				"ru":"Заметки о сериалах",
+				"ko":"드라마 노트",
+				"pt":"Notas de Séries",
+				"ja":"ドラマノート",
+				"en":"Drama Notes",
+				"fr":"Notes de Séries",
+				"zh":"追剧笔记",
+				"es":"Notas de Series"
+			},
+			"slug":"dramaTrace"
 		}
 	]
 }
