@@ -1445,6 +1445,21 @@
 				"es":"Notas de Series"
 			},
 			"slug":"dramaTrace"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Stecker Reise",
+				"ru":"Розетки в путь",
+				"ko":"플러그여행",
+				"pt":"Plug de Viagem",
+				"ja":"プラグ旅",
+				"en":"PlugGo",
+				"fr":"Prise Voyage",
+				"zh":"插电通",
+				"es":"Enchufe Viaje"
+			},
+			"slug":"travelPlugVoltage"
 		}
 	]
 }
