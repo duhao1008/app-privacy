@@ -1460,6 +1460,21 @@
 				"es":"Enchufe Viaje"
 			},
 			"slug":"travelPlugVoltage"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Serien Hinweise",
+				"ru":"Улики сериалов",
+				"ko":"드라마 단서",
+				"pt":"Pistas de Séries",
+				"ja":"ドラマ手がかり",
+				"en":"Drama Clues",
+				"fr":"Indices de Séries",
+				"zh":"追剧线索",
+				"es":"Pistas de Series"
+			},
+			"slug":"dramaThreadNotes"
 		}
 	]
 }
