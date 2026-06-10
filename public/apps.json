@@ -1475,6 +1475,21 @@
 				"es":"Pistas de Series"
 			},
 			"slug":"dramaThreadNotes"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Zaehlerbuch",
+				"ru":"Журнал счетчиков",
+				"ko":"검침 장부",
+				"pt":"Livro de Medidores",
+				"ja":"検針台帳",
+				"en":"Meter Bill Ledger",
+				"fr":"Carnet de Compteurs",
+				"zh":"抄表账本",
+				"es":"Libro de Medidores"
+			},
+			"slug":"meterBillLedger"
 		}
 	]
 }
