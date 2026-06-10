@@ -1325,6 +1325,21 @@
 				"es":"Agenda de Festival"
 			},
 			"slug":"filmFestPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-10",
+			"appName":{
+				"de":"Saison-Kleiderschrank",
+				"ru":"Сезонный Гардероб",
+				"ko":"옷장 계절정리",
+				"pt":"Guarda-Roupa Sazonal",
+				"ja":"衣替えクローゼット",
+				"en":"Wardrobe Season Kit",
+				"fr":"Armoire de Saison",
+				"zh":"衣橱换季",
+				"es":"Armario por Temporada"
+			},
+			"slug":"wardrobeSeasonKit"
 		}
 	]
 }
