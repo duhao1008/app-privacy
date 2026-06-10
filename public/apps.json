@@ -1340,6 +1340,21 @@
 				"es":"Armario por Temporada"
 			},
 			"slug":"wardrobeSeasonKit"
+		},
+		{
+			"lastUpdated":"2026-06-10",
+			"appName":{
+				"de":"Fanplaner",
+				"ru":"Фан-блокнот",
+				"ko":"응원노트",
+				"pt":"Caderno Fan",
+				"ja":"応援ノート",
+				"en":"Cheerbook",
+				"fr":"Carnet Fan",
+				"zh":"应援本",
+				"es":"Cuaderno Fan"
+			},
+			"slug":"concertCheerKit"
 		}
 	]
 }
