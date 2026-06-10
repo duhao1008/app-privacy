@@ -1370,6 +1370,21 @@
 				"es":"Bolsa de Parto"
 			},
 			"slug":"birthBagChecklist"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Escape Room Notizbuch",
+				"ru":"Журнал квест-комнат",
+				"ko":"방탈출 복기 노트",
+				"pt":"Diário Escape Room",
+				"ja":"脱出ゲーム復盤ノート",
+				"en":"Escape Review Log",
+				"fr":"Carnet Escape Room",
+				"zh":"密室复盘",
+				"es":"Registro Escape Room"
+			},
+			"slug":"escapeRoomScorebook"
 		}
 	]
 }
