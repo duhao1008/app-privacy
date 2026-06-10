@@ -1355,6 +1355,21 @@
 				"es":"Cuaderno Fan"
 			},
 			"slug":"concertCheerKit"
+		},
+		{
+			"lastUpdated":"2026-06-10",
+			"appName":{
+				"de":"Kliniktasche Liste",
+				"ru":"Сумка в роддом",
+				"ko":"출산가방 체크리스트",
+				"pt":"Bolsa Maternidade",
+				"ja":"入院バッグリスト",
+				"en":"Birth Bag List",
+				"fr":"Valise Maternité",
+				"zh":"待产清单",
+				"es":"Bolsa de Parto"
+			},
+			"slug":"birthBagChecklist"
 		}
 	]
 }
