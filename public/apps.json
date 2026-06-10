@@ -1415,6 +1415,21 @@
 				"es":"Vista de Asientos"
 			},
 			"slug":"concertSeatNotes"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Aquarium Pflege Log",
+				"ru":"Журнал аквариума",
+				"ko":"어항 케어 로그",
+				"pt":"Registro Aquário",
+				"ja":"水槽ケアログ",
+				"en":"Aquarium Care Log",
+				"fr":"Journal Aquarium",
+				"zh":"鱼缸管家",
+				"es":"Registro Acuario"
+			},
+			"slug":"aquariumCareLog"
 		}
 	]
 }
