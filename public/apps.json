@@ -1400,6 +1400,21 @@
 				"es":"Medidor de Mosquiteras"
 			},
 			"slug":"screenMeshSizer"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Sitzplatz Sicht",
+				"ru":"Вид с места",
+				"ko":"좌석 시야 노트",
+				"pt":"Vista do Assento",
+				"ja":"座席ビュー記録",
+				"en":"Seat View Notes",
+				"fr":"Vue de Siège",
+				"zh":"座位视野",
+				"es":"Vista de Asientos"
+			},
+			"slug":"concertSeatNotes"
 		}
 	]
 }
