@@ -1385,6 +1385,21 @@
 				"es":"Registro Escape Room"
 			},
 			"slug":"escapeRoomScorebook"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Fliegengitter Maß",
+				"ru":"Замер Москитных Сеток",
+				"ko":"방충망 실측",
+				"pt":"Medidor de Mosquiteiros",
+				"ja":"網戸採寸",
+				"en":"Screen Mesh Sizer",
+				"fr":"Mesure Moustiquaire",
+				"zh":"纱窗量尺",
+				"es":"Medidor de Mosquiteras"
+			},
+			"slug":"screenMeshSizer"
 		}
 	]
 }
