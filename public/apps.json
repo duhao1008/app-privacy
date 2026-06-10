@@ -1310,6 +1310,21 @@
 				"es":"Puntuación Mesa"
 			},
 			"slug":"boardScoreKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-10",
+			"appName":{
+				"de":"Festival Planer",
+				"ru":"План Кинофестиваля",
+				"ko":"영화제 일정",
+				"pt":"Agenda de Festival",
+				"ja":"映画祭スケジュール",
+				"en":"Fest Schedule",
+				"fr":"Agenda Festival",
+				"zh":"影展排片",
+				"es":"Agenda de Festival"
+			},
+			"slug":"filmFestPlanner"
 		}
 	]
 }
