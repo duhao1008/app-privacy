@@ -1730,6 +1730,21 @@
 				"es":"Marcador Judo"
 			},
 			"slug":"judoScoreTimer"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Brettspielabend",
+				"ru":"Вечер Настолок",
+				"ko":"보드게임 나이트",
+				"pt":"Noite de Jogos",
+				"ja":"ボードゲームナイト",
+				"en":"Board Game Night",
+				"fr":"Soiree Jeux",
+				"zh":"桌游夜",
+				"es":"Noche de Juegos"
+			},
+			"slug":"boardGameNightKeeper"
 		}
 	]
 }
