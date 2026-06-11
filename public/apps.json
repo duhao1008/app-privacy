@@ -1580,6 +1580,21 @@
 				"es":"Lens Keeper"
 			},
 			"slug":"contactLensKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Pickleball Zähler",
+				"ru":"Счетчик пиклбола",
+				"ko":"피클볼 점수판",
+				"pt":"Placar Pickleball",
+				"ja":"ピックルボール得点",
+				"en":"Pickleball Score",
+				"fr":"Score Pickleball",
+				"zh":"匹克球计分",
+				"es":"Marcador Pickleball"
+			},
+			"slug":"pickleballScorebook"
 		}
 	]
 }
