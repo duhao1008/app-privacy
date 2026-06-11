@@ -1655,6 +1655,21 @@
 				"es":"Cartas de Impro"
 			},
 			"slug":"improvPromptCards"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Fugen Rechner",
+				"ru":"Расчет затирки",
+				"ko":"줄눈 계산",
+				"pt":"Cálculo de Rejunte",
+				"ja":"目地計算",
+				"en":"Grout Calc",
+				"fr":"Calcul de Joints",
+				"zh":"美缝计算",
+				"es":"Cálculo de Juntas"
+			},
+			"slug":"groutMate"
 		}
 	]
 }
