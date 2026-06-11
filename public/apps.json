@@ -1535,6 +1535,21 @@
 				"es":"Caja Ordenada"
 			},
 			"slug":"downsizeChecklist"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Schwimmtempo Log",
+				"ru":"Темп Плавания",
+				"ko":"수영 페이스 기록",
+				"pt":"Ritmo de Natação",
+				"ja":"スイムペース記録",
+				"en":"Swim Pace Log",
+				"fr":"Allure Natation",
+				"zh":"泳速表",
+				"es":"Ritmo Natación"
+			},
+			"slug":"swimPacePlanner"
 		}
 	]
 }
