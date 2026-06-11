@@ -1790,6 +1790,21 @@
 				"es":"Diseño de Pancartas Fan"
 			},
 			"slug":"fanBannerPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Passepartout Maß",
+				"ru":"Размер паспарту",
+				"ko":"매트보드 액자",
+				"pt":"Medidor de Passepartout",
+				"ja":"マット装框",
+				"en":"Mat Board Sizer",
+				"fr":"Mesure Passe-Partout",
+				"zh":"卡纸装框",
+				"es":"Medidor de Paspartú"
+			},
+			"slug":"matBoardSizer"
 		}
 	]
 }
