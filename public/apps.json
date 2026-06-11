@@ -1565,6 +1565,21 @@
 				"es":"Estante Blind Box"
 			},
 			"slug":"blindBoxShelf"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Lens Keeper",
+				"ru":"Lens Keeper",
+				"ko":"렌즈 키퍼",
+				"pt":"Lens Keeper",
+				"ja":"レンズ管理帳",
+				"en":"Lens Keeper",
+				"fr":"Lens Keeper",
+				"zh":"镜片管家",
+				"es":"Lens Keeper"
+			},
+			"slug":"contactLensKeeper"
 		}
 	]
 }
