@@ -1610,6 +1610,21 @@
 				"es":"Vista de Asientos"
 			},
 			"slug":"concertSeatDiary"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Mietcheck",
+				"ru":"Проверка аренды",
+				"ko":"임대 점검",
+				"pt":"Vistoria Aluguel",
+				"ja":"賃貸チェック",
+				"en":"Rental Check",
+				"fr":"État des Lieux",
+				"zh":"租房验房",
+				"es":"Revisión Alquiler"
+			},
+			"slug":"rentalCheckMate"
 		}
 	]
 }
