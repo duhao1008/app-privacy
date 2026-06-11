@@ -1775,6 +1775,21 @@
 				"es":"Marcador de Tenis"
 			},
 			"slug":"tennisScoreBook"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Fanbanner Layout",
+				"ru":"Макет фан-баннера",
+				"ko":"응원 배너 편집",
+				"pt":"Layout de Banner Fan",
+				"ja":"応援バナー編集",
+				"en":"Fan Banner Layout",
+				"fr":"Mise en page Fan Banner",
+				"zh":"手幅排版",
+				"es":"Diseño de Pancartas Fan"
+			},
+			"slug":"fanBannerPlanner"
 		}
 	]
 }
