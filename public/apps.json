@@ -1670,6 +1670,21 @@
 				"es":"Cálculo de Juntas"
 			},
 			"slug":"groutMate"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Ski Pflege Log",
+				"ru":"Уход за лыжами",
+				"ko":"스키 보드 관리 기록",
+				"pt":"Registro de Esquis",
+				"ja":"スキー板メンテ記録",
+				"en":"Board Care Log",
+				"fr":"Carnet Entretien Ski",
+				"zh":"雪板养护",
+				"es":"Registro de Esquís"
+			},
+			"slug":"skiTuneLog"
 		}
 	]
 }
