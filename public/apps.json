@@ -1550,6 +1550,21 @@
 				"es":"Ritmo Natación"
 			},
 			"slug":"swimPacePlanner"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Blind Box Regal",
+				"ru":"Полка Blind Box",
+				"ko":"블라인드박스 선반",
+				"pt":"Estante Blind Box",
+				"ja":"ブラインドBOX棚",
+				"en":"Blind Box Shelf",
+				"fr":"Étagère Blind Box",
+				"zh":"盲盒柜",
+				"es":"Estante Blind Box"
+			},
+			"slug":"blindBoxShelf"
 		}
 	]
 }
