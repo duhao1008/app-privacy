@@ -1745,6 +1745,21 @@
 				"es":"Noche de Juegos"
 			},
 			"slug":"boardGameNightKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Hochzeitssitze",
+				"ru":"Свадебные места",
+				"ko":"웨딩 좌석",
+				"pt":"Assentos de Casamento",
+				"ja":"結婚式席次",
+				"en":"Wedding Seats",
+				"fr":"Places de Mariage",
+				"zh":"婚宴座位",
+				"es":"Asientos de Boda"
+			},
+			"slug":"weddingSeatPlanner"
 		}
 	]
 }
