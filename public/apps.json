@@ -1520,6 +1520,21 @@
 				"es":"Puntos Mahjong"
 			},
 			"slug":"mahjongScoreKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Ausmist Box",
+				"ru":"Коробка порядка",
+				"ko":"비움 박스",
+				"pt":"Caixa Desapego",
+				"ja":"断捨離ボックス",
+				"en":"Declutter Box",
+				"fr":"Boîte Tri Maison",
+				"zh":"断舍离盒",
+				"es":"Caja Ordenada"
+			},
+			"slug":"downsizeChecklist"
 		}
 	]
 }
