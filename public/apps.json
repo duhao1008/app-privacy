@@ -1685,6 +1685,21 @@
 				"es":"Registro de Esquís"
 			},
 			"slug":"skiTuneLog"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Filmmarathon",
+				"ru":"Киномарафон",
+				"ko":"영화 마라톤",
+				"pt":"Maratona de Filmes",
+				"ja":"映画マラソン",
+				"en":"Movie Marathon",
+				"fr":"Marathon Cinéma",
+				"zh":"电影马拉松",
+				"es":"Maratón de Cine"
+			},
+			"slug":"movieMarathonPlanner"
 		}
 	]
 }
