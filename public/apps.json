@@ -1760,6 +1760,21 @@
 				"es":"Asientos de Boda"
 			},
 			"slug":"weddingSeatPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Tennis Zähltafel",
+				"ru":"Теннисный счет",
+				"ko":"테니스 스코어북",
+				"pt":"Placar de Tênis",
+				"ja":"テニススコアブック",
+				"en":"Tennis Scorebook",
+				"fr":"Score Tennis",
+				"zh":"网球记分",
+				"es":"Marcador de Tenis"
+			},
+			"slug":"tennisScoreBook"
 		}
 	]
 }
