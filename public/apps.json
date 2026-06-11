@@ -1505,6 +1505,21 @@
 				"es":"Marcador Taekwondo"
 			},
 			"slug":"taekwondoScorePad"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Mahjong Punkte",
+				"ru":"Очки Маджонг",
+				"ko":"마작 점수 기록",
+				"pt":"Pontos Mahjong",
+				"ja":"麻雀点数メモ",
+				"en":"Mahjong Score Log",
+				"fr":"Points Mahjong",
+				"zh":"麻将记番",
+				"es":"Puntos Mahjong"
+			},
+			"slug":"mahjongScoreKeeper"
 		}
 	]
 }
