@@ -1640,6 +1640,21 @@
 				"es":"Registro Pesca Lure"
 			},
 			"slug":"lureCatchLog"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Impro-Karten",
+				"ru":"Карты импровизации",
+				"ko":"즉흥 프롬프트 카드",
+				"pt":"Cartas de Improviso",
+				"ja":"即興プロンプトカード",
+				"en":"Improv Prompt Cards",
+				"fr":"Cartes d'Impro",
+				"zh":"即兴题卡",
+				"es":"Cartas de Impro"
+			},
+			"slug":"improvPromptCards"
 		}
 	]
 }
