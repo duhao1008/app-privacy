@@ -1490,6 +1490,21 @@
 				"es":"Libro de Medidores"
 			},
 			"slug":"meterBillLedger"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Taekwondo Punkte",
+				"ru":"Счет тхэквондо",
+				"ko":"태권도 점수판",
+				"pt":"Placar Taekwondo",
+				"ja":"コンドー採点",
+				"en":"Taekwondo Score",
+				"fr":"Score Taekwondo",
+				"zh":"跆拳道计分",
+				"es":"Marcador Taekwondo"
+			},
+			"slug":"taekwondoScorePad"
 		}
 	]
 }
