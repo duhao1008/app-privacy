@@ -1595,6 +1595,21 @@
 				"es":"Marcador Pickleball"
 			},
 			"slug":"pickleballScorebook"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Sitzsicht Notizen",
+				"ru":"Вид с места",
+				"ko":"좌석 시야 기록",
+				"pt":"Vista de Assentos",
+				"ja":"座席ビュー記録",
+				"en":"Seat View Log",
+				"fr":"Vue de Siège",
+				"zh":"座位视野",
+				"es":"Vista de Asientos"
+			},
+			"slug":"concertSeatDiary"
 		}
 	]
 }
