@@ -1835,6 +1835,21 @@
 				"es":"Armario de Muñecas"
 			},
 			"slug":"cottonDollCloset"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Ehegelübde Karte",
+				"ru":"Карточка клятв",
+				"ko":"서약 카드",
+				"pt":"Carto de Votos",
+				"ja":"誓いカード",
+				"en":"Vow Card",
+				"fr":"Carte de Voeux",
+				"zh":"誓词卡",
+				"es":"Tarjeta de Votos"
+			},
+			"slug":"weddingVowCard"
 		}
 	]
 }
