@@ -1715,6 +1715,21 @@
 				"es":"Medidor de Film"
 			},
 			"slug":"windowFilmPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Judo Punktzahl",
+				"ru":"Счет Дзюдо",
+				"ko":"유도 점수",
+				"pt":"Placar Judô",
+				"ja":"柔道スコア",
+				"en":"Judo Score",
+				"fr":"Score Judo",
+				"zh":"柔道计分",
+				"es":"Marcador Judo"
+			},
+			"slug":"judoScoreTimer"
 		}
 	]
 }
