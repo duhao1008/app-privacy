@@ -1625,6 +1625,21 @@
 				"es":"Revisión Alquiler"
 			},
 			"slug":"rentalCheckMate"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Lure Fangbuch",
+				"ru":"Журнал Lure Рыбалки",
+				"ko":"루어 조과 로그",
+				"pt":"Diário Pesca Lure",
+				"ja":"ルアー釣果ログ",
+				"en":"Lure Catch Log",
+				"fr":"Carnet Pêche Lure",
+				"zh":"路亚鱼获",
+				"es":"Registro Pesca Lure"
+			},
+			"slug":"lureCatchLog"
 		}
 	]
 }
