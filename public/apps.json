@@ -1700,6 +1700,21 @@
 				"es":"Maratón de Cine"
 			},
 			"slug":"movieMarathonPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-11",
+			"appName":{
+				"de":"Folienmaß",
+				"ru":"Расчет пленки",
+				"ko":"필름 치수계산",
+				"pt":"Medidor de Película",
+				"ja":"フィルム採寸",
+				"en":"Film Measure",
+				"fr":"Mesure Film",
+				"zh":"贴膜尺算",
+				"es":"Medidor de Film"
+			},
+			"slug":"windowFilmPlanner"
 		}
 	]
 }
