@@ -1805,6 +1805,21 @@
 				"es":"Medidor de Paspartú"
 			},
 			"slug":"matBoardSizer"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Bogen Tuning Log",
+				"ru":"Журнал настройки лука",
+				"ko":"활 튜닝 기록",
+				"pt":"Registro do Arco",
+				"ja":"弓調整ログ",
+				"en":"Bow Tune Log",
+				"fr":"Carnet Arc Tuning",
+				"zh":"弓调记录",
+				"es":"Registro de Arco"
+			},
+			"slug":"archeryTuneLog"
 		}
 	]
 }
