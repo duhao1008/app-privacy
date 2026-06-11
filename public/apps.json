@@ -1820,6 +1820,21 @@
 				"es":"Registro de Arco"
 			},
 			"slug":"archeryTuneLog"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Puppen Kleiderschrank",
+				"ru":"Шкаф кукол",
+				"ko":"인형 옷장",
+				"pt":"Armário de Bonecas",
+				"ja":"ぬいクローゼット",
+				"en":"Doll Closet",
+				"fr":"Armoire de Poupées",
+				"zh":"娃柜",
+				"es":"Armario de Muñecas"
+			},
+			"slug":"cottonDollCloset"
 		}
 	]
 }
