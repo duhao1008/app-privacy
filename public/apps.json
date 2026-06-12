@@ -2030,6 +2030,21 @@
 				"es":"Diario de Té"
 			},
 			"slug":"teaBrewKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Asset-Etiketten",
+				"ru":"Метки активов",
+				"ko":"자산 라벨",
+				"pt":"Etiquetas de Ativos",
+				"ja":"資産ラベル",
+				"en":"Asset Tags",
+				"fr":"Étiquettes d’actifs",
+				"zh":"资产标签",
+				"es":"Etiquetas de activos"
+			},
+			"slug":"assetLabelBinder"
 		}
 	]
 }
