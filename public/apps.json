@@ -1880,6 +1880,21 @@
 				"es":"Conteo de Lanzamientos"
 			},
 			"slug":"pitchCountLog"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Filmabend",
+				"ru":"Киновечер",
+				"ko":"무비 나이트",
+				"pt":"Noite de Cinema",
+				"ja":"映画ナイト",
+				"en":"Movie Night",
+				"fr":"Soirée Ciné",
+				"zh":"电影夜",
+				"es":"Noche de Cine"
+			},
+			"slug":"movieNightPicker"
 		}
 	]
 }
