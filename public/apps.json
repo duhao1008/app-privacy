@@ -2015,6 +2015,21 @@
 				"es":"Ayudante de Escaleras"
 			},
 			"slug":"stairStepCalc"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Tee Journal",
+				"ru":"Чайный журнал",
+				"ko":"차 기록",
+				"pt":"Diário de Chá",
+				"ja":"茶ログ",
+				"en":"Tea Log",
+				"fr":"Carnet de Thé",
+				"zh":"茶记",
+				"es":"Diario de Té"
+			},
+			"slug":"teaBrewKeeper"
 		}
 	]
 }
