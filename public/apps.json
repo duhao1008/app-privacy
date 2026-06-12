@@ -2000,6 +2000,21 @@
 				"es":"Presión Bici"
 			},
 			"slug":"bikeTirePressureCalc"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Treppenhelfer",
+				"ru":"Помощник Лестниц",
+				"ko":"계단 도우미",
+				"pt":"Auxiliar de Escadas",
+				"ja":"階段ヘルパー",
+				"en":"Stair Helper",
+				"fr":"Assistant Escalier",
+				"zh":"楼梯助手",
+				"es":"Ayudante de Escaleras"
+			},
+			"slug":"stairStepCalc"
 		}
 	]
 }
