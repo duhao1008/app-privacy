@@ -2045,6 +2045,21 @@
 				"es":"Etiquetas de activos"
 			},
 			"slug":"assetLabelBinder"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Seilsprung Sets",
+				"ru":"Скакалка Сеты",
+				"ko":"줄넘기 세트표",
+				"pt":"Séries de Corda",
+				"ja":"縄跳びセット表",
+				"en":"Jump Rope Sets",
+				"fr":"Séries de Corde",
+				"zh":"跳绳组表",
+				"es":"Series de Comba"
+			},
+			"slug":"jumpRopeIntervalLog"
 		}
 	]
 }
