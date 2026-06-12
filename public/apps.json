@@ -1940,6 +1940,21 @@
 				"es":"Pizarra de Alineación"
 			},
 			"slug":"soccerLineupBoard"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Legung Notizen",
+				"ru":"Заметки раскладов",
+				"ko":"스프레드 노트",
+				"pt":"Notas de Tiragens",
+				"ja":"スプレッドノート",
+				"en":"Spread Notes",
+				"fr":"Notes de Tirages",
+				"zh":"牌阵笔记",
+				"es":"Notas de Tiradas"
+			},
+			"slug":"tarotSpreadJournal"
 		}
 	]
 }
