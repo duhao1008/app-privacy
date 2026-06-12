@@ -2090,6 +2090,21 @@
 				"es":"Corte de Tableros"
 			},
 			"slug":"boardCutPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Dokument Frist",
+				"ru":"Срок Документов",
+				"ko":"문서 만료",
+				"pt":"Venc Docs",
+				"ja":"書類期限",
+				"en":"Doc Expiry",
+				"fr":"Docs Échéance",
+				"zh":"证件到期",
+				"es":"Vence Docs"
+			},
+			"slug":"travelDocReminder"
 		}
 	]
 }
