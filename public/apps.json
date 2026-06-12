@@ -2105,6 +2105,21 @@
 				"es":"Vence Docs"
 			},
 			"slug":"travelDocReminder"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Koordinatenhelfer",
+				"ru":"Помощник координат",
+				"ko":"좌표 도우미",
+				"pt":"Auxiliar Coordenadas",
+				"ja":"座標アシスタント",
+				"en":"Coordinate Helper",
+				"fr":"Assistant Coordonnees",
+				"zh":"坐标助手",
+				"es":"Ayudante Coordenadas"
+			},
+			"slug":"surveyCoordKit"
 		}
 	]
 }
