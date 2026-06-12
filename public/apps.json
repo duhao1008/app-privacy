@@ -1985,6 +1985,21 @@
 				"es":"Impositor Tarjetas"
 			},
 			"slug":"businessCardImposer"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Bike Reifendruck",
+				"ru":"Давление Велошин",
+				"ko":"자전거 타이어 압력",
+				"pt":"Pressão Bike",
+				"ja":"自転車タイヤ空気圧",
+				"en":"Bike Tire PSI",
+				"fr":"Pression Vélo",
+				"zh":"骑行胎压",
+				"es":"Presión Bici"
+			},
+			"slug":"bikeTirePressureCalc"
 		}
 	]
 }
