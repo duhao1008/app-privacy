@@ -1850,6 +1850,21 @@
 				"es":"Tarjeta de Votos"
 			},
 			"slug":"weddingVowCard"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Tischkarten Druck",
+				"ru":"Печать карточек",
+				"ko":"좌석 카드 인쇄",
+				"pt":"Imprimir Cartões",
+				"ja":"席札印刷",
+				"en":"Seat Card Print",
+				"fr":"Imprimer Cartons",
+				"zh":"席卡打印",
+				"es":"Imprimir Tarjetas"
+			},
+			"slug":"seatCardPrinter"
 		}
 	]
 }
