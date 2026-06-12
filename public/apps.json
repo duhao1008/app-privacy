@@ -1895,6 +1895,21 @@
 				"es":"Noche de Cine"
 			},
 			"slug":"movieNightPicker"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Weinkeller Notiz",
+				"ru":"Винный Погреб",
+				"ko":"와인셀러 노트",
+				"pt":"Adega Pessoal",
+				"ja":"ワインセラー手帳",
+				"en":"Cellar Keeper",
+				"fr":"Carnet de Cave",
+				"zh":"酒柜管家",
+				"es":"Bodega Personal"
+			},
+			"slug":"wineCellarLog"
 		}
 	]
 }
