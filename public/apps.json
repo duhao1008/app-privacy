@@ -1925,6 +1925,21 @@
 				"es":"Apilado de Palets"
 			},
 			"slug":"palletStackCalc"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Fußball Aufstellung",
+				"ru":"Футбольный состав",
+				"ko":"축구 라인업 보드",
+				"pt":"Quadro de Escalação",
+				"ja":"サッカー布陣ボード",
+				"en":"Soccer Lineup Board",
+				"fr":"Tableau de Composition",
+				"zh":"足球阵容板",
+				"es":"Pizarra de Alineación"
+			},
+			"slug":"soccerLineupBoard"
 		}
 	]
 }
