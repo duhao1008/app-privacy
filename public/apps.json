@@ -1970,6 +1970,21 @@
 				"es":"Gestor de Congelador"
 			},
 			"slug":"freezerShelfLife"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Karten Nutzenplan",
+				"ru":"Раскладка Визиток",
+				"ko":"명함 판짜기",
+				"pt":"Impositor Cartões",
+				"ja":"名刺面付け",
+				"en":"Card Imposer",
+				"fr":"Imposeur Cartes",
+				"zh":"名片拼版",
+				"es":"Impositor Tarjetas"
+			},
+			"slug":"businessCardImposer"
 		}
 	]
 }
