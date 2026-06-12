@@ -1955,6 +1955,21 @@
 				"es":"Notas de Tiradas"
 			},
 			"slug":"tarotSpreadJournal"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Gefrierfach Manager",
+				"ru":"Учет морозилки",
+				"ko":"냉동 보관 관리",
+				"pt":"Gestor do Freezer",
+				"ja":"冷凍ストック管理",
+				"en":"Freezer Keeper",
+				"fr":"Gestion Congélateur",
+				"zh":"冷冻管家",
+				"es":"Gestor de Congelador"
+			},
+			"slug":"freezerShelfLife"
 		}
 	]
 }
