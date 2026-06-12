@@ -2135,6 +2135,21 @@
 				"es":"Zancada Ecuestre"
 			},
 			"slug":"equiStridePlanner"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Puzzle Logbuch",
+				"ru":"Журнал пазлов",
+				"ko":"퍼즐 기록",
+				"pt":"Diário de Puzzle",
+				"ja":"パズル記録",
+				"en":"Puzzle Log",
+				"fr":"Carnet Puzzle",
+				"zh":"拼图记录",
+				"es":"Registro Puzzle"
+			},
+			"slug":"puzzleLogBook"
 		}
 	]
 }
