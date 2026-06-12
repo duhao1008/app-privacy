@@ -1910,6 +1910,21 @@
 				"es":"Bodega Personal"
 			},
 			"slug":"wineCellarLog"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Palettenstapelung",
+				"ru":"Укладка паллет",
+				"ko":"팔레트 적재",
+				"pt":"Empilhamento Paletes",
+				"ja":"パレット積付",
+				"en":"Pallet Stacking",
+				"fr":"Empilage Palettes",
+				"zh":"托盘码垛",
+				"es":"Apilado de Palets"
+			},
+			"slug":"palletStackCalc"
 		}
 	]
 }
