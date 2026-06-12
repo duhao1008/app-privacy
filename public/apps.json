@@ -2060,6 +2060,21 @@
 				"es":"Series de Comba"
 			},
 			"slug":"jumpRopeIntervalLog"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Comedy Notizen",
+				"ru":"Стендап Заметки",
+				"ko":"코미디 노트",
+				"pt":"Notas de Stand-up",
+				"ja":"ネタノート",
+				"en":"Set Notes",
+				"fr":"Notes de Stand-up",
+				"zh":"段子本",
+				"es":"Notas de Stand Up"
+			},
+			"slug":"standupSetBuilder"
 		}
 	]
 }
