@@ -2075,6 +2075,21 @@
 				"es":"Notas de Stand Up"
 			},
 			"slug":"standupSetBuilder"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Plattenzuschnitt",
+				"ru":"Раскрой плит",
+				"ko":"판재 재단 계산",
+				"pt":"Corte de Chapas",
+				"ja":"板材カット計算",
+				"en":"Board Cut Planner",
+				"fr":"Découpe de Panneaux",
+				"zh":"板材开料",
+				"es":"Corte de Tableros"
+			},
+			"slug":"boardCutPlanner"
 		}
 	]
 }
