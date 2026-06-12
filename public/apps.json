@@ -1865,6 +1865,21 @@
 				"es":"Imprimir Tarjetas"
 			},
 			"slug":"seatCardPrinter"
+		},
+		{
+			"lastUpdated":"2026-06-12",
+			"appName":{
+				"de":"Pitch Count",
+				"ru":"Счетчик Подач",
+				"ko":"투구수",
+				"pt":"Contagem de Arremessos",
+				"ja":"投球数",
+				"en":"Pitch Count",
+				"fr":"Compte de Lancers",
+				"zh":"投球数",
+				"es":"Conteo de Lanzamientos"
+			},
+			"slug":"pitchCountLog"
 		}
 	]
 }
