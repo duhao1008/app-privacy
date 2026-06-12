@@ -2120,6 +2120,21 @@
 				"es":"Ayudante Coordenadas"
 			},
 			"slug":"surveyCoordKit"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Sprungdistanz Reiten",
+				"ru":"Конный шаг",
+				"ko":"보폭 승마",
+				"pt":"Passada Equestre",
+				"ja":"歩数馬術",
+				"en":"Stride Equestrian",
+				"fr":"Foulées Équestres",
+				"zh":"步距马术",
+				"es":"Zancada Ecuestre"
+			},
+			"slug":"equiStridePlanner"
 		}
 	]
 }
