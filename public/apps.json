@@ -2585,6 +2585,21 @@
 				"es":"Práctica Sonidos Coreanos"
 			},
 			"slug":"koreanSoundTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Buch Rückgabealarm",
+				"ru":"Напоминание о книгах",
+				"ko":"반납 알림",
+				"pt":"Aviso de Devolução",
+				"ja":"返却リマインダー",
+				"en":"Book Return Reminder",
+				"fr":"Rappel Retour Livres",
+				"zh":"还书提醒",
+				"es":"Aviso Devolución"
+			},
+			"slug":"libraryReturnKeeper"
 		}
 	]
 }
