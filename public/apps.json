@@ -2480,6 +2480,21 @@
 				"es":"Lógica de Campamento"
 			},
 			"slug":"logicCamps"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"IPA Ubungsheft",
+				"ru":"Тетрадь IPA",
+				"ko":"발음기호 연습장",
+				"pt":"Caderno IPA",
+				"ja":"発音記号練習帳",
+				"en":"IPA Practice Book",
+				"fr":"Cahier IPA",
+				"zh":"音标练习册",
+				"es":"Cuaderno IPA"
+			},
+			"slug":"ipaPracticeBook"
 		}
 	]
 }
