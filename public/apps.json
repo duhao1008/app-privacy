@@ -2270,6 +2270,21 @@
 				"es":"Pizarra Táctica Básquet"
 			},
 			"slug":"basketballTacticBoard"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"TRPG Spielleiter Notiz",
+				"ru":"TRPG Блокнот мастера",
+				"ko":"TRPG 진행 노트",
+				"pt":"Caderno Mestre TRPG",
+				"ja":"TRPG進行ノート",
+				"en":"TRPG Host Notebook",
+				"fr":"Carnet MJ TRPG",
+				"zh":"跑团主持本",
+				"es":"Cuaderno Director TRPG"
+			},
+			"slug":"trpgHostNotebook"
 		}
 	]
 }
