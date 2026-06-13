@@ -2300,6 +2300,21 @@
 				"es":"Tolerancia de Ajuste"
 			},
 			"slug":"bearingFitCalc"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Phonics Übung",
+				"ru":"Практика Phonics",
+				"ko":"파닉스 연습",
+				"pt":"Prática Phonics",
+				"ja":"フォニックス練習",
+				"en":"Phonics Practice",
+				"fr":"Exercice Phonics",
+				"zh":"拼读练习",
+				"es":"Práctica Phonics"
+			},
+			"slug":"phonicsBlendTrainer"
 		}
 	]
 }
