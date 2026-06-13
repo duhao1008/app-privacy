@@ -2150,6 +2150,21 @@
 				"es":"Registro Puzzle"
 			},
 			"slug":"puzzleLogBook"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Seilrettung Rechner",
+				"ru":"Расчет спасения веревкой",
+				"ko":"로프 구조 계산",
+				"pt":"Cálculo Resgate Corda",
+				"ja":"ロープ救助計算",
+				"en":"Rope Rescue Calc",
+				"fr":"Calcul Secours Corde",
+				"zh":"绳索救援计算",
+				"es":"Cálculo Rescate Cuerda"
+			},
+			"slug":"ropeRescueCalc"
 		}
 	]
 }
