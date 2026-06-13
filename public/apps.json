@@ -2360,6 +2360,21 @@
 				"es":"Cuaderno de Aromas"
 			},
 			"slug":"fragranceLayerBook"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Logikgitter-Mystery",
+				"ru":"Тайна логической сетки",
+				"ko":"논리 그리드 미스터리",
+				"pt":"Mistério de Lógica",
+				"ja":"論理グリッド事件",
+				"en":"Logic Grid Mystery",
+				"fr":"Mystère Grille Logique",
+				"zh":"逻辑格谜案",
+				"es":"Misterio de Lógica"
+			},
+			"slug":"logicGridMystery"
 		}
 	]
 }
