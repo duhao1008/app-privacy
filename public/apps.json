@@ -2570,6 +2570,21 @@
 				"es":"Hashi Puentes Puzzle"
 			},
 			"slug":"hashiBridgePuzzle"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Koreanische Laute üben",
+				"ru":"Практика звуков корейского",
+				"ko":"한국어 발음 연습",
+				"pt":"Prática de Sons Coreanos",
+				"ja":"韓国語発音練習",
+				"en":"Korean Sound Practice",
+				"fr":"Pratique Sons Coréens",
+				"zh":"韩音练习",
+				"es":"Práctica Sonidos Coreanos"
+			},
+			"slug":"koreanSoundTrainer"
 		}
 	]
 }
