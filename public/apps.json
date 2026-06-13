@@ -2210,6 +2210,21 @@
 				"es":"Archivo Cosplay"
 			},
 			"slug":"cosplayKit"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"O-Ring Helfer",
+				"ru":"Помощник O-Ring",
+				"ko":"O링 도우미",
+				"pt":"Assistente de O-Ring",
+				"ja":"Oリング助手",
+				"en":"O-Ring Helper",
+				"fr":"Assistant Joint Torique",
+				"zh":"O圈助手",
+				"es":"Ayudante de Juntas O"
+			},
+			"slug":"oringGrooveCalc"
 		}
 	]
 }
