@@ -2240,6 +2240,21 @@
 				"es":"Medidor de Manteles"
 			},
 			"slug":"tableclothSizer"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Bauänderungsbuch",
+				"ru":"Журнал Изменений",
+				"ko":"공사 변경 대장",
+				"pt":"Diário de Alterações",
+				"ja":"工事変更台帳",
+				"en":"Change Ledger",
+				"fr":"Registre de Travaux",
+				"zh":"工程签证",
+				"es":"Libro de Cambios"
+			},
+			"slug":"projectChangeLedger"
 		}
 	]
 }
