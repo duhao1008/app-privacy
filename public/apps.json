@@ -2450,6 +2450,21 @@
 				"es":"Lectura de Partitura"
 			},
 			"slug":"staffNoteTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Serienbuch Log",
+				"ru":"Журнал Серий",
+				"ko":"시리즈 독서장",
+				"pt":"Registro de Séries",
+				"ja":"追書冊",
+				"en":"Series Book Log",
+				"fr":"Carnet de Séries",
+				"zh":"追书册",
+				"es":"Registro de Sagas"
+			},
+			"slug":"readingSeriesVault"
 		}
 	]
 }
