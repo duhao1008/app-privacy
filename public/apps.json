@@ -2525,6 +2525,21 @@
 				"es":"Cuadrícula Slitherlink"
 			},
 			"slug":"slitherlinkGrid"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Klassisches Chinesisch",
+				"ru":"Классический китайский",
+				"ko":"고문 한문 연습",
+				"pt":"Chinês Clássico Treino",
+				"ja":"漢文古文練習",
+				"en":"Classical Chinese Drill",
+				"fr":"Chinois Classique Exos",
+				"zh":"小古文练习",
+				"es":"Chino Clásico Práctica"
+			},
+			"slug":"ancientTextDrill"
 		}
 	]
 }
