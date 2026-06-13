@@ -2435,6 +2435,21 @@
 				"es":"Puzzle Tiendas y Árboles"
 			},
 			"slug":"tentTreePuzzle"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Notenlesen Trainer",
+				"ru":"Тренер Нотной Грамоты",
+				"ko":"악보 읽기 연습",
+				"pt":"Leitura de Partitura",
+				"ja":"譜読み練習",
+				"en":"Staff Note Trainer",
+				"fr":"Lecture de Notes",
+				"zh":"识谱练习",
+				"es":"Lectura de Partitura"
+			},
+			"slug":"staffNoteTrainer"
 		}
 	]
 }
