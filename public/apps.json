@@ -2600,6 +2600,21 @@
 				"es":"Aviso Devolución"
 			},
 			"slug":"libraryReturnKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Seeschlacht Puzzle",
+				"ru":"Морской бой Пазл",
+				"ko":"해전 퍼즐",
+				"pt":"Puzzle Batalha Naval",
+				"ja":"海戦パズル",
+				"en":"Sea Battle Puzzle",
+				"fr":"Puzzle Bataille Navale",
+				"zh":"海战谜题",
+				"es":"Puzzle Batalla Naval"
+			},
+			"slug":"seaBattleLogic"
 		}
 	]
 }
