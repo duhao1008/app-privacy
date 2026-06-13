@@ -2165,6 +2165,21 @@
 				"es":"Cálculo Rescate Cuerda"
 			},
 			"slug":"ropeRescueCalc"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Kerzenformel",
+				"ru":"Формула свечей",
+				"ko":"캔들 배합",
+				"pt":"Fórmula de Velas",
+				"ja":"キャンドル配合",
+				"en":"Candle Formula",
+				"fr":"Formule Bougie",
+				"zh":"蜡烛配方",
+				"es":"Fórmula de Velas"
+			},
+			"slug":"candleFormulaCalc"
 		}
 	]
 }
