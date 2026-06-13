@@ -2255,6 +2255,21 @@
 				"es":"Libro de Cambios"
 			},
 			"slug":"projectChangeLedger"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Basketball Taktiktafel",
+				"ru":"Баскетбольная тактика",
+				"ko":"농구 전술판",
+				"pt":"Quadro Tático Basquete",
+				"ja":"バスケ戦術ボード",
+				"en":"Basketball Tactics Board",
+				"fr":"Tableau Tactique Basket",
+				"zh":"篮球战术板",
+				"es":"Pizarra Táctica Básquet"
+			},
+			"slug":"basketballTacticBoard"
 		}
 	]
 }
