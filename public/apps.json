@@ -2465,6 +2465,21 @@
 				"es":"Registro de Sagas"
 			},
 			"slug":"readingSeriesVault"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Camp Logic",
+				"ru":"Логика лагеря",
+				"ko":"캠프 로직",
+				"pt":"Lógica de Acampamento",
+				"ja":"キャンプロジック",
+				"en":"Camp Logic",
+				"fr":"Logique de Camp",
+				"zh":"营地逻辑",
+				"es":"Lógica de Campamento"
+			},
+			"slug":"logicCamps"
 		}
 	]
 }
