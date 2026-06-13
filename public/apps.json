@@ -2315,6 +2315,21 @@
 				"es":"Práctica Phonics"
 			},
 			"slug":"phonicsBlendTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Serien Buchlog",
+				"ru":"Журнал книжных серий",
+				"ko":"시리즈 독서 기록",
+				"pt":"Registro de Séries",
+				"ja":"シリーズ読書ログ",
+				"en":"Series Book Log",
+				"fr":"Journal de Séries",
+				"zh":"书序清单",
+				"es":"Registro de Series"
+			},
+			"slug":"seriesBookLog"
 		}
 	]
 }
