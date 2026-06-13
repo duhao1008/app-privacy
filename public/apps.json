@@ -2405,6 +2405,21 @@
 				"es":"Registro de Cuentos"
 			},
 			"slug":"pictureBookLog"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Zitat Notizbuch",
+				"ru":"Блокнот цитат",
+				"ko":"독서 발췌 노트",
+				"pt":"Caderno de Citações",
+				"ja":"読書抜粋ノート",
+				"en":"Excerpt Notebook",
+				"fr":"Carnet de Citations",
+				"zh":"摘录本",
+				"es":"Cuaderno de Citas"
+			},
+			"slug":"readingQuoteLedger"
 		}
 	]
 }
