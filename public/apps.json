@@ -2330,6 +2330,21 @@
 				"es":"Registro de Series"
 			},
 			"slug":"seriesBookLog"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Ausweis Kopie",
+				"ru":"Копия ID",
+				"ko":"신분증 복사",
+				"pt":"Cópia de ID",
+				"ja":"証明書コピー",
+				"en":"ID Copy",
+				"fr":"Copie ID",
+				"zh":"证件复印",
+				"es":"Copia de ID"
+			},
+			"slug":"idCopyLayout"
 		}
 	]
 }
