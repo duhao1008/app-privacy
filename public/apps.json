@@ -2345,6 +2345,21 @@
 				"es":"Copia de ID"
 			},
 			"slug":"idCopyLayout"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Duft Layer Notiz",
+				"ru":"Дневник ароматов",
+				"ko":"향기 레이어 노트",
+				"pt":"Caderno de Aromas",
+				"ja":"香りレイヤーノート",
+				"en":"Scent Layer Book",
+				"fr":"Carnet de Senteurs",
+				"zh":"香气搭配",
+				"es":"Cuaderno de Aromas"
+			},
+			"slug":"fragranceLayerBook"
 		}
 	]
 }
