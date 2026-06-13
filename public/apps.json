@@ -2285,6 +2285,21 @@
 				"es":"Cuaderno Director TRPG"
 			},
 			"slug":"trpgHostNotebook"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Passungstoleranz",
+				"ru":"Допуски Посадок",
+				"ko":"끼워맞춤 공차",
+				"pt":"Tolerância de Ajuste",
+				"ja":"はめあい公差",
+				"en":"Fit Tolerance",
+				"fr":"Tolérance d'Ajustement",
+				"zh":"配合公差",
+				"es":"Tolerancia de Ajuste"
+			},
+			"slug":"bearingFitCalc"
 		}
 	]
 }
