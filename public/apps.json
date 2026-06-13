@@ -2555,6 +2555,21 @@
 				"es":"Libros Firmados"
 			},
 			"slug":"signedBookVault"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Hashi Brückenrätsel",
+				"ru":"Хаси Мосты Головоломка",
+				"ko":"하시 다리 퍼즐",
+				"pt":"Hashi Pontes Puzzle",
+				"ja":"橋をかけろ パズル",
+				"en":"Hashi Bridge Puzzle",
+				"fr":"Hashi Puzzle de Ponts",
+				"zh":"数桥谜题",
+				"es":"Hashi Puentes Puzzle"
+			},
+			"slug":"hashiBridgePuzzle"
 		}
 	]
 }
