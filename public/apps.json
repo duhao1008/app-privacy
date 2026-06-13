@@ -2195,6 +2195,21 @@
 				"es":"Tarjeta de Boxeo"
 			},
 			"slug":"boxingScoreCard"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Cosplay Archiv",
+				"ru":"Архив косплея",
+				"ko":"코스프레 기록",
+				"pt":"Arquivo Cosplay",
+				"ja":"コスプレ記録",
+				"en":"Cosplay Archive",
+				"fr":"Archives Cosplay",
+				"zh":"Cos档案",
+				"es":"Archivo Cosplay"
+			},
+			"slug":"cosplayKit"
 		}
 	]
 }
