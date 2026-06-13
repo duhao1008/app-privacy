@@ -2420,6 +2420,21 @@
 				"es":"Cuaderno de Citas"
 			},
 			"slug":"readingQuoteLedger"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Zelte und Bäume Rätsel",
+				"ru":"Палатки и Деревья",
+				"ko":"텐트와 나무 퍼즐",
+				"pt":"Tendas e Árvores Puzzle",
+				"ja":"テントと木のパズル",
+				"en":"Tent Tree Puzzle",
+				"fr":"Tentes et Arbres Puzzle",
+				"zh":"帐篷树谜",
+				"es":"Puzzle Tiendas y Árboles"
+			},
+			"slug":"tentTreePuzzle"
 		}
 	]
 }
