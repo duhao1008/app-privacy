@@ -2540,6 +2540,21 @@
 				"es":"Chino Clásico Práctica"
 			},
 			"slug":"ancientTextDrill"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Signierte Bücher",
+				"ru":"Подписанные книги",
+				"ko":"서명본 컬렉션",
+				"pt":"Livros Assinados",
+				"ja":"署名本コレクション",
+				"en":"Signed Books",
+				"fr":"Livres Signés",
+				"zh":"签名藏书",
+				"es":"Libros Firmados"
+			},
+			"slug":"signedBookVault"
 		}
 	]
 }
