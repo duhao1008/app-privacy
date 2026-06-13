@@ -2510,6 +2510,21 @@
 				"es":"Mapa de Novela"
 			},
 			"slug":"novelMapNotes"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Slitherlink Raster",
+				"ru":"Сетка Slitherlink",
+				"ko":"슬리더링크 그리드",
+				"pt":"Grade Slitherlink",
+				"ja":"スリザーリンク方眼",
+				"en":"Slitherlink Grid",
+				"fr":"Grille Slitherlink",
+				"zh":"数回方格",
+				"es":"Cuadrícula Slitherlink"
+			},
+			"slug":"slitherlinkGrid"
 		}
 	]
 }
