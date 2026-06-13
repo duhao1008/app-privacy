@@ -2390,6 +2390,21 @@
 				"es":"Balance Químico"
 			},
 			"slug":"chemistryBalancer"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Bilderbuch Log",
+				"ru":"Учет Книг",
+				"ko":"그림책 기록",
+				"pt":"Registro de Livros",
+				"ja":"絵本記録",
+				"en":"Picture Book Log",
+				"fr":"Journal Albums",
+				"zh":"绘本记录",
+				"es":"Registro de Cuentos"
+			},
+			"slug":"pictureBookLog"
 		}
 	]
 }
