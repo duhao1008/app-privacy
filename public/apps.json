@@ -2180,6 +2180,21 @@
 				"es":"Fórmula de Velas"
 			},
 			"slug":"candleFormulaCalc"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Boxen Scorecard",
+				"ru":"Счетная Карта Бокса",
+				"ko":"복싱 스코어카드",
+				"pt":"Cartão de Boxe",
+				"ja":"ボクシング採点カード",
+				"en":"Boxing Scorecard",
+				"fr":"Carte de Score Boxe",
+				"zh":"拳击计分卡",
+				"es":"Tarjeta de Boxeo"
+			},
+			"slug":"boxingScoreCard"
 		}
 	]
 }
