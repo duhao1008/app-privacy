@@ -2225,6 +2225,21 @@
 				"es":"Ayudante de Juntas O"
 			},
 			"slug":"oringGrooveCalc"
+		},
+		{
+			"lastUpdated":"2026-06-13",
+			"appName":{
+				"de":"Tischtuch Rechner",
+				"ru":"Расчет скатерти",
+				"ko":"식탁보 치수 계산기",
+				"pt":"Medidor de Toalhas",
+				"ja":"テーブルクロス寸法計算",
+				"en":"Tablecloth Sizer",
+				"fr":"Mesure de Nappes",
+				"zh":"桌布尺算",
+				"es":"Medidor de Manteles"
+			},
+			"slug":"tableclothSizer"
 		}
 	]
 }
