@@ -2375,6 +2375,21 @@
 				"es":"Misterio de Lógica"
 			},
 			"slug":"logicGridMystery"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Chemie Ausgleichen",
+				"ru":"Баланс Химии",
+				"ko":"화학식 맞추기",
+				"pt":"Balanceio Químico",
+				"ja":"化学式バランス",
+				"en":"Chem Balance",
+				"fr":"Équilibre Chimie",
+				"zh":"化学配平",
+				"es":"Balance Químico"
+			},
+			"slug":"chemistryBalancer"
 		}
 	]
 }
