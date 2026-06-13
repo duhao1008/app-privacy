@@ -2495,6 +2495,21 @@
 				"es":"Cuaderno IPA"
 			},
 			"slug":"ipaPracticeBook"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Roman Karte",
+				"ru":"Карта романа",
+				"ko":"소설 맵",
+				"pt":"Mapa de Romance",
+				"ja":"小説マップ",
+				"en":"Novel Map",
+				"fr":"Carte de Roman",
+				"zh":"小说图谱",
+				"es":"Mapa de Novela"
+			},
+			"slug":"novelMapNotes"
 		}
 	]
 }
