@@ -3260,6 +3260,21 @@
 				"es":"Empuja Cajas"
 			},
 			"slug":"sokobanBoxPuzzle"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Hasen Hühner Mathe",
+				"ru":"Кролики и куры",
+				"ko":"닭토끼 수학",
+				"pt":"Coelhos e Galinhas",
+				"ja":"鶴亀算練習",
+				"en":"Rabbit Cage Math",
+				"fr":"Lapins et Poules",
+				"zh":"鸡兔同笼",
+				"es":"Conejos y Gallinas"
+			},
+			"slug":"rabbitCageMath"
 		}
 	]
 }
