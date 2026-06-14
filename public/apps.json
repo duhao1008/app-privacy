@@ -3050,6 +3050,21 @@
 				"es":"Kropki Sudoku"
 			},
 			"slug":"kropkiSudoku"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Höhenlinien Übung",
+				"ru":"Практика Горизонталей",
+				"ko":"등고선 연습",
+				"pt":"Prática de Curvas",
+				"ja":"等高線練習",
+				"en":"Contour Map Practice",
+				"fr":"Exercices de Courbes",
+				"zh":"等高线练习",
+				"es":"Práctica de Curvas"
+			},
+			"slug":"contourMapTrainer"
 		}
 	]
 }
