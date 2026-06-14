@@ -3275,6 +3275,21 @@
 				"es":"Conejos y Gallinas"
 			},
 			"slug":"rabbitCageMath"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Buchdruck Helfer",
+				"ru":"Помощник печати книг",
+				"ko":"책인쇄 도우미",
+				"pt":"Assistente de Impressão",
+				"ja":"本印刷ヘルパー",
+				"en":"Book Print Helper",
+				"fr":"Assistant Impression Livre",
+				"zh":"书印助手",
+				"es":"Asistente de Impresión"
+			},
+			"slug":"bookPrintCalc"
 		}
 	]
 }
