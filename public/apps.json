@@ -3245,6 +3245,21 @@
 				"es":"AudioLibro Diario"
 			},
 			"slug":"audioBookProgressLog"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Kisten Schieben",
+				"ru":"Толкай Ящики",
+				"ko":"창고 상자 밀기",
+				"pt":"Empurra Caixas",
+				"ja":"倉庫箱押し",
+				"en":"Warehouse Box Push",
+				"fr":"Pousse-Caisses",
+				"zh":"仓库推箱",
+				"es":"Empuja Cajas"
+			},
+			"slug":"sokobanBoxPuzzle"
 		}
 	]
 }
