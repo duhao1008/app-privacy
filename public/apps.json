@@ -3110,6 +3110,21 @@
 				"es":"Práctica de Valencia"
 			},
 			"slug":"valenceFormulaTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Exzerptkarten",
+				"ru":"Карточки выписок",
+				"ko":"발췌 카드",
+				"pt":"Cartões de Trechos",
+				"ja":"抜粋カード",
+				"en":"Excerpt Cards",
+				"fr":"Cartes d'Extraits",
+				"zh":"摘录卡",
+				"es":"Tarjetas de Extractos"
+			},
+			"slug":"bookQuoteCards"
 		}
 	]
 }
