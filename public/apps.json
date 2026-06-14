@@ -2990,6 +2990,21 @@
 				"es":"Cuaderno de Lectura"
 			},
 			"slug":"readingReportNotebook"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Ripple Logic",
+				"ru":"Ripple Logic",
+				"ko":"리플 로직",
+				"pt":"Ripple Logic",
+				"ja":"リップルロジック",
+				"en":"Ripple Logic",
+				"fr":"Ripple Logic",
+				"zh":"水波谜题",
+				"es":"Ripple Logic"
+			},
+			"slug":"rippleLogic"
 		}
 	]
 }
