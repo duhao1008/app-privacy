@@ -2780,6 +2780,21 @@
 				"es":"Métrica Pingze"
 			},
 			"slug":"poetryToneCoach"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Signatur Üben",
+				"ru":"Практика Шифров",
+				"ko":"청구기호 연습",
+				"pt":"Prática de Cotas",
+				"ja":"請求記号練習",
+				"en":"Call Number Practice",
+				"fr":"Exercice de Cotes",
+				"zh":"索书号练习",
+				"es":"Práctica de Signaturas"
+			},
+			"slug":"callNumberTrainer"
 		}
 	]
 }
