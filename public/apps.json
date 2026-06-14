@@ -3305,6 +3305,21 @@
 				"es":"Dominó Lógico"
 			},
 			"slug":"dominoLogicQuest"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Klassische Partikeln",
+				"ru":"Классические частицы",
+				"ko":"한문 허사 연습",
+				"pt":"Partículas Clássicas",
+				"ja":"漢文助字練習",
+				"en":"Classical Particles",
+				"fr":"Particules Classiques",
+				"zh":"虚词练习",
+				"es":"Partículas Chinas"
+			},
+			"slug":"classicalParticleDrill"
 		}
 	]
 }
