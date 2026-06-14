@@ -2810,6 +2810,21 @@
 				"es":"Luz Lógica"
 			},
 			"slug":"lightUpLogic"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Akkordtraining",
+				"ru":"Практика аккордов",
+				"ko":"코드 연습",
+				"pt":"Prática de Acordes",
+				"ja":"コード練習",
+				"en":"Chord Practice",
+				"fr":"Exercice d'Accords",
+				"zh":"和弦练习",
+				"es":"Práctica de Acordes"
+			},
+			"slug":"chordTurnTutor"
 		}
 	]
 }
