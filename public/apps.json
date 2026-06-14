@@ -2885,6 +2885,21 @@
 				"es":"Práctica de Soluciones"
 			},
 			"slug":"molarityTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Buchfolie Zuschnitt",
+				"ru":"Раскрой пленки книг",
+				"ko":"책 필름 재단",
+				"pt":"Corte Filme Livros",
+				"ja":"ブックフィルム裁断",
+				"en":"Book Film Cutter",
+				"fr":"Coupe Film Livres",
+				"zh":"书膜裁剪",
+				"es":"Corte Film Libros"
+			},
+			"slug":"bookCoverSizer"
 		}
 	]
 }
