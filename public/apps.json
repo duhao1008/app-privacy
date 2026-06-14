@@ -3215,6 +3215,21 @@
 				"es":"Puzles de Balanza"
 			},
 			"slug":"balanceLogicPuzzles"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Organische Nomenklatur",
+				"ru":"Органическая Номенклатура",
+				"ko":"유기 명명",
+				"pt":"Nomenclatura Orgânica",
+				"ja":"有機命名",
+				"en":"Organic Naming",
+				"fr":"Nomenclature Organique",
+				"zh":"有机命名",
+				"es":"Nomenclatura Orgánica"
+			},
+			"slug":"organicNameTrainer"
 		}
 	]
 }
