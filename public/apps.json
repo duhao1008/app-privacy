@@ -3200,6 +3200,21 @@
 				"es":"Planificador de Estantes"
 			},
 			"slug":"bookShelfFit"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Waagenrätsel",
+				"ru":"Загадки с Весами",
+				"ko":"저울 퍼즐",
+				"pt":"Puzzles de Balança",
+				"ja":"天秤パズル",
+				"en":"Balance Puzzles",
+				"fr":"Énigmes de Balance",
+				"zh":"天平谜题",
+				"es":"Puzles de Balanza"
+			},
+			"slug":"balanceLogicPuzzles"
 		}
 	]
 }
