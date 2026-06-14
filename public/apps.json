@@ -3020,6 +3020,21 @@
 				"es":"Declinación Latina"
 			},
 			"slug":"latinDeclensionTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Schulbuchliste",
+				"ru":"Список Учебников",
+				"ko":"교재 체크리스트",
+				"pt":"Lista de Livros",
+				"ja":"教材チェックリスト",
+				"en":"Textbook Checklist",
+				"fr":"Liste de Manuels",
+				"zh":"教材清单",
+				"es":"Lista de Textos"
+			},
+			"slug":"textbookKit"
 		}
 	]
 }
