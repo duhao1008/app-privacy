@@ -2705,6 +2705,21 @@
 				"es":"Práctica de Unidades"
 			},
 			"slug":"unitDrillMath"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Buchrücken Etiketten",
+				"ru":"Этикетки для книг",
+				"ko":"책등 라벨",
+				"pt":"Etiquetas de Livros",
+				"ja":"背表紙ラベル",
+				"en":"Book Spine Labels",
+				"fr":"Étiquettes de Livres",
+				"zh":"书脊标签",
+				"es":"Etiquetas de Libros"
+			},
+			"slug":"bookSpineLabeler"
 		}
 	]
 }
