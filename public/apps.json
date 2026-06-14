@@ -3170,6 +3170,21 @@
 				"es":"Formato de Citas"
 			},
 			"slug":"citationFormatKit"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Hex Nonogram",
+				"ru":"Hex Nonogram",
+				"ko":"헥스 노노그램",
+				"pt":"Hex Nonogram",
+				"ja":"ヘックスノノグラム",
+				"en":"Hex Nonogram",
+				"fr":"Hex Nonogram",
+				"zh":"六角数织",
+				"es":"Hex Nonogram"
+			},
+			"slug":"hexLogicPaint"
 		}
 	]
 }
