@@ -2645,6 +2645,21 @@
 				"es":"Extractos y Citas"
 			},
 			"slug":"readingCitationKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Kakuro Gitter",
+				"ru":"Клетки Какуро",
+				"ko":"카쿠로 그리드",
+				"pt":"Grade Kakuro",
+				"ja":"カックログリッド",
+				"en":"Kakuro Grid",
+				"fr":"Grille Kakuro",
+				"zh":"数和格",
+				"es":"Cuadrícula Kakuro"
+			},
+			"slug":"kakuroGrid"
 		}
 	]
 }
