@@ -2720,6 +2720,21 @@
 				"es":"Etiquetas de Libros"
 			},
 			"slug":"bookSpineLabeler"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Hitori Logikrätsel",
+				"ru":"Hitori Логика",
+				"ko":"히토리 논리 퍼즐",
+				"pt":"Hitori Puzzle Lógico",
+				"ja":"ひとりロジックパズル",
+				"en":"Hitori Logic Puzzle",
+				"fr":"Hitori Puzzle Logique",
+				"zh":"数墙谜题",
+				"es":"Hitori Puzzle Lógico"
+			},
+			"slug":"hitoriLogic"
 		}
 	]
 }
