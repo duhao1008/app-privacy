@@ -2675,6 +2675,21 @@
 				"es":"Práctica en Columna"
 			},
 			"slug":"verticalMathDrill"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Wolkenkratzer Rätsel",
+				"ru":"Небоскребы Головоломка",
+				"ko":"스카이스크래퍼 퍼즐",
+				"pt":"Puzzle Arranha-Céus",
+				"ja":"ビルディングパズル",
+				"en":"Skyscraper Puzzle",
+				"fr":"Puzzle Gratte-Ciel",
+				"zh":"摩天楼谜题",
+				"es":"Rascacielos Puzzle"
+			},
+			"slug":"skyscraperPuzzle"
 		}
 	]
 }
