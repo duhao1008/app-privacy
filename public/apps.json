@@ -3080,6 +3080,21 @@
 				"es":"Archivo Manga"
 			},
 			"slug":"mangaShelfLedger"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Ungleichungs-Sudoku",
+				"ru":"Судоку Неравенств",
+				"ko":"부등식 스도쿠",
+				"pt":"Sudoku de Desigualdade",
+				"ja":"不等式ナンプレ",
+				"en":"Inequality Sudoku",
+				"fr":"Sudoku Inégalités",
+				"zh":"不等式数独",
+				"es":"Sudoku de Desigualdad"
+			},
+			"slug":"inequalitySudoku"
 		}
 	]
 }
