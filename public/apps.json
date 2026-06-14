@@ -3005,6 +3005,21 @@
 				"es":"Ripple Logic"
 			},
 			"slug":"rippleLogic"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Latein Deklination",
+				"ru":"Латинские Склонения",
+				"ko":"라틴어 격변화 연습",
+				"pt":"Declinação Latina",
+				"ja":"ラテン語変化練習",
+				"en":"Latin Declensions",
+				"fr":"Déclinaisons Latines",
+				"zh":"拉丁变格",
+				"es":"Declinación Latina"
+			},
+			"slug":"latinDeclensionTrainer"
 		}
 	]
 }
