@@ -2840,6 +2840,21 @@
 				"es":"Etiquetas ISBN"
 			},
 			"slug":"isbnLabelKit"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Mathekäfig",
+				"ru":"Математическая клетка",
+				"ko":"수학 케이지",
+				"pt":"Gaiola Matemática",
+				"ja":"数学ケージ",
+				"en":"Math Cage",
+				"fr":"Cage Mathématique",
+				"zh":"数学笼",
+				"es":"Jaula Matemática"
+			},
+			"slug":"mathCagePuzzle"
 		}
 	]
 }
