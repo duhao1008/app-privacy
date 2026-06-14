@@ -2855,6 +2855,21 @@
 				"es":"Jaula Matemática"
 			},
 			"slug":"mathCagePuzzle"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Radikal Strich",
+				"ru":"Радикал и черты",
+				"ko":"부수 필순",
+				"pt":"Radical e Traço",
+				"ja":"部首筆順",
+				"en":"Radical Stroke",
+				"fr":"Radical et Trait",
+				"zh":"部首笔顺",
+				"es":"Radical y Trazo"
+			},
+			"slug":"radicalStrokeTutor"
 		}
 	]
 }
