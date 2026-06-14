@@ -2615,6 +2615,21 @@
 				"es":"Puzzle Batalla Naval"
 			},
 			"slug":"seaBattleLogic"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Kana Striche",
+				"ru":"Штрихи кана",
+				"ko":"가나 필순",
+				"pt":"Traços Kana",
+				"ja":"かな筆順",
+				"en":"Kana Stroke",
+				"fr":"Tracés Kana",
+				"zh":"假名笔顺",
+				"es":"Trazos Kana"
+			},
+			"slug":"kanaStrokeTrainer"
 		}
 	]
 }
