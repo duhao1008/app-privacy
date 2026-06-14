@@ -2660,6 +2660,21 @@
 				"es":"Cuadrícula Kakuro"
 			},
 			"slug":"kakuroGrid"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Schriftlich Rechnen",
+				"ru":"Столбик Тренажер",
+				"ko":"세로셈 연습",
+				"pt":"Treino em Coluna",
+				"ja":"筆算練習",
+				"en":"Vertical Math Drill",
+				"fr":"Calcul en Colonne",
+				"zh":"竖式练习",
+				"es":"Práctica en Columna"
+			},
+			"slug":"verticalMathDrill"
 		}
 	]
 }
