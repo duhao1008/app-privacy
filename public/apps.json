@@ -3290,6 +3290,21 @@
 				"es":"Asistente de Impresión"
 			},
 			"slug":"bookPrintCalc"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Domino Logikrätsel",
+				"ru":"Домино Логика",
+				"ko":"도미노 논리 퍼즐",
+				"pt":"Dominó Lógico",
+				"ja":"ドミノ論理パズル",
+				"en":"Domino Logic Quest",
+				"fr":"Domino Logique",
+				"zh":"多米诺谜题",
+				"es":"Dominó Lógico"
+			},
+			"slug":"dominoLogicQuest"
 		}
 	]
 }
