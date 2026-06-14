@@ -2735,6 +2735,21 @@
 				"es":"Hitori Puzzle Lógico"
 			},
 			"slug":"hitoriLogic"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Buchclub Karten",
+				"ru":"Карточки Книжного Клуба",
+				"ko":"독서모임 카드",
+				"pt":"Cartões Clube Leitura",
+				"ja":"読書会カード",
+				"en":"Book Club Cards",
+				"fr":"Cartes Club Lecture",
+				"zh":"读书会卡",
+				"es":"Tarjetas Club Lectura"
+			},
+			"slug":"bookClubCards"
 		}
 	]
 }
