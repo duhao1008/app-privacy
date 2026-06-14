@@ -3140,6 +3140,21 @@
 				"es":"Isla de Bucles"
 			},
 			"slug":"loopLineIslands"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Löslichkeitskurve",
+				"ru":"Кривая растворимости",
+				"ko":"용해도 곡선",
+				"pt":"Curva de Solubilidade",
+				"ja":"溶解度曲線",
+				"en":"Solubility Curve",
+				"fr":"Courbe de Solubilité",
+				"zh":"溶解度曲线",
+				"es":"Curva de Solubilidad"
+			},
+			"slug":"solubilityCurveTrainer"
 		}
 	]
 }
