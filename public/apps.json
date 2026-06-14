@@ -2690,6 +2690,21 @@
 				"es":"Rascacielos Puzzle"
 			},
 			"slug":"skyscraperPuzzle"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Einheiten Üben",
+				"ru":"Тренировка Единиц",
+				"ko":"단위 연습",
+				"pt":"Prática de Unidades",
+				"ja":"単位練習",
+				"en":"Unit Practice",
+				"fr":"Exercices d’Unités",
+				"zh":"单位练习",
+				"es":"Práctica de Unidades"
+			},
+			"slug":"unitDrillMath"
 		}
 	]
 }
