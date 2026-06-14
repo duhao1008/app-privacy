@@ -3185,6 +3185,21 @@
 				"es":"Hex Nonogram"
 			},
 			"slug":"hexLogicPaint"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"RegalPlaner",
+				"ru":"Планировщик полок",
+				"ko":"책장 배치 도우미",
+				"pt":"Planejador de Estantes",
+				"ja":"本棚配置アシスト",
+				"en":"ShelfFit Planner",
+				"fr":"Planificateur d'étagères",
+				"zh":"排书助手",
+				"es":"Planificador de Estantes"
+			},
+			"slug":"bookShelfFit"
 		}
 	]
 }
