@@ -3230,6 +3230,21 @@
 				"es":"Nomenclatura Orgánica"
 			},
 			"slug":"organicNameTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Hörbuch Log",
+				"ru":"Аудиокнига Журнал",
+				"ko":"오디오북 로그",
+				"pt":"Diário de Audiolivros",
+				"ja":"聴書ログ",
+				"en":"AudioBook Log",
+				"fr":"Journal AudioLivre",
+				"zh":"听书记",
+				"es":"AudioLibro Diario"
+			},
+			"slug":"audioBookProgressLog"
 		}
 	]
 }
