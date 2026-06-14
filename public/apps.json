@@ -2765,6 +2765,21 @@
 				"es":"Puzzle Cuadrícula Estelar"
 			},
 			"slug":"starBattleLogic"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Pingze Metrik",
+				"ru":"Метрика Pingze",
+				"ko":"평측 격률",
+				"pt":"Métrica Pingze",
+				"ja":"平仄格律",
+				"en":"Poetry Tone Meter",
+				"fr":"Métrique Pingze",
+				"zh":"平仄格律",
+				"es":"Métrica Pingze"
+			},
+			"slug":"poetryToneCoach"
 		}
 	]
 }
