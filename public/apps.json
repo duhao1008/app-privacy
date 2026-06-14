@@ -2825,6 +2825,21 @@
 				"es":"Práctica de Acordes"
 			},
 			"slug":"chordTurnTutor"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"ISBN Etiketten",
+				"ru":"ISBN Этикетки",
+				"ko":"도서 라벨",
+				"pt":"Etiquetas ISBN",
+				"ja":"書籍ラベル",
+				"en":"Book Label Kit",
+				"fr":"Etiquettes ISBN",
+				"zh":"书号标签",
+				"es":"Etiquetas ISBN"
+			},
+			"slug":"isbnLabelKit"
 		}
 	]
 }
