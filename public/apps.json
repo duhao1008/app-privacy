@@ -2975,6 +2975,21 @@
 				"es":"Práctica Horaria Geo"
 			},
 			"slug":"geoTimeTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Lesereport Notizbuch",
+				"ru":"Дневник чтения",
+				"ko":"독서보고서 노트",
+				"pt":"Caderno de Leitura",
+				"ja":"読書レポートノート",
+				"en":"Reading Report Book",
+				"fr":"Carnet de Lecture",
+				"zh":"读书报告本",
+				"es":"Cuaderno de Lectura"
+			},
+			"slug":"readingReportNotebook"
 		}
 	]
 }
