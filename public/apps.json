@@ -2630,6 +2630,21 @@
 				"es":"Trazos Kana"
 			},
 			"slug":"kanaStrokeTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Zitate & Exzerpte",
+				"ru":"Цитаты и Выписки",
+				"ko":"인용 발췌",
+				"pt":"Trechos e Citações",
+				"ja":"引用書摘",
+				"en":"Citation Excerpts",
+				"fr":"Extraits et Citations",
+				"zh":"引文书摘",
+				"es":"Extractos y Citas"
+			},
+			"slug":"readingCitationKeeper"
 		}
 	]
 }
