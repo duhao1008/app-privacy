@@ -3065,6 +3065,21 @@
 				"es":"Práctica de Curvas"
 			},
 			"slug":"contourMapTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Manga Regalbuch",
+				"ru":"Манга Полка",
+				"ko":"만화책 컬렉션 노트",
+				"pt":"Arquivo de Mangás",
+				"ja":"漫画蔵書ノート",
+				"en":"Manga Shelf Ledger",
+				"fr":"Carnet Manga",
+				"zh":"漫画藏书册",
+				"es":"Archivo Manga"
+			},
+			"slug":"mangaShelfLedger"
 		}
 	]
 }
