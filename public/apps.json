@@ -2900,6 +2900,21 @@
 				"es":"Corte Film Libros"
 			},
 			"slug":"bookCoverSizer"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"1A2B Zahlenlogik",
+				"ru":"1A2B Числовой код",
+				"ko":"1A2B 숫자 추리",
+				"pt":"Código 1A2B",
+				"ja":"1A2B数字推理",
+				"en":"1A2B Number Code",
+				"fr":"Code 1A2B",
+				"zh":"1A2B猜数",
+				"es":"Código 1A2B"
+			},
+			"slug":"numberCodeLogic"
 		}
 	]
 }
