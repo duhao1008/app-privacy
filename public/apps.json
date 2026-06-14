@@ -3155,6 +3155,21 @@
 				"es":"Curva de Solubilidad"
 			},
 			"slug":"solubilityCurveTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Zitierformat",
+				"ru":"Формат цитат",
+				"ko":"인용 형식",
+				"pt":"Formato de Citações",
+				"ja":"引用フォーマット",
+				"en":"Citation Format",
+				"fr":"Format de Citations",
+				"zh":"引文格式",
+				"es":"Formato de Citas"
+			},
+			"slug":"citationFormatKit"
 		}
 	]
 }
