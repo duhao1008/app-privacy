@@ -2795,6 +2795,21 @@
 				"es":"Práctica de Signaturas"
 			},
 			"slug":"callNumberTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Lichtlogik",
+				"ru":"Логика Света",
+				"ko":"라이트업 로직",
+				"pt":"Luz Lógica",
+				"ja":"ライトアップ論理",
+				"en":"Light Up Logic",
+				"fr":"Lumière Logique",
+				"zh":"明灯谜题",
+				"es":"Luz Lógica"
+			},
+			"slug":"lightUpLogic"
 		}
 	]
 }
