@@ -2870,6 +2870,21 @@
 				"es":"Radical y Trazo"
 			},
 			"slug":"radicalStrokeTutor"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Lösungsübung",
+				"ru":"Практика растворов",
+				"ko":"용액 조제 연습",
+				"pt":"Prática de Soluções",
+				"ja":"溶液調製練習",
+				"en":"Solution Practice",
+				"fr":"Pratique Solutions",
+				"zh":"配液练习",
+				"es":"Práctica de Soluciones"
+			},
+			"slug":"molarityTrainer"
 		}
 	]
 }
