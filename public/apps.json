@@ -3125,6 +3125,21 @@
 				"es":"Tarjetas de Extractos"
 			},
 			"slug":"bookQuoteCards"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Loop Insel",
+				"ru":"Остров Петель",
+				"ko":"루프 아일랜드",
+				"pt":"Ilha dos Laços",
+				"ja":"ループアイランド",
+				"en":"Loop Island",
+				"fr":"Île des Boucles",
+				"zh":"环线岛",
+				"es":"Isla de Bucles"
+			},
+			"slug":"loopLineIslands"
 		}
 	]
 }
