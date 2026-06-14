@@ -3035,6 +3035,21 @@
 				"es":"Lista de Textos"
 			},
 			"slug":"textbookKit"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Kropki Sudoku",
+				"ru":"Кропки Судоку",
+				"ko":"크롭키 스도쿠",
+				"pt":"Kropki Sudoku",
+				"ja":"Kropki Sudoku",
+				"en":"Kropki Sudoku",
+				"fr":"Kropki Sudoku",
+				"zh":"黑白点数独",
+				"es":"Kropki Sudoku"
+			},
+			"slug":"kropkiSudoku"
 		}
 	]
 }
