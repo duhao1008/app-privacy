@@ -2945,6 +2945,21 @@
 				"es":"Cuidado de Libros"
 			},
 			"slug":"bookCareLog"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Zelte und Bäume",
+				"ru":"Палатки и деревья",
+				"ko":"텐트와 나무",
+				"pt":"Tendas e Árvores",
+				"ja":"テントと木",
+				"en":"Tents Trees",
+				"fr":"Tentes et Arbres",
+				"zh":"帐篷树",
+				"es":"Tiendas y Árboles"
+			},
+			"slug":"tentsTreesLogic"
 		}
 	]
 }
