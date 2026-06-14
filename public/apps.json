@@ -2915,6 +2915,21 @@
 				"es":"Código 1A2B"
 			},
 			"slug":"numberCodeLogic"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Zirkel-Geometrie",
+				"ru":"Геометрия с циркулем",
+				"ko":"자와 컴퍼스 작도",
+				"pt":"Geometria com Compasso",
+				"ja":"定規コンパス作図",
+				"en":"Compass Geometry",
+				"fr":"Géométrie au Compas",
+				"zh":"尺规作图",
+				"es":"Geometría con Compás"
+			},
+			"slug":"rulerCompassTutor"
 		}
 	]
 }
