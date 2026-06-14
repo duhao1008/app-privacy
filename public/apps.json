@@ -2960,6 +2960,21 @@
 				"es":"Tiendas y Árboles"
 			},
 			"slug":"tentsTreesLogic"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Geo Zeit Übung",
+				"ru":"География времени",
+				"ko":"지리 시차 연습",
+				"pt":"Prática Horária Geo",
+				"ja":"時差地理練習",
+				"en":"Time Zone Geo Practice",
+				"fr":"Exercices Horaires Géo",
+				"zh":"区时练习",
+				"es":"Práctica Horaria Geo"
+			},
+			"slug":"geoTimeTrainer"
 		}
 	]
 }
