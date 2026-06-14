@@ -2930,6 +2930,21 @@
 				"es":"Geometría con Compás"
 			},
 			"slug":"rulerCompassTutor"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Buchpflege Log",
+				"ru":"Уход за книгами",
+				"ko":"책 관리 기록",
+				"pt":"Cuidados de Livros",
+				"ja":"書籍ケア記録",
+				"en":"Book Care Log",
+				"fr":"Soin des Livres",
+				"zh":"书籍养护",
+				"es":"Cuidado de Libros"
+			},
+			"slug":"bookCareLog"
 		}
 	]
 }
