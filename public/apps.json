@@ -2750,6 +2750,21 @@
 				"es":"Tarjetas Club Lectura"
 			},
 			"slug":"bookClubCards"
+		},
+		{
+			"lastUpdated":"2026-06-14",
+			"appName":{
+				"de":"Sternraster Rätsel",
+				"ru":"Звездная сетка",
+				"ko":"스타 그리드 퍼즐",
+				"pt":"Puzzle Grade Estelar",
+				"ja":"スターグリッドパズル",
+				"en":"Star Grid Puzzle",
+				"fr":"Puzzle Grille Étoilée",
+				"zh":"星阵谜题",
+				"es":"Puzzle Cuadrícula Estelar"
+			},
+			"slug":"starBattleLogic"
 		}
 	]
 }
