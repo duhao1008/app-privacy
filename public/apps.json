@@ -3095,6 +3095,21 @@
 				"es":"Sudoku de Desigualdad"
 			},
 			"slug":"inequalitySudoku"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Wertigkeit Üben",
+				"ru":"Практика Валентности",
+				"ko":"원자가 연습",
+				"pt":"Prática de Valência",
+				"ja":"価数練習",
+				"en":"Valence Practice",
+				"fr":"Exercices de Valence",
+				"zh":"化合价练习",
+				"es":"Práctica de Valencia"
+			},
+			"slug":"valenceFormulaTrainer"
 		}
 	]
 }
