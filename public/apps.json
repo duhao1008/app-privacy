@@ -3950,6 +3950,21 @@
 				"es":"Registro de Órdenes"
 			},
 			"slug":"workOrderLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Bautagebuch",
+				"ru":"Журнал стройки",
+				"ko":"현장 일지",
+				"pt":"Diário de Obra",
+				"ja":"現場日誌",
+				"en":"Site Daily Log",
+				"fr":"Journal de Chantier",
+				"zh":"工地日志",
+				"es":"Diario de Obra"
+			},
+			"slug":"siteDailyLog"
 		}
 	]
 }
