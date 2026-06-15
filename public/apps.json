@@ -3890,6 +3890,21 @@
 				"es":"Registro Horas Extra"
 			},
 			"slug":"overtimeCompLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Zahlungsbuch",
+				"ru":"Журнал оплат",
+				"ko":"수금 장부",
+				"pt":"Livro de Cobranças",
+				"ja":"入金台帳",
+				"en":"Payment Ledger",
+				"fr":"Registre de Paiement",
+				"zh":"回款台账",
+				"es":"Libro de Cobros"
+			},
+			"slug":"receivableLedger"
 		}
 	]
 }
