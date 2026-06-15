@@ -3725,6 +3725,21 @@
 				"es":"Revisión de Licitación"
 			},
 			"slug":"bidFileCheck"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Paketbuch",
+				"ru":"Журнал посылок",
+				"ko":"택배 장부",
+				"pt":"Registro de Encomendas",
+				"ja":"荷物台帳",
+				"en":"Parcel Ledger",
+				"fr":"Registre Colis",
+				"zh":"收发件台账",
+				"es":"Registro de Paquetes"
+			},
+			"slug":"parcelLedger"
 		}
 	]
 }
