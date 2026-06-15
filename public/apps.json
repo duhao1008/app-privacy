@@ -3320,6 +3320,21 @@
 				"es":"Partículas Chinas"
 			},
 			"slug":"classicalParticleDrill"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Klassische Chinesischwörter",
+				"ru":"Слова классического китайского",
+				"ko":"문언 실사",
+				"pt":"Palavras Chinesas Clássicas",
+				"ja":"文言実詞",
+				"en":"Classical Chinese Words",
+				"fr":"Mots de Chinois Classique",
+				"zh":"文言实词",
+				"es":"Palabras Chinas Clásicas"
+			},
+			"slug":"classicalChineseWords"
 		}
 	]
 }
