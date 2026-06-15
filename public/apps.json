@@ -3965,6 +3965,21 @@
 				"es":"Diario de Obra"
 			},
 			"slug":"siteDailyLog"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Provisionsbuch",
+				"ru":"Журнал комиссий",
+				"ko":"수수료 장부",
+				"pt":"Livro de Comissões",
+				"ja":"歩合表",
+				"en":"Commission Ledger",
+				"fr":"Livre de Commissions",
+				"zh":"提成表",
+				"es":"Libro de Comisiones"
+			},
+			"slug":"commissionLedger"
 		}
 	]
 }
