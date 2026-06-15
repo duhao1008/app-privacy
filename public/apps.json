@@ -3380,6 +3380,21 @@
 				"es":"Práctica de Escala"
 			},
 			"slug":"mapScaleTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Buchkaufliste",
+				"ru":"Список книг",
+				"ko":"도서 구매 목록",
+				"pt":"Lista de Livros",
+				"ja":"本の購入リスト",
+				"en":"Book Buy List",
+				"fr":"Liste de Livres",
+				"zh":"购书清单",
+				"es":"Lista de Libros"
+			},
+			"slug":"bookDealPlanner"
 		}
 	]
 }
