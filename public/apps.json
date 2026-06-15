@@ -3455,6 +3455,21 @@
 				"es":"Cuadrícula de Modismos"
 			},
 			"slug":"chengyuGridQuest"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Chinesische Sätze üben",
+				"ru":"Исправление фраз Китая",
+				"ko":"문장 오류 수정 연습",
+				"pt":"Corrigir Frases Chinesas",
+				"ja":"病文修正練習",
+				"en":"Sentence Fix Practice",
+				"fr":"Corriger Phrases Chinoises",
+				"zh":"病句练习",
+				"es":"Corrige Frases Chinas"
+			},
+			"slug":"sentenceFixTrainer"
 		}
 	]
 }
