@@ -3515,6 +3515,21 @@
 				"es":"Error de Lab"
 			},
 			"slug":"labErrorCalc"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Buchschuber Rechner",
+				"ru":"Расчет книжного футляра",
+				"ko":"책 케이스 치수",
+				"pt":"Medidor de Estojos",
+				"ja":"書函サイズ計算",
+				"en":"Bookcase Sizer",
+				"fr":"Mesure Étui Livre",
+				"zh":"书函尺",
+				"es":"Medidor de Estuches"
+			},
+			"slug":"bookCaseSizer"
 		}
 	]
 }
