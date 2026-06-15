@@ -3440,6 +3440,21 @@
 				"es":"Tarjeta de Lectura"
 			},
 			"slug":"readingCardKit"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Redewendungsgitter",
+				"ru":"Сетка идиом",
+				"ko":"성어 그리드",
+				"pt":"Grade de Idiomas",
+				"ja":"成語グリッド",
+				"en":"Idiom Grid",
+				"fr":"Grille d'idiomes",
+				"zh":"成语格",
+				"es":"Cuadrícula de Modismos"
+			},
+			"slug":"chengyuGridQuest"
 		}
 	]
 }
