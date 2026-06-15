@@ -3425,6 +3425,21 @@
 				"es":"Práctica de Circuitos"
 			},
 			"slug":"circuitPhysicsDrill"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Lesekarte",
+				"ru":"Карточка чтения",
+				"ko":"독서 카드",
+				"pt":"Cartão de Leitura",
+				"ja":"読書カード",
+				"en":"Reading Card",
+				"fr":"Fiche de Lecture",
+				"zh":"读书卡",
+				"es":"Tarjeta de Lectura"
+			},
+			"slug":"readingCardKit"
 		}
 	]
 }
