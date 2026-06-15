@@ -3785,6 +3785,21 @@
 				"es":"Comparar Cotizaciones"
 			},
 			"slug":"purchaseQuoteCompare"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Anwesenheitsliste",
+				"ru":"Лист регистрации",
+				"ko":"서명 출석표",
+				"pt":"Lista de Presença",
+				"ja":"受付签到表",
+				"en":"Sign-In Sheet",
+				"fr":"Feuille Présence",
+				"zh":"签到表",
+				"es":"Hoja de Firmas"
+			},
+			"slug":"meetingSignSheet"
 		}
 	]
 }
