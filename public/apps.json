@@ -3815,6 +3815,21 @@
 				"es":"Libro de Cheques"
 			},
 			"slug":"checkLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Raumbuch",
+				"ru":"Журнал переговорных",
+				"ko":"회의실 장부",
+				"pt":"Registro de Salas",
+				"ja":"会議室台帳",
+				"en":"Meeting Room Ledger",
+				"fr":"Registre de Salles",
+				"zh":"会议室台账",
+				"es":"Registro de Salas"
+			},
+			"slug":"meetingRoomLedger"
 		}
 	]
 }
