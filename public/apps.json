@@ -3860,6 +3860,21 @@
 				"es":"Libro de Recibos"
 			},
 			"slug":"receiptLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Lieferschein",
+				"ru":"Накладная",
+				"ko":"배송명세서",
+				"pt":"Nota de Entrega",
+				"ja":"納品書",
+				"en":"Delivery Note",
+				"fr":"Bon de Livraison",
+				"zh":"送货单",
+				"es":"Nota de Entrega"
+			},
+			"slug":"deliveryNoteMaker"
 		}
 	]
 }
