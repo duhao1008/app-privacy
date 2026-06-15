@@ -3635,6 +3635,21 @@
 				"es":"Puzzle Provincias"
 			},
 			"slug":"chinaMapPuzzle"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Kassenbuch Vorschuss",
+				"ru":"Журнал Подотчета",
+				"ko":"소액현금 장부",
+				"pt":"Livro Caixa Pequeno",
+				"ja":"小口現金台帳",
+				"en":"Petty Cash Ledger",
+				"fr":"Registre Petite Caisse",
+				"zh":"备用金台账",
+				"es":"Libro Caja Chica"
+			},
+			"slug":"pettyCashLedger"
 		}
 	]
 }
