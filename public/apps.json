@@ -3665,6 +3665,21 @@
 				"es":"Lista de Stand"
 			},
 			"slug":"boothPrepLedger"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Feuerlöscher Log",
+				"ru":"Журнал огнетушителей",
+				"ko":"소화기 대장",
+				"pt":"Registro Extintores",
+				"ja":"消火器台帳",
+				"en":"Extinguisher Log",
+				"fr":"Registre Extincteurs",
+				"zh":"灭火器台账",
+				"es":"Registro Extintores"
+			},
+			"slug":"fireExtinguisherLog"
 		}
 	]
 }
