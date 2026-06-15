@@ -3830,6 +3830,21 @@
 				"es":"Registro de Salas"
 			},
 			"slug":"meetingRoomLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Zahlungsbuch",
+				"ru":"Журнал платежей",
+				"ko":"지급 장부",
+				"pt":"Livro de Pagamentos",
+				"ja":"支払台帳",
+				"en":"Payment Ledger",
+				"fr":"Registre de Paiements",
+				"zh":"付款台账",
+				"es":"Libro de Pagos"
+			},
+			"slug":"paymentRequestLedger"
 		}
 	]
 }
