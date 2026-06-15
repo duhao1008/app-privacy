@@ -3710,6 +3710,21 @@
 				"es":"Libro de Depreciación"
 			},
 			"slug":"assetDepreciationLedger"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Angebotsprüfung",
+				"ru":"Проверка Тендера",
+				"ko":"입찰 서류 확인",
+				"pt":"Revisão de Proposta",
+				"ja":"入札書類チェック",
+				"en":"Bid File Check",
+				"fr":"Contrôle d'Appel Offre",
+				"zh":"标书核对",
+				"es":"Revisión de Licitación"
+			},
+			"slug":"bidFileCheck"
 		}
 	]
 }
