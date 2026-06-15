@@ -3485,6 +3485,21 @@
 				"es":"Mesa Textual"
 			},
 			"slug":"bookCollationDesk"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Shikaku",
+				"ru":"Shikaku",
+				"ko":"시카쿠",
+				"pt":"Shikaku",
+				"ja":"四角に切れ",
+				"en":"Shikaku",
+				"fr":"Shikaku",
+				"zh":"数方",
+				"es":"Shikaku"
+			},
+			"slug":"shikakuGrid"
 		}
 	]
 }
