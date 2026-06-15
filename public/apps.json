@@ -3395,6 +3395,21 @@
 				"es":"Lista de Libros"
 			},
 			"slug":"bookDealPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Black Box Logik",
+				"ru":"Логика Черный Ящик",
+				"ko":"블랙박스 추리",
+				"pt":"Lógica Caixa Preta",
+				"ja":"ブラックボックス推理",
+				"en":"Black Box Logic",
+				"fr":"Logique Boîte Noire",
+				"zh":"黑箱推理",
+				"es":"Lógica Caja Negra"
+			},
+			"slug":"blackBoxLogic"
 		}
 	]
 }
