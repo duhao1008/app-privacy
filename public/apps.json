@@ -3560,6 +3560,21 @@
 				"es":"Práctica de Mapa Solar"
 			},
 			"slug":"sunMapGeoTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Star Battle Raster",
+				"ru":"Сетка Star Battle",
+				"ko":"스타 배틀 그리드",
+				"pt":"Grade Star Battle",
+				"ja":"スター戦略グリッド",
+				"en":"Star Battle Grid",
+				"fr":"Grille Star Battle",
+				"zh":"星战格",
+				"es":"Cuadrícula Star Battle"
+			},
+			"slug":"starBattleGrid"
 		}
 	]
 }
