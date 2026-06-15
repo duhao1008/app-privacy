@@ -3755,6 +3755,21 @@
 				"es":"Diseño de Credenciales"
 			},
 			"slug":"badgeCardMaker"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Packliste",
+				"ru":"Packing List",
+				"ko":"패킹리스트",
+				"pt":"Packing List",
+				"ja":"パッキングリスト",
+				"en":"Packing List",
+				"fr":"Packing List",
+				"zh":"装箱单",
+				"es":"Packing List"
+			},
+			"slug":"packingListDesk"
 		}
 	]
 }
