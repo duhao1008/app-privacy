@@ -3530,6 +3530,21 @@
 				"es":"Medidor de Estuches"
 			},
 			"slug":"bookCaseSizer"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Gleiswerk Disponent",
+				"ru":"Диспетчер путей",
+				"ko":"철도 야드 디스패치",
+				"pt":"Pátio Ferroviário",
+				"ja":"鉄道ヤード指令",
+				"en":"Rail Yard Dispatch",
+				"fr":"Aiguillage Ferroviaire",
+				"zh":"轨道调度",
+				"es":"Despacho Ferroviario"
+			},
+			"slug":"railYardPuzzle"
 		}
 	]
 }
