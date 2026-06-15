@@ -3350,6 +3350,21 @@
 				"es":"Etiquetas de Lomo"
 			},
 			"slug":"bookSpineMaker"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Fillomino Rätsel",
+				"ru":"Головоломка Fillomino",
+				"ko":"필로미노 퍼즐",
+				"pt":"Quebra-cabeça Fillomino",
+				"ja":"数壱パズル",
+				"en":"Fillomino Puzzle",
+				"fr":"Puzzle Fillomino",
+				"zh":"数壹谜题",
+				"es":"Puzzle Fillomino"
+			},
+			"slug":"fillominoPuzzle"
 		}
 	]
 }
