@@ -3335,6 +3335,21 @@
 				"es":"Palabras Chinas Clásicas"
 			},
 			"slug":"classicalChineseWords"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Buchrücken Etiketten",
+				"ru":"Этикетки корешков",
+				"ko":"책등 라벨 도우미",
+				"pt":"Etiquetas de Lombada",
+				"ja":"背表紙ラベル助手",
+				"en":"Spine Labeler",
+				"fr":"Étiquettes de Dos",
+				"zh":"书脊助手",
+				"es":"Etiquetas de Lomo"
+			},
+			"slug":"bookSpineMaker"
 		}
 	]
 }
