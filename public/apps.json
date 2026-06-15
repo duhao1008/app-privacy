@@ -3470,6 +3470,21 @@
 				"es":"Corrige Frases Chinas"
 			},
 			"slug":"sentenceFixTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Textkritik Tisch",
+				"ru":"Текстовый стол",
+				"ko":"교서대",
+				"pt":"Mesa Textual",
+				"ja":"校書台",
+				"en":"Textual Desk",
+				"fr":"Bureau Textuel",
+				"zh":"校书台",
+				"es":"Mesa Textual"
+			},
+			"slug":"bookCollationDesk"
 		}
 	]
 }
