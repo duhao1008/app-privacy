@@ -3875,6 +3875,21 @@
 				"es":"Nota de Entrega"
 			},
 			"slug":"deliveryNoteMaker"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Überstunden Konto",
+				"ru":"Учет переработок",
+				"ko":"초과근무 대체휴무 장부",
+				"pt":"Registro de Horas Extra",
+				"ja":"残業代休台帳",
+				"en":"Overtime Leave Ledger",
+				"fr":"Registre Heures Sup",
+				"zh":"加班调休账",
+				"es":"Registro Horas Extra"
+			},
+			"slug":"overtimeCompLedger"
 		}
 	]
 }
