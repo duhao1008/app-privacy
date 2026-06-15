@@ -4010,6 +4010,21 @@
 				"es":"Registro Muestras"
 			},
 			"slug":"foodSampleLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Druckangebot",
+				"ru":"Смета печати",
+				"ko":"인쇄 견적",
+				"pt":"Cotação Gráfica",
+				"ja":"印刷見積",
+				"en":"Print Quote",
+				"fr":"Devis Imprimerie",
+				"zh":"快印报价",
+				"es":"Cotizador Imprenta"
+			},
+			"slug":"printQuoteKit"
 		}
 	]
 }
