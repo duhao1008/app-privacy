@@ -3695,6 +3695,21 @@
 				"es":"Registro de Fianzas"
 			},
 			"slug":"bidBondLedger"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Abschreibungsbuch",
+				"ru":"Реестр Амортизации",
+				"ko":"감가상각 장부",
+				"pt":"Livro de Depreciação",
+				"ja":"減価償却台帳",
+				"en":"Depreciation Ledger",
+				"fr":"Registre d'Amortissement",
+				"zh":"折旧台账",
+				"es":"Libro de Depreciación"
+			},
+			"slug":"assetDepreciationLedger"
 		}
 	]
 }
