@@ -3575,6 +3575,21 @@
 				"es":"Cuadrícula Star Battle"
 			},
 			"slug":"starBattleGrid"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Honorar & Tantiemen",
+				"ru":"Журнал гонораров",
+				"ko":"원고료 장부",
+				"pt":"Livro de Royalties",
+				"ja":"原稿料台帳",
+				"en":"Royalty Draft Ledger",
+				"fr":"Carnet de Droits",
+				"zh":"稿酬本",
+				"es":"Libro de Regalías"
+			},
+			"slug":"royaltyDraftLedger"
 		}
 	]
 }
