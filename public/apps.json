@@ -3500,6 +3500,21 @@
 				"es":"Shikaku"
 			},
 			"slug":"shikakuGrid"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Laborfehler",
+				"ru":"Ошибка Лаб",
+				"ko":"실험 오차",
+				"pt":"Erro de Lab",
+				"ja":"実験誤差",
+				"en":"Lab Error",
+				"fr":"Erreur de Labo",
+				"zh":"实验误差",
+				"es":"Error de Lab"
+			},
+			"slug":"labErrorCalc"
 		}
 	]
 }
