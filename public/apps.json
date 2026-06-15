@@ -3680,6 +3680,21 @@
 				"es":"Registro Extintores"
 			},
 			"slug":"fireExtinguisherLog"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Bietkaution Buch",
+				"ru":"Реестр гарантий",
+				"ko":"입찰 보증금 장부",
+				"pt":"Livro de Cauções",
+				"ja":"入札保証金台帳",
+				"en":"Bid Bond Ledger",
+				"fr":"Registre Cautions",
+				"zh":"投标保证金",
+				"es":"Registro de Fianzas"
+			},
+			"slug":"bidBondLedger"
 		}
 	]
 }
