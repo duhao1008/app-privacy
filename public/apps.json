@@ -3905,6 +3905,21 @@
 				"es":"Libro de Cobros"
 			},
 			"slug":"receivableLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Materialeingang",
+				"ru":"Приемка материалов",
+				"ko":"자재 입고 검수",
+				"pt":"Registro de Materiais",
+				"ja":"材料受領ログ",
+				"en":"Material Receipt Log",
+				"fr":"Réception Matériaux",
+				"zh":"收料验收",
+				"es":"Registro de Materiales"
+			},
+			"slug":"materialReceiptLog"
 		}
 	]
 }
