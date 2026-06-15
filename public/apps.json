@@ -3770,6 +3770,21 @@
 				"es":"Packing List"
 			},
 			"slug":"packingListDesk"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Angebote Vergleichen",
+				"ru":"Сравнение смет",
+				"ko":"견적 비교",
+				"pt":"Comparar Cotações",
+				"ja":"見積比較",
+				"en":"Quote Compare",
+				"fr":"Comparer les Devis",
+				"zh":"询价比价",
+				"es":"Comparar Cotizaciones"
+			},
+			"slug":"purchaseQuoteCompare"
 		}
 	]
 }
