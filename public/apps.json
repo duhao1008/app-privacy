@@ -3995,6 +3995,21 @@
 				"es":"Libro de Facturas"
 			},
 			"slug":"invoiceCheckLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Probenbuch",
+				"ru":"Журнал проб",
+				"ko":"보존식 대장",
+				"pt":"Livro de Amostras",
+				"ja":"検食台帳",
+				"en":"Sample Ledger",
+				"fr":"Registre Échantillons",
+				"zh":"留样台账",
+				"es":"Registro Muestras"
+			},
+			"slug":"foodSampleLedger"
 		}
 	]
 }
