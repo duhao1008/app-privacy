@@ -3620,6 +3620,21 @@
 				"es":"Mesa de Extractos"
 			},
 			"slug":"ebookClippingDesk"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Provinzen Puzzle",
+				"ru":"Пазл Провинций",
+				"ko":"성 지도 퍼즐",
+				"pt":"Puzzle Províncias",
+				"ja":"省パズル",
+				"en":"Province Puzzle",
+				"fr":"Puzzle Provinces",
+				"zh":"省份拼图",
+				"es":"Puzzle Provincias"
+			},
+			"slug":"chinaMapPuzzle"
 		}
 	]
 }
