@@ -3845,6 +3845,21 @@
 				"es":"Libro de Pagos"
 			},
 			"slug":"paymentRequestLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Quittungsbuch",
+				"ru":"Книга квитанций",
+				"ko":"영수증 장부",
+				"pt":"Livro de Recibos",
+				"ja":"領収書帳",
+				"en":"Receipt Book",
+				"fr":"Carnet de Reçus",
+				"zh":"收据本",
+				"es":"Libro de Recibos"
+			},
+			"slug":"receiptLedger"
 		}
 	]
 }
