@@ -3800,6 +3800,21 @@
 				"es":"Hoja de Firmas"
 			},
 			"slug":"meetingSignSheet"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Scheckbuch",
+				"ru":"Журнал чеков",
+				"ko":"수표 장부",
+				"pt":"Livro de Cheques",
+				"ja":"小切手台帳",
+				"en":"Check Ledger",
+				"fr":"Registre Chèques",
+				"zh":"支票台账",
+				"es":"Libro de Cheques"
+			},
+			"slug":"checkLedger"
 		}
 	]
 }
