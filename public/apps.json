@@ -3410,6 +3410,21 @@
 				"es":"Lógica Caja Negra"
 			},
 			"slug":"blackBoxLogic"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Schaltkreis Übung",
+				"ru":"Практика Цепей",
+				"ko":"회로 연습",
+				"pt":"Prática de Circuitos",
+				"ja":"回路練習",
+				"en":"Circuit Practice",
+				"fr":"Exercices Circuits",
+				"zh":"电路练习",
+				"es":"Práctica de Circuitos"
+			},
+			"slug":"circuitPhysicsDrill"
 		}
 	]
 }
