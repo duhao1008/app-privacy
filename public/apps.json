@@ -3650,6 +3650,21 @@
 				"es":"Libro Caja Chica"
 			},
 			"slug":"pettyCashLedger"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Stand Vorbereiten",
+				"ru":"Список Стенда",
+				"ko":"부스 준비 목록",
+				"pt":"Lista de Estande",
+				"ja":"ブース準備リスト",
+				"en":"Booth Prep List",
+				"fr":"Liste de Stand",
+				"zh":"布展清单",
+				"es":"Lista de Stand"
+			},
+			"slug":"boothPrepLedger"
 		}
 	]
 }
