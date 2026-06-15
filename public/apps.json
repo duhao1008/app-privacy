@@ -3545,6 +3545,21 @@
 				"es":"Despacho Ferroviario"
 			},
 			"slug":"railYardPuzzle"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Sonnenkarten Übung",
+				"ru":"Практика Солнечных Карт",
+				"ko":"일조도 연습",
+				"pt":"Treino de Mapa Solar",
+				"ja":"日照図練習",
+				"en":"Sun Map Practice",
+				"fr":"Exercices Carte Solaire",
+				"zh":"日照图练习",
+				"es":"Práctica de Mapa Solar"
+			},
+			"slug":"sunMapGeoTrainer"
 		}
 	]
 }
