@@ -3980,6 +3980,21 @@
 				"es":"Libro de Comisiones"
 			},
 			"slug":"commissionLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Rechnungsbuch",
+				"ru":"Журнал счетов",
+				"ko":"송장 장부",
+				"pt":"Livro de Faturas",
+				"ja":"請求書台帳",
+				"en":"Invoice Ledger",
+				"fr":"Registre Factures",
+				"zh":"发票台账",
+				"es":"Libro de Facturas"
+			},
+			"slug":"invoiceCheckLedger"
 		}
 	]
 }
