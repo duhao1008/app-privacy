@@ -3740,6 +3740,21 @@
 				"es":"Registro de Paquetes"
 			},
 			"slug":"parcelLedger"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Ausweis Layout",
+				"ru":"Макет бейджа",
+				"ko":"사원증 레이아웃",
+				"pt":"Layout de Crachás",
+				"ja":"社員証レイアウト",
+				"en":"Badge Layout",
+				"fr":"Mise en Page Badge",
+				"zh":"工牌排版",
+				"es":"Diseño de Credenciales"
+			},
+			"slug":"badgeCardMaker"
 		}
 	]
 }
