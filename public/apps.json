@@ -3605,6 +3605,21 @@
 				"es":"Tarjetas de Raíces"
 			},
 			"slug":"latinRootsTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Exzerpt Schreibtisch",
+				"ru":"Стол Выписок",
+				"ko":"발췌 데스크",
+				"pt":"Mesa de Recortes",
+				"ja":"抜粋デスク",
+				"en":"Clipping Desk",
+				"fr":"Bureau d'Extraits",
+				"zh":"摘录桌",
+				"es":"Mesa de Extractos"
+			},
+			"slug":"ebookClippingDesk"
 		}
 	]
 }
