@@ -3935,6 +3935,21 @@
 				"es":"Hoja de Recibos"
 			},
 			"slug":"receiptPasteSheet"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Arbeitsauftragsbuch",
+				"ru":"Журнал заявок",
+				"ko":"작업지시 대장",
+				"pt":"Livro de Ordens",
+				"ja":"作業指示台帳",
+				"en":"Work Order Ledger",
+				"fr":"Registre d’Interventions",
+				"zh":"工单台账",
+				"es":"Registro de Órdenes"
+			},
+			"slug":"workOrderLedger"
 		}
 	]
 }
