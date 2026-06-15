@@ -3365,6 +3365,21 @@
 				"es":"Puzzle Fillomino"
 			},
 			"slug":"fillominoPuzzle"
+		},
+		{
+			"lastUpdated":"2026-06-15",
+			"appName":{
+				"de":"Maßstab Üben",
+				"ru":"Тренажер масштаба",
+				"ko":"축척 연습",
+				"pt":"Prática de Escala",
+				"ja":"縮尺練習",
+				"en":"Scale Practice",
+				"fr":"Exercices d'échelle",
+				"zh":"比例尺练习",
+				"es":"Práctica de Escala"
+			},
+			"slug":"mapScaleTrainer"
 		}
 	]
 }
