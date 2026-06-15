@@ -3920,6 +3920,21 @@
 				"es":"Registro de Materiales"
 			},
 			"slug":"materialReceiptLog"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Beleg-Klebeblatt",
+				"ru":"Лист чеков",
+				"ko":"영수증 붙임표",
+				"pt":"Folha de Recibos",
+				"ja":"領収書貼付シート",
+				"en":"Receipt Paste Sheet",
+				"fr":"Feuille de Reçus",
+				"zh":"票据粘贴单",
+				"es":"Hoja de Recibos"
+			},
+			"slug":"receiptPasteSheet"
 		}
 	]
 }
