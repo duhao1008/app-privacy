@@ -4385,6 +4385,21 @@
 				"es":"Carpeta de Recibos"
 			},
 			"slug":"receiptArchive"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Trig Formeln",
+				"ru":"Триг Формулы",
+				"ko":"삼각 공식",
+				"pt":"Fórmulas Trig",
+				"ja":"三角公式",
+				"en":"Trig Formula",
+				"fr":"Formules Trigo",
+				"zh":"三角公式",
+				"es":"Fórmulas Trig"
+			},
+			"slug":"trigFormulaDrill"
 		}
 	]
 }
