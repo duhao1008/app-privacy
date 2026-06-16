@@ -4025,6 +4025,21 @@
 				"es":"Cotizador Imprenta"
 			},
 			"slug":"printQuoteKit"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Sicher Signatur",
+				"ru":"Подпись ТБ",
+				"ko":"안전 서명",
+				"pt":"Assinatura Segura",
+				"ja":"交底サイン",
+				"en":"Brief Sign",
+				"fr":"Signature Sécurité",
+				"zh":"交底签收",
+				"es":"Firma Seguridad"
+			},
+			"slug":"safetyBriefSign"
 		}
 	]
 }
