@@ -4295,6 +4295,21 @@
 				"es":"Ficha Técnica Moda"
 			},
 			"slug":"garmentTechPack"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Rhetorik Üben",
+				"ru":"Практика Риторики",
+				"ko":"수사법 연습",
+				"pt":"Prática de Retórica",
+				"ja":"修辞練習",
+				"en":"Rhetoric Practice",
+				"fr":"Pratique Rhétorique",
+				"zh":"修辞练习",
+				"es":"Práctica Retórica"
+			},
+			"slug":"rhetoricTrainer"
 		}
 	]
 }
