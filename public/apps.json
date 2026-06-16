@@ -4310,6 +4310,21 @@
 				"es":"Práctica Retórica"
 			},
 			"slug":"rhetoricTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Bücherecke Manager",
+				"ru":"Менеджер Книжного Уголка",
+				"ko":"도서 코너 관리자",
+				"pt":"Gestor Cantinho Livros",
+				"ja":"図書コーナー管理",
+				"en":"Book Corner Manager",
+				"fr":"Gestion Coin Livres",
+				"zh":"图书角管家",
+				"es":"Gestor Rincón Libros"
+			},
+			"slug":"classBookCorner"
 		}
 	]
 }
