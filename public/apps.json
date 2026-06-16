@@ -4190,6 +4190,21 @@
 				"es":"Consulta de Eras"
 			},
 			"slug":"eraYearPocket"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Memo Register",
+				"ru":"Журнал записок",
+				"ko":"연락문서 대장",
+				"pt":"Livro de Memorandos",
+				"ja":"連絡票台帳",
+				"en":"Memo Ledger",
+				"fr":"Registre de Mémos",
+				"zh":"联系单台账",
+				"es":"Registro de Memos"
+			},
+			"slug":"contactMemoLedger"
 		}
 	]
 }
