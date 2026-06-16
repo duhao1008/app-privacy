@@ -4550,6 +4550,21 @@
 				"es":"Cuaderno de Canto"
 			},
 			"slug":"singKeyNotebook"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Bestellung",
+				"ru":"Заказ на Покупку",
+				"ko":"구매 주문서",
+				"pt":"Pedido de Compra",
+				"ja":"発注書",
+				"en":"Purchase Order",
+				"fr":"Bon de Commande",
+				"zh":"采购单",
+				"es":"Orden de Compra"
+			},
+			"slug":"purchaseOrderPad"
 		}
 	]
 }
