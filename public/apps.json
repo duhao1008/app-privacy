@@ -4685,6 +4685,21 @@
 				"es":"Registro de Formación"
 			},
 			"slug":"trainingLedger"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Fliegengitter Helfer",
+				"ru":"Помощник Москиток",
+				"ko":"방충망 도우미",
+				"pt":"Ajuda Mosquiteiro",
+				"ja":"網戸アシスタント",
+				"en":"Screen Helper",
+				"fr":"Assistant Moustiquaire",
+				"zh":"纱窗助手",
+				"es":"Asistente Mosquitera"
+			},
+			"slug":"screenWindowSizer"
 		}
 	]
 }
