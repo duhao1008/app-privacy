@@ -4370,6 +4370,21 @@
 				"es":"Lista Feria del Libro"
 			},
 			"slug":"bookFairPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Belegordner",
+				"ru":"Папка квитанций",
+				"ko":"영수증 폴더",
+				"pt":"Pasta de Recibos",
+				"ja":"領収書フォルダ",
+				"en":"Receipt Folder",
+				"fr":"Classeur de Reçus",
+				"zh":"回单夹",
+				"es":"Carpeta de Recibos"
+			},
+			"slug":"receiptArchive"
 		}
 	]
 }
