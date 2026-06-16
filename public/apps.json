@@ -4265,6 +4265,21 @@
 				"es":"Práctica de Líneas Aux"
 			},
 			"slug":"geometryAuxiliaryLine"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Auszugs-Schreibtisch",
+				"ru":"Стол цитат",
+				"ko":"발췌 데스크",
+				"pt":"Mesa de Recortes",
+				"ja":"抜粋デスク",
+				"en":"Clipping Desk",
+				"fr":"Bureau d'Extraits",
+				"zh":"摘录书桌",
+				"es":"Mesa de Extractos"
+			},
+			"slug":"kindleClippingsDesk"
 		}
 	]
 }
