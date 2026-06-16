@@ -4130,6 +4130,21 @@
 				"es":"Modelos de Barras"
 			},
 			"slug":"wordProblemBarModel"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Klassiktext Marker",
+				"ru":"Маркер классич. китайского",
+				"ko":"고문 구두점 노트",
+				"pt":"Marcador Chines Classico",
+				"ja":"古文句読点ノート",
+				"en":"Classical Text Marker",
+				"fr":"Marqueur Chinois Classique",
+				"zh":"古文断句",
+				"es":"Marcador Chino Clasico"
+			},
+			"slug":"classicalTextMarker"
 		}
 	]
 }
