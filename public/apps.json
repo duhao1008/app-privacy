@@ -4610,6 +4610,21 @@
 				"es":"Registro Auto"
 			},
 			"slug":"vehicleAnnualCheckBook"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Feldkampf Helfer",
+				"ru":"Полевой помощник",
+				"ko":"필드 경기 도우미",
+				"pt":"Assistente de Campo",
+				"ja":"フィールド競技助手",
+				"en":"Field Meet Helper",
+				"fr":"Assistant Épreuves",
+				"zh":"田赛助手",
+				"es":"Asistente de Campo"
+			},
+			"slug":"fieldEventKeeper"
 		}
 	]
 }
