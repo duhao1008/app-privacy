@@ -4340,6 +4340,21 @@
 				"es":"Libro de Regalos"
 			},
 			"slug":"businessGiftLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Verbformen",
+				"ru":"Формы глаголов",
+				"ko":"동사 변화",
+				"pt":"Formas Verbais",
+				"ja":"動詞変化",
+				"en":"Verb Forms",
+				"fr":"Formes Verbales",
+				"zh":"动词变形",
+				"es":"Formas Verbales"
+			},
+			"slug":"irregularVerbTrainer"
 		}
 	]
 }
