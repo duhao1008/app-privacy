@@ -4565,6 +4565,21 @@
 				"es":"Orden de Compra"
 			},
 			"slug":"purchaseOrderPad"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Farbmengen Rechner",
+				"ru":"Расчет краски",
+				"ko":"페인트양 계산",
+				"pt":"Cálculo de Tinta",
+				"ja":"塗料量計算",
+				"en":"Paint Amount Calc",
+				"fr":"Calcul Peinture",
+				"zh":"漆量算",
+				"es":"Calculadora de Pintura"
+			},
+			"slug":"paintMixCalc"
 		}
 	]
 }
