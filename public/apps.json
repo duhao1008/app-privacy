@@ -4640,6 +4640,21 @@
 				"es":"Práctica Microscopio"
 			},
 			"slug":"microscopeCalc"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Lesereihenfolge",
+				"ru":"Порядок Чтения",
+				"ko":"독서 순서",
+				"pt":"Ordem de Leitura",
+				"ja":"読書順序",
+				"en":"Reading Order",
+				"fr":"Ordre de Lecture",
+				"zh":"读书顺序",
+				"es":"Orden de Lectura"
+			},
+			"slug":"readingOrderPlanner"
 		}
 	]
 }
