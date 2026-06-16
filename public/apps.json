@@ -4595,6 +4595,21 @@
 				"es":"Gestor de Pilas"
 			},
 			"slug":"batteryModelKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Auto Checkbuch",
+				"ru":"Авто Журнал",
+				"ko":"차량검사 노트",
+				"pt":"Registro do Carro",
+				"ja":"車検ノート",
+				"en":"Car Check Log",
+				"fr":"Carnet Auto",
+				"zh":"车检本",
+				"es":"Registro Auto"
+			},
+			"slug":"vehicleAnnualCheckBook"
 		}
 	]
 }
