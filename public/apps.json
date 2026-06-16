@@ -4415,6 +4415,21 @@
 				"es":"Stock de Libros Usados"
 			},
 			"slug":"usedBookStock"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Akkordlohn Buch",
+				"ru":"Журнал сдельной оплаты",
+				"ko":"성과급 임금장",
+				"pt":"Livro de Pagamento",
+				"ja":"出来高給与帳",
+				"en":"Piecework Pay Book",
+				"fr":"Carnet Paie à la Pièce",
+				"zh":"计件工资本",
+				"es":"Libro de Pago a Destajo"
+			},
+			"slug":"pieceworkPayBook"
 		}
 	]
 }
