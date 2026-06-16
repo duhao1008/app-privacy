@@ -4400,6 +4400,21 @@
 				"es":"Fórmulas Trig"
 			},
 			"slug":"trigFormulaDrill"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Gebrauchtbuch Bestand",
+				"ru":"Учет букинистики",
+				"ko":"헌책 재고",
+				"pt":"Estoque de Livros Usados",
+				"ja":"古本在庫",
+				"en":"Used Book Stock",
+				"fr":"Stock Livres Occasion",
+				"zh":"旧书库存",
+				"es":"Stock de Libros Usados"
+			},
+			"slug":"usedBookStock"
 		}
 	]
 }
