@@ -4445,6 +4445,21 @@
 				"es":"Tutor de Lentes"
 			},
 			"slug":"lensRayTutor"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Level-Bücherregal",
+				"ru":"Уровневая Полка",
+				"ko":"레벨별 책장",
+				"pt":"Estante Graduada",
+				"ja":"レベル別本棚",
+				"en":"Graded Bookshelf",
+				"fr":"Étagère Graduée",
+				"zh":"分级书架",
+				"es":"Estantería Graduada"
+			},
+			"slug":"gradedBookShelf"
 		}
 	]
 }
