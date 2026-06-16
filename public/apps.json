@@ -4115,6 +4115,21 @@
 				"es":"Libro Renta Local"
 			},
 			"slug":"shopRentLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Balkenmodell Aufgaben",
+				"ru":"Схемы к задачам",
+				"ko":"선분도 문장제",
+				"pt":"Modelos de Barras",
+				"ja":"線分図文章題",
+				"en":"Bar Model Word Problems",
+				"fr":"Modèles en Barres",
+				"zh":"线段图应用题",
+				"es":"Modelos de Barras"
+			},
+			"slug":"wordProblemBarModel"
 		}
 	]
 }
