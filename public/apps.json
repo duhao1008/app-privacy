@@ -4505,6 +4505,21 @@
 				"es":"Marcador de Lucha"
 			},
 			"slug":"wrestlingScoreboard"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Geo Grid Training",
+				"ru":"Практика Geo Grid",
+				"ko":"위경도 격자 연습",
+				"pt":"Prática Geo Grid",
+				"ja":"緯度経度グリッド練習",
+				"en":"Geo Grid Practice",
+				"fr":"Exercice Geo Grid",
+				"zh":"经纬网练习",
+				"es":"Práctica Geo Grid"
+			},
+			"slug":"geoGridTrainer"
 		}
 	]
 }
