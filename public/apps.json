@@ -4580,6 +4580,21 @@
 				"es":"Calculadora de Pintura"
 			},
 			"slug":"paintMixCalc"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Batterie Verwalter",
+				"ru":"Учет Батареек",
+				"ko":"배터리 관리장",
+				"pt":"Gestor de Pilhas",
+				"ja":"電池管理ノート",
+				"en":"Battery Keeper",
+				"fr":"Gestion de Piles",
+				"zh":"电池管家",
+				"es":"Gestor de Pilas"
+			},
+			"slug":"batteryModelKeeper"
 		}
 	]
 }
