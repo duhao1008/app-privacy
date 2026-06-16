@@ -4175,6 +4175,21 @@
 				"es":"Práctica Puntuación"
 			},
 			"slug":"punctuationDrill"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Ära-Jahr Suche",
+				"ru":"Поиск лет эр",
+				"ko":"기년 빠른조회",
+				"pt":"Consulta de Eras",
+				"ja":"紀年早見",
+				"en":"Era Year Lookup",
+				"fr":"Recherche d'ères",
+				"zh":"纪年速查",
+				"es":"Consulta de Eras"
+			},
+			"slug":"eraYearPocket"
 		}
 	]
 }
