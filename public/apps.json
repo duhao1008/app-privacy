@@ -4040,6 +4040,21 @@
 				"es":"Firma Seguridad"
 			},
 			"slug":"safetyBriefSign"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Kleinkasse Abgleich",
+				"ru":"Учет подотчета",
+				"ko":"소액현금 정산",
+				"pt":"Caixa Pequeno Controle",
+				"ja":"小口現金精算",
+				"en":"Petty Cash Reconcile",
+				"fr":"Petite Caisse Suivi",
+				"zh":"备用金核销",
+				"es":"Caja Chica Control"
+			},
+			"slug":"pettyCashReconcile"
 		}
 	]
 }
