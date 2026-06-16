@@ -4070,6 +4070,21 @@
 				"es":"Registro de Equipos"
 			},
 			"slug":"specialEquipmentLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Klassische Syntax",
+				"ru":"Классическая синтаксис",
+				"ko":"한문 문형 드릴",
+				"pt":"Sintaxe Clássica",
+				"ja":"漢文句式ドリル",
+				"en":"Classical Syntax Drill",
+				"fr":"Syntaxe Classique",
+				"zh":"句式通",
+				"es":"Sintaxis Clásica"
+			},
+			"slug":"classicalSentenceDrill"
 		}
 	]
 }
