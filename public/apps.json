@@ -4085,6 +4085,21 @@
 				"es":"Sintaxis Clásica"
 			},
 			"slug":"classicalSentenceDrill"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Buchreparatur Log",
+				"ru":"Журнал ремонта книг",
+				"ko":"책 수리 기록",
+				"pt":"Registro de Reparos",
+				"ja":"本の修復記録",
+				"en":"Book Repair Log",
+				"fr":"Journal Réparation Livre",
+				"zh":"修书档案",
+				"es":"Registro de Reparación"
+			},
+			"slug":"bookRepairLog"
 		}
 	]
 }
