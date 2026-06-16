@@ -4700,6 +4700,21 @@
 				"es":"Asistente Mosquitera"
 			},
 			"slug":"screenWindowSizer"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Backrechner",
+				"ru":"Калькулятор выпечки",
+				"ko":"베이킹 변환",
+				"pt":"Conversor de Confeitaria",
+				"ja":"ベーキング換算",
+				"en":"Baking Converter",
+				"fr":"Convertisseur Pâtisserie",
+				"zh":"烘焙换算",
+				"es":"Conversor de Repostería"
+			},
+			"slug":"bakingScaleHelper"
 		}
 	]
 }
