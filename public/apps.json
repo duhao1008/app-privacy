@@ -4520,6 +4520,21 @@
 				"es":"Práctica Geo Grid"
 			},
 			"slug":"geoGridTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Katalog Helfer",
+				"ru":"Помощник каталога",
+				"ko":"목록 도우미",
+				"pt":"Auxiliar de Catálogo",
+				"ja":"目録ヘルパー",
+				"en":"Catalog Helper",
+				"fr":"Assistant Catalogue",
+				"zh":"编目助手",
+				"es":"Asistente Catálogo"
+			},
+			"slug":"catalogMarcHelper"
 		}
 	]
 }
