@@ -4625,6 +4625,21 @@
 				"es":"Asistente de Campo"
 			},
 			"slug":"fieldEventKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Mikroskop Übungen",
+				"ru":"Практика Микроскоп",
+				"ko":"현미경 연습",
+				"pt":"Prática Microscópio",
+				"ja":"顕微鏡練習",
+				"en":"Microscope Practice",
+				"fr":"Exercices Microscope",
+				"zh":"显微镜练习",
+				"es":"Práctica Microscopio"
+			},
+			"slug":"microscopeCalc"
 		}
 	]
 }
