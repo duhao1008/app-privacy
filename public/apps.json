@@ -4100,6 +4100,21 @@
 				"es":"Registro de Reparación"
 			},
 			"slug":"bookRepairLog"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Ladenmiete Kassenbuch",
+				"ru":"Журнал Аренды Точек",
+				"ko":"상가 임대 장부",
+				"pt":"Livro Aluguel Loja",
+				"ja":"店舗家賃台帳",
+				"en":"Shop Rent Ledger",
+				"fr":"Registre Loyer Local",
+				"zh":"铺租台账",
+				"es":"Libro Renta Local"
+			},
+			"slug":"shopRentLedger"
 		}
 	]
 }
