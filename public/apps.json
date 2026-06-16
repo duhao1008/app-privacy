@@ -4670,6 +4670,21 @@
 				"es":"Festival Flow"
 			},
 			"slug":"festivalFlow"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Schulungsregister",
+				"ru":"Журнал обучения",
+				"ko":"교육 대장",
+				"pt":"Livro de Treinamento",
+				"ja":"研修台帳",
+				"en":"Training Ledger",
+				"fr":"Registre Formation",
+				"zh":"培训台账",
+				"es":"Registro de Formación"
+			},
+			"slug":"trainingLedger"
 		}
 	]
 }
