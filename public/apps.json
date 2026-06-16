@@ -4430,6 +4430,21 @@
 				"es":"Libro de Pago a Destajo"
 			},
 			"slug":"pieceworkPayBook"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Linsenstrahl Tutor",
+				"ru":"Тренажер Линз",
+				"ko":"렌즈 작도",
+				"pt":"Tutor de Lentes",
+				"ja":"レンズ作図",
+				"en":"Lens Ray Tutor",
+				"fr":"Tuteur de Lentilles",
+				"zh":"透镜作图",
+				"es":"Tutor de Lentes"
+			},
+			"slug":"lensRayTutor"
 		}
 	]
 }
