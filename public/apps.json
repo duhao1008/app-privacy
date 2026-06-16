@@ -4490,6 +4490,21 @@
 				"es":"Lista Corte Varilla"
 			},
 			"slug":"rebarCutList"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Ringen Anzeigetafel",
+				"ru":"Табло для борьбы",
+				"ko":"레슬링 스코어보드",
+				"pt":"Placar de Luta",
+				"ja":"レスリングスコアボード",
+				"en":"Wrestling Scoreboard",
+				"fr":"Tableau de Lutte",
+				"zh":"摔跤计分板",
+				"es":"Marcador de Lucha"
+			},
+			"slug":"wrestlingScoreboard"
 		}
 	]
 }
