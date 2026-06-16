@@ -4355,6 +4355,21 @@
 				"es":"Formas Verbales"
 			},
 			"slug":"irregularVerbTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Buchmesse Liste",
+				"ru":"Список Книжной Ярмарки",
+				"ko":"북페어 체크리스트",
+				"pt":"Lista Feira do Livro",
+				"ja":"ブックフェアリスト",
+				"en":"Book Fair List",
+				"fr":"Liste Salon du Livre",
+				"zh":"书展清单",
+				"es":"Lista Feria del Libro"
+			},
+			"slug":"bookFairPlanner"
 		}
 	]
 }
