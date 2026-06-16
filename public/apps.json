@@ -4460,6 +4460,21 @@
 				"es":"Estantería Graduada"
 			},
 			"slug":"gradedBookShelf"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Stundenzettel",
+				"ru":"Табель часов",
+				"ko":"작업시간표",
+				"pt":"Folha de Horas",
+				"ja":"作業時間表",
+				"en":"Time Sheet",
+				"fr":"Feuille d'Heures",
+				"zh":"工时单",
+				"es":"Hoja de Horas"
+			},
+			"slug":"workHourLedger"
 		}
 	]
 }
