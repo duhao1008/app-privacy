@@ -4250,6 +4250,21 @@
 				"es":"Registro de Quejas"
 			},
 			"slug":"complaintLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Hilfslinien Übung",
+				"ru":"Практика доп. линий",
+				"ko":"보조선 연습",
+				"pt":"Prática de Linhas Aux",
+				"ja":"補助線練習",
+				"en":"Auxiliary Line Practice",
+				"fr":"Exercice Lignes Aux",
+				"zh":"辅助线练习",
+				"es":"Práctica de Líneas Aux"
+			},
+			"slug":"geometryAuxiliaryLine"
 		}
 	]
 }
