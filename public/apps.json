@@ -4325,6 +4325,21 @@
 				"es":"Gestor Rincón Libros"
 			},
 			"slug":"classBookCorner"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Geschenke-Ledger",
+				"ru":"Учет подарков",
+				"ko":"선물 장부",
+				"pt":"Livro de Presentes",
+				"ja":"ギフト台帳",
+				"en":"Gift Ledger",
+				"fr":"Registre Cadeaux",
+				"zh":"礼品台账",
+				"es":"Libro de Regalos"
+			},
+			"slug":"businessGiftLedger"
 		}
 	]
 }
