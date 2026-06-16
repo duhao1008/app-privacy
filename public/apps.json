@@ -4475,6 +4475,21 @@
 				"es":"Hoja de Horas"
 			},
 			"slug":"workHourLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Bewehrung Zuschnitt",
+				"ru":"Резка Арматуры",
+				"ko":"철근 절단표",
+				"pt":"Lista Corte Vergalhão",
+				"ja":"鉄筋カットリスト",
+				"en":"Rebar Cut List",
+				"fr":"Liste Coupe Fer",
+				"zh":"钢筋下料",
+				"es":"Lista Corte Varilla"
+			},
+			"slug":"rebarCutList"
 		}
 	]
 }
