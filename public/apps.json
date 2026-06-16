@@ -4280,6 +4280,21 @@
 				"es":"Mesa de Extractos"
 			},
 			"slug":"kindleClippingsDesk"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Mode Tech Pack",
+				"ru":"Техкарта одежды",
+				"ko":"샘플 작업지시서",
+				"pt":"Ficha Técnica Moda",
+				"ja":"サンプル仕様書",
+				"en":"Garment Tech Pack",
+				"fr":"Fiche Technique Mode",
+				"zh":"样衣工艺单",
+				"es":"Ficha Técnica Moda"
+			},
+			"slug":"garmentTechPack"
 		}
 	]
 }
