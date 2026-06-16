@@ -4535,6 +4535,21 @@
 				"es":"Asistente Catálogo"
 			},
 			"slug":"catalogMarcHelper"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Gesangsnotizbuch",
+				"ru":"Блокнот для пения",
+				"ko":"노래연습 노트",
+				"pt":"Caderno de Canto",
+				"ja":"歌練習ノート",
+				"en":"Sing Key Notebook",
+				"fr":"Carnet de Chant",
+				"zh":"练歌本",
+				"es":"Cuaderno de Canto"
+			},
+			"slug":"singKeyNotebook"
 		}
 	]
 }
