@@ -4235,6 +4235,21 @@
 				"es":"CalcEncuadernacion"
 			},
 			"slug":"bookBindingCostKit"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Beschwerdebuch",
+				"ru":"Журнал жалоб",
+				"ko":"고객불만 장부",
+				"pt":"Registro de Reclamações",
+				"ja":"苦情台帳",
+				"en":"Complaint Ledger",
+				"fr":"Registre Réclamations",
+				"zh":"客诉台账",
+				"es":"Registro de Quejas"
+			},
+			"slug":"complaintLedger"
 		}
 	]
 }
