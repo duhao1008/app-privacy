@@ -4145,6 +4145,21 @@
 				"es":"Marcador Chino Clasico"
 			},
 			"slug":"classicalTextMarker"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Besuchsprotokoll",
+				"ru":"Журнал визитов",
+				"ko":"방문 장부",
+				"pt":"Livro de Visitas",
+				"ja":"訪問台帳",
+				"en":"Visit Ledger",
+				"fr":"Carnet de Visites",
+				"zh":"拜访台账",
+				"es":"Libro de Visitas"
+			},
+			"slug":"clientVisitLedger"
 		}
 	]
 }
