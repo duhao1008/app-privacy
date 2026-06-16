@@ -4220,6 +4220,21 @@
 				"es":"Práctica de Tonos"
 			},
 			"slug":"pinyinToneCoach"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"BindeRechner",
+				"ru":"РасчетПереплета",
+				"ko":"제본계산",
+				"pt":"CalcEncadernacao",
+				"ja":"製本計算",
+				"en":"BindingCalc",
+				"fr":"CalculReliure",
+				"zh":"装帧算料",
+				"es":"CalcEncuadernacion"
+			},
+			"slug":"bookBindingCostKit"
 		}
 	]
 }
