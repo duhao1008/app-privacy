@@ -4655,6 +4655,21 @@
 				"es":"Orden de Lectura"
 			},
 			"slug":"readingOrderPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Festival Flow",
+				"ru":"Festival Flow",
+				"ko":"페스티벌 일정",
+				"pt":"Festival Flow",
+				"ja":"フェス予定表",
+				"en":"Festival Flow",
+				"fr":"Festival Flow",
+				"zh":"音乐节排期",
+				"es":"Festival Flow"
+			},
+			"slug":"festivalFlow"
 		}
 	]
 }
