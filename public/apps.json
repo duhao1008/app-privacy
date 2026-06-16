@@ -4055,6 +4055,21 @@
 				"es":"Caja Chica Control"
 			},
 			"slug":"pettyCashReconcile"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Gerätebuch",
+				"ru":"Журнал оборудования",
+				"ko":"특수장비 대장",
+				"pt":"Registro de Equipamentos",
+				"ja":"特定設備台帳",
+				"en":"Safety Equipment Ledger",
+				"fr":"Registre Équipements",
+				"zh":"特设台账",
+				"es":"Registro de Equipos"
+			},
+			"slug":"specialEquipmentLedger"
 		}
 	]
 }
