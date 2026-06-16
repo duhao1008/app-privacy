@@ -4160,6 +4160,21 @@
 				"es":"Libro de Visitas"
 			},
 			"slug":"clientVisitLedger"
+		},
+		{
+			"lastUpdated":"2026-06-16",
+			"appName":{
+				"de":"Zeichensetzung Üben",
+				"ru":"Тренажер Пунктуации",
+				"ko":"문장부호 연습",
+				"pt":"Treino de Pontuação",
+				"ja":"句読点ドリル",
+				"en":"Punctuation Drill",
+				"fr":"Exercices Ponctuation",
+				"zh":"标点练习",
+				"es":"Práctica Puntuación"
+			},
+			"slug":"punctuationDrill"
 		}
 	]
 }
