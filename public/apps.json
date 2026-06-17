@@ -5060,6 +5060,21 @@
 				"es":"Cálculo de Andamios"
 			},
 			"slug":"scaffoldCalc"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Pflegeetikett Manager",
+				"ru":"Менеджер ярлыков одежды",
+				"ko":"의류 라벨 관리",
+				"pt":"Guarda Etiquetas Roupa",
+				"ja":"衣類ラベル管理",
+				"en":"Care Label Keeper",
+				"fr":"Gestion Étiquettes Linge",
+				"zh":"衣标管家",
+				"es":"Guarda Etiquetas Ropa"
+			},
+			"slug":"wardrobeCareLabel"
 		}
 	]
 }
