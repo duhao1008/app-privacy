@@ -4940,6 +4940,21 @@
 				"es":"Cálculo de Ductos"
 			},
 			"slug":"ductFlowCalc"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Haushalt Stunden",
+				"ru":"Домашние часы",
+				"ko":"가사도우미 근무기록",
+				"pt":"Horas de Casa",
+				"ja":"家事スタッフ勤務記録",
+				"en":"Home Helper Hours",
+				"fr":"Heures Maison",
+				"zh":"家政工时",
+				"es":"Horas del Hogar"
+			},
+			"slug":"homeHelperLedger"
 		}
 	]
 }
