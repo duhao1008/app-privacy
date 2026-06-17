@@ -5300,6 +5300,21 @@
 				"es":"Regla de Enmarcado"
 			},
 			"slug":"frameMountCalc"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Wohnung Checkliste",
+				"ru":"Список Осмотра",
+				"ko":"집보기 비교표",
+				"pt":"Lista de Visitas",
+				"ja":"内見比較リスト",
+				"en":"Rental Viewing List",
+				"fr":"Liste de Visites",
+				"zh":"看房对比",
+				"es":"Lista de Visitas"
+			},
+			"slug":"rentalViewingChecklist"
 		}
 	]
 }
