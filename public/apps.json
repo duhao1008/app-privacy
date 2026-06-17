@@ -5270,6 +5270,21 @@
 				"es":"Estante Merch"
 			},
 			"slug":"goodsShelf"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Messmittelbuch",
+				"ru":"Журнал мер",
+				"ko":"계량 대장",
+				"pt":"Livro Calibra",
+				"ja":"計量台帳",
+				"en":"Gauge Ledger",
+				"fr":"Registre Étalon",
+				"zh":"计量台账",
+				"es":"Registro Calibra"
+			},
+			"slug":"gaugeCalLedger"
 		}
 	]
 }
