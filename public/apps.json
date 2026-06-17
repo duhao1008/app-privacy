@@ -5390,6 +5390,21 @@
 				"es":"Control de Montacargas"
 			},
 			"slug":"forkliftCheckLog"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Losbox",
+				"ru":"Коробка Жребия",
+				"ko":"추첨 상자",
+				"pt":"Caixa de Sorteio",
+				"ja":"抽選ボックス",
+				"en":"Party Draw Box",
+				"fr":"Boîte de Tirage",
+				"zh":"抽奖箱",
+				"es":"Caja de Sorteo"
+			},
+			"slug":"partyDrawBox"
 		}
 	]
 }
