@@ -5240,6 +5240,21 @@
 				"es":"Diagrama de Fuerzas"
 			},
 			"slug":"forceDiagramCoach"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Buchfolie Lineal",
+				"ru":"Линейка Обложек",
+				"ko":"책 필름 자",
+				"pt":"Regua Capa Livro",
+				"ja":"本カバー定規",
+				"en":"Book Film Ruler",
+				"fr":"Regle Couvre Livre",
+				"zh":"书膜尺",
+				"es":"Regla Forro Libros"
+			},
+			"slug":"bookFilmCalculator"
 		}
 	]
 }
