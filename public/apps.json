@@ -5105,6 +5105,21 @@
 				"es":"Pizarra Voleibol"
 			},
 			"slug":"volleyballTacticsBoard"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Hebel Flaschenzug Coach",
+				"ru":"Рычаги и Блоки Тренер",
+				"ko":"지레 도르래 코치",
+				"pt":"Coach Alavanca Polia",
+				"ja":"てこ滑車コーチ",
+				"en":"Lever Pulley Coach",
+				"fr":"Coach Leviers Poulies",
+				"zh":"杠滑练题",
+				"es":"Palanca Polea Coach"
+			},
+			"slug":"leverPulleyCoach"
 		}
 	]
 }
