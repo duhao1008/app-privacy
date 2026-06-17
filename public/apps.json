@@ -5015,6 +5015,21 @@
 				"es":"Mesa de Lectura"
 			},
 			"slug":"readingAloudDesk"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Zauberprobe",
+				"ru":"Репетиция фокусов",
+				"ko":"마술 리허설",
+				"pt":"Ensaio de Mágica",
+				"ja":"マジックリハーサル",
+				"en":"Magic Rehearsal",
+				"fr":"Répétition Magie",
+				"zh":"魔术排练",
+				"es":"Ensayo de Magia"
+			},
+			"slug":"magicRehearsalCue"
 		}
 	]
 }
