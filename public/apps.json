@@ -4835,6 +4835,21 @@
 				"es":"Rollos de Papel"
 			},
 			"slug":"wallpaperRollCalc"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Meeting Zeitkontrolle",
+				"ru":"Контроль Встреч",
+				"ko":"회의시간 관리",
+				"pt":"Controle de Reunião",
+				"ja":"会議タイム管理",
+				"en":"MeetTime Control",
+				"fr":"Contrôle Réunion",
+				"zh":"会时控",
+				"es":"Control de Reunión"
+			},
+			"slug":"meetingTimeKeeper"
 		}
 	]
 }
