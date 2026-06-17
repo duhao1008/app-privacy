@@ -5180,6 +5180,21 @@
 				"es":"Calc Neumáticos"
 			},
 			"slug":"tireSizeCalc"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Notfallset",
+				"ru":"Тревожный набор",
+				"ko":"비상가방",
+				"pt":"Kit Emergência",
+				"ja":"防災バッグ",
+				"en":"Emergency Kit",
+				"fr":"Kit Urgence",
+				"zh":"应急包",
+				"es":"Kit Emergencia"
+			},
+			"slug":"homeEmergencyKit"
 		}
 	]
 }
