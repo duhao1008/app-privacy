@@ -4970,6 +4970,21 @@
 				"es":"Registro de Llaves"
 			},
 			"slug":"rentalKeyLedger"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Schuhkilometer",
+				"ru":"Пробег кроссовок",
+				"ko":"러닝화 마일리지",
+				"pt":"KM do Tênis",
+				"ja":"ランシュー距離",
+				"en":"Shoe Mileage",
+				"fr":"Kilométrage Chaussures",
+				"zh":"跑鞋里程",
+				"es":"Kilómetros Zapatillas"
+			},
+			"slug":"shoeMileageTracker"
 		}
 	]
 }
