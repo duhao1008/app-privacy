@@ -4790,6 +4790,21 @@
 				"es":"Cartel Fan Luz"
 			},
 			"slug":"fanLightBoard"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Büroplatz Planer",
+				"ru":"План рабочих мест",
+				"ko":"좌석 배치 플래너",
+				"pt":"Mapa de Postos",
+				"ja":"座席工位プランナー",
+				"en":"Desk Seat Planner",
+				"fr":"Plan de Bureaux",
+				"zh":"工位排座",
+				"es":"Plan de Puestos"
+			},
+			"slug":"officeSeatMapper"
 		}
 	]
 }
