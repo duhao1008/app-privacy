@@ -4715,6 +4715,21 @@
 				"es":"Conversor de Repostería"
 			},
 			"slug":"bakingScaleHelper"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Fliesen Layout",
+				"ru":"Раскладка Плитки",
+				"ko":"타일 배치",
+				"pt":"Layout de Azulejos",
+				"ja":"タイル割付",
+				"en":"Tile Layout",
+				"fr":"Calepinage Carrelage",
+				"zh":"瓷砖排版",
+				"es":"Diseño de Baldosas"
+			},
+			"slug":"tileLayoutCalc"
 		}
 	]
 }
