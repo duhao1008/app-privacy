@@ -5225,6 +5225,21 @@
 				"es":"Fuel Running"
 			},
 			"slug":"runningFuelPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Kraftdiagramm Trainer",
+				"ru":"Схема Сил",
+				"ko":"힘 도식 연습",
+				"pt":"Diagrama de Forças",
+				"ja":"力の図 練習",
+				"en":"Force Diagram Coach",
+				"fr":"Schema de Forces",
+				"zh":"受力图练习",
+				"es":"Diagrama de Fuerzas"
+			},
+			"slug":"forceDiagramCoach"
 		}
 	]
 }
