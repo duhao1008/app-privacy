@@ -5345,6 +5345,21 @@
 				"es":"Split de Remo"
 			},
 			"slug":"crewSplitTimer"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Gedicht Diktat",
+				"ru":"Диктант Стихов",
+				"ko":"한시 받아쓰기",
+				"pt":"Ditado de Poemas",
+				"ja":"漢詩暗記練習",
+				"en":"Poetry Dictation",
+				"fr":"Dictée de Poèmes",
+				"zh":"古诗默写",
+				"es":"Dictado de Poemas"
+			},
+			"slug":"poetryDictationTrainer"
 		}
 	]
 }
