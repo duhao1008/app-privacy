@@ -5255,6 +5255,21 @@
 				"es":"Regla Forro Libros"
 			},
 			"slug":"bookFilmCalculator"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Merch Regal",
+				"ru":"Полка Мерча",
+				"ko":"굿즈 선반",
+				"pt":"Estante Merch",
+				"ja":"グッズ棚",
+				"en":"Goods Shelf",
+				"fr":"Etagere Merch",
+				"zh":"谷子架",
+				"es":"Estante Merch"
+			},
+			"slug":"goodsShelf"
 		}
 	]
 }
