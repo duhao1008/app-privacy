@@ -4895,6 +4895,21 @@
 				"es":"Notas de Lectura"
 			},
 			"slug":"ebookClippingNotebook"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"TRPG Rundenplaner",
+				"ru":"Раунды TRPG",
+				"ko":"TRPG 라운드 관리",
+				"pt":"Rodadas TRPG",
+				"ja":"TRPGラウンド管理",
+				"en":"TRPG Round Keeper",
+				"fr":"Tours TRPG",
+				"zh":"跑团轮次",
+				"es":"Turnos TRPG"
+			},
+			"slug":"trpgRoundKeeper"
 		}
 	]
 }
