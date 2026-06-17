@@ -5120,6 +5120,21 @@
 				"es":"Palanca Polea Coach"
 			},
 			"slug":"leverPulleyCoach"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Klassiker Spuren",
+				"ru":"Нити классики",
+				"ko":"고전 단서 노트",
+				"pt":"Pistas de Clássicos",
+				"ja":"名作手がかり帳",
+				"en":"Classic Clue Map",
+				"fr":"Indices Classiques",
+				"zh":"名著线索",
+				"es":"Pistas de Clásicos"
+			},
+			"slug":"classicNovelMap"
 		}
 	]
 }
