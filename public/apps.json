@@ -4910,6 +4910,21 @@
 				"es":"Turnos TRPG"
 			},
 			"slug":"trpgRoundKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Bewirtungsbuch",
+				"ru":"Журнал приемов",
+				"ko":"접대비 장부",
+				"pt":"Livro de Hospitalidade",
+				"ja":"接待費台帳",
+				"en":"Hospitality Ledger",
+				"fr":"Registre Invitations",
+				"zh":"招待费台账",
+				"es":"Libro de Atenciones"
+			},
+			"slug":"hospitalityLedger"
 		}
 	]
 }
