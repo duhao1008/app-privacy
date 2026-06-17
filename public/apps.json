@@ -5075,6 +5075,21 @@
 				"es":"Guarda Etiquetas Ropa"
 			},
 			"slug":"wardrobeCareLabel"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Entscheidungsmatrix",
+				"ru":"Матрица решений",
+				"ko":"의사결정 매트릭스",
+				"pt":"Matriz de Decisão",
+				"ja":"意思決定マトリクス",
+				"en":"Decision Matrix Pro",
+				"fr":"Matrice de Décision",
+				"zh":"决策矩阵",
+				"es":"Matriz de Decisión"
+			},
+			"slug":"decisionMatrixPro"
 		}
 	]
 }
