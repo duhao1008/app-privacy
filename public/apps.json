@@ -5030,6 +5030,21 @@
 				"es":"Ensayo de Magia"
 			},
 			"slug":"magicRehearsalCue"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Fremdarbeit Buch",
+				"ru":"Внешние заказы",
+				"ko":"외주가공 장부",
+				"pt":"Ordens Externas",
+				"ja":"外注加工台帳",
+				"en":"Outsource Order",
+				"fr":"Ordres Sous-traités",
+				"zh":"外协单",
+				"es":"Órdenes Externas"
+			},
+			"slug":"outsourceOrderLedger"
 		}
 	]
 }
