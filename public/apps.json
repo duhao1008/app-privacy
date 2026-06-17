@@ -5285,6 +5285,21 @@
 				"es":"Registro Calibra"
 			},
 			"slug":"gaugeCalLedger"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Rahmen Lineal",
+				"ru":"Линейка Рамки",
+				"ko":"액자 재단 자",
+				"pt":"Régua de Moldura",
+				"ja":"額装ルーラー",
+				"en":"Frame Mount Ruler",
+				"fr":"Regle dEncadrement",
+				"zh":"装裱尺",
+				"es":"Regla de Enmarcado"
+			},
+			"slug":"frameMountCalc"
 		}
 	]
 }
