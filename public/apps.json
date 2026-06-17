@@ -5195,6 +5195,21 @@
 				"es":"Kit Emergencia"
 			},
 			"slug":"homeEmergencyKit"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Privacy Masker",
+				"ru":"Маска Фото",
+				"ko":"프라이버시 마스크",
+				"pt":"Privacidade Foto",
+				"ja":"写真マスク",
+				"en":"Privacy Masker",
+				"fr":"Masque Photo",
+				"zh":"隐私打码",
+				"es":"Privacidad Foto"
+			},
+			"slug":"privacyMasker"
 		}
 	]
 }
