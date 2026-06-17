@@ -4865,6 +4865,21 @@
 				"es":"Temporizador Hangboard"
 			},
 			"slug":"hangboardTimer"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Klimadiagramm Üben",
+				"ru":"Практика Климатограмм",
+				"ko":"기후 그래프 연습",
+				"pt":"Prática de Clima",
+				"ja":"気候グラフ練習",
+				"en":"Climate Graph Practice",
+				"fr":"Exercices Climat",
+				"zh":"气候图练习",
+				"es":"Práctica de Clima"
+			},
+			"slug":"climateGraphTrainer"
 		}
 	]
 }
