@@ -4850,6 +4850,21 @@
 				"es":"Control de Reunión"
 			},
 			"slug":"meetingTimeKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Hangboard Timer",
+				"ru":"Таймер фингерборда",
+				"ko":"행보드 타이머",
+				"pt":"Temporizador Hangboard",
+				"ja":"フィンガーボードタイマー",
+				"en":"Hangboard Timer",
+				"fr":"Minuteur Hangboard",
+				"zh":"指力板计时",
+				"es":"Temporizador Hangboard"
+			},
+			"slug":"hangboardTimer"
 		}
 	]
 }
