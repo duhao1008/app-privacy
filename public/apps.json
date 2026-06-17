@@ -4730,6 +4730,21 @@
 				"es":"Diseño de Baldosas"
 			},
 			"slug":"tileLayoutCalc"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"GreenScore Golf",
+				"ru":"GreenScore Golf",
+				"ko":"그린스코어 골프",
+				"pt":"GreenScore Golf",
+				"ja":"グリーンスコア",
+				"en":"GreenScore Golf",
+				"fr":"GreenScore Golf",
+				"zh":"果岭记分",
+				"es":"GreenScore Golf"
+			},
+			"slug":"golfScoreCard"
 		}
 	]
 }
