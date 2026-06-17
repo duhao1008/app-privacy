@@ -5090,6 +5090,21 @@
 				"es":"Matriz de Decisión"
 			},
 			"slug":"decisionMatrixPro"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Volleyball Taktiktafel",
+				"ru":"Тактика волейбола",
+				"ko":"배구 전술판",
+				"pt":"Quadro Vôlei Tático",
+				"ja":"バレー戦術ボード",
+				"en":"Volleyball Tactics",
+				"fr":"Tableau Tactique Volley",
+				"zh":"排球战术板",
+				"es":"Pizarra Voleibol"
+			},
+			"slug":"volleyballTacticsBoard"
 		}
 	]
 }
