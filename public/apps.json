@@ -4985,6 +4985,21 @@
 				"es":"Kilómetros Zapatillas"
 			},
 			"slug":"shoeMileageTracker"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Auftrieb Üben",
+				"ru":"Практика Выталкивания",
+				"ko":"부력 연습",
+				"pt":"Prática de Flutuação",
+				"ja":"浮力練習",
+				"en":"Buoyancy Practice",
+				"fr":"Exercices de Poussée",
+				"zh":"浮力练习",
+				"es":"Práctica de Flotación"
+			},
+			"slug":"buoyancyLab"
 		}
 	]
 }
