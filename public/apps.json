@@ -4880,6 +4880,21 @@
 				"es":"Práctica de Clima"
 			},
 			"slug":"climateGraphTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Leseauszüge",
+				"ru":"Заметки из книг",
+				"ko":"발췌 정리",
+				"pt":"Notas de Leitura",
+				"ja":"抜粋整理",
+				"en":"ClipShelf",
+				"fr":"Extraits de lecture",
+				"zh":"摘录整理",
+				"es":"Notas de Lectura"
+			},
+			"slug":"ebookClippingNotebook"
 		}
 	]
 }
