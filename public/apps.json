@@ -5165,6 +5165,21 @@
 				"es":"Registro Limpieza"
 			},
 			"slug":"cleaningShiftCheck"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Reifen Rechner",
+				"ru":"Расчет шин",
+				"ko":"타이어 계산기",
+				"pt":"Calc Pneus",
+				"ja":"タイヤ換算",
+				"en":"Tire Size Calc",
+				"fr":"Calc Pneus",
+				"zh":"轮胎换算",
+				"es":"Calc Neumáticos"
+			},
+			"slug":"tireSizeCalc"
 		}
 	]
 }
