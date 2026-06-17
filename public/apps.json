@@ -5360,6 +5360,21 @@
 				"es":"Dictado de Poemas"
 			},
 			"slug":"poetryDictationTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Buch Vokabelnotizen",
+				"ru":"Словарь из Книг",
+				"ko":"원서 단어 노트",
+				"pt":"Vocabulário de Livros",
+				"ja":"原書語彙ノート",
+				"en":"Book Vocab Notes",
+				"fr":"Vocabulaire de Livres",
+				"zh":"原版书生词",
+				"es":"Vocabulario de Libros"
+			},
+			"slug":"originalBookVocab"
 		}
 	]
 }
