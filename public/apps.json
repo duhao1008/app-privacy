@@ -5045,6 +5045,21 @@
 				"es":"Órdenes Externas"
 			},
 			"slug":"outsourceOrderLedger"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Gerüst Material Rechner",
+				"ru":"Расчет Лесов",
+				"ko":"비계 자재 계산",
+				"pt":"Cálculo de Andaimes",
+				"ja":"足場材料計算",
+				"en":"Scaffold Material Calc",
+				"fr":"Calcul Matériel Échafaud",
+				"zh":"脚手架算料",
+				"es":"Cálculo de Andamios"
+			},
+			"slug":"scaffoldCalc"
 		}
 	]
 }
