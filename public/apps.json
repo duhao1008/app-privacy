@@ -4760,6 +4760,21 @@
 				"es":"Coexistencia Iónica"
 			},
 			"slug":"ionCoexistenceDrill"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Alte Bücher Archiv",
+				"ru":"Архив старых книг",
+				"ko":"고서 장부",
+				"pt":"Livro Antigo",
+				"ja":"古書台帳",
+				"en":"Rare Book Ledger",
+				"fr":"Registre Livres Anciens",
+				"zh":"古籍簿",
+				"es":"Libro Antiguo"
+			},
+			"slug":"ancientBookLedger"
 		}
 	]
 }
