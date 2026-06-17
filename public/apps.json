@@ -4745,6 +4745,21 @@
 				"es":"GreenScore Golf"
 			},
 			"slug":"golfScoreCard"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Ionen Koexistenz",
+				"ru":"Совместимость Ионов",
+				"ko":"이온 공존",
+				"pt":"Coexistência Iônica",
+				"ja":"イオン共存",
+				"en":"Ion Coexistence",
+				"fr":"Coexistence Ionique",
+				"zh":"离子共存",
+				"es":"Coexistencia Iónica"
+			},
+			"slug":"ionCoexistenceDrill"
 		}
 	]
 }
