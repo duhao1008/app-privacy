@@ -5150,6 +5150,21 @@
 				"es":"Orden de Pelis"
 			},
 			"slug":"movieUniverseOrder"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Reinigungslog",
+				"ru":"Журнал уборки",
+				"ko":"청소 점검대장",
+				"pt":"Livro de Limpeza",
+				"ja":"清掃点検台帳",
+				"en":"Clean Shift Log",
+				"fr":"Registre Nettoyage",
+				"zh":"洁检台账",
+				"es":"Registro Limpieza"
+			},
+			"slug":"cleaningShiftCheck"
 		}
 	]
 }
