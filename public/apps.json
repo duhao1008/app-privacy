@@ -4775,6 +4775,21 @@
 				"es":"Libro Antiguo"
 			},
 			"slug":"ancientBookLedger"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Fan Licht Schild",
+				"ru":"Фан Лайт Табло",
+				"ko":"응원 라이트 보드",
+				"pt":"Placa de Fã Luz",
+				"ja":"応援ライトボード",
+				"en":"Fan Light Sign",
+				"fr":"Panneau Fan Lumière",
+				"zh":"应援灯牌",
+				"es":"Cartel Fan Luz"
+			},
+			"slug":"fanLightBoard"
 		}
 	]
 }
