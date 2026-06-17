@@ -4955,6 +4955,21 @@
 				"es":"Horas del Hogar"
 			},
 			"slug":"homeHelperLedger"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Mietschlüssel-Log",
+				"ru":"Журнал ключей",
+				"ko":"임대 키 대장",
+				"pt":"Registro de Chaves",
+				"ja":"賃貸キー台帳",
+				"en":"Rental Key Ledger",
+				"fr":"Registre de Clés",
+				"zh":"租钥台账",
+				"es":"Registro de Llaves"
+			},
+			"slug":"rentalKeyLedger"
 		}
 	]
 }
