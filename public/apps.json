@@ -5135,6 +5135,21 @@
 				"es":"Pistas de Clásicos"
 			},
 			"slug":"classicNovelMap"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Filmreihen Notizen",
+				"ru":"Порядок фильмов",
+				"ko":"영화 순서 노트",
+				"pt":"Ordem de Filmes",
+				"ja":"映画順メモ",
+				"en":"Movie Order Notes",
+				"fr":"Ordre des Films",
+				"zh":"观影顺序",
+				"es":"Orden de Pelis"
+			},
+			"slug":"movieUniverseOrder"
 		}
 	]
 }
