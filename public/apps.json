@@ -5210,6 +5210,21 @@
 				"es":"Privacidad Foto"
 			},
 			"slug":"privacyMasker"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Run Fuel Planer",
+				"ru":"Питание Бега",
+				"ko":"러닝 보급 계획",
+				"pt":"Fuel Corrida",
+				"ja":"ラン補給計画",
+				"en":"Run Fuel Planner",
+				"fr":"Fuel Course",
+				"zh":"跑步补给",
+				"es":"Fuel Running"
+			},
+			"slug":"runningFuelPlanner"
 		}
 	]
 }
