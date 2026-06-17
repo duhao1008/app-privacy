@@ -4925,6 +4925,21 @@
 				"es":"Libro de Atenciones"
 			},
 			"slug":"hospitalityLedger"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Kanal Rechner",
+				"ru":"Расчет воздуховодов",
+				"ko":"덕트 계산",
+				"pt":"Cálculo de Dutos",
+				"ja":"ダクト計算",
+				"en":"Duct Flow Calc",
+				"fr":"Calcul de Gaines",
+				"zh":"风管计算",
+				"es":"Cálculo de Ductos"
+			},
+			"slug":"ductFlowCalc"
 		}
 	]
 }
