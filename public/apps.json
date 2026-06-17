@@ -5330,6 +5330,21 @@
 				"es":"Sobres Desk"
 			},
 			"slug":"envelopePrintDesk"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Ruder Split Timer",
+				"ru":"Гребной Сплит",
+				"ko":"조정 분할 타이머",
+				"pt":"Split de Remo",
+				"ja":"ロー分割タイマー",
+				"en":"Crew Split Timer",
+				"fr":"Split Aviron",
+				"zh":"划船分段",
+				"es":"Split de Remo"
+			},
+			"slug":"crewSplitTimer"
 		}
 	]
 }
