@@ -5315,6 +5315,21 @@
 				"es":"Lista de Visitas"
 			},
 			"slug":"rentalViewingChecklist"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Umschlag Desk",
+				"ru":"Конверт Деск",
+				"ko":"봉투 데스크",
+				"pt":"Sobres Desk",
+				"ja":"封筒デスク",
+				"en":"Envelope Desk",
+				"fr":"Bureau Enveloppes",
+				"zh":"信封助手",
+				"es":"Sobres Desk"
+			},
+			"slug":"envelopePrintDesk"
 		}
 	]
 }
