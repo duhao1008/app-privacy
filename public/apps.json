@@ -5375,6 +5375,21 @@
 				"es":"Vocabulario de Libros"
 			},
 			"slug":"originalBookVocab"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Stapler Check Log",
+				"ru":"Проверка Погрузчика",
+				"ko":"지게차 점검",
+				"pt":"Inspeção Empilhadeira",
+				"ja":"フォークリフト点検",
+				"en":"Forklift Check Log",
+				"fr":"Contrôle Chariot",
+				"zh":"叉车点检",
+				"es":"Control de Montacargas"
+			},
+			"slug":"forkliftCheckLog"
 		}
 	]
 }
