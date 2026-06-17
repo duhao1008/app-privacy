@@ -4805,6 +4805,21 @@
 				"es":"Plan de Puestos"
 			},
 			"slug":"officeSeatMapper"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Hebelast Check",
+				"ru":"Расчет строповки",
+				"ko":"인양 하중 점검",
+				"pt":"Verificação de Içamento",
+				"ja":"吊り荷重チェック",
+				"en":"Rigging Check",
+				"fr":"Contrôle Levage",
+				"zh":"吊装核算",
+				"es":"Chequeo de Izaje"
+			},
+			"slug":"riggingLoadCalc"
 		}
 	]
 }
