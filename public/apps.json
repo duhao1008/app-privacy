@@ -5000,6 +5000,21 @@
 				"es":"Práctica de Flotación"
 			},
 			"slug":"buoyancyLab"
+		},
+		{
+			"lastUpdated":"2026-06-17",
+			"appName":{
+				"de":"Lautlese Schreibtisch",
+				"ru":"Стол для чтения",
+				"ko":"낭독 책상",
+				"pt":"Mesa de Leitura",
+				"ja":"音読デスク",
+				"en":"Read Aloud Desk",
+				"fr":"Bureau de Lecture",
+				"zh":"朗读书桌",
+				"es":"Mesa de Lectura"
+			},
+			"slug":"readingAloudDesk"
 		}
 	]
 }
