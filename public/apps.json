@@ -5780,6 +5780,21 @@
 				"es":"Roscas de Tubo"
 			},
 			"slug":"pipeThreadPocket"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Familienessen Plan",
+				"ru":"Семейный Ужин",
+				"ko":"가족식사 준비",
+				"pt":"Lista Jantar Familia",
+				"ja":"家宴準備リスト",
+				"en":"Dinner Prep List",
+				"fr":"Liste Repas Famille",
+				"zh":"家宴备菜",
+				"es":"Lista Cena Familiar"
+			},
+			"slug":"familyDinnerPlanner"
 		}
 	]
 }
