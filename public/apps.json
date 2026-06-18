@@ -5840,6 +5840,21 @@
 				"es":"Practica Tongjia"
 			},
 			"slug":"tongjiaziTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Zitatbox",
+				"ru":"Копилка цитат",
+				"ko":"인용클립",
+				"pt":"Cofre de Citas",
+				"ja":"引用クリップ",
+				"en":"Quote Vault",
+				"fr":"Boite a Citations",
+				"zh":"引文夹",
+				"es":"Caja de Citas"
+			},
+			"slug":"bookQuoteVault"
 		}
 	]
 }
