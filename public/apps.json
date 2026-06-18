@@ -5435,6 +5435,21 @@
 				"es":"Caja de Zapatos"
 			},
 			"slug":"shoeBoxKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Stempelsteuer Buch",
+				"ru":"Журнал Гербсбора",
+				"ko":"인지세 장부",
+				"pt":"Livro Imposto Selo",
+				"ja":"印紙税台帳",
+				"en":"Stamp Tax Ledger",
+				"fr":"Registre Droit Timbre",
+				"zh":"印花税台账",
+				"es":"Libro Impuesto Sello"
+			},
+			"slug":"stampDutyLedger"
 		}
 	]
 }
