@@ -5810,6 +5810,21 @@
 				"es":"Tablero de Turnos"
 			},
 			"slug":"shiftHandoverBoard"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Sprungwertung",
+				"ru":"Оценки прыжков",
+				"ko":"다이빙 점수",
+				"pt":"Pontuacao Mergulho",
+				"ja":"飛込スコア",
+				"en":"Dive Scorebook",
+				"fr":"Notes Plongeon",
+				"zh":"跳水计分",
+				"es":"Puntaje de Saltos"
+			},
+			"slug":"diveScoreBook"
 		}
 	]
 }
