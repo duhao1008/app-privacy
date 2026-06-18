@@ -5660,6 +5660,21 @@
 				"es":"Suelo Radiante Calc"
 			},
 			"slug":"floorHeatPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Blumen Pflegebuch",
+				"ru":"Уход за Цветами",
+				"ko":"꽃 관리 기록",
+				"pt":"Cuida Flores",
+				"ja":"花ケア記録",
+				"en":"Flower Care Keeper",
+				"fr":"Soin des Fleurs",
+				"zh":"花期管家",
+				"es":"Cuida Flores"
+			},
+			"slug":"flowerCareKeeper"
 		}
 	]
 }
