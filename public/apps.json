@@ -5405,6 +5405,21 @@
 				"es":"Caja de Sorteo"
 			},
 			"slug":"partyDrawBox"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Glas Zuschnitt",
+				"ru":"Раскрой Стекла",
+				"ko":"유리 재단 계산",
+				"pt":"Corte de Vidro",
+				"ja":"ガラス裁断計算",
+				"en":"Glass Cut Calc",
+				"fr":"Coupe de Verre",
+				"zh":"玻璃裁切",
+				"es":"Corte de Vidrio"
+			},
+			"slug":"glassCutCalc"
 		}
 	]
 }
