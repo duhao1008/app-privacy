@@ -5675,6 +5675,21 @@
 				"es":"Cuida Flores"
 			},
 			"slug":"flowerCareKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Sitzplan Klasse",
+				"ru":"План Рассадки",
+				"ko":"교실 좌석표 플래너",
+				"pt":"Mapa de Sala",
+				"ja":"教室座席プランナー",
+				"en":"Class Seat Planner",
+				"fr":"Plan de Classe",
+				"zh":"班级座位表",
+				"es":"Plano de Aula"
+			},
+			"slug":"classSeatPlanner"
 		}
 	]
 }
