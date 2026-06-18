@@ -5495,6 +5495,21 @@
 				"es":"Plan Folletos"
 			},
 			"slug":"bookletPrintPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Posenkarten",
+				"ru":"Карты Поз",
+				"ko":"포즈 카드",
+				"pt":"Cartas de Pose",
+				"ja":"ポーズカード",
+				"en":"Pose Deck",
+				"fr":"Cartes de Pose",
+				"zh":"姿势卡",
+				"es":"Cartas de Pose"
+			},
+			"slug":"cosplayPoseDeck"
 		}
 	]
 }
