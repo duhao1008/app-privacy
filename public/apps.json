@@ -5750,6 +5750,21 @@
 				"es":"Cuaderno de Setlists"
 			},
 			"slug":"concertSetlistTracker"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Feueruebung Log",
+				"ru":"Журнал Пожарных Учений",
+				"ko":"소방훈련 대장",
+				"pt":"Registro de Simulados",
+				"ja":"消防訓練台帳",
+				"en":"Fire Drill Log",
+				"fr":"Registre Exercices Feu",
+				"zh":"演练台账",
+				"es":"Registro Simulacros"
+			},
+			"slug":"fireDrillLog"
 		}
 	]
 }
