@@ -5540,6 +5540,21 @@
 				"es":"Aislamiento Tubos"
 			},
 			"slug":"pipeInsulationCalc"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Reste Manager",
+				"ru":"Остатки еды",
+				"ko":"남은 음식 관리",
+				"pt":"Sobras Geladeira",
+				"ja":"残り物キーパー",
+				"en":"Leftover Keeper",
+				"fr":"Restes Frigo",
+				"zh":"剩菜管家",
+				"es":"Sobras Nevera"
+			},
+			"slug":"fridgeLeftoverPlanner"
 		}
 	]
 }
