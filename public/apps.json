@@ -5480,6 +5480,21 @@
 				"es":"Práctica Isobaras"
 			},
 			"slug":"isobarTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Broschürenplaner",
+				"ru":"План Буклета",
+				"ko":"소책자 인쇄",
+				"pt":"Plano de Folhetos",
+				"ja":"小冊子面付け",
+				"en":"Booklet Planner",
+				"fr":"Plan Livrets",
+				"zh":"小册拼版",
+				"es":"Plan Folletos"
+			},
+			"slug":"bookletPrintPlanner"
 		}
 	]
 }
