@@ -5690,6 +5690,21 @@
 				"es":"Plano de Aula"
 			},
 			"slug":"classSeatPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Hebekarte",
+				"ru":"Карточка Подходов",
+				"ko":"역도 시기 카드",
+				"pt":"Cartão de Tentativas",
+				"ja":"試技カード",
+				"en":"Lift Attempt Card",
+				"fr":"Carte d'Essais",
+				"zh":"试举卡",
+				"es":"Tarjeta de Intentos"
+			},
+			"slug":"weightliftingMeetCard"
 		}
 	]
 }
