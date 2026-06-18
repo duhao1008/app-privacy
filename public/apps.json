@@ -5510,6 +5510,21 @@
 				"es":"Cartas de Pose"
 			},
 			"slug":"cosplayPoseDeck"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Export Angebot",
+				"ru":"Экспорт Смета",
+				"ko":"무역 견적",
+				"pt":"Cotacao Trade",
+				"ja":"貿易見積",
+				"en":"Trade Quote",
+				"fr":"Devis Export",
+				"zh":"外贸报价",
+				"es":"Cotizacion Trade"
+			},
+			"slug":"tradeQuoteCalc"
 		}
 	]
 }
