@@ -5525,6 +5525,21 @@
 				"es":"Cotizacion Trade"
 			},
 			"slug":"tradeQuoteCalc"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Rohrdämmung",
+				"ru":"Изоляция труб",
+				"ko":"배관 보온 계산",
+				"pt":"Isolamento Tubos",
+				"ja":"配管保温計算",
+				"en":"Pipe Insulation",
+				"fr":"Isolation Tuyaux",
+				"zh":"保温下料",
+				"es":"Aislamiento Tubos"
+			},
+			"slug":"pipeInsulationCalc"
 		}
 	]
 }
