@@ -5705,6 +5705,21 @@
 				"es":"Tarjeta de Intentos"
 			},
 			"slug":"weightliftingMeetCard"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Abstandsaufgaben",
+				"ru":"Задачи на Интервалы",
+				"ko":"나무심기 연습",
+				"pt":"Intervalos Matemática",
+				"ja":"植木算練習",
+				"en":"Tree Gap Tutor",
+				"fr":"Problèmes d'Intervalles",
+				"zh":"植树练习",
+				"es":"Intervalos Mate"
+			},
+			"slug":"treeGapTutor"
 		}
 	]
 }
