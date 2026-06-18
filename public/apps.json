@@ -5570,6 +5570,21 @@
 				"es":"Medidas Reforma"
 			},
 			"slug":"roomMeasureLog"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Bike Größe",
+				"ru":"Размер велосипеда",
+				"ko":"자전거 사이즈",
+				"pt":"Tamanho Bike",
+				"ja":"自転車サイズ",
+				"en":"Bike Fit Sizer",
+				"fr":"Taille Vélo",
+				"zh":"骑行尺码",
+				"es":"Talla Bicicleta"
+			},
+			"slug":"bikeFitSizer"
 		}
 	]
 }
