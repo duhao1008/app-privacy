@@ -5600,6 +5600,21 @@
 				"es":"Digitacion de Escalas"
 			},
 			"slug":"pianoScaleCoach"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Sonderbuch Kartei",
+				"ru":"Учет спецкниг",
+				"ko":"특장본 장부",
+				"pt":"Registro de Livros",
+				"ja":"特装本台帳",
+				"en":"Special Book Ledger",
+				"fr":"Registre Livres",
+				"zh":"特装书台账",
+				"es":"Registro Libros"
+			},
+			"slug":"specialBookLedger"
 		}
 	]
 }
