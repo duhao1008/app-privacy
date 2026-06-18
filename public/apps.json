@@ -5645,6 +5645,21 @@
 				"es":"Carga Contenedor"
 			},
 			"slug":"containerLoadPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Fußbodenheizung Plan",
+				"ru":"Теплый Пол Расчет",
+				"ko":"바닥난방 배관 계산",
+				"pt":"Piso Radiante Calc",
+				"ja":"床暖房配管計算",
+				"en":"Floor Heat Planner",
+				"fr":"Plancher Chauffant",
+				"zh":"地暖算管",
+				"es":"Suelo Radiante Calc"
+			},
+			"slug":"floorHeatPlanner"
 		}
 	]
 }
