@@ -5870,6 +5870,21 @@
 				"es":"Fiesta Infiltrado"
 			},
 			"slug":"undercoverPartyKit"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Mietbuch",
+				"ru":"Журнал Аренды",
+				"ko":"대여 장부",
+				"pt":"Livro de Aluguel",
+				"ja":"レンタル台帳",
+				"en":"Rental Ledger",
+				"fr":"Registre Location",
+				"zh":"租赁台账",
+				"es":"Libro de Alquiler"
+			},
+			"slug":"equipmentRentalLedger"
 		}
 	]
 }
