@@ -5450,6 +5450,21 @@
 				"es":"Libro Impuesto Sello"
 			},
 			"slug":"stampDutyLedger"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Speichenlänge",
+				"ru":"Длина спиц",
+				"ko":"스포크 길이 계산",
+				"pt":"Cálculo de Raios",
+				"ja":"スポーク長計算",
+				"en":"Spoke Length Calc",
+				"fr":"Calcul Rayons",
+				"zh":"辐条计算",
+				"es":"Cálculo de Radios"
+			},
+			"slug":"spokeLengthCalc"
 		}
 	]
 }
