@@ -5720,6 +5720,21 @@
 				"es":"Intervalos Mate"
 			},
 			"slug":"treeGapTutor"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Buchspenden Liste",
+				"ru":"Список Дарения Книг",
+				"ko":"도서 기부 목록",
+				"pt":"Lista de Doar Livros",
+				"ja":"寄付本リスト",
+				"en":"Book Donation Log",
+				"fr":"Liste Dons de Livres",
+				"zh":"捐书清单",
+				"es":"Lista de Donar Libros"
+			},
+			"slug":"bookDonationLedger"
 		}
 	]
 }
