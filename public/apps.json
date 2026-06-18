@@ -5795,6 +5795,21 @@
 				"es":"Lista Cena Familiar"
 			},
 			"slug":"familyDinnerPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Schichttafel",
+				"ru":"Доска смены",
+				"ko":"인수인계 보드",
+				"pt":"Quadro de Turnos",
+				"ja":"引継ぎボード",
+				"en":"Shift Board",
+				"fr":"Tableau de Relais",
+				"zh":"交接板",
+				"es":"Tablero de Turnos"
+			},
+			"slug":"shiftHandoverBoard"
 		}
 	]
 }
