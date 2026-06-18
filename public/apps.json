@@ -5615,6 +5615,21 @@
 				"es":"Registro Libros"
 			},
 			"slug":"specialBookLedger"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Ticket Sitzplan",
+				"ru":"План билетов",
+				"ko":"티켓 좌석 계획",
+				"pt":"Plano de Ingressos",
+				"ja":"チケット座席計画",
+				"en":"Ticket Seat Planner",
+				"fr":"Plan Billets",
+				"zh":"抢票排座",
+				"es":"Plan Entradas"
+			},
+			"slug":"concertTicketPlanner"
 		}
 	]
 }
