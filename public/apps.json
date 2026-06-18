@@ -5855,6 +5855,21 @@
 				"es":"Caja de Citas"
 			},
 			"slug":"bookQuoteVault"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Undercover Party",
+				"ru":"Вечер Шпионов",
+				"ko":"언더커버 파티",
+				"pt":"Festa Infiltrado",
+				"ja":"スパイパーティ",
+				"en":"Undercover Party",
+				"fr":"Soiree Infiltre",
+				"zh":"卧底派对",
+				"es":"Fiesta Infiltrado"
+			},
+			"slug":"undercoverPartyKit"
 		}
 	]
 }
