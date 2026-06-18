@@ -5630,6 +5630,21 @@
 				"es":"Plan Entradas"
 			},
 			"slug":"concertTicketPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Container Ladeplan",
+				"ru":"План загрузки",
+				"ko":"컨테이너 적재 계산",
+				"pt":"Carga de Contêiner",
+				"ja":"コンテナ積載計算",
+				"en":"Container Load Planner",
+				"fr":"Plan Chargement",
+				"zh":"装柜助手",
+				"es":"Carga Contenedor"
+			},
+			"slug":"containerLoadPlanner"
 		}
 	]
 }
