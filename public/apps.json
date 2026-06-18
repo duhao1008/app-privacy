@@ -5825,6 +5825,21 @@
 				"es":"Puntaje de Saltos"
 			},
 			"slug":"diveScoreBook"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Tongjia Trainer",
+				"ru":"Тунцзя тренер",
+				"ko":"통가자 연습",
+				"pt":"Treino Tongjia",
+				"ja":"通仮字トレーナー",
+				"en":"Tongjia Trainer",
+				"fr":"Exercice Tongjia",
+				"zh":"通假字练习",
+				"es":"Practica Tongjia"
+			},
+			"slug":"tongjiaziTrainer"
 		}
 	]
 }
