@@ -5465,6 +5465,21 @@
 				"es":"Cálculo de Radios"
 			},
 			"slug":"spokeLengthCalc"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Isobaren Training",
+				"ru":"Тренажер изобар",
+				"ko":"등압선 연습",
+				"pt":"Treino Isóbaras",
+				"ja":"等圧線トレーナー",
+				"en":"Isobar Trainer",
+				"fr":"Exercices Isobares",
+				"zh":"等压线练习",
+				"es":"Práctica Isobaras"
+			},
+			"slug":"isobarTrainer"
 		}
 	]
 }
