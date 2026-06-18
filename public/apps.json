@@ -5555,6 +5555,21 @@
 				"es":"Sobras Nevera"
 			},
 			"slug":"fridgeLeftoverPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Raummaß Protokoll",
+				"ru":"Замеры комнат",
+				"ko":"방 치수 기록",
+				"pt":"Medidas Reforma",
+				"ja":"部屋採寸メモ",
+				"en":"Room Measure Log",
+				"fr":"Mesures Travaux",
+				"zh":"量房记录",
+				"es":"Medidas Reforma"
+			},
+			"slug":"roomMeasureLog"
 		}
 	]
 }
