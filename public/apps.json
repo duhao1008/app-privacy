@@ -5585,6 +5585,21 @@
 				"es":"Talla Bicicleta"
 			},
 			"slug":"bikeFitSizer"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Tonleiter Fingersatz",
+				"ru":"Аппликатура гамм",
+				"ko":"음계 운지",
+				"pt":"Dedilhado Escalas",
+				"ja":"音階指使い",
+				"en":"Scale Fingering",
+				"fr":"Doigtes Gammes",
+				"zh":"音阶指法",
+				"es":"Digitacion de Escalas"
+			},
+			"slug":"pianoScaleCoach"
 		}
 	]
 }
