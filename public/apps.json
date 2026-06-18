@@ -5420,6 +5420,21 @@
 				"es":"Corte de Vidrio"
 			},
 			"slug":"glassCutCalc"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Schuhbox Manager",
+				"ru":"Менеджер Обуви",
+				"ko":"신발 박스 관리",
+				"pt":"Caixa de Sapatos",
+				"ja":"靴箱マネージャー",
+				"en":"Shoe Box Keeper",
+				"fr":"Boîte à Chaussures",
+				"zh":"鞋盒管家",
+				"es":"Caja de Zapatos"
+			},
+			"slug":"shoeBoxKeeper"
 		}
 	]
 }
