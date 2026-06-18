@@ -5735,6 +5735,21 @@
 				"es":"Lista de Donar Libros"
 			},
 			"slug":"bookDonationLedger"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Setlist Notizbuch",
+				"ru":"Блокнот Сетлистов",
+				"ko":"셋리스트 노트",
+				"pt":"Caderno de Setlists",
+				"ja":"セットリスト手帳",
+				"en":"Setlist Notebook",
+				"fr":"Carnet de Setlists",
+				"zh":"歌单本",
+				"es":"Cuaderno de Setlists"
+			},
+			"slug":"concertSetlistTracker"
 		}
 	]
 }
