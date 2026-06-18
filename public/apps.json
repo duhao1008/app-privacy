@@ -5765,6 +5765,21 @@
 				"es":"Registro Simulacros"
 			},
 			"slug":"fireDrillLog"
+		},
+		{
+			"lastUpdated":"2026-06-18",
+			"appName":{
+				"de":"Rohrgewinde Tabelle",
+				"ru":"Трубная Резьба",
+				"ko":"관나사 빠른조회",
+				"pt":"Roscas de Tubo",
+				"ja":"管ねじ早見",
+				"en":"Pipe Thread Pocket",
+				"fr":"Filetages Tube",
+				"zh":"管螺纹速查",
+				"es":"Roscas de Tubo"
+			},
+			"slug":"pipeThreadPocket"
 		}
 	]
 }
