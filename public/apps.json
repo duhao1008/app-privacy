@@ -6305,6 +6305,21 @@
 				"es":"Badminton Doubles Board"
 			},
 			"slug":"badmintonDoublesBoard"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Isomer Trainer",
+				"ru":"Isomer Trainer",
+				"ko":"Isomer Trainer",
+				"pt":"Isomer Trainer",
+				"ja":"Isomer Trainer",
+				"en":"Isomer Trainer",
+				"fr":"Isomer Trainer",
+				"zh":"异构练习",
+				"es":"Isomer Trainer"
+			},
+			"slug":"isomerTrainer"
 		}
 	]
 }
