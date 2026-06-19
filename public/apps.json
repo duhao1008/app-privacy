@@ -6560,6 +6560,21 @@
 				"es":"Delivery Exception Ledger"
 			},
 			"slug":"deliveryExceptionLedger"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Cable Label Keeper",
+				"ru":"Cable Label Keeper",
+				"ko":"Cable Label Keeper",
+				"pt":"Cable Label Keeper",
+				"ja":"Cable Label Keeper",
+				"en":"Cable Label Keeper",
+				"fr":"Cable Label Keeper",
+				"zh":"线缆标签夹",
+				"es":"Cable Label Keeper"
+			},
+			"slug":"cableLabelKeeper"
 		}
 	]
 }
