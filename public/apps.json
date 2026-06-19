@@ -6080,6 +6080,21 @@
 				"es":"Fallas Circuito"
 			},
 			"slug":"circuitFaultTutor"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Buch Paket",
+				"ru":"Книжная Посылка",
+				"ko":"책 포장",
+				"pt":"Envio Livros",
+				"ja":"本の発送",
+				"en":"Book Parcel",
+				"fr":"Colis Livres",
+				"zh":"寄书打包",
+				"es":"Enviar Libros"
+			},
+			"slug":"bookParcelKit"
 		}
 	]
 }
