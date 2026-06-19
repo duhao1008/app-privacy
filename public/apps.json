@@ -6290,6 +6290,21 @@
 				"es":"Concrete Cube Ledger"
 			},
 			"slug":"concreteCubeLedger"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Badminton Doubles Board",
+				"ru":"Badminton Doubles Board",
+				"ko":"Badminton Doubles Board",
+				"pt":"Badminton Doubles Board",
+				"ja":"Badminton Doubles Board",
+				"en":"Badminton Doubles Board",
+				"fr":"Badminton Doubles Board",
+				"zh":"双打站位",
+				"es":"Badminton Doubles Board"
+			},
+			"slug":"badmintonDoublesBoard"
 		}
 	]
 }
