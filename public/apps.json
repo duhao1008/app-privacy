@@ -5930,6 +5930,21 @@
 				"es":"Registro de Sellos"
 			},
 			"slug":"sealUseLedger"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Hockey Anzeigetafel",
+				"ru":"Табло Хоккея",
+				"ko":"하키 점수판",
+				"pt":"Placar Hockey",
+				"ja":"ホッケー得点板",
+				"en":"Hockey Scoreboard",
+				"fr":"Tableau Hockey",
+				"zh":"冰球计分",
+				"es":"Marcador Hockey"
+			},
+			"slug":"hockeyPenaltyBoard"
 		}
 	]
 }
