@@ -5960,6 +5960,21 @@
 				"es":"Tonos Pinyin"
 			},
 			"slug":"pinyinToneClinic"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Buchfolie Rechner",
+				"ru":"Обложка Книг",
+				"ko":"책 커버 계산",
+				"pt":"Capa de Livros",
+				"ja":"ブックカバー計算",
+				"en":"Cover Wrap Calc",
+				"fr":"Couvre Livre",
+				"zh":"包书皮",
+				"es":"Forro de Libros"
+			},
+			"slug":"coverWrapCalc"
 		}
 	]
 }
