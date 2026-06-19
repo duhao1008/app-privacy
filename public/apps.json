@@ -6110,6 +6110,21 @@
 				"es":"Práctica Doblaje"
 			},
 			"slug":"dubbingPracticeBook"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Travel Expense DE",
+				"ru":"Travel Ledger RU",
+				"ko":"Travel Ledger KR",
+				"pt":"Travel Expense PT",
+				"ja":"Travel Ledger JP",
+				"en":"Travel Ledger",
+				"fr":"Travel Expense FR",
+				"zh":"差旅台账",
+				"es":"Travel Expense ES"
+			},
+			"slug":"travelExpenseLedger"
 		}
 	]
 }
