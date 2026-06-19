@@ -6065,6 +6065,21 @@
 				"es":"Gas de Buceo"
 			},
 			"slug":"diveGasLog"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Stromkreis Fehler",
+				"ru":"Сбой Цепи",
+				"ko":"회로 고장",
+				"pt":"Falhas Circuito",
+				"ja":"回路故障",
+				"en":"Circuit Fault",
+				"fr":"Pannes Circuit",
+				"zh":"电路故障",
+				"es":"Fallas Circuito"
+			},
+			"slug":"circuitFaultTutor"
 		}
 	]
 }
