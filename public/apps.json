@@ -6185,6 +6185,21 @@
 				"es":"Marcador BJJ"
 			},
 			"slug":"bjjScoreKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Silben Betonung",
+				"ru":"Ударение Слогов",
+				"ko":"음절 강세",
+				"pt":"Acento Silábico",
+				"ja":"音節アクセント",
+				"en":"Syllable Stress",
+				"fr":"Accent Syllabique",
+				"zh":"音节重音",
+				"es":"Acento Silábico"
+			},
+			"slug":"englishSyllableTrainer"
 		}
 	]
 }
