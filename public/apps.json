@@ -6140,6 +6140,21 @@
 				"es":"Anchor Bolt Calc"
 			},
 			"slug":"anchorBoltCalc"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Beauty Expiry Box",
+				"ru":"Beauty Expiry Box",
+				"ko":"Beauty Expiry Box",
+				"pt":"Beauty Expiry Box",
+				"ja":"Beauty Expiry Box",
+				"en":"Beauty Expiry Box",
+				"fr":"Beauty Expiry Box",
+				"zh":"美妆期限盒",
+				"es":"Beauty Expiry Box"
+			},
+			"slug":"beautyExpiryBox"
 		}
 	]
 }
