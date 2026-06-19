@@ -6275,6 +6275,21 @@
 				"es":"Bedding Size Keeper"
 			},
 			"slug":"beddingSizeKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Concrete Cube Ledger",
+				"ru":"Concrete Cube Ledger",
+				"ko":"Concrete Cube Ledger",
+				"pt":"Concrete Cube Ledger",
+				"ja":"Concrete Cube Ledger",
+				"en":"Concrete Cube Ledger",
+				"fr":"Concrete Cube Ledger",
+				"zh":"试块台账",
+				"es":"Concrete Cube Ledger"
+			},
+			"slug":"concreteCubeLedger"
 		}
 	]
 }
