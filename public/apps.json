@@ -6530,6 +6530,21 @@
 				"es":"Theater Cue Book"
 			},
 			"slug":"theaterCueBook"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Variety Score Card",
+				"ru":"Variety Score Card",
+				"ko":"Variety Score Card",
+				"pt":"Variety Score Card",
+				"ja":"Variety Score Card",
+				"en":"Variety Score Card",
+				"fr":"Variety Score Card",
+				"zh":"综艺评分卡",
+				"es":"Variety Score Card"
+			},
+			"slug":"varietyScoreCard"
 		}
 	]
 }
