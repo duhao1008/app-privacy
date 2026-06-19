@@ -6485,6 +6485,21 @@
 				"es":"Contract Change Log"
 			},
 			"slug":"contractChangeLog"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Screw Sort Box",
+				"ru":"Screw Sort Box",
+				"ko":"Screw Sort Box",
+				"pt":"Screw Sort Box",
+				"ja":"Screw Sort Box",
+				"en":"Screw Sort Box",
+				"fr":"Screw Sort Box",
+				"zh":"螺丝规格盒",
+				"es":"Screw Sort Box"
+			},
+			"slug":"screwSortBox"
 		}
 	]
 }
