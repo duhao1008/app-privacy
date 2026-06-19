@@ -6005,6 +6005,21 @@
 				"es":"Caja de Turno"
 			},
 			"slug":"cashShiftLedger"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Gelaender Rechner",
+				"ru":"Расчет перил",
+				"ko":"난간 계산기",
+				"pt":"Calc Guarda-corpo",
+				"ja":"手すり計算",
+				"en":"Railing Calc",
+				"fr":"Calcul Garde-corps",
+				"zh":"栏杆算尺",
+				"es":"Calc Barandillas"
+			},
+			"slug":"railingCalc"
 		}
 	]
 }
