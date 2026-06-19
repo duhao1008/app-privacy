@@ -6590,6 +6590,21 @@
 				"es":"Dust Jacket Planner"
 			},
 			"slug":"dustJacketPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Movie Night Ledger",
+				"ru":"Movie Night Ledger",
+				"ko":"Movie Night Ledger",
+				"pt":"Movie Night Ledger",
+				"ja":"Movie Night Ledger",
+				"en":"Movie Night Ledger",
+				"fr":"Movie Night Ledger",
+				"zh":"观影夜簿",
+				"es":"Movie Night Ledger"
+			},
+			"slug":"movieNightLedger"
 		}
 	]
 }
