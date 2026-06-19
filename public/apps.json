@@ -5885,6 +5885,21 @@
 				"es":"Libro de Alquiler"
 			},
 			"slug":"equipmentRentalLedger"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Reef Salz Rechner",
+				"ru":"Соль Рифа",
+				"ko":"리프 염도 계산",
+				"pt":"Salinidade Reef",
+				"ja":"リーフ塩分計算",
+				"en":"Reef Salt Calc",
+				"fr":"Salinite Recif",
+				"zh":"海缸盐度",
+				"es":"Salinidad Reef"
+			},
+			"slug":"reefSaltCalc"
 		}
 	]
 }
