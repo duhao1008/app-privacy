@@ -6500,6 +6500,21 @@
 				"es":"Screw Sort Box"
 			},
 			"slug":"screwSortBox"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Logic Path Puzzle",
+				"ru":"Logic Path Puzzle",
+				"ko":"Logic Path Puzzle",
+				"pt":"Logic Path Puzzle",
+				"ja":"Logic Path Puzzle",
+				"en":"Logic Path Puzzle",
+				"fr":"Logic Path Puzzle",
+				"zh":"路径谜题",
+				"es":"Logic Path Puzzle"
+			},
+			"slug":"logicPathPuzzle"
 		}
 	]
 }
