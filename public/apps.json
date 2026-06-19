@@ -5990,6 +5990,21 @@
 				"es":"Rutinas de Magia"
 			},
 			"slug":"magicRoutineBook"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Kassen Uebergabe",
+				"ru":"Кассовая Смена",
+				"ko":"현금 인수인계장",
+				"pt":"Caixa de Turno",
+				"ja":"現金引継ぎ台帳",
+				"en":"Cash Shift Ledger",
+				"fr":"Caisse de Relais",
+				"zh":"现金交接",
+				"es":"Caja de Turno"
+			},
+			"slug":"cashShiftLedger"
 		}
 	]
 }
