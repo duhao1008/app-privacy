@@ -6545,6 +6545,21 @@
 				"es":"Variety Score Card"
 			},
 			"slug":"varietyScoreCard"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Delivery Exception Ledger",
+				"ru":"Delivery Exception Ledger",
+				"ko":"Delivery Exception Ledger",
+				"pt":"Delivery Exception Ledger",
+				"ja":"Delivery Exception Ledger",
+				"en":"Delivery Exception Ledger",
+				"fr":"Delivery Exception Ledger",
+				"zh":"送货异常簿",
+				"es":"Delivery Exception Ledger"
+			},
+			"slug":"deliveryExceptionLedger"
 		}
 	]
 }
