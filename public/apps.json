@@ -6320,6 +6320,21 @@
 				"es":"Isomer Trainer"
 			},
 			"slug":"isomerTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Used Book Price Ledger",
+				"ru":"Used Book Price Ledger",
+				"ko":"Used Book Price Ledger",
+				"pt":"Used Book Price Ledger",
+				"ja":"Used Book Price Ledger",
+				"en":"Used Book Price Ledger",
+				"fr":"Used Book Price Ledger",
+				"zh":"旧书定价",
+				"es":"Used Book Price Ledger"
+			},
+			"slug":"usedBookPriceLedger"
 		}
 	]
 }
