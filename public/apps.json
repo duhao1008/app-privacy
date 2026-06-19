@@ -6020,6 +6020,21 @@
 				"es":"Calc Barandillas"
 			},
 			"slug":"railingCalc"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Flecken Hilfe",
+				"ru":"Пятна Помощник",
+				"ko":"얼룩 케어",
+				"pt":"Tira Manchas",
+				"ja":"シミケア",
+				"en":"Stain Care",
+				"fr":"Anti Taches",
+				"zh":"去渍助手",
+				"es":"Quita Manchas"
+			},
+			"slug":"stainCareGuide"
 		}
 	]
 }
