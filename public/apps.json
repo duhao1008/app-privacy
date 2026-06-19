@@ -6515,6 +6515,21 @@
 				"es":"Logic Path Puzzle"
 			},
 			"slug":"logicPathPuzzle"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Theater Cue Book",
+				"ru":"Theater Cue Book",
+				"ko":"Theater Cue Book",
+				"pt":"Theater Cue Book",
+				"ja":"Theater Cue Book",
+				"en":"Theater Cue Book",
+				"fr":"Theater Cue Book",
+				"zh":"剧场Cue本",
+				"es":"Theater Cue Book"
+			},
+			"slug":"theaterCueBook"
 		}
 	]
 }
