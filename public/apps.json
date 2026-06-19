@@ -6335,6 +6335,21 @@
 				"es":"Used Book Price Ledger"
 			},
 			"slug":"usedBookPriceLedger"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Board Game Sleeve Kit",
+				"ru":"Board Game Sleeve Kit",
+				"ko":"Board Game Sleeve Kit",
+				"pt":"Board Game Sleeve Kit",
+				"ja":"Board Game Sleeve Kit",
+				"en":"Board Game Sleeve Kit",
+				"fr":"Board Game Sleeve Kit",
+				"zh":"桌游牌套",
+				"es":"Board Game Sleeve Kit"
+			},
+			"slug":"boardGameSleeveKit"
 		}
 	]
 }
