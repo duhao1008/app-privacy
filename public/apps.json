@@ -6470,6 +6470,21 @@
 				"es":"Local Checklist Ledger"
 			},
 			"slug":"localChecklistLedger"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Contract Change Log",
+				"ru":"Contract Change Log",
+				"ko":"Contract Change Log",
+				"pt":"Contract Change Log",
+				"ja":"Contract Change Log",
+				"en":"Contract Change Log",
+				"fr":"Contract Change Log",
+				"zh":"合同变更簿",
+				"es":"Contract Change Log"
+			},
+			"slug":"contractChangeLog"
 		}
 	]
 }
