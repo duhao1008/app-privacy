@@ -5915,6 +5915,21 @@
 				"es":"Lista de Regalos"
 			},
 			"slug":"giftPlannerBook"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Siegelbuch",
+				"ru":"Журнал Печатей",
+				"ko":"인장 대장",
+				"pt":"Registro de Selos",
+				"ja":"印章台帳",
+				"en":"Seal Use Ledger",
+				"fr":"Registre de Sceaux",
+				"zh":"用印台账",
+				"es":"Registro de Sellos"
+			},
+			"slug":"sealUseLedger"
 		}
 	]
 }
