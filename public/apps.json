@@ -5945,6 +5945,21 @@
 				"es":"Marcador Hockey"
 			},
 			"slug":"hockeyPenaltyBoard"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Pinyin Tontrainer",
+				"ru":"Тоны Пиньинь",
+				"ko":"병음 성조 연습",
+				"pt":"Tons Pinyin",
+				"ja":"ピンイン声調練習",
+				"en":"Pinyin Tone Clinic",
+				"fr":"Tons Pinyin",
+				"zh":"拼音纠音",
+				"es":"Tonos Pinyin"
+			},
+			"slug":"pinyinToneClinic"
 		}
 	]
 }
