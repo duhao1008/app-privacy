@@ -6050,6 +6050,21 @@
 				"es":"Registro Parking"
 			},
 			"slug":"parkingLeaseLedger"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Tauchgas Log",
+				"ru":"Расход Газа",
+				"ko":"다이빙 기체 기록",
+				"pt":"Gás de Mergulho",
+				"ja":"潜水ガス記録",
+				"en":"Dive Gas Log",
+				"fr":"Gaz Plongée",
+				"zh":"潜水气耗",
+				"es":"Gas de Buceo"
+			},
+			"slug":"diveGasLog"
 		}
 	]
 }
