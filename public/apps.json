@@ -6170,6 +6170,21 @@
 				"es":"Turnos de Examen"
 			},
 			"slug":"examDutyPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"BJJ Wertung",
+				"ru":"Счет BJJ",
+				"ko":"BJJ 점수판",
+				"pt":"Placar BJJ",
+				"ja":"BJJスコア",
+				"en":"BJJ Score Keeper",
+				"fr":"Score BJJ",
+				"zh":"柔术计分",
+				"es":"Marcador BJJ"
+			},
+			"slug":"bjjScoreKeeper"
 		}
 	]
 }
