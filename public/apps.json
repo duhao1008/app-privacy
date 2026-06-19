@@ -6395,6 +6395,21 @@
 				"es":"Mattress Care Log"
 			},
 			"slug":"bedMattressCare"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Pickup Order Ledger",
+				"ru":"Pickup Order Ledger",
+				"ko":"Pickup Order Ledger",
+				"pt":"Pickup Order Ledger",
+				"ja":"Pickup Order Ledger",
+				"en":"Pickup Order Ledger",
+				"fr":"Pickup Order Ledger",
+				"zh":"接龙核单",
+				"es":"Pickup Order Ledger"
+			},
+			"slug":"pickupOrderLedger"
 		}
 	]
 }
