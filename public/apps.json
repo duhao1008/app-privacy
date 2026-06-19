@@ -6200,6 +6200,21 @@
 				"es":"Acento Silábico"
 			},
 			"slug":"englishSyllableTrainer"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Buchpflege",
+				"ru":"Уход за Книгами",
+				"ko":"헌책 케어",
+				"pt":"Cuidado de Livros",
+				"ja":"古書ケア",
+				"en":"Book Mold Care",
+				"fr":"Soin des Livres",
+				"zh":"护书除霉",
+				"es":"Cuidado de Libros"
+			},
+			"slug":"bookMoldCare"
 		}
 	]
 }
