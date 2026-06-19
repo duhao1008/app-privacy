@@ -6425,6 +6425,21 @@
 				"es":"Pace Band Planner"
 			},
 			"slug":"paceBandPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"English Syntax Lab",
+				"ru":"English Syntax Lab",
+				"ko":"English Syntax Lab",
+				"pt":"English Syntax Lab",
+				"ja":"English Syntax Lab",
+				"en":"English Syntax Lab",
+				"fr":"English Syntax Lab",
+				"zh":"句子成分",
+				"es":"English Syntax Lab"
+			},
+			"slug":"englishSyntaxLab"
 		}
 	]
 }
