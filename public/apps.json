@@ -6230,6 +6230,21 @@
 				"es":"Formación Danza"
 			},
 			"slug":"danceFormationPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Lc Doc Check",
+				"ru":"Lc Doc Check",
+				"ko":"Lc Doc Check",
+				"pt":"Lc Doc Check",
+				"ja":"Lc Doc Check",
+				"en":"Lc Doc Check",
+				"fr":"Lc Doc Check",
+				"zh":"审单助手",
+				"es":"Lc Doc Check"
+			},
+			"slug":"lcDocCheck"
 		}
 	]
 }
