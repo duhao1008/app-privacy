@@ -6035,6 +6035,21 @@
 				"es":"Quita Manchas"
 			},
 			"slug":"stainCareGuide"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Parkplatz Buch",
+				"ru":"Учет Парковки",
+				"ko":"주차장 장부",
+				"pt":"Livro de Vagas",
+				"ja":"駐車場台帳",
+				"en":"Parking Ledger",
+				"fr":"Carnet Parking",
+				"zh":"车位台账",
+				"es":"Registro Parking"
+			},
+			"slug":"parkingLeaseLedger"
 		}
 	]
 }
