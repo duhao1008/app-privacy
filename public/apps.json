@@ -6125,6 +6125,21 @@
 				"es":"Travel Expense ES"
 			},
 			"slug":"travelExpenseLedger"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Anchor Bolt Calc",
+				"ru":"Anchor Bolt Calc",
+				"ko":"Anchor Bolt Calc",
+				"pt":"Anchor Bolt Calc",
+				"ja":"Anchor Bolt Calc",
+				"en":"Anchor Bolt Calc",
+				"fr":"Anchor Bolt Calc",
+				"zh":"锚栓算尺",
+				"es":"Anchor Bolt Calc"
+			},
+			"slug":"anchorBoltCalc"
 		}
 	]
 }
