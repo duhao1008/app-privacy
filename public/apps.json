@@ -6410,6 +6410,21 @@
 				"es":"Pickup Order Ledger"
 			},
 			"slug":"pickupOrderLedger"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Pace Band Planner",
+				"ru":"Pace Band Planner",
+				"ko":"Pace Band Planner",
+				"pt":"Pace Band Planner",
+				"ja":"Pace Band Planner",
+				"en":"Pace Band Planner",
+				"fr":"Pace Band Planner",
+				"zh":"配速腕带",
+				"es":"Pace Band Planner"
+			},
+			"slug":"paceBandPlanner"
 		}
 	]
 }
