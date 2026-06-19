@@ -6095,6 +6095,21 @@
 				"es":"Enviar Libros"
 			},
 			"slug":"bookParcelKit"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Synchron Training",
+				"ru":"Тренажер Дубляжа",
+				"ko":"더빙 연습",
+				"pt":"Treino de Dublagem",
+				"ja":"アフレコ練習",
+				"en":"Dubbing Practice",
+				"fr":"Exercice Doublage",
+				"zh":"配音练习",
+				"es":"Práctica Doblaje"
+			},
+			"slug":"dubbingPracticeBook"
 		}
 	]
 }
