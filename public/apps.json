@@ -5900,6 +5900,21 @@
 				"es":"Salinidad Reef"
 			},
 			"slug":"reefSaltCalc"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Geschenkliste",
+				"ru":"Список Подарков",
+				"ko":"선물 목록",
+				"pt":"Lista de Presentes",
+				"ja":"ギフトリスト",
+				"en":"Gift Planner Book",
+				"fr":"Liste Cadeaux",
+				"zh":"礼物清单",
+				"es":"Lista de Regalos"
+			},
+			"slug":"giftPlannerBook"
 		}
 	]
 }
