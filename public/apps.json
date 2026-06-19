@@ -6260,6 +6260,21 @@
 				"es":"Hinge Bore Calc"
 			},
 			"slug":"hingeBoreCalc"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Bedding Size Keeper",
+				"ru":"Bedding Size Keeper",
+				"ko":"Bedding Size Keeper",
+				"pt":"Bedding Size Keeper",
+				"ja":"Bedding Size Keeper",
+				"en":"Bedding Size Keeper",
+				"fr":"Bedding Size Keeper",
+				"zh":"床品尺码",
+				"es":"Bedding Size Keeper"
+			},
+			"slug":"beddingSizeKeeper"
 		}
 	]
 }
