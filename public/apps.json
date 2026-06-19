@@ -6440,6 +6440,21 @@
 				"es":"English Syntax Lab"
 			},
 			"slug":"englishSyntaxLab"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Serial Reader Log",
+				"ru":"Serial Reader Log",
+				"ko":"Serial Reader Log",
+				"pt":"Serial Reader Log",
+				"ja":"Serial Reader Log",
+				"en":"Serial Reader Log",
+				"fr":"Serial Reader Log",
+				"zh":"追更书架",
+				"es":"Serial Reader Log"
+			},
+			"slug":"serialReaderLog"
 		}
 	]
 }
