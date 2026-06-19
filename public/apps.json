@@ -6380,6 +6380,21 @@
 				"es":"Weld Material Calc"
 			},
 			"slug":"weldMaterialCalc"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Mattress Care Log",
+				"ru":"Mattress Care Log",
+				"ko":"Mattress Care Log",
+				"pt":"Mattress Care Log",
+				"ja":"Mattress Care Log",
+				"en":"Mattress Care Log",
+				"fr":"Mattress Care Log",
+				"zh":"床垫管家",
+				"es":"Mattress Care Log"
+			},
+			"slug":"bedMattressCare"
 		}
 	]
 }
