@@ -5975,6 +5975,21 @@
 				"es":"Forro de Libros"
 			},
 			"slug":"coverWrapCalc"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Magie Ablaufbuch",
+				"ru":"Книга Фокусов",
+				"ko":"마술 루틴 노트",
+				"pt":"Rotinas de Magica",
+				"ja":"マジック手順帳",
+				"en":"Magic Routine Book",
+				"fr":"Carnet de Magie",
+				"zh":"魔术流程本",
+				"es":"Rutinas de Magia"
+			},
+			"slug":"magicRoutineBook"
 		}
 	]
 }
