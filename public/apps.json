@@ -6245,6 +6245,21 @@
 				"es":"Lc Doc Check"
 			},
 			"slug":"lcDocCheck"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Hinge Bore Calc",
+				"ru":"Hinge Bore Calc",
+				"ko":"Hinge Bore Calc",
+				"pt":"Hinge Bore Calc",
+				"ja":"Hinge Bore Calc",
+				"en":"Hinge Bore Calc",
+				"fr":"Hinge Bore Calc",
+				"zh":"铰链开孔",
+				"es":"Hinge Bore Calc"
+			},
+			"slug":"hingeBoreCalc"
 		}
 	]
 }
