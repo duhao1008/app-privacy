@@ -6365,6 +6365,21 @@
 				"es":"Reconciliation Letter Kit"
 			},
 			"slug":"reconciliationLetterKit"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Weld Material Calc",
+				"ru":"Weld Material Calc",
+				"ko":"Weld Material Calc",
+				"pt":"Weld Material Calc",
+				"ja":"Weld Material Calc",
+				"en":"Weld Material Calc",
+				"fr":"Weld Material Calc",
+				"zh":"焊材助手",
+				"es":"Weld Material Calc"
+			},
+			"slug":"weldMaterialCalc"
 		}
 	]
 }
