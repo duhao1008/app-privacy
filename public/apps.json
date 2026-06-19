@@ -6575,6 +6575,21 @@
 				"es":"Cable Label Keeper"
 			},
 			"slug":"cableLabelKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Dust Jacket Planner",
+				"ru":"Dust Jacket Planner",
+				"ko":"Dust Jacket Planner",
+				"pt":"Dust Jacket Planner",
+				"ja":"Dust Jacket Planner",
+				"en":"Dust Jacket Planner",
+				"fr":"Dust Jacket Planner",
+				"zh":"护封尺寸",
+				"es":"Dust Jacket Planner"
+			},
+			"slug":"dustJacketPlanner"
 		}
 	]
 }
