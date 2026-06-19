@@ -6455,6 +6455,21 @@
 				"es":"Serial Reader Log"
 			},
 			"slug":"serialReaderLog"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Local Checklist Ledger",
+				"ru":"Local Checklist Ledger",
+				"ko":"Local Checklist Ledger",
+				"pt":"Local Checklist Ledger",
+				"ja":"Local Checklist Ledger",
+				"en":"Local Checklist Ledger",
+				"fr":"Local Checklist Ledger",
+				"zh":"清单台账",
+				"es":"Local Checklist Ledger"
+			},
+			"slug":"localChecklistLedger"
 		}
 	]
 }
