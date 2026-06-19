@@ -6155,6 +6155,21 @@
 				"es":"Beauty Expiry Box"
 			},
 			"slug":"beautyExpiryBox"
+		},
+		{
+			"lastUpdated":"2026-06-19",
+			"appName":{
+				"de":"Prüfungsaufsicht",
+				"ru":"Дежурства Экзаменов",
+				"ko":"시험 감독 일정",
+				"pt":"Escala de Exames",
+				"ja":"試験監督予定",
+				"en":"Exam Duty Planner",
+				"fr":"Surveillance Examens",
+				"zh":"监考排班",
+				"es":"Turnos de Examen"
+			},
+			"slug":"examDutyPlanner"
 		}
 	]
 }
