@@ -6740,6 +6740,21 @@
 				"es":"Screen Grid Ruler"
 			},
 			"slug":"screenGridRuler"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Reference Format Pad",
+				"ru":"Reference Format Pad",
+				"ko":"Reference Format Pad",
+				"pt":"Reference Format Pad",
+				"ja":"Reference Format Pad",
+				"en":"Reference Format Pad",
+				"fr":"Reference Format Pad",
+				"zh":"引用格式夹",
+				"es":"Reference Format Pad"
+			},
+			"slug":"referenceFormatPad"
 		}
 	]
 }
