@@ -6905,6 +6905,21 @@
 				"es":"Batch Inspection Board"
 			},
 			"slug":"batchInspectionBoard"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"English Prefix Cards Reserve",
+				"ru":"English Prefix Cards Reserve",
+				"ko":"English Prefix Cards Reserve",
+				"pt":"English Prefix Cards Reserve",
+				"ja":"English Prefix Cards Reserve",
+				"en":"English Prefix Cards Reserve",
+				"fr":"English Prefix Cards Reserve",
+				"zh":"词缀卡片专项",
+				"es":"English Prefix Cards Reserve"
+			},
+			"slug":"englishPrefixCardsReserve"
 		}
 	]
 }
