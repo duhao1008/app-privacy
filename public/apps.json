@@ -7100,6 +7100,21 @@
 				"es":"Filter Thread Gauge"
 			},
 			"slug":"filterThreadGauge"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Sweater Care Notebook",
+				"ru":"Sweater Care Notebook",
+				"ko":"Sweater Care Notebook",
+				"pt":"Sweater Care Notebook",
+				"ja":"Sweater Care Notebook",
+				"en":"Sweater Care Notebook",
+				"fr":"Sweater Care Notebook",
+				"zh":"毛衣护理簿",
+				"es":"Sweater Care Notebook"
+			},
+			"slug":"sweaterCareNotebook"
 		}
 	]
 }
