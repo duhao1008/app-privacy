@@ -7040,6 +7040,21 @@
 				"es":"Math Formula Slipbox"
 			},
 			"slug":"mathFormulaSlipbox"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Personal Library Loan Desk",
+				"ru":"Personal Library Loan Desk",
+				"ko":"Personal Library Loan Desk",
+				"pt":"Personal Library Loan Desk",
+				"ja":"Personal Library Loan Desk",
+				"en":"Personal Library Loan Desk",
+				"fr":"Personal Library Loan Desk",
+				"zh":"藏书借阅台",
+				"es":"Personal Library Loan Desk"
+			},
+			"slug":"personalLibraryLoanDesk"
 		}
 	]
 }
