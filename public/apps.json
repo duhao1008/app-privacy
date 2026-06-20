@@ -6995,6 +6995,21 @@
 				"es":"Plant Watering Ledger"
 			},
 			"slug":"plantWateringLedger"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Office Supply Reorder Pad",
+				"ru":"Office Supply Reorder Pad",
+				"ko":"Office Supply Reorder Pad",
+				"pt":"Office Supply Reorder Pad",
+				"ja":"Office Supply Reorder Pad",
+				"en":"Office Supply Reorder Pad",
+				"fr":"Office Supply Reorder Pad",
+				"zh":"办公补货本",
+				"es":"Office Supply Reorder Pad"
+			},
+			"slug":"officeSupplyReorderPad"
 		}
 	]
 }
