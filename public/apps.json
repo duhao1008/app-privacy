@@ -6920,6 +6920,21 @@
 				"es":"English Prefix Cards Reserve"
 			},
 			"slug":"englishPrefixCardsReserve"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Reading Index Cards Reserve",
+				"ru":"Reading Index Cards Reserve",
+				"ko":"Reading Index Cards Reserve",
+				"pt":"Reading Index Cards Reserve",
+				"ja":"Reading Index Cards Reserve",
+				"en":"Reading Index Cards Reserve",
+				"fr":"Reading Index Cards Reserve",
+				"zh":"阅读索引卡专项",
+				"es":"Reading Index Cards Reserve"
+			},
+			"slug":"readingIndexCardsReserve"
 		}
 	]
 }
