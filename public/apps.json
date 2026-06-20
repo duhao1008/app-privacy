@@ -6785,6 +6785,21 @@
 				"es":"Meeting Action Ledger"
 			},
 			"slug":"meetingActionLedger"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Petty Cash Ledger Education",
+				"ru":"Petty Cash Ledger Education",
+				"ko":"Petty Cash Ledger Education",
+				"pt":"Petty Cash Ledger Education",
+				"ja":"Petty Cash Ledger Education",
+				"en":"Petty Cash Ledger Education",
+				"fr":"Petty Cash Ledger Education",
+				"zh":"备用金小账",
+				"es":"Petty Cash Ledger Education"
+			},
+			"slug":"pettyCashLedgerEducation"
 		}
 	]
 }
