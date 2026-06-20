@@ -6965,6 +6965,21 @@
 				"es":"Receivable Reminder Desk"
 			},
 			"slug":"receivableReminderDesk"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Battery Cycle Notebook",
+				"ru":"Battery Cycle Notebook",
+				"ko":"Battery Cycle Notebook",
+				"pt":"Battery Cycle Notebook",
+				"ja":"Battery Cycle Notebook",
+				"en":"Battery Cycle Notebook",
+				"fr":"Battery Cycle Notebook",
+				"zh":"电池循环簿",
+				"es":"Battery Cycle Notebook"
+			},
+			"slug":"batteryCycleNotebook"
 		}
 	]
 }
