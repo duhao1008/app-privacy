@@ -6770,6 +6770,21 @@
 				"es":"Purchase Approval Pad"
 			},
 			"slug":"purchaseApprovalPad"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Meeting Action Ledger",
+				"ru":"Meeting Action Ledger",
+				"ko":"Meeting Action Ledger",
+				"pt":"Meeting Action Ledger",
+				"ja":"Meeting Action Ledger",
+				"en":"Meeting Action Ledger",
+				"fr":"Meeting Action Ledger",
+				"zh":"会议行动簿",
+				"es":"Meeting Action Ledger"
+			},
+			"slug":"meetingActionLedger"
 		}
 	]
 }
