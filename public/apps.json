@@ -7070,6 +7070,21 @@
 				"es":"Standup Set Notebook"
 			},
 			"slug":"standupSetNotebook"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Quote Expiry Keeper",
+				"ru":"Quote Expiry Keeper",
+				"ko":"Quote Expiry Keeper",
+				"pt":"Quote Expiry Keeper",
+				"ja":"Quote Expiry Keeper",
+				"en":"Quote Expiry Keeper",
+				"fr":"Quote Expiry Keeper",
+				"zh":"报价有效期",
+				"es":"Quote Expiry Keeper"
+			},
+			"slug":"quoteExpiryKeeper"
 		}
 	]
 }
