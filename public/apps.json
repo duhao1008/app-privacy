@@ -6725,6 +6725,21 @@
 				"es":"Client Visit Memo"
 			},
 			"slug":"clientVisitMemo"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Screen Grid Ruler",
+				"ru":"Screen Grid Ruler",
+				"ko":"Screen Grid Ruler",
+				"pt":"Screen Grid Ruler",
+				"ja":"Screen Grid Ruler",
+				"en":"Screen Grid Ruler",
+				"fr":"Screen Grid Ruler",
+				"zh":"屏幕网格尺",
+				"es":"Screen Grid Ruler"
+			},
+			"slug":"screenGridRuler"
 		}
 	]
 }
