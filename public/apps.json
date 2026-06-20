@@ -7085,6 +7085,21 @@
 				"es":"Quote Expiry Keeper"
 			},
 			"slug":"quoteExpiryKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Filter Thread Gauge",
+				"ru":"Filter Thread Gauge",
+				"ko":"Filter Thread Gauge",
+				"pt":"Filter Thread Gauge",
+				"ja":"Filter Thread Gauge",
+				"en":"Filter Thread Gauge",
+				"fr":"Filter Thread Gauge",
+				"zh":"滤镜螺纹尺",
+				"es":"Filter Thread Gauge"
+			},
+			"slug":"filterThreadGauge"
 		}
 	]
 }
