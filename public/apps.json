@@ -6665,6 +6665,21 @@
 				"es":"Karaoke Queue Pad"
 			},
 			"slug":"karaokeQueuePad"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Party Game Host",
+				"ru":"Party Game Host",
+				"ko":"Party Game Host",
+				"pt":"Party Game Host",
+				"ja":"Party Game Host",
+				"en":"Party Game Host",
+				"fr":"Party Game Host",
+				"zh":"聚会主持牌",
+				"es":"Party Game Host"
+			},
+			"slug":"partyGameHost"
 		}
 	]
 }
