@@ -6800,6 +6800,21 @@
 				"es":"Petty Cash Ledger Education"
 			},
 			"slug":"pettyCashLedgerEducation"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Book Club Question Box",
+				"ru":"Book Club Question Box",
+				"ko":"Book Club Question Box",
+				"pt":"Book Club Question Box",
+				"ja":"Book Club Question Box",
+				"en":"Book Club Question Box",
+				"fr":"Book Club Question Box",
+				"zh":"读书会题箱",
+				"es":"Book Club Question Box"
+			},
+			"slug":"bookClubQuestionBox"
 		}
 	]
 }
