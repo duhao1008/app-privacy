@@ -6635,6 +6635,21 @@
 				"es":"Reading Copywork Cards"
 			},
 			"slug":"readingCopyworkCards"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Concert Setlist Keeper",
+				"ru":"Concert Setlist Keeper",
+				"ko":"Concert Setlist Keeper",
+				"pt":"Concert Setlist Keeper",
+				"ja":"Concert Setlist Keeper",
+				"en":"Concert Setlist Keeper",
+				"fr":"Concert Setlist Keeper",
+				"zh":"演唱会歌单",
+				"es":"Concert Setlist Keeper"
+			},
+			"slug":"concertSetlistKeeper"
 		}
 	]
 }
