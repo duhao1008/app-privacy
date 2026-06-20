@@ -7160,6 +7160,21 @@
 				"es":"English Tense Timeline"
 			},
 			"slug":"englishTenseTimeline"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Book Edition Collector",
+				"ru":"Book Edition Collector",
+				"ko":"Book Edition Collector",
+				"pt":"Book Edition Collector",
+				"ja":"Book Edition Collector",
+				"en":"Book Edition Collector",
+				"fr":"Book Edition Collector",
+				"zh":"版次收藏夹",
+				"es":"Book Edition Collector"
+			},
+			"slug":"bookEditionCollector"
 		}
 	]
 }
