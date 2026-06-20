@@ -6815,6 +6815,21 @@
 				"es":"Book Club Question Box"
 			},
 			"slug":"bookClubQuestionBox"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Theater Cue Book Reserve",
+				"ru":"Theater Cue Book Reserve",
+				"ko":"Theater Cue Book Reserve",
+				"pt":"Theater Cue Book Reserve",
+				"ja":"Theater Cue Book Reserve",
+				"en":"Theater Cue Book Reserve",
+				"fr":"Theater Cue Book Reserve",
+				"zh":"剧场Cue本专项",
+				"es":"Theater Cue Book Reserve"
+			},
+			"slug":"theaterCueBookReserve"
 		}
 	]
 }
