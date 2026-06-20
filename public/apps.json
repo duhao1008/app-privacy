@@ -6710,6 +6710,21 @@
 				"es":"Exhibit Stamp Album"
 			},
 			"slug":"exhibitStampAlbum"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Client Visit Memo",
+				"ru":"Client Visit Memo",
+				"ko":"Client Visit Memo",
+				"pt":"Client Visit Memo",
+				"ja":"Client Visit Memo",
+				"en":"Client Visit Memo",
+				"fr":"Client Visit Memo",
+				"zh":"客户拜访笺",
+				"es":"Client Visit Memo"
+			},
+			"slug":"clientVisitMemo"
 		}
 	]
 }
