@@ -6890,6 +6890,21 @@
 				"es":"Handoff Checklist Binder"
 			},
 			"slug":"handoffChecklistBinder"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Batch Inspection Board",
+				"ru":"Batch Inspection Board",
+				"ko":"Batch Inspection Board",
+				"pt":"Batch Inspection Board",
+				"ja":"Batch Inspection Board",
+				"en":"Batch Inspection Board",
+				"fr":"Batch Inspection Board",
+				"zh":"批次检查板",
+				"es":"Batch Inspection Board"
+			},
+			"slug":"batchInspectionBoard"
 		}
 	]
 }
