@@ -6875,6 +6875,21 @@
 				"es":"Household Filter Log Reserve"
 			},
 			"slug":"householdFilterLogReserve"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Handoff Checklist Binder",
+				"ru":"Handoff Checklist Binder",
+				"ko":"Handoff Checklist Binder",
+				"pt":"Handoff Checklist Binder",
+				"ja":"Handoff Checklist Binder",
+				"en":"Handoff Checklist Binder",
+				"fr":"Handoff Checklist Binder",
+				"zh":"交接清单夹",
+				"es":"Handoff Checklist Binder"
+			},
+			"slug":"handoffChecklistBinder"
 		}
 	]
 }
