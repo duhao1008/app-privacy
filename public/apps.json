@@ -6980,6 +6980,21 @@
 				"es":"Battery Cycle Notebook"
 			},
 			"slug":"batteryCycleNotebook"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Plant Watering Ledger",
+				"ru":"Plant Watering Ledger",
+				"ko":"Plant Watering Ledger",
+				"pt":"Plant Watering Ledger",
+				"ja":"Plant Watering Ledger",
+				"en":"Plant Watering Ledger",
+				"fr":"Plant Watering Ledger",
+				"zh":"盆栽浇水簿",
+				"es":"Plant Watering Ledger"
+			},
+			"slug":"plantWateringLedger"
 		}
 	]
 }
