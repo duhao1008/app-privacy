@@ -7055,6 +7055,21 @@
 				"es":"Personal Library Loan Desk"
 			},
 			"slug":"personalLibraryLoanDesk"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Standup Set Notebook",
+				"ru":"Standup Set Notebook",
+				"ko":"Standup Set Notebook",
+				"pt":"Standup Set Notebook",
+				"ja":"Standup Set Notebook",
+				"en":"Standup Set Notebook",
+				"fr":"Standup Set Notebook",
+				"zh":"段子手卡",
+				"es":"Standup Set Notebook"
+			},
+			"slug":"standupSetNotebook"
 		}
 	]
 }
