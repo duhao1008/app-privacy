@@ -7025,6 +7025,21 @@
 				"es":"Court Rotation Board"
 			},
 			"slug":"courtRotationBoard"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Math Formula Slipbox",
+				"ru":"Math Formula Slipbox",
+				"ko":"Math Formula Slipbox",
+				"pt":"Math Formula Slipbox",
+				"ja":"Math Formula Slipbox",
+				"en":"Math Formula Slipbox",
+				"fr":"Math Formula Slipbox",
+				"zh":"公式卡片箱",
+				"es":"Math Formula Slipbox"
+			},
+			"slug":"mathFormulaSlipbox"
 		}
 	]
 }
