@@ -7175,6 +7175,21 @@
 				"es":"Book Edition Collector"
 			},
 			"slug":"bookEditionCollector"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Screening Schedule Pad",
+				"ru":"Screening Schedule Pad",
+				"ko":"Screening Schedule Pad",
+				"pt":"Screening Schedule Pad",
+				"ja":"Screening Schedule Pad",
+				"en":"Screening Schedule Pad",
+				"fr":"Screening Schedule Pad",
+				"zh":"放映排期本",
+				"es":"Screening Schedule Pad"
+			},
+			"slug":"screeningSchedulePad"
 		}
 	]
 }
