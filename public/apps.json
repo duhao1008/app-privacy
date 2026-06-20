@@ -6830,6 +6830,21 @@
 				"es":"Theater Cue Book Reserve"
 			},
 			"slug":"theaterCueBookReserve"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Contract Change Log Reserve",
+				"ru":"Contract Change Log Reserve",
+				"ko":"Contract Change Log Reserve",
+				"pt":"Contract Change Log Reserve",
+				"ja":"Contract Change Log Reserve",
+				"en":"Contract Change Log Reserve",
+				"fr":"Contract Change Log Reserve",
+				"zh":"合同变更簿专项",
+				"es":"Contract Change Log Reserve"
+			},
+			"slug":"contractChangeLogReserve"
 		}
 	]
 }
