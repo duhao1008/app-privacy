@@ -6755,6 +6755,21 @@
 				"es":"Reference Format Pad"
 			},
 			"slug":"referenceFormatPad"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Purchase Approval Pad",
+				"ru":"Purchase Approval Pad",
+				"ko":"Purchase Approval Pad",
+				"pt":"Purchase Approval Pad",
+				"ja":"Purchase Approval Pad",
+				"en":"Purchase Approval Pad",
+				"fr":"Purchase Approval Pad",
+				"zh":"采购审批夹",
+				"es":"Purchase Approval Pad"
+			},
+			"slug":"purchaseApprovalPad"
 		}
 	]
 }
