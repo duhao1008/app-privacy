@@ -6935,6 +6935,21 @@
 				"es":"Reading Index Cards Reserve"
 			},
 			"slug":"readingIndexCardsReserve"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Podcast Episode Board",
+				"ru":"Podcast Episode Board",
+				"ko":"Podcast Episode Board",
+				"pt":"Podcast Episode Board",
+				"ja":"Podcast Episode Board",
+				"en":"Podcast Episode Board",
+				"fr":"Podcast Episode Board",
+				"zh":"播客选题板",
+				"es":"Podcast Episode Board"
+			},
+			"slug":"podcastEpisodeBoard"
 		}
 	]
 }
