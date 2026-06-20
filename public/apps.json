@@ -6620,6 +6620,21 @@
 				"es":"Invoice Follow Up Board"
 			},
 			"slug":"invoiceFollowUpBoard"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Reading Copywork Cards",
+				"ru":"Reading Copywork Cards",
+				"ko":"Reading Copywork Cards",
+				"pt":"Reading Copywork Cards",
+				"ja":"Reading Copywork Cards",
+				"en":"Reading Copywork Cards",
+				"fr":"Reading Copywork Cards",
+				"zh":"摘抄卡片",
+				"es":"Reading Copywork Cards"
+			},
+			"slug":"readingCopyworkCards"
 		}
 	]
 }
