@@ -6950,6 +6950,21 @@
 				"es":"Podcast Episode Board"
 			},
 			"slug":"podcastEpisodeBoard"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Receivable Reminder Desk",
+				"ru":"Receivable Reminder Desk",
+				"ko":"Receivable Reminder Desk",
+				"pt":"Receivable Reminder Desk",
+				"ja":"Receivable Reminder Desk",
+				"en":"Receivable Reminder Desk",
+				"fr":"Receivable Reminder Desk",
+				"zh":"回款提醒台",
+				"es":"Receivable Reminder Desk"
+			},
+			"slug":"receivableReminderDesk"
 		}
 	]
 }
