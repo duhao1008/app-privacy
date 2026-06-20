@@ -6605,6 +6605,21 @@
 				"es":"Movie Night Ledger"
 			},
 			"slug":"movieNightLedger"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Invoice Follow Up Board",
+				"ru":"Invoice Follow Up Board",
+				"ko":"Invoice Follow Up Board",
+				"pt":"Invoice Follow Up Board",
+				"ja":"Invoice Follow Up Board",
+				"en":"Invoice Follow Up Board",
+				"fr":"Invoice Follow Up Board",
+				"zh":"开票跟进板",
+				"es":"Invoice Follow Up Board"
+			},
+			"slug":"invoiceFollowUpBoard"
 		}
 	]
 }
