@@ -7145,6 +7145,21 @@
 				"es":"Match Stat Cards"
 			},
 			"slug":"matchStatCards"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"English Tense Timeline",
+				"ru":"English Tense Timeline",
+				"ko":"English Tense Timeline",
+				"pt":"English Tense Timeline",
+				"ja":"English Tense Timeline",
+				"en":"English Tense Timeline",
+				"fr":"English Tense Timeline",
+				"zh":"时态时间线",
+				"es":"English Tense Timeline"
+			},
+			"slug":"englishTenseTimeline"
 		}
 	]
 }
