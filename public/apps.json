@@ -7130,6 +7130,21 @@
 				"es":"Document Renewal Desk"
 			},
 			"slug":"documentRenewalDesk"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Match Stat Cards",
+				"ru":"Match Stat Cards",
+				"ko":"Match Stat Cards",
+				"pt":"Match Stat Cards",
+				"ja":"Match Stat Cards",
+				"en":"Match Stat Cards",
+				"fr":"Match Stat Cards",
+				"zh":"比赛统计卡",
+				"es":"Match Stat Cards"
+			},
+			"slug":"matchStatCards"
 		}
 	]
 }
