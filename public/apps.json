@@ -6845,6 +6845,21 @@
 				"es":"Contract Change Log Reserve"
 			},
 			"slug":"contractChangeLogReserve"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Batch Rename Draft",
+				"ru":"Batch Rename Draft",
+				"ko":"Batch Rename Draft",
+				"pt":"Batch Rename Draft",
+				"ja":"Batch Rename Draft",
+				"en":"Batch Rename Draft",
+				"fr":"Batch Rename Draft",
+				"zh":"批量命名草稿",
+				"es":"Batch Rename Draft"
+			},
+			"slug":"batchRenameDraft"
 		}
 	]
 }
