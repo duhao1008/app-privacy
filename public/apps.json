@@ -6860,6 +6860,21 @@
 				"es":"Batch Rename Draft"
 			},
 			"slug":"batchRenameDraft"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Household Filter Log Reserve",
+				"ru":"Household Filter Log Reserve",
+				"ko":"Household Filter Log Reserve",
+				"pt":"Household Filter Log Reserve",
+				"ja":"Household Filter Log Reserve",
+				"en":"Household Filter Log Reserve",
+				"fr":"Household Filter Log Reserve",
+				"zh":"滤芯更换夹专项",
+				"es":"Household Filter Log Reserve"
+			},
+			"slug":"householdFilterLogReserve"
 		}
 	]
 }
