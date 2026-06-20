@@ -7115,6 +7115,21 @@
 				"es":"Sweater Care Notebook"
 			},
 			"slug":"sweaterCareNotebook"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Document Renewal Desk",
+				"ru":"Document Renewal Desk",
+				"ko":"Document Renewal Desk",
+				"pt":"Document Renewal Desk",
+				"ja":"Document Renewal Desk",
+				"en":"Document Renewal Desk",
+				"fr":"Document Renewal Desk",
+				"zh":"证件续办台",
+				"es":"Document Renewal Desk"
+			},
+			"slug":"documentRenewalDesk"
 		}
 	]
 }
