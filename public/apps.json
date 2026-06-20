@@ -6695,6 +6695,21 @@
 				"es":"Reading Index Cards"
 			},
 			"slug":"readingIndexCards"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Exhibit Stamp Album",
+				"ru":"Exhibit Stamp Album",
+				"ko":"Exhibit Stamp Album",
+				"pt":"Exhibit Stamp Album",
+				"ja":"Exhibit Stamp Album",
+				"en":"Exhibit Stamp Album",
+				"fr":"Exhibit Stamp Album",
+				"zh":"展览打卡册",
+				"es":"Exhibit Stamp Album"
+			},
+			"slug":"exhibitStampAlbum"
 		}
 	]
 }
