@@ -6680,6 +6680,21 @@
 				"es":"Party Game Host"
 			},
 			"slug":"partyGameHost"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Reading Index Cards",
+				"ru":"Reading Index Cards",
+				"ko":"Reading Index Cards",
+				"pt":"Reading Index Cards",
+				"ja":"Reading Index Cards",
+				"en":"Reading Index Cards",
+				"fr":"Reading Index Cards",
+				"zh":"阅读索引卡",
+				"es":"Reading Index Cards"
+			},
+			"slug":"readingIndexCards"
 		}
 	]
 }
