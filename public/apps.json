@@ -6650,6 +6650,21 @@
 				"es":"Concert Setlist Keeper"
 			},
 			"slug":"concertSetlistKeeper"
+		},
+		{
+			"lastUpdated":"2026-06-20",
+			"appName":{
+				"de":"Karaoke Queue Pad",
+				"ru":"Karaoke Queue Pad",
+				"ko":"Karaoke Queue Pad",
+				"pt":"Karaoke Queue Pad",
+				"ja":"Karaoke Queue Pad",
+				"en":"Karaoke Queue Pad",
+				"fr":"Karaoke Queue Pad",
+				"zh":"K歌排队板",
+				"es":"Karaoke Queue Pad"
+			},
+			"slug":"karaokeQueuePad"
 		}
 	]
 }
