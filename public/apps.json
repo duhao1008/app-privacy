@@ -7010,6 +7010,21 @@
 				"es":"Office Supply Reorder Pad"
 			},
 			"slug":"officeSupplyReorderPad"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Court Rotation Board",
+				"ru":"Court Rotation Board",
+				"ko":"Court Rotation Board",
+				"pt":"Court Rotation Board",
+				"ja":"Court Rotation Board",
+				"en":"Court Rotation Board",
+				"fr":"Court Rotation Board",
+				"zh":"轮换站位板",
+				"es":"Court Rotation Board"
+			},
+			"slug":"courtRotationBoard"
 		}
 	]
 }
