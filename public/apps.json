@@ -7505,6 +7505,21 @@
 				"es":"Climbing Route Log"
 			},
 			"slug":"climbingRouteLog"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Map Projection Drill",
+				"ru":"Map Projection Drill",
+				"ko":"Map Projection Drill",
+				"pt":"Map Projection Drill",
+				"ja":"Map Projection Drill",
+				"en":"Map Projection Drill",
+				"fr":"Map Projection Drill",
+				"zh":"地图投影练习",
+				"es":"Map Projection Drill"
+			},
+			"slug":"mapProjectionDrill"
 		}
 	]
 }
