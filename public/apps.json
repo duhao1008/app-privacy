@@ -7280,6 +7280,21 @@
 				"es":"Biology Diagram Notes"
 			},
 			"slug":"biologyDiagramNotes"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Reading Syllabus Tracker",
+				"ru":"Reading Syllabus Tracker",
+				"ko":"Reading Syllabus Tracker",
+				"pt":"Reading Syllabus Tracker",
+				"ja":"Reading Syllabus Tracker",
+				"en":"Reading Syllabus Tracker",
+				"fr":"Reading Syllabus Tracker",
+				"zh":"阅读课表",
+				"es":"Reading Syllabus Tracker"
+			},
+			"slug":"readingSyllabusTracker"
 		}
 	]
 }
