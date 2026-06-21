@@ -7370,6 +7370,21 @@
 				"es":"Priority Scoring Pad"
 			},
 			"slug":"priorityScoringPad"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Pitch Count Notebook",
+				"ru":"Pitch Count Notebook",
+				"ko":"Pitch Count Notebook",
+				"pt":"Pitch Count Notebook",
+				"ja":"Pitch Count Notebook",
+				"en":"Pitch Count Notebook",
+				"fr":"Pitch Count Notebook",
+				"zh":"投球记录本",
+				"es":"Pitch Count Notebook"
+			},
+			"slug":"pitchCountNotebook"
 		}
 	]
 }
