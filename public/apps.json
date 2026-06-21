@@ -7670,6 +7670,21 @@
 				"es":"Cosplay Makeup Plan"
 			},
 			"slug":"cosplayMakeupPlan"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Commission Split Ledger",
+				"ru":"Commission Split Ledger",
+				"ko":"Commission Split Ledger",
+				"pt":"Commission Split Ledger",
+				"ja":"Commission Split Ledger",
+				"en":"Commission Split Ledger",
+				"fr":"Commission Split Ledger",
+				"zh":"佣金拆分簿",
+				"es":"Commission Split Ledger"
+			},
+			"slug":"commissionSplitLedger"
 		}
 	]
 }
