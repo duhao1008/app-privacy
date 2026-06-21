@@ -7490,6 +7490,21 @@
 				"es":"Focus Session Ledger"
 			},
 			"slug":"focusSessionLedger"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Climbing Route Log",
+				"ru":"Climbing Route Log",
+				"ko":"Climbing Route Log",
+				"pt":"Climbing Route Log",
+				"ja":"Climbing Route Log",
+				"en":"Climbing Route Log",
+				"fr":"Climbing Route Log",
+				"zh":"攀岩线路簿",
+				"es":"Climbing Route Log"
+			},
+			"slug":"climbingRouteLog"
 		}
 	]
 }
