@@ -7235,6 +7235,21 @@
 				"es":"Appliance Clean Cycle"
 			},
 			"slug":"applianceCleanCycle"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Task Retrospective Cards",
+				"ru":"Task Retrospective Cards",
+				"ko":"Task Retrospective Cards",
+				"pt":"Task Retrospective Cards",
+				"ja":"Task Retrospective Cards",
+				"en":"Task Retrospective Cards",
+				"fr":"Task Retrospective Cards",
+				"zh":"复盘卡片",
+				"es":"Task Retrospective Cards"
+			},
+			"slug":"taskRetrospectiveCards"
 		}
 	]
 }
