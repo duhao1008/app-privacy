@@ -7790,6 +7790,21 @@
 				"es":"Script Murder Clue Board"
 			},
 			"slug":"scriptMurderClueBoard"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Tape Roll Estimator",
+				"ru":"Tape Roll Estimator",
+				"ko":"Tape Roll Estimator",
+				"pt":"Tape Roll Estimator",
+				"ja":"Tape Roll Estimator",
+				"en":"Tape Roll Estimator",
+				"fr":"Tape Roll Estimator",
+				"zh":"胶带余量表",
+				"es":"Tape Roll Estimator"
+			},
+			"slug":"tapeRollEstimator"
 		}
 	]
 }
