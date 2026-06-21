@@ -7610,6 +7610,21 @@
 				"es":"Decision Matrix Notebook"
 			},
 			"slug":"decisionMatrixNotebook"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Curling Stone Log",
+				"ru":"Curling Stone Log",
+				"ko":"Curling Stone Log",
+				"pt":"Curling Stone Log",
+				"ja":"Curling Stone Log",
+				"en":"Curling Stone Log",
+				"fr":"Curling Stone Log",
+				"zh":"冰壶投壶簿",
+				"es":"Curling Stone Log"
+			},
+			"slug":"curlingStoneLog"
 		}
 	]
 }
