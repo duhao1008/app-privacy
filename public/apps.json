@@ -7205,6 +7205,21 @@
 				"es":"Sample Dispatch Tracker"
 			},
 			"slug":"sampleDispatchTracker"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Spare Fuse Index",
+				"ru":"Spare Fuse Index",
+				"ko":"Spare Fuse Index",
+				"pt":"Spare Fuse Index",
+				"ja":"Spare Fuse Index",
+				"en":"Spare Fuse Index",
+				"fr":"Spare Fuse Index",
+				"zh":"保险丝备件册",
+				"es":"Spare Fuse Index"
+			},
+			"slug":"spareFuseIndex"
 		}
 	]
 }
