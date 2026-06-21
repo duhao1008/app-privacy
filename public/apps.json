@@ -7430,6 +7430,21 @@
 				"es":"Voice Event Planner"
 			},
 			"slug":"voiceEventPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Warranty Claim Desk",
+				"ru":"Warranty Claim Desk",
+				"ko":"Warranty Claim Desk",
+				"pt":"Warranty Claim Desk",
+				"ja":"Warranty Claim Desk",
+				"en":"Warranty Claim Desk",
+				"fr":"Warranty Claim Desk",
+				"zh":"质保索赔台",
+				"es":"Warranty Claim Desk"
+			},
+			"slug":"warrantyClaimDesk"
 		}
 	]
 }
