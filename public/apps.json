@@ -7340,6 +7340,21 @@
 				"es":"Air Filter Stock Card"
 			},
 			"slug":"airFilterStockCard"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Aroma Diffuser Shelf",
+				"ru":"Aroma Diffuser Shelf",
+				"ko":"Aroma Diffuser Shelf",
+				"pt":"Aroma Diffuser Shelf",
+				"ja":"Aroma Diffuser Shelf",
+				"en":"Aroma Diffuser Shelf",
+				"fr":"Aroma Diffuser Shelf",
+				"zh":"香薰补充架",
+				"es":"Aroma Diffuser Shelf"
+			},
+			"slug":"aromaDiffuserShelf"
 		}
 	]
 }
