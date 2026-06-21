@@ -7415,6 +7415,21 @@
 				"es":"Book Errata Notebook"
 			},
 			"slug":"bookErrataNotebook"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Voice Event Planner",
+				"ru":"Voice Event Planner",
+				"ko":"Voice Event Planner",
+				"pt":"Voice Event Planner",
+				"ja":"Voice Event Planner",
+				"en":"Voice Event Planner",
+				"fr":"Voice Event Planner",
+				"zh":"声优见面簿",
+				"es":"Voice Event Planner"
+			},
+			"slug":"voiceEventPlanner"
 		}
 	]
 }
