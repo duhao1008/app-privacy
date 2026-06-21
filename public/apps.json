@@ -7250,6 +7250,21 @@
 				"es":"Task Retrospective Cards"
 			},
 			"slug":"taskRetrospectiveCards"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Archery Score Cards",
+				"ru":"Archery Score Cards",
+				"ko":"Archery Score Cards",
+				"pt":"Archery Score Cards",
+				"ja":"Archery Score Cards",
+				"en":"Archery Score Cards",
+				"fr":"Archery Score Cards",
+				"zh":"射箭计分卡",
+				"es":"Archery Score Cards"
+			},
+			"slug":"archeryScoreCards"
 		}
 	]
 }
