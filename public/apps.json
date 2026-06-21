@@ -7625,6 +7625,21 @@
 				"es":"Curling Stone Log"
 			},
 			"slug":"curlingStoneLog"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Classical Particle Cards",
+				"ru":"Classical Particle Cards",
+				"ko":"Classical Particle Cards",
+				"pt":"Classical Particle Cards",
+				"ja":"Classical Particle Cards",
+				"en":"Classical Particle Cards",
+				"fr":"Classical Particle Cards",
+				"zh":"虚词辨析卡",
+				"es":"Classical Particle Cards"
+			},
+			"slug":"classicalParticleCards"
 		}
 	]
 }
