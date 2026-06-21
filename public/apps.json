@@ -7595,6 +7595,21 @@
 				"es":"Balcony Drying Planner"
 			},
 			"slug":"balconyDryingPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Decision Matrix Notebook",
+				"ru":"Decision Matrix Notebook",
+				"ko":"Decision Matrix Notebook",
+				"pt":"Decision Matrix Notebook",
+				"ja":"Decision Matrix Notebook",
+				"en":"Decision Matrix Notebook",
+				"fr":"Decision Matrix Notebook",
+				"zh":"决策矩阵本",
+				"es":"Decision Matrix Notebook"
+			},
+			"slug":"decisionMatrixNotebook"
 		}
 	]
 }
