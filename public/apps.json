@@ -7640,6 +7640,21 @@
 				"es":"Classical Particle Cards"
 			},
 			"slug":"classicalParticleCards"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Library Damage Claim Log Fallb",
+				"ru":"Library Damage Claim Log Fallb",
+				"ko":"Library Damage Claim Log Fallb",
+				"pt":"Library Damage Claim Log Fallb",
+				"ja":"Library Damage Claim Log Fallb",
+				"en":"Library Damage Claim Log Fallb",
+				"fr":"Library Damage Claim Log Fallb",
+				"zh":"赔书登记精选",
+				"es":"Library Damage Claim Log Fallb"
+			},
+			"slug":"libraryDamageClaimLogFallback"
 		}
 	]
 }
