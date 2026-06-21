@@ -7475,6 +7475,21 @@
 				"es":"Cat Litter Change Log"
 			},
 			"slug":"catLitterChangeLog"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Focus Session Ledger",
+				"ru":"Focus Session Ledger",
+				"ko":"Focus Session Ledger",
+				"pt":"Focus Session Ledger",
+				"ja":"Focus Session Ledger",
+				"en":"Focus Session Ledger",
+				"fr":"Focus Session Ledger",
+				"zh":"专注时段簿",
+				"es":"Focus Session Ledger"
+			},
+			"slug":"focusSessionLedger"
 		}
 	]
 }
