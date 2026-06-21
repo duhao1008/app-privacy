@@ -7325,6 +7325,21 @@
 				"es":"Supplier Trial Board"
 			},
 			"slug":"supplierTrialBoard"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Air Filter Stock Card",
+				"ru":"Air Filter Stock Card",
+				"ko":"Air Filter Stock Card",
+				"pt":"Air Filter Stock Card",
+				"ja":"Air Filter Stock Card",
+				"en":"Air Filter Stock Card",
+				"fr":"Air Filter Stock Card",
+				"zh":"滤网备件卡",
+				"es":"Air Filter Stock Card"
+			},
+			"slug":"airFilterStockCard"
 		}
 	]
 }
