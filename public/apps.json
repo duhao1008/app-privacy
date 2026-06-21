@@ -7700,6 +7700,21 @@
 				"es":"Gasket Size Binder"
 			},
 			"slug":"gasketSizeBinder"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Pantry Spice Freshness",
+				"ru":"Pantry Spice Freshness",
+				"ko":"Pantry Spice Freshness",
+				"pt":"Pantry Spice Freshness",
+				"ja":"Pantry Spice Freshness",
+				"en":"Pantry Spice Freshness",
+				"fr":"Pantry Spice Freshness",
+				"zh":"调味开封架",
+				"es":"Pantry Spice Freshness"
+			},
+			"slug":"pantrySpiceFreshness"
 		}
 	]
 }
