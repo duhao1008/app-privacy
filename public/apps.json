@@ -7265,6 +7265,21 @@
 				"es":"Archery Score Cards"
 			},
 			"slug":"archeryScoreCards"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Biology Diagram Notes",
+				"ru":"Biology Diagram Notes",
+				"ko":"Biology Diagram Notes",
+				"pt":"Biology Diagram Notes",
+				"ja":"Biology Diagram Notes",
+				"en":"Biology Diagram Notes",
+				"fr":"Biology Diagram Notes",
+				"zh":"生物图解本",
+				"es":"Biology Diagram Notes"
+			},
+			"slug":"biologyDiagramNotes"
 		}
 	]
 }
