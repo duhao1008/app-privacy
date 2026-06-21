@@ -7775,6 +7775,21 @@
 				"es":"Review Draft Shelf"
 			},
 			"slug":"reviewDraftShelf"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Script Murder Clue Board",
+				"ru":"Script Murder Clue Board",
+				"ko":"Script Murder Clue Board",
+				"pt":"Script Murder Clue Board",
+				"ja":"Script Murder Clue Board",
+				"en":"Script Murder Clue Board",
+				"fr":"Script Murder Clue Board",
+				"zh":"剧本线索板",
+				"es":"Script Murder Clue Board"
+			},
+			"slug":"scriptMurderClueBoard"
 		}
 	]
 }
