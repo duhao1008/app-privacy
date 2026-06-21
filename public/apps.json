@@ -7400,6 +7400,21 @@
 				"es":"History Chronology Cards"
 			},
 			"slug":"historyChronologyCards"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Book Errata Notebook",
+				"ru":"Book Errata Notebook",
+				"ko":"Book Errata Notebook",
+				"pt":"Book Errata Notebook",
+				"ja":"Book Errata Notebook",
+				"en":"Book Errata Notebook",
+				"fr":"Book Errata Notebook",
+				"zh":"勘误笔记",
+				"es":"Book Errata Notebook"
+			},
+			"slug":"bookErrataNotebook"
 		}
 	]
 }
