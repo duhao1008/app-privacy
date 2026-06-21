@@ -7565,6 +7565,21 @@
 				"es":"Booth Lead Cards"
 			},
 			"slug":"boothLeadCards"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Sealant Open Tracker",
+				"ru":"Sealant Open Tracker",
+				"ko":"Sealant Open Tracker",
+				"pt":"Sealant Open Tracker",
+				"ja":"Sealant Open Tracker",
+				"en":"Sealant Open Tracker",
+				"fr":"Sealant Open Tracker",
+				"zh":"胶管开封表",
+				"es":"Sealant Open Tracker"
+			},
+			"slug":"sealantOpenTracker"
 		}
 	]
 }
