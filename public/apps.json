@@ -7220,6 +7220,21 @@
 				"es":"Spare Fuse Index"
 			},
 			"slug":"spareFuseIndex"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Appliance Clean Cycle",
+				"ru":"Appliance Clean Cycle",
+				"ko":"Appliance Clean Cycle",
+				"pt":"Appliance Clean Cycle",
+				"ja":"Appliance Clean Cycle",
+				"en":"Appliance Clean Cycle",
+				"fr":"Appliance Clean Cycle",
+				"zh":"家电清洁钟",
+				"es":"Appliance Clean Cycle"
+			},
+			"slug":"applianceCleanCycle"
 		}
 	]
 }
