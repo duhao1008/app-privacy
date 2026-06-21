@@ -7460,6 +7460,21 @@
 				"es":"Outlet Load Notebook"
 			},
 			"slug":"outletLoadNotebook"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Cat Litter Change Log",
+				"ru":"Cat Litter Change Log",
+				"ko":"Cat Litter Change Log",
+				"pt":"Cat Litter Change Log",
+				"ja":"Cat Litter Change Log",
+				"en":"Cat Litter Change Log",
+				"fr":"Cat Litter Change Log",
+				"zh":"猫砂换砂表",
+				"es":"Cat Litter Change Log"
+			},
+			"slug":"catLitterChangeLog"
 		}
 	]
 }
