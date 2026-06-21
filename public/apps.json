@@ -7295,6 +7295,21 @@
 				"es":"Reading Syllabus Tracker"
 			},
 			"slug":"readingSyllabusTracker"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Fan Merch Checklist",
+				"ru":"Fan Merch Checklist",
+				"ko":"Fan Merch Checklist",
+				"pt":"Fan Merch Checklist",
+				"ja":"Fan Merch Checklist",
+				"en":"Fan Merch Checklist",
+				"fr":"Fan Merch Checklist",
+				"zh":"应援物料夹",
+				"es":"Fan Merch Checklist"
+			},
+			"slug":"fanMerchChecklist"
 		}
 	]
 }
