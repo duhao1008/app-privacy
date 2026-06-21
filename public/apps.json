@@ -7385,6 +7385,21 @@
 				"es":"Pitch Count Notebook"
 			},
 			"slug":"pitchCountNotebook"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"History Chronology Cards",
+				"ru":"History Chronology Cards",
+				"ko":"History Chronology Cards",
+				"pt":"History Chronology Cards",
+				"ja":"History Chronology Cards",
+				"en":"History Chronology Cards",
+				"fr":"History Chronology Cards",
+				"zh":"历史年表卡",
+				"es":"History Chronology Cards"
+			},
+			"slug":"historyChronologyCards"
 		}
 	]
 }
