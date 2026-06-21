@@ -7520,6 +7520,21 @@
 				"es":"Map Projection Drill"
 			},
 			"slug":"mapProjectionDrill"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Reading Speed Meter",
+				"ru":"Reading Speed Meter",
+				"ko":"Reading Speed Meter",
+				"pt":"Reading Speed Meter",
+				"ja":"Reading Speed Meter",
+				"en":"Reading Speed Meter",
+				"fr":"Reading Speed Meter",
+				"zh":"阅读测速器",
+				"es":"Reading Speed Meter"
+			},
+			"slug":"readingSpeedMeter"
 		}
 	]
 }
