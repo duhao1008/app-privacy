@@ -7730,6 +7730,21 @@
 				"es":"Meeting Action Ledger Alt"
 			},
 			"slug":"meetingActionLedgerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Fencing Footwork Cards",
+				"ru":"Fencing Footwork Cards",
+				"ko":"Fencing Footwork Cards",
+				"pt":"Fencing Footwork Cards",
+				"ja":"Fencing Footwork Cards",
+				"en":"Fencing Footwork Cards",
+				"fr":"Fencing Footwork Cards",
+				"zh":"击剑步伐卡",
+				"es":"Fencing Footwork Cards"
+			},
+			"slug":"fencingFootworkCards"
 		}
 	]
 }
