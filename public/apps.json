@@ -7445,6 +7445,21 @@
 				"es":"Warranty Claim Desk"
 			},
 			"slug":"warrantyClaimDesk"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Outlet Load Notebook",
+				"ru":"Outlet Load Notebook",
+				"ko":"Outlet Load Notebook",
+				"pt":"Outlet Load Notebook",
+				"ja":"Outlet Load Notebook",
+				"en":"Outlet Load Notebook",
+				"fr":"Outlet Load Notebook",
+				"zh":"插座负载本",
+				"es":"Outlet Load Notebook"
+			},
+			"slug":"outletLoadNotebook"
 		}
 	]
 }
