@@ -7310,6 +7310,21 @@
 				"es":"Fan Merch Checklist"
 			},
 			"slug":"fanMerchChecklist"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Supplier Trial Board",
+				"ru":"Supplier Trial Board",
+				"ko":"Supplier Trial Board",
+				"pt":"Supplier Trial Board",
+				"ja":"Supplier Trial Board",
+				"en":"Supplier Trial Board",
+				"fr":"Supplier Trial Board",
+				"zh":"供应商试单",
+				"es":"Supplier Trial Board"
+			},
+			"slug":"supplierTrialBoard"
 		}
 	]
 }
