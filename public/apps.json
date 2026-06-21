@@ -7655,6 +7655,21 @@
 				"es":"Library Damage Claim Log Fallb"
 			},
 			"slug":"libraryDamageClaimLogFallback"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Cosplay Makeup Plan",
+				"ru":"Cosplay Makeup Plan",
+				"ko":"Cosplay Makeup Plan",
+				"pt":"Cosplay Makeup Plan",
+				"ja":"Cosplay Makeup Plan",
+				"en":"Cosplay Makeup Plan",
+				"fr":"Cosplay Makeup Plan",
+				"zh":"妆造计划本",
+				"es":"Cosplay Makeup Plan"
+			},
+			"slug":"cosplayMakeupPlan"
 		}
 	]
 }
