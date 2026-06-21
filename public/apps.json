@@ -7190,6 +7190,21 @@
 				"es":"Screening Schedule Pad"
 			},
 			"slug":"screeningSchedulePad"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Sample Dispatch Tracker",
+				"ru":"Sample Dispatch Tracker",
+				"ko":"Sample Dispatch Tracker",
+				"pt":"Sample Dispatch Tracker",
+				"ja":"Sample Dispatch Tracker",
+				"en":"Sample Dispatch Tracker",
+				"fr":"Sample Dispatch Tracker",
+				"zh":"样品寄送台",
+				"es":"Sample Dispatch Tracker"
+			},
+			"slug":"sampleDispatchTracker"
 		}
 	]
 }
