@@ -7550,6 +7550,21 @@
 				"es":"Dubbing Practice Studio"
 			},
 			"slug":"dubbingPracticeStudio"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Booth Lead Cards",
+				"ru":"Booth Lead Cards",
+				"ko":"Booth Lead Cards",
+				"pt":"Booth Lead Cards",
+				"ja":"Booth Lead Cards",
+				"en":"Booth Lead Cards",
+				"fr":"Booth Lead Cards",
+				"zh":"展会线索卡",
+				"es":"Booth Lead Cards"
+			},
+			"slug":"boothLeadCards"
 		}
 	]
 }
