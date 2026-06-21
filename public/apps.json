@@ -7760,6 +7760,21 @@
 				"es":"Ancient Poem Line Cards"
 			},
 			"slug":"ancientPoemLineCards"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Review Draft Shelf",
+				"ru":"Review Draft Shelf",
+				"ko":"Review Draft Shelf",
+				"pt":"Review Draft Shelf",
+				"ja":"Review Draft Shelf",
+				"en":"Review Draft Shelf",
+				"fr":"Review Draft Shelf",
+				"zh":"书评草稿架",
+				"es":"Review Draft Shelf"
+			},
+			"slug":"reviewDraftShelf"
 		}
 	]
 }
