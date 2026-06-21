@@ -7355,6 +7355,21 @@
 				"es":"Aroma Diffuser Shelf"
 			},
 			"slug":"aromaDiffuserShelf"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Priority Scoring Pad",
+				"ru":"Priority Scoring Pad",
+				"ko":"Priority Scoring Pad",
+				"pt":"Priority Scoring Pad",
+				"ja":"Priority Scoring Pad",
+				"en":"Priority Scoring Pad",
+				"fr":"Priority Scoring Pad",
+				"zh":"优先级评分",
+				"es":"Priority Scoring Pad"
+			},
+			"slug":"priorityScoringPad"
 		}
 	]
 }
