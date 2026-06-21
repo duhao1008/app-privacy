@@ -7715,6 +7715,21 @@
 				"es":"Pantry Spice Freshness"
 			},
 			"slug":"pantrySpiceFreshness"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Meeting Action Ledger Alt",
+				"ru":"Meeting Action Ledger Alt",
+				"ko":"Meeting Action Ledger Alt",
+				"pt":"Meeting Action Ledger Alt",
+				"ja":"Meeting Action Ledger Alt",
+				"en":"Meeting Action Ledger Alt",
+				"fr":"Meeting Action Ledger Alt",
+				"zh":"会议行动簿备份",
+				"es":"Meeting Action Ledger Alt"
+			},
+			"slug":"meetingActionLedgerAlt"
 		}
 	]
 }
