@@ -7685,6 +7685,21 @@
 				"es":"Commission Split Ledger"
 			},
 			"slug":"commissionSplitLedger"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Gasket Size Binder",
+				"ru":"Gasket Size Binder",
+				"ko":"Gasket Size Binder",
+				"pt":"Gasket Size Binder",
+				"ja":"Gasket Size Binder",
+				"en":"Gasket Size Binder",
+				"fr":"Gasket Size Binder",
+				"zh":"垫圈尺寸夹",
+				"es":"Gasket Size Binder"
+			},
+			"slug":"gasketSizeBinder"
 		}
 	]
 }
