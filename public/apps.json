@@ -7805,6 +7805,21 @@
 				"es":"Tape Roll Estimator"
 			},
 			"slug":"tapeRollEstimator"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Umbrella Dry Rack",
+				"ru":"Umbrella Dry Rack",
+				"ko":"Umbrella Dry Rack",
+				"pt":"Umbrella Dry Rack",
+				"ja":"Umbrella Dry Rack",
+				"en":"Umbrella Dry Rack",
+				"fr":"Umbrella Dry Rack",
+				"zh":"雨伞晾干架",
+				"es":"Umbrella Dry Rack"
+			},
+			"slug":"umbrellaDryRack"
 		}
 	]
 }
