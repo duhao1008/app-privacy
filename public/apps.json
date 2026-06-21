@@ -7580,6 +7580,21 @@
 				"es":"Sealant Open Tracker"
 			},
 			"slug":"sealantOpenTracker"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Balcony Drying Planner",
+				"ru":"Balcony Drying Planner",
+				"ko":"Balcony Drying Planner",
+				"pt":"Balcony Drying Planner",
+				"ja":"Balcony Drying Planner",
+				"en":"Balcony Drying Planner",
+				"fr":"Balcony Drying Planner",
+				"zh":"阳台晾晒表",
+				"es":"Balcony Drying Planner"
+			},
+			"slug":"balconyDryingPlanner"
 		}
 	]
 }
