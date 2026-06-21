@@ -7535,6 +7535,21 @@
 				"es":"Reading Speed Meter"
 			},
 			"slug":"readingSpeedMeter"
+		},
+		{
+			"lastUpdated":"2026-06-21",
+			"appName":{
+				"de":"Dubbing Practice Studio",
+				"ru":"Dubbing Practice Studio",
+				"ko":"Dubbing Practice Studio",
+				"pt":"Dubbing Practice Studio",
+				"ja":"Dubbing Practice Studio",
+				"en":"Dubbing Practice Studio",
+				"fr":"Dubbing Practice Studio",
+				"zh":"配音练习棚",
+				"es":"Dubbing Practice Studio"
+			},
+			"slug":"dubbingPracticeStudio"
 		}
 	]
 }
