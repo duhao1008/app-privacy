@@ -7745,6 +7745,21 @@
 				"es":"Fencing Footwork Cards"
 			},
 			"slug":"fencingFootworkCards"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Ancient Poem Line Cards",
+				"ru":"Ancient Poem Line Cards",
+				"ko":"Ancient Poem Line Cards",
+				"pt":"Ancient Poem Line Cards",
+				"ja":"Ancient Poem Line Cards",
+				"en":"Ancient Poem Line Cards",
+				"fr":"Ancient Poem Line Cards",
+				"zh":"诗句填空卡",
+				"es":"Ancient Poem Line Cards"
+			},
+			"slug":"ancientPoemLineCards"
 		}
 	]
 }
