@@ -8000,6 +8000,21 @@
 				"es":"Escape Room Puzzle Log"
 			},
 			"slug":"escapeRoomPuzzleLog"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Vendor Onboarding Checklist",
+				"ru":"Vendor Onboarding Checklist",
+				"ko":"Vendor Onboarding Checklist",
+				"pt":"Vendor Onboarding Checklist",
+				"ja":"Vendor Onboarding Checklist",
+				"en":"Vendor Onboarding Checklist",
+				"fr":"Vendor Onboarding Checklist",
+				"zh":"供应商准入表",
+				"es":"Vendor Onboarding Checklist"
+			},
+			"slug":"vendorOnboardingChecklist"
 		}
 	]
 }
