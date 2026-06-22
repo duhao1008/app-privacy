@@ -8150,6 +8150,21 @@
 				"es":"Bracket Hole Pitch Card"
 			},
 			"slug":"bracketHolePitchCard"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Fragrance Cotton Diary",
+				"ru":"Fragrance Cotton Diary",
+				"ko":"Fragrance Cotton Diary",
+				"pt":"Fragrance Cotton Diary",
+				"ja":"Fragrance Cotton Diary",
+				"en":"Fragrance Cotton Diary",
+				"fr":"Fragrance Cotton Diary",
+				"zh":"香片留香簿",
+				"es":"Fragrance Cotton Diary"
+			},
+			"slug":"fragranceCottonDiary"
 		}
 	]
 }
