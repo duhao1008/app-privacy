@@ -7880,6 +7880,21 @@
 				"es":"Idol Photocard Binder"
 			},
 			"slug":"idolPhotocardBinder"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Renewal Risk Radar",
+				"ru":"Renewal Risk Radar",
+				"ko":"Renewal Risk Radar",
+				"pt":"Renewal Risk Radar",
+				"ja":"Renewal Risk Radar",
+				"en":"Renewal Risk Radar",
+				"fr":"Renewal Risk Radar",
+				"zh":"续约风险雷达",
+				"es":"Renewal Risk Radar"
+			},
+			"slug":"renewalRiskRadar"
 		}
 	]
 }
