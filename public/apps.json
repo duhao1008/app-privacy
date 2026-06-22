@@ -8330,6 +8330,21 @@
 				"es":"Geography Profile Sketch"
 			},
 			"slug":"geographyProfileSketch"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Library Damage Claim Log Alt",
+				"ru":"Library Damage Claim Log Alt",
+				"ko":"Library Damage Claim Log Alt",
+				"pt":"Library Damage Claim Log Alt",
+				"ja":"Library Damage Claim Log Alt",
+				"en":"Library Damage Claim Log Alt",
+				"fr":"Library Damage Claim Log Alt",
+				"zh":"赔书登记",
+				"es":"Library Damage Claim Log Alt"
+			},
+			"slug":"libraryDamageClaimLogAlt"
 		}
 	]
 }
