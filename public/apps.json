@@ -7940,6 +7940,21 @@
 				"es":"Handover Asset Map"
 			},
 			"slug":"handoverAssetMap"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Ultimate Route Board",
+				"ru":"Ultimate Route Board",
+				"ko":"Ultimate Route Board",
+				"pt":"Ultimate Route Board",
+				"ja":"Ultimate Route Board",
+				"en":"Ultimate Route Board",
+				"fr":"Ultimate Route Board",
+				"zh":"飞盘路线板",
+				"es":"Ultimate Route Board"
+			},
+			"slug":"ultimateRouteBoard"
 		}
 	]
 }
