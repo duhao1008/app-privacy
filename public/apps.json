@@ -8075,6 +8075,21 @@
 				"es":"Ski Tuning Journal"
 			},
 			"slug":"skiTuningJournal"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Rhetoric Device Cards",
+				"ru":"Rhetoric Device Cards",
+				"ko":"Rhetoric Device Cards",
+				"pt":"Rhetoric Device Cards",
+				"ja":"Rhetoric Device Cards",
+				"en":"Rhetoric Device Cards",
+				"fr":"Rhetoric Device Cards",
+				"zh":"修辞手法卡",
+				"es":"Rhetoric Device Cards"
+			},
+			"slug":"rhetoricDeviceCards"
 		}
 	]
 }
