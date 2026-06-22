@@ -7985,6 +7985,21 @@
 				"es":"Signed Book Proof Log"
 			},
 			"slug":"signedBookProofLog"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Escape Room Puzzle Log",
+				"ru":"Escape Room Puzzle Log",
+				"ko":"Escape Room Puzzle Log",
+				"pt":"Escape Room Puzzle Log",
+				"ja":"Escape Room Puzzle Log",
+				"en":"Escape Room Puzzle Log",
+				"fr":"Escape Room Puzzle Log",
+				"zh":"密室复盘本",
+				"es":"Escape Room Puzzle Log"
+			},
+			"slug":"escapeRoomPuzzleLog"
 		}
 	]
 }
