@@ -8090,6 +8090,21 @@
 				"es":"Rhetoric Device Cards"
 			},
 			"slug":"rhetoricDeviceCards"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Review Draft Shelf Alt",
+				"ru":"Review Draft Shelf Alt",
+				"ko":"Review Draft Shelf Alt",
+				"pt":"Review Draft Shelf Alt",
+				"ja":"Review Draft Shelf Alt",
+				"en":"Review Draft Shelf Alt",
+				"fr":"Review Draft Shelf Alt",
+				"zh":"书评草稿架备份",
+				"es":"Review Draft Shelf Alt"
+			},
+			"slug":"reviewDraftShelfAlt"
 		}
 	]
 }
