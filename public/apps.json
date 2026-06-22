@@ -8210,6 +8210,21 @@
 				"es":"Biology Cycle Cards"
 			},
 			"slug":"biologyCycleCards"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Series Character Map Alt",
+				"ru":"Series Character Map Alt",
+				"ko":"Series Character Map Alt",
+				"pt":"Series Character Map Alt",
+				"ja":"Series Character Map Alt",
+				"en":"Series Character Map Alt",
+				"fr":"Series Character Map Alt",
+				"zh":"角色关系夹",
+				"es":"Series Character Map Alt"
+			},
+			"slug":"seriesCharacterMapAlt"
 		}
 	]
 }
