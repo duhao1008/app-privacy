@@ -8240,6 +8240,21 @@
 				"es":"Screening Schedule Pad Alt"
 			},
 			"slug":"screeningSchedulePadAlt"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Retainer Hours Ledger",
+				"ru":"Retainer Hours Ledger",
+				"ko":"Retainer Hours Ledger",
+				"pt":"Retainer Hours Ledger",
+				"ja":"Retainer Hours Ledger",
+				"en":"Retainer Hours Ledger",
+				"fr":"Retainer Hours Ledger",
+				"zh":"工时包台账",
+				"es":"Retainer Hours Ledger"
+			},
+			"slug":"retainerHoursLedger"
 		}
 	]
 }
