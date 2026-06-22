@@ -8300,6 +8300,21 @@
 				"es":"Handoff Question Cards"
 			},
 			"slug":"handoffQuestionCards"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Fencing Footwork Cards Alt",
+				"ru":"Fencing Footwork Cards Alt",
+				"ko":"Fencing Footwork Cards Alt",
+				"pt":"Fencing Footwork Cards Alt",
+				"ja":"Fencing Footwork Cards Alt",
+				"en":"Fencing Footwork Cards Alt",
+				"fr":"Fencing Footwork Cards Alt",
+				"zh":"击剑步伐夹",
+				"es":"Fencing Footwork Cards Alt"
+			},
+			"slug":"fencingFootworkCardsAlt"
 		}
 	]
 }
