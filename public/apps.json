@@ -8180,6 +8180,21 @@
 				"es":"Approval Packet Tracker"
 			},
 			"slug":"approvalPacketTracker"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Rope Skip Interval Log Alt",
+				"ru":"Rope Skip Interval Log Alt",
+				"ko":"Rope Skip Interval Log Alt",
+				"pt":"Rope Skip Interval Log Alt",
+				"ja":"Rope Skip Interval Log Alt",
+				"en":"Rope Skip Interval Log Alt",
+				"fr":"Rope Skip Interval Log Alt",
+				"zh":"跳绳节奏夹",
+				"es":"Rope Skip Interval Log Alt"
+			},
+			"slug":"ropeSkipIntervalLogAlt"
 		}
 	]
 }
