@@ -8060,6 +8060,21 @@
 				"es":"Deadline Buffer Planner"
 			},
 			"slug":"deadlineBufferPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Ski Tuning Journal",
+				"ru":"Ski Tuning Journal",
+				"ko":"Ski Tuning Journal",
+				"pt":"Ski Tuning Journal",
+				"ja":"Ski Tuning Journal",
+				"en":"Ski Tuning Journal",
+				"fr":"Ski Tuning Journal",
+				"zh":"滑雪调板记",
+				"es":"Ski Tuning Journal"
+			},
+			"slug":"skiTuningJournal"
 		}
 	]
 }
