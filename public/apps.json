@@ -8225,6 +8225,21 @@
 				"es":"Series Character Map Alt"
 			},
 			"slug":"seriesCharacterMapAlt"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Screening Schedule Pad Alt",
+				"ru":"Screening Schedule Pad Alt",
+				"ko":"Screening Schedule Pad Alt",
+				"pt":"Screening Schedule Pad Alt",
+				"ja":"Screening Schedule Pad Alt",
+				"en":"Screening Schedule Pad Alt",
+				"fr":"Screening Schedule Pad Alt",
+				"zh":"放映排期夹",
+				"es":"Screening Schedule Pad Alt"
+			},
+			"slug":"screeningSchedulePadAlt"
 		}
 	]
 }
