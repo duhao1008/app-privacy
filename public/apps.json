@@ -8165,6 +8165,21 @@
 				"es":"Fragrance Cotton Diary"
 			},
 			"slug":"fragranceCottonDiary"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Approval Packet Tracker",
+				"ru":"Approval Packet Tracker",
+				"ko":"Approval Packet Tracker",
+				"pt":"Approval Packet Tracker",
+				"ja":"Approval Packet Tracker",
+				"en":"Approval Packet Tracker",
+				"fr":"Approval Packet Tracker",
+				"zh":"审批材料包",
+				"es":"Approval Packet Tracker"
+			},
+			"slug":"approvalPacketTracker"
 		}
 	]
 }
