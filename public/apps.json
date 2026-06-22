@@ -8030,6 +8030,21 @@
 				"es":"Shim Stack Calculator"
 			},
 			"slug":"shimStackCalculator"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Drawer Divider Map",
+				"ru":"Drawer Divider Map",
+				"ko":"Drawer Divider Map",
+				"pt":"Drawer Divider Map",
+				"ja":"Drawer Divider Map",
+				"en":"Drawer Divider Map",
+				"fr":"Drawer Divider Map",
+				"zh":"抽屉分格图",
+				"es":"Drawer Divider Map"
+			},
+			"slug":"drawerDividerMap"
 		}
 	]
 }
