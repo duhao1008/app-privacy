@@ -7925,6 +7925,21 @@
 				"es":"Linen Air Cycle Board"
 			},
 			"slug":"linenAirCycleBoard"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Handover Asset Map",
+				"ru":"Handover Asset Map",
+				"ko":"Handover Asset Map",
+				"pt":"Handover Asset Map",
+				"ja":"Handover Asset Map",
+				"en":"Handover Asset Map",
+				"fr":"Handover Asset Map",
+				"zh":"交接资产图",
+				"es":"Handover Asset Map"
+			},
+			"slug":"handoverAssetMap"
 		}
 	]
 }
