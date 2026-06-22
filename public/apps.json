@@ -7910,6 +7910,21 @@
 				"es":"Crate Label Planner"
 			},
 			"slug":"crateLabelPlanner"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Linen Air Cycle Board",
+				"ru":"Linen Air Cycle Board",
+				"ko":"Linen Air Cycle Board",
+				"pt":"Linen Air Cycle Board",
+				"ja":"Linen Air Cycle Board",
+				"en":"Linen Air Cycle Board",
+				"fr":"Linen Air Cycle Board",
+				"zh":"家纺通风牌",
+				"es":"Linen Air Cycle Board"
+			},
+			"slug":"linenAirCycleBoard"
 		}
 	]
 }
