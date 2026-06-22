@@ -7835,6 +7835,21 @@
 				"es":"Return Evidence Folder"
 			},
 			"slug":"returnEvidenceFolder"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Punctuation Error Cards",
+				"ru":"Punctuation Error Cards",
+				"ko":"Punctuation Error Cards",
+				"pt":"Punctuation Error Cards",
+				"ja":"Punctuation Error Cards",
+				"en":"Punctuation Error Cards",
+				"fr":"Punctuation Error Cards",
+				"zh":"标点纠错卡",
+				"es":"Punctuation Error Cards"
+			},
+			"slug":"punctuationErrorCards"
 		}
 	]
 }
