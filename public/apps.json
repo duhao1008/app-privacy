@@ -7955,6 +7955,21 @@
 				"es":"Ultimate Route Board"
 			},
 			"slug":"ultimateRouteBoard"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Latin Root Lab",
+				"ru":"Latin Root Lab",
+				"ko":"Latin Root Lab",
+				"pt":"Latin Root Lab",
+				"ja":"Latin Root Lab",
+				"en":"Latin Root Lab",
+				"fr":"Latin Root Lab",
+				"zh":"拉丁词根台",
+				"es":"Latin Root Lab"
+			},
+			"slug":"latinRootLab"
 		}
 	]
 }
