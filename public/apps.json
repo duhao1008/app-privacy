@@ -8045,6 +8045,21 @@
 				"es":"Drawer Divider Map"
 			},
 			"slug":"drawerDividerMap"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Deadline Buffer Planner",
+				"ru":"Deadline Buffer Planner",
+				"ko":"Deadline Buffer Planner",
+				"pt":"Deadline Buffer Planner",
+				"ja":"Deadline Buffer Planner",
+				"en":"Deadline Buffer Planner",
+				"fr":"Deadline Buffer Planner",
+				"zh":"缓冲期计划",
+				"es":"Deadline Buffer Planner"
+			},
+			"slug":"deadlineBufferPlanner"
 		}
 	]
 }
