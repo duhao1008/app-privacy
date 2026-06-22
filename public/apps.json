@@ -7895,6 +7895,21 @@
 				"es":"Renewal Risk Radar"
 			},
 			"slug":"renewalRiskRadar"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Crate Label Planner",
+				"ru":"Crate Label Planner",
+				"ko":"Crate Label Planner",
+				"pt":"Crate Label Planner",
+				"ja":"Crate Label Planner",
+				"en":"Crate Label Planner",
+				"fr":"Crate Label Planner",
+				"zh":"周转箱标签",
+				"es":"Crate Label Planner"
+			},
+			"slug":"crateLabelPlanner"
 		}
 	]
 }
