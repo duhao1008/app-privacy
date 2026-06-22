@@ -7970,6 +7970,21 @@
 				"es":"Latin Root Lab"
 			},
 			"slug":"latinRootLab"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Signed Book Proof Log",
+				"ru":"Signed Book Proof Log",
+				"ko":"Signed Book Proof Log",
+				"pt":"Signed Book Proof Log",
+				"ja":"Signed Book Proof Log",
+				"en":"Signed Book Proof Log",
+				"fr":"Signed Book Proof Log",
+				"zh":"签名本验收",
+				"es":"Signed Book Proof Log"
+			},
+			"slug":"signedBookProofLog"
 		}
 	]
 }
