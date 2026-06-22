@@ -8315,6 +8315,21 @@
 				"es":"Fencing Footwork Cards Alt"
 			},
 			"slug":"fencingFootworkCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Geography Profile Sketch",
+				"ru":"Geography Profile Sketch",
+				"ko":"Geography Profile Sketch",
+				"pt":"Geography Profile Sketch",
+				"ja":"Geography Profile Sketch",
+				"en":"Geography Profile Sketch",
+				"fr":"Geography Profile Sketch",
+				"zh":"地形剖面练习",
+				"es":"Geography Profile Sketch"
+			},
+			"slug":"geographyProfileSketch"
 		}
 	]
 }
