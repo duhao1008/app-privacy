@@ -7820,6 +7820,21 @@
 				"es":"Umbrella Dry Rack"
 			},
 			"slug":"umbrellaDryRack"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Return Evidence Folder",
+				"ru":"Return Evidence Folder",
+				"ko":"Return Evidence Folder",
+				"pt":"Return Evidence Folder",
+				"ja":"Return Evidence Folder",
+				"en":"Return Evidence Folder",
+				"fr":"Return Evidence Folder",
+				"zh":"退货凭证夹",
+				"es":"Return Evidence Folder"
+			},
+			"slug":"returnEvidenceFolder"
 		}
 	]
 }
