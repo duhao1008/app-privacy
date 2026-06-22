@@ -7865,6 +7865,21 @@
 				"es":"Series Character Map"
 			},
 			"slug":"seriesCharacterMap"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Idol Photocard Binder",
+				"ru":"Idol Photocard Binder",
+				"ko":"Idol Photocard Binder",
+				"pt":"Idol Photocard Binder",
+				"ja":"Idol Photocard Binder",
+				"en":"Idol Photocard Binder",
+				"fr":"Idol Photocard Binder",
+				"zh":"小卡收纳册",
+				"es":"Idol Photocard Binder"
+			},
+			"slug":"idolPhotocardBinder"
 		}
 	]
 }
