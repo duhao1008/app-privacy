@@ -8270,6 +8270,21 @@
 				"es":"Label Roll Core Gauge"
 			},
 			"slug":"labelRollCoreGauge"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Leftover Pairing Cards",
+				"ru":"Leftover Pairing Cards",
+				"ko":"Leftover Pairing Cards",
+				"pt":"Leftover Pairing Cards",
+				"ja":"Leftover Pairing Cards",
+				"en":"Leftover Pairing Cards",
+				"fr":"Leftover Pairing Cards",
+				"zh":"剩食搭配卡",
+				"es":"Leftover Pairing Cards"
+			},
+			"slug":"leftoverPairingCards"
 		}
 	]
 }
