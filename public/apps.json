@@ -7850,6 +7850,21 @@
 				"es":"Punctuation Error Cards"
 			},
 			"slug":"punctuationErrorCards"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Series Character Map",
+				"ru":"Series Character Map",
+				"ko":"Series Character Map",
+				"pt":"Series Character Map",
+				"ja":"Series Character Map",
+				"en":"Series Character Map",
+				"fr":"Series Character Map",
+				"zh":"角色关系卡",
+				"es":"Series Character Map"
+			},
+			"slug":"seriesCharacterMap"
 		}
 	]
 }
