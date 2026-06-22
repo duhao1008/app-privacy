@@ -8120,6 +8120,21 @@
 				"es":"Stage Rehearsal Timer"
 			},
 			"slug":"stageRehearsalTimer"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Site Acceptance Punchlist",
+				"ru":"Site Acceptance Punchlist",
+				"ko":"Site Acceptance Punchlist",
+				"pt":"Site Acceptance Punchlist",
+				"ja":"Site Acceptance Punchlist",
+				"en":"Site Acceptance Punchlist",
+				"fr":"Site Acceptance Punchlist",
+				"zh":"现场验收单",
+				"es":"Site Acceptance Punchlist"
+			},
+			"slug":"siteAcceptancePunchlist"
 		}
 	]
 }
