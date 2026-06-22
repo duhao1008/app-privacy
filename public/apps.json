@@ -8015,6 +8015,21 @@
 				"es":"Vendor Onboarding Checklist"
 			},
 			"slug":"vendorOnboardingChecklist"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Shim Stack Calculator",
+				"ru":"Shim Stack Calculator",
+				"ko":"Shim Stack Calculator",
+				"pt":"Shim Stack Calculator",
+				"ja":"Shim Stack Calculator",
+				"en":"Shim Stack Calculator",
+				"fr":"Shim Stack Calculator",
+				"zh":"垫片叠厚尺",
+				"es":"Shim Stack Calculator"
+			},
+			"slug":"shimStackCalculator"
 		}
 	]
 }
