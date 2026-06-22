@@ -8285,6 +8285,21 @@
 				"es":"Leftover Pairing Cards"
 			},
 			"slug":"leftoverPairingCards"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Handoff Question Cards",
+				"ru":"Handoff Question Cards",
+				"ko":"Handoff Question Cards",
+				"pt":"Handoff Question Cards",
+				"ja":"Handoff Question Cards",
+				"en":"Handoff Question Cards",
+				"fr":"Handoff Question Cards",
+				"zh":"交接问答卡",
+				"es":"Handoff Question Cards"
+			},
+			"slug":"handoffQuestionCards"
 		}
 	]
 }
