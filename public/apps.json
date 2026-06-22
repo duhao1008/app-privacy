@@ -8255,6 +8255,21 @@
 				"es":"Retainer Hours Ledger"
 			},
 			"slug":"retainerHoursLedger"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Label Roll Core Gauge",
+				"ru":"Label Roll Core Gauge",
+				"ko":"Label Roll Core Gauge",
+				"pt":"Label Roll Core Gauge",
+				"ja":"Label Roll Core Gauge",
+				"en":"Label Roll Core Gauge",
+				"fr":"Label Roll Core Gauge",
+				"zh":"标签卷芯尺",
+				"es":"Label Roll Core Gauge"
+			},
+			"slug":"labelRollCoreGauge"
 		}
 	]
 }
