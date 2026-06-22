@@ -8135,6 +8135,21 @@
 				"es":"Site Acceptance Punchlist"
 			},
 			"slug":"siteAcceptancePunchlist"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Bracket Hole Pitch Card",
+				"ru":"Bracket Hole Pitch Card",
+				"ko":"Bracket Hole Pitch Card",
+				"pt":"Bracket Hole Pitch Card",
+				"ja":"Bracket Hole Pitch Card",
+				"en":"Bracket Hole Pitch Card",
+				"fr":"Bracket Hole Pitch Card",
+				"zh":"支架孔距卡",
+				"es":"Bracket Hole Pitch Card"
+			},
+			"slug":"bracketHolePitchCard"
 		}
 	]
 }
