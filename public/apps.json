@@ -8195,6 +8195,21 @@
 				"es":"Rope Skip Interval Log Alt"
 			},
 			"slug":"ropeSkipIntervalLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-22",
+			"appName":{
+				"de":"Biology Cycle Cards",
+				"ru":"Biology Cycle Cards",
+				"ko":"Biology Cycle Cards",
+				"pt":"Biology Cycle Cards",
+				"ja":"Biology Cycle Cards",
+				"en":"Biology Cycle Cards",
+				"fr":"Biology Cycle Cards",
+				"zh":"生物循环卡",
+				"es":"Biology Cycle Cards"
+			},
+			"slug":"biologyCycleCards"
 		}
 	]
 }
