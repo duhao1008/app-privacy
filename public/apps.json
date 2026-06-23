@@ -8480,6 +8480,21 @@
 				"es":"Cosplay Prop Ledger Alt"
 			},
 			"slug":"cosplayPropLedgerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Milestone Billing Board",
+				"ru":"Milestone Billing Board",
+				"ko":"Milestone Billing Board",
+				"pt":"Milestone Billing Board",
+				"ja":"Milestone Billing Board",
+				"en":"Milestone Billing Board",
+				"fr":"Milestone Billing Board",
+				"zh":"节点开款板",
+				"es":"Milestone Billing Board"
+			},
+			"slug":"milestoneBillingBoard"
 		}
 	]
 }
