@@ -8600,6 +8600,21 @@
 				"es":"Essay Argument Grid"
 			},
 			"slug":"essayArgumentGrid"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Reference Format Pad Alt",
+				"ru":"Reference Format Pad Alt",
+				"ko":"Reference Format Pad Alt",
+				"pt":"Reference Format Pad Alt",
+				"ja":"Reference Format Pad Alt",
+				"en":"Reference Format Pad Alt",
+				"fr":"Reference Format Pad Alt",
+				"zh":"引用格式夹",
+				"es":"Reference Format Pad Alt"
+			},
+			"slug":"referenceFormatPadAlt"
 		}
 	]
 }
