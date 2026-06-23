@@ -8345,6 +8345,21 @@
 				"es":"Library Damage Claim Log Alt"
 			},
 			"slug":"libraryDamageClaimLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Voice Event Planner Alt",
+				"ru":"Voice Event Planner Alt",
+				"ko":"Voice Event Planner Alt",
+				"pt":"Voice Event Planner Alt",
+				"ja":"Voice Event Planner Alt",
+				"en":"Voice Event Planner Alt",
+				"fr":"Voice Event Planner Alt",
+				"zh":"声优见面夹",
+				"es":"Voice Event Planner Alt"
+			},
+			"slug":"voiceEventPlannerAlt"
 		}
 	]
 }
