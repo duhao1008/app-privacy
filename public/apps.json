@@ -8540,6 +8540,21 @@
 				"es":"Screw Sort Box Alt"
 			},
 			"slug":"screwSortBoxAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Household Filter Log Alt",
+				"ru":"Household Filter Log Alt",
+				"ko":"Household Filter Log Alt",
+				"pt":"Household Filter Log Alt",
+				"ja":"Household Filter Log Alt",
+				"en":"Household Filter Log Alt",
+				"fr":"Household Filter Log Alt",
+				"zh":"滤芯更换夹",
+				"es":"Household Filter Log Alt"
+			},
+			"slug":"householdFilterLogAlt"
 		}
 	]
 }
