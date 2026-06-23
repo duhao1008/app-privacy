@@ -8435,6 +8435,21 @@
 				"es":"Curling Stone Log Alt"
 			},
 			"slug":"curlingStoneLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Chem Ion Color Cards",
+				"ru":"Chem Ion Color Cards",
+				"ko":"Chem Ion Color Cards",
+				"pt":"Chem Ion Color Cards",
+				"ja":"Chem Ion Color Cards",
+				"en":"Chem Ion Color Cards",
+				"fr":"Chem Ion Color Cards",
+				"zh":"离子颜色卡",
+				"es":"Chem Ion Color Cards"
+			},
+			"slug":"chemIonColorCards"
 		}
 	]
 }
