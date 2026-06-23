@@ -8420,6 +8420,21 @@
 				"es":"Template Choice Board"
 			},
 			"slug":"templateChoiceBoard"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Curling Stone Log Alt",
+				"ru":"Curling Stone Log Alt",
+				"ko":"Curling Stone Log Alt",
+				"pt":"Curling Stone Log Alt",
+				"ja":"Curling Stone Log Alt",
+				"en":"Curling Stone Log Alt",
+				"fr":"Curling Stone Log Alt",
+				"zh":"冰壶投壶夹",
+				"es":"Curling Stone Log Alt"
+			},
+			"slug":"curlingStoneLogAlt"
 		}
 	]
 }
