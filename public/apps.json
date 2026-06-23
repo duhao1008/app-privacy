@@ -8405,6 +8405,21 @@
 				"es":"Plant Watering Ledger Alt"
 			},
 			"slug":"plantWateringLedgerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Template Choice Board",
+				"ru":"Template Choice Board",
+				"ko":"Template Choice Board",
+				"pt":"Template Choice Board",
+				"ja":"Template Choice Board",
+				"en":"Template Choice Board",
+				"fr":"Template Choice Board",
+				"zh":"模板选择板",
+				"es":"Template Choice Board"
+			},
+			"slug":"templateChoiceBoard"
 		}
 	]
 }
