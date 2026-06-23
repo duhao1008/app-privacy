@@ -8495,6 +8495,21 @@
 				"es":"Milestone Billing Board"
 			},
 			"slug":"milestoneBillingBoard"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Sweater Care Notebook Alt",
+				"ru":"Sweater Care Notebook Alt",
+				"ko":"Sweater Care Notebook Alt",
+				"pt":"Sweater Care Notebook Alt",
+				"ja":"Sweater Care Notebook Alt",
+				"en":"Sweater Care Notebook Alt",
+				"fr":"Sweater Care Notebook Alt",
+				"zh":"毛衣护理夹",
+				"es":"Sweater Care Notebook Alt"
+			},
+			"slug":"sweaterCareNotebookAlt"
 		}
 	]
 }
