@@ -8510,6 +8510,21 @@
 				"es":"Sweater Care Notebook Alt"
 			},
 			"slug":"sweaterCareNotebookAlt"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Redaction Draft Notebook Alt",
+				"ru":"Redaction Draft Notebook Alt",
+				"ko":"Redaction Draft Notebook Alt",
+				"pt":"Redaction Draft Notebook Alt",
+				"ja":"Redaction Draft Notebook Alt",
+				"en":"Redaction Draft Notebook Alt",
+				"fr":"Redaction Draft Notebook Alt",
+				"zh":"资料脱敏夹",
+				"es":"Redaction Draft Notebook Alt"
+			},
+			"slug":"redactionDraftNotebookAlt"
 		}
 	]
 }
