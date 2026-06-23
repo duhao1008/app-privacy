@@ -8360,6 +8360,21 @@
 				"es":"Voice Event Planner Alt"
 			},
 			"slug":"voiceEventPlannerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Training Attendance Proof",
+				"ru":"Training Attendance Proof",
+				"ko":"Training Attendance Proof",
+				"pt":"Training Attendance Proof",
+				"ja":"Training Attendance Proof",
+				"en":"Training Attendance Proof",
+				"fr":"Training Attendance Proof",
+				"zh":"培训签到证",
+				"es":"Training Attendance Proof"
+			},
+			"slug":"trainingAttendanceProof"
 		}
 	]
 }
