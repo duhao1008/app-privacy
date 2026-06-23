@@ -8585,6 +8585,21 @@
 				"es":"Pitch Count Notebook Alt"
 			},
 			"slug":"pitchCountNotebookAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Essay Argument Grid",
+				"ru":"Essay Argument Grid",
+				"ko":"Essay Argument Grid",
+				"pt":"Essay Argument Grid",
+				"ja":"Essay Argument Grid",
+				"en":"Essay Argument Grid",
+				"fr":"Essay Argument Grid",
+				"zh":"议论文论点格",
+				"es":"Essay Argument Grid"
+			},
+			"slug":"essayArgumentGrid"
 		}
 	]
 }
