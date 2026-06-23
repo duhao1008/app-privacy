@@ -8375,6 +8375,21 @@
 				"es":"Training Attendance Proof"
 			},
 			"slug":"trainingAttendanceProof"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Tape Roll Estimator Alt",
+				"ru":"Tape Roll Estimator Alt",
+				"ko":"Tape Roll Estimator Alt",
+				"pt":"Tape Roll Estimator Alt",
+				"ja":"Tape Roll Estimator Alt",
+				"en":"Tape Roll Estimator Alt",
+				"fr":"Tape Roll Estimator Alt",
+				"zh":"胶带余量夹",
+				"es":"Tape Roll Estimator Alt"
+			},
+			"slug":"tapeRollEstimatorAlt"
 		}
 	]
 }
