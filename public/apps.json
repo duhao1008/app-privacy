@@ -8465,6 +8465,21 @@
 				"es":"Reading Speed Meter Alt"
 			},
 			"slug":"readingSpeedMeterAlt"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Cosplay Prop Ledger Alt",
+				"ru":"Cosplay Prop Ledger Alt",
+				"ko":"Cosplay Prop Ledger Alt",
+				"pt":"Cosplay Prop Ledger Alt",
+				"ja":"Cosplay Prop Ledger Alt",
+				"en":"Cosplay Prop Ledger Alt",
+				"fr":"Cosplay Prop Ledger Alt",
+				"zh":"Cos道具账",
+				"es":"Cosplay Prop Ledger Alt"
+			},
+			"slug":"cosplayPropLedgerAlt"
 		}
 	]
 }
