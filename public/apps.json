@@ -8525,6 +8525,21 @@
 				"es":"Redaction Draft Notebook Alt"
 			},
 			"slug":"redactionDraftNotebookAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Screw Sort Box Alt",
+				"ru":"Screw Sort Box Alt",
+				"ko":"Screw Sort Box Alt",
+				"pt":"Screw Sort Box Alt",
+				"ja":"Screw Sort Box Alt",
+				"en":"Screw Sort Box Alt",
+				"fr":"Screw Sort Box Alt",
+				"zh":"螺丝规格盒",
+				"es":"Screw Sort Box Alt"
+			},
+			"slug":"screwSortBoxAlt"
 		}
 	]
 }
