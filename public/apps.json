@@ -8555,6 +8555,21 @@
 				"es":"Household Filter Log Alt"
 			},
 			"slug":"householdFilterLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Subscription Cancel Ledger Alt",
+				"ru":"Subscription Cancel Ledger Alt",
+				"ko":"Subscription Cancel Ledger Alt",
+				"pt":"Subscription Cancel Ledger Alt",
+				"ja":"Subscription Cancel Ledger Alt",
+				"en":"Subscription Cancel Ledger Alt",
+				"fr":"Subscription Cancel Ledger Alt",
+				"zh":"订阅取消夹",
+				"es":"Subscription Cancel Ledger Alt"
+			},
+			"slug":"subscriptionCancelLedgerAlt"
 		}
 	]
 }
