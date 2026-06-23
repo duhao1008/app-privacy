@@ -8390,6 +8390,21 @@
 				"es":"Tape Roll Estimator Alt"
 			},
 			"slug":"tapeRollEstimatorAlt"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Plant Watering Ledger Alt",
+				"ru":"Plant Watering Ledger Alt",
+				"ko":"Plant Watering Ledger Alt",
+				"pt":"Plant Watering Ledger Alt",
+				"ja":"Plant Watering Ledger Alt",
+				"en":"Plant Watering Ledger Alt",
+				"fr":"Plant Watering Ledger Alt",
+				"zh":"盆栽浇水夹",
+				"es":"Plant Watering Ledger Alt"
+			},
+			"slug":"plantWateringLedgerAlt"
 		}
 	]
 }
