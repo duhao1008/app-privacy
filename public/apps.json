@@ -8570,6 +8570,21 @@
 				"es":"Subscription Cancel Ledger Alt"
 			},
 			"slug":"subscriptionCancelLedgerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Pitch Count Notebook Alt",
+				"ru":"Pitch Count Notebook Alt",
+				"ko":"Pitch Count Notebook Alt",
+				"pt":"Pitch Count Notebook Alt",
+				"ja":"Pitch Count Notebook Alt",
+				"en":"Pitch Count Notebook Alt",
+				"fr":"Pitch Count Notebook Alt",
+				"zh":"投球记录夹",
+				"es":"Pitch Count Notebook Alt"
+			},
+			"slug":"pitchCountNotebookAlt"
 		}
 	]
 }
