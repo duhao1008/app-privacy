@@ -8450,6 +8450,21 @@
 				"es":"Chem Ion Color Cards"
 			},
 			"slug":"chemIonColorCards"
+		},
+		{
+			"lastUpdated":"2026-06-23",
+			"appName":{
+				"de":"Reading Speed Meter Alt",
+				"ru":"Reading Speed Meter Alt",
+				"ko":"Reading Speed Meter Alt",
+				"pt":"Reading Speed Meter Alt",
+				"ja":"Reading Speed Meter Alt",
+				"en":"Reading Speed Meter Alt",
+				"fr":"Reading Speed Meter Alt",
+				"zh":"阅读测速夹",
+				"es":"Reading Speed Meter Alt"
+			},
+			"slug":"readingSpeedMeterAlt"
 		}
 	]
 }
