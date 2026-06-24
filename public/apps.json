@@ -9005,6 +9005,21 @@
 				"es":"Appliance Battery Box Alt"
 			},
 			"slug":"applianceBatteryBoxAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Return Evidence Folder Alt",
+				"ru":"Return Evidence Folder Alt",
+				"ko":"Return Evidence Folder Alt",
+				"pt":"Return Evidence Folder Alt",
+				"ja":"Return Evidence Folder Alt",
+				"en":"Return Evidence Folder Alt",
+				"fr":"Return Evidence Folder Alt",
+				"zh":"退货凭证夹",
+				"es":"Return Evidence Folder Alt"
+			},
+			"slug":"returnEvidenceFolderAlt"
 		}
 	]
 }
