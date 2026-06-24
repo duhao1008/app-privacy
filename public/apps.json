@@ -8990,6 +8990,21 @@
 				"es":"Gasket Size Binder Alt"
 			},
 			"slug":"gasketSizeBinderAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Appliance Battery Box Alt",
+				"ru":"Appliance Battery Box Alt",
+				"ko":"Appliance Battery Box Alt",
+				"pt":"Appliance Battery Box Alt",
+				"ja":"Appliance Battery Box Alt",
+				"en":"Appliance Battery Box Alt",
+				"fr":"Appliance Battery Box Alt",
+				"zh":"电池型号盒",
+				"es":"Appliance Battery Box Alt"
+			},
+			"slug":"applianceBatteryBoxAlt"
 		}
 	]
 }
