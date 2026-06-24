@@ -8975,6 +8975,21 @@
 				"es":"Delivery Exception Ledger Alt"
 			},
 			"slug":"deliveryExceptionLedgerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Gasket Size Binder Alt",
+				"ru":"Gasket Size Binder Alt",
+				"ko":"Gasket Size Binder Alt",
+				"pt":"Gasket Size Binder Alt",
+				"ja":"Gasket Size Binder Alt",
+				"en":"Gasket Size Binder Alt",
+				"fr":"Gasket Size Binder Alt",
+				"zh":"垫圈尺寸夹",
+				"es":"Gasket Size Binder Alt"
+			},
+			"slug":"gasketSizeBinderAlt"
 		}
 	]
 }
