@@ -8885,6 +8885,21 @@
 				"es":"Appliance Clean Cycle Alt"
 			},
 			"slug":"applianceCleanCycleAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Shift Swap Slip Alt",
+				"ru":"Shift Swap Slip Alt",
+				"ko":"Shift Swap Slip Alt",
+				"pt":"Shift Swap Slip Alt",
+				"ja":"Shift Swap Slip Alt",
+				"en":"Shift Swap Slip Alt",
+				"fr":"Shift Swap Slip Alt",
+				"zh":"换班确认条",
+				"es":"Shift Swap Slip Alt"
+			},
+			"slug":"shiftSwapSlipAlt"
 		}
 	]
 }
