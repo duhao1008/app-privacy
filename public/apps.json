@@ -9020,6 +9020,21 @@
 				"es":"Return Evidence Folder Alt"
 			},
 			"slug":"returnEvidenceFolderAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Ultimate Route Board Alt",
+				"ru":"Ultimate Route Board Alt",
+				"ko":"Ultimate Route Board Alt",
+				"pt":"Ultimate Route Board Alt",
+				"ja":"Ultimate Route Board Alt",
+				"en":"Ultimate Route Board Alt",
+				"fr":"Ultimate Route Board Alt",
+				"zh":"飞盘路线板",
+				"es":"Ultimate Route Board Alt"
+			},
+			"slug":"ultimateRouteBoardAlt"
 		}
 	]
 }
