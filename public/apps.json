@@ -8750,6 +8750,21 @@
 				"es":"Reading Index Cards Alt"
 			},
 			"slug":"readingIndexCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Standup Set Notebook Alt",
+				"ru":"Standup Set Notebook Alt",
+				"ko":"Standup Set Notebook Alt",
+				"pt":"Standup Set Notebook Alt",
+				"ja":"Standup Set Notebook Alt",
+				"en":"Standup Set Notebook Alt",
+				"fr":"Standup Set Notebook Alt",
+				"zh":"段子手夹",
+				"es":"Standup Set Notebook Alt"
+			},
+			"slug":"standupSetNotebookAlt"
 		}
 	]
 }
