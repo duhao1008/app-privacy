@@ -9050,6 +9050,21 @@
 				"es":"Idiom Context Drill Alt"
 			},
 			"slug":"idiomContextDrillAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Book Repair Log Alt",
+				"ru":"Book Repair Log Alt",
+				"ko":"Book Repair Log Alt",
+				"pt":"Book Repair Log Alt",
+				"ja":"Book Repair Log Alt",
+				"en":"Book Repair Log Alt",
+				"fr":"Book Repair Log Alt",
+				"zh":"修书记录",
+				"es":"Book Repair Log Alt"
+			},
+			"slug":"bookRepairLogAlt"
 		}
 	]
 }
