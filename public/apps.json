@@ -8840,6 +8840,21 @@
 				"es":"Music Interval Ear Pad"
 			},
 			"slug":"musicIntervalEarPad"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Filter Thread Gauge Alt",
+				"ru":"Filter Thread Gauge Alt",
+				"ko":"Filter Thread Gauge Alt",
+				"pt":"Filter Thread Gauge Alt",
+				"ja":"Filter Thread Gauge Alt",
+				"en":"Filter Thread Gauge Alt",
+				"fr":"Filter Thread Gauge Alt",
+				"zh":"滤镜螺纹尺",
+				"es":"Filter Thread Gauge Alt"
+			},
+			"slug":"filterThreadGaugeAlt"
 		}
 	]
 }
