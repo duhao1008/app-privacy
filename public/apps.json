@@ -8675,6 +8675,21 @@
 				"es":"Home Textile Size Pad Alt"
 			},
 			"slug":"homeTextileSizePadAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Spreadsheet Review Cards Alt",
+				"ru":"Spreadsheet Review Cards Alt",
+				"ko":"Spreadsheet Review Cards Alt",
+				"pt":"Spreadsheet Review Cards Alt",
+				"ja":"Spreadsheet Review Cards Alt",
+				"en":"Spreadsheet Review Cards Alt",
+				"fr":"Spreadsheet Review Cards Alt",
+				"zh":"表格校对夹",
+				"es":"Spreadsheet Review Cards Alt"
+			},
+			"slug":"spreadsheetReviewCardsAlt"
 		}
 	]
 }
