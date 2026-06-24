@@ -8690,6 +8690,21 @@
 				"es":"Spreadsheet Review Cards Alt"
 			},
 			"slug":"spreadsheetReviewCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Climbing Route Log Alt",
+				"ru":"Climbing Route Log Alt",
+				"ko":"Climbing Route Log Alt",
+				"pt":"Climbing Route Log Alt",
+				"ja":"Climbing Route Log Alt",
+				"en":"Climbing Route Log Alt",
+				"fr":"Climbing Route Log Alt",
+				"zh":"攀岩线路夹",
+				"es":"Climbing Route Log Alt"
+			},
+			"slug":"climbingRouteLogAlt"
 		}
 	]
 }
