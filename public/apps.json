@@ -8780,6 +8780,21 @@
 				"es":"Commission Split Ledger Alt"
 			},
 			"slug":"commissionSplitLedgerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Battery Cycle Notebook Alt",
+				"ru":"Battery Cycle Notebook Alt",
+				"ko":"Battery Cycle Notebook Alt",
+				"pt":"Battery Cycle Notebook Alt",
+				"ja":"Battery Cycle Notebook Alt",
+				"en":"Battery Cycle Notebook Alt",
+				"fr":"Battery Cycle Notebook Alt",
+				"zh":"电池循环夹",
+				"es":"Battery Cycle Notebook Alt"
+			},
+			"slug":"batteryCycleNotebookAlt"
 		}
 	]
 }
