@@ -8915,6 +8915,21 @@
 				"es":"Training Split Timer Alt"
 			},
 			"slug":"trainingSplitTimerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Punctuation Error Cards Alt",
+				"ru":"Punctuation Error Cards Alt",
+				"ko":"Punctuation Error Cards Alt",
+				"pt":"Punctuation Error Cards Alt",
+				"ja":"Punctuation Error Cards Alt",
+				"en":"Punctuation Error Cards Alt",
+				"fr":"Punctuation Error Cards Alt",
+				"zh":"标点纠错夹",
+				"es":"Punctuation Error Cards Alt"
+			},
+			"slug":"punctuationErrorCardsAlt"
 		}
 	]
 }
