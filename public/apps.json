@@ -8735,6 +8735,21 @@
 				"es":"Book Club Question Box Alt"
 			},
 			"slug":"bookClubQuestionBoxAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Reading Index Cards Alt",
+				"ru":"Reading Index Cards Alt",
+				"ko":"Reading Index Cards Alt",
+				"pt":"Reading Index Cards Alt",
+				"ja":"Reading Index Cards Alt",
+				"en":"Reading Index Cards Alt",
+				"fr":"Reading Index Cards Alt",
+				"zh":"阅读索引夹",
+				"es":"Reading Index Cards Alt"
+			},
+			"slug":"readingIndexCardsAlt"
 		}
 	]
 }
