@@ -8810,6 +8810,21 @@
 				"es":"Variety Score Card Alt"
 			},
 			"slug":"varietyScoreCardAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Contract Change Log Alt",
+				"ru":"Contract Change Log Alt",
+				"ko":"Contract Change Log Alt",
+				"pt":"Contract Change Log Alt",
+				"ja":"Contract Change Log Alt",
+				"en":"Contract Change Log Alt",
+				"fr":"Contract Change Log Alt",
+				"zh":"合同变更夹",
+				"es":"Contract Change Log Alt"
+			},
+			"slug":"contractChangeLogAlt"
 		}
 	]
 }
