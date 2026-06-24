@@ -8825,6 +8825,21 @@
 				"es":"Contract Change Log Alt"
 			},
 			"slug":"contractChangeLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Music Interval Ear Pad",
+				"ru":"Music Interval Ear Pad",
+				"ko":"Music Interval Ear Pad",
+				"pt":"Music Interval Ear Pad",
+				"ja":"Music Interval Ear Pad",
+				"en":"Music Interval Ear Pad",
+				"fr":"Music Interval Ear Pad",
+				"zh":"音程听辨垫",
+				"es":"Music Interval Ear Pad"
+			},
+			"slug":"musicIntervalEarPad"
 		}
 	]
 }
