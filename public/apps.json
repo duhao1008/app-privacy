@@ -8930,6 +8930,21 @@
 				"es":"Punctuation Error Cards Alt"
 			},
 			"slug":"punctuationErrorCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Signed Book Proof Log Alt",
+				"ru":"Signed Book Proof Log Alt",
+				"ko":"Signed Book Proof Log Alt",
+				"pt":"Signed Book Proof Log Alt",
+				"ja":"Signed Book Proof Log Alt",
+				"en":"Signed Book Proof Log Alt",
+				"fr":"Signed Book Proof Log Alt",
+				"zh":"签名本验收",
+				"es":"Signed Book Proof Log Alt"
+			},
+			"slug":"signedBookProofLogAlt"
 		}
 	]
 }
