@@ -8645,6 +8645,21 @@
 				"es":"Deposit Balance Tracker Alt"
 			},
 			"slug":"depositBalanceTrackerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Cable Label Keeper Alt",
+				"ru":"Cable Label Keeper Alt",
+				"ko":"Cable Label Keeper Alt",
+				"pt":"Cable Label Keeper Alt",
+				"ja":"Cable Label Keeper Alt",
+				"en":"Cable Label Keeper Alt",
+				"fr":"Cable Label Keeper Alt",
+				"zh":"线缆标签夹",
+				"es":"Cable Label Keeper Alt"
+			},
+			"slug":"cableLabelKeeperAlt"
 		}
 	]
 }
