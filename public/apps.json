@@ -8960,6 +8960,21 @@
 				"es":"Fan Merch Checklist Alt"
 			},
 			"slug":"fanMerchChecklistAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Delivery Exception Ledger Alt",
+				"ru":"Delivery Exception Ledger Alt",
+				"ko":"Delivery Exception Ledger Alt",
+				"pt":"Delivery Exception Ledger Alt",
+				"ja":"Delivery Exception Ledger Alt",
+				"en":"Delivery Exception Ledger Alt",
+				"fr":"Delivery Exception Ledger Alt",
+				"zh":"送货异常夹",
+				"es":"Delivery Exception Ledger Alt"
+			},
+			"slug":"deliveryExceptionLedgerAlt"
 		}
 	]
 }
