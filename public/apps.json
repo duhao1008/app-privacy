@@ -8795,6 +8795,21 @@
 				"es":"Battery Cycle Notebook Alt"
 			},
 			"slug":"batteryCycleNotebookAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Variety Score Card Alt",
+				"ru":"Variety Score Card Alt",
+				"ko":"Variety Score Card Alt",
+				"pt":"Variety Score Card Alt",
+				"ja":"Variety Score Card Alt",
+				"en":"Variety Score Card Alt",
+				"fr":"Variety Score Card Alt",
+				"zh":"综艺评分夹",
+				"es":"Variety Score Card Alt"
+			},
+			"slug":"varietyScoreCardAlt"
 		}
 	]
 }
