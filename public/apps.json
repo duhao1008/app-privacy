@@ -9035,6 +9035,21 @@
 				"es":"Ultimate Route Board Alt"
 			},
 			"slug":"ultimateRouteBoardAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Idiom Context Drill Alt",
+				"ru":"Idiom Context Drill Alt",
+				"ko":"Idiom Context Drill Alt",
+				"pt":"Idiom Context Drill Alt",
+				"ja":"Idiom Context Drill Alt",
+				"en":"Idiom Context Drill Alt",
+				"fr":"Idiom Context Drill Alt",
+				"zh":"成语语境夹",
+				"es":"Idiom Context Drill Alt"
+			},
+			"slug":"idiomContextDrillAlt"
 		}
 	]
 }
