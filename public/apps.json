@@ -8870,6 +8870,21 @@
 				"es":"Archery Score Cards Alt"
 			},
 			"slug":"archeryScoreCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Appliance Clean Cycle Alt",
+				"ru":"Appliance Clean Cycle Alt",
+				"ko":"Appliance Clean Cycle Alt",
+				"pt":"Appliance Clean Cycle Alt",
+				"ja":"Appliance Clean Cycle Alt",
+				"en":"Appliance Clean Cycle Alt",
+				"fr":"Appliance Clean Cycle Alt",
+				"zh":"家电清洁钟",
+				"es":"Appliance Clean Cycle Alt"
+			},
+			"slug":"applianceCleanCycleAlt"
 		}
 	]
 }
