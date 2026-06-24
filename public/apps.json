@@ -8705,6 +8705,21 @@
 				"es":"Climbing Route Log Alt"
 			},
 			"slug":"climbingRouteLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Tone Sandhi Cards Alt",
+				"ru":"Tone Sandhi Cards Alt",
+				"ko":"Tone Sandhi Cards Alt",
+				"pt":"Tone Sandhi Cards Alt",
+				"ja":"Tone Sandhi Cards Alt",
+				"en":"Tone Sandhi Cards Alt",
+				"fr":"Tone Sandhi Cards Alt",
+				"zh":"变调练习夹",
+				"es":"Tone Sandhi Cards Alt"
+			},
+			"slug":"toneSandhiCardsAlt"
 		}
 	]
 }
