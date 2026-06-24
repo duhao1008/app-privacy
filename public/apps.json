@@ -8660,6 +8660,21 @@
 				"es":"Cable Label Keeper Alt"
 			},
 			"slug":"cableLabelKeeperAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Home Textile Size Pad Alt",
+				"ru":"Home Textile Size Pad Alt",
+				"ko":"Home Textile Size Pad Alt",
+				"pt":"Home Textile Size Pad Alt",
+				"ja":"Home Textile Size Pad Alt",
+				"en":"Home Textile Size Pad Alt",
+				"fr":"Home Textile Size Pad Alt",
+				"zh":"床品尺寸夹",
+				"es":"Home Textile Size Pad Alt"
+			},
+			"slug":"homeTextileSizePadAlt"
 		}
 	]
 }
