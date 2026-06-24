@@ -8630,6 +8630,21 @@
 				"es":"Theater Cue Book Alt"
 			},
 			"slug":"theaterCueBookAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Deposit Balance Tracker Alt",
+				"ru":"Deposit Balance Tracker Alt",
+				"ko":"Deposit Balance Tracker Alt",
+				"pt":"Deposit Balance Tracker Alt",
+				"ja":"Deposit Balance Tracker Alt",
+				"en":"Deposit Balance Tracker Alt",
+				"fr":"Deposit Balance Tracker Alt",
+				"zh":"订金尾款夹",
+				"es":"Deposit Balance Tracker Alt"
+			},
+			"slug":"depositBalanceTrackerAlt"
 		}
 	]
 }
