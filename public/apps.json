@@ -8855,6 +8855,21 @@
 				"es":"Filter Thread Gauge Alt"
 			},
 			"slug":"filterThreadGaugeAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Archery Score Cards Alt",
+				"ru":"Archery Score Cards Alt",
+				"ko":"Archery Score Cards Alt",
+				"pt":"Archery Score Cards Alt",
+				"ja":"Archery Score Cards Alt",
+				"en":"Archery Score Cards Alt",
+				"fr":"Archery Score Cards Alt",
+				"zh":"射箭计分夹",
+				"es":"Archery Score Cards Alt"
+			},
+			"slug":"archeryScoreCardsAlt"
 		}
 	]
 }
