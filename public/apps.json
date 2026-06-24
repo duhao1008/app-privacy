@@ -8615,6 +8615,21 @@
 				"es":"Reference Format Pad Alt"
 			},
 			"slug":"referenceFormatPadAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Theater Cue Book Alt",
+				"ru":"Theater Cue Book Alt",
+				"ko":"Theater Cue Book Alt",
+				"pt":"Theater Cue Book Alt",
+				"ja":"Theater Cue Book Alt",
+				"en":"Theater Cue Book Alt",
+				"fr":"Theater Cue Book Alt",
+				"zh":"剧场Cue夹",
+				"es":"Theater Cue Book Alt"
+			},
+			"slug":"theaterCueBookAlt"
 		}
 	]
 }
