@@ -8900,6 +8900,21 @@
 				"es":"Shift Swap Slip Alt"
 			},
 			"slug":"shiftSwapSlipAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Training Split Timer Alt",
+				"ru":"Training Split Timer Alt",
+				"ko":"Training Split Timer Alt",
+				"pt":"Training Split Timer Alt",
+				"ja":"Training Split Timer Alt",
+				"en":"Training Split Timer Alt",
+				"fr":"Training Split Timer Alt",
+				"zh":"训练分段夹",
+				"es":"Training Split Timer Alt"
+			},
+			"slug":"trainingSplitTimerAlt"
 		}
 	]
 }
