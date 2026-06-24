@@ -8945,6 +8945,21 @@
 				"es":"Signed Book Proof Log Alt"
 			},
 			"slug":"signedBookProofLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Fan Merch Checklist Alt",
+				"ru":"Fan Merch Checklist Alt",
+				"ko":"Fan Merch Checklist Alt",
+				"pt":"Fan Merch Checklist Alt",
+				"ja":"Fan Merch Checklist Alt",
+				"en":"Fan Merch Checklist Alt",
+				"fr":"Fan Merch Checklist Alt",
+				"zh":"应援物料夹",
+				"es":"Fan Merch Checklist Alt"
+			},
+			"slug":"fanMerchChecklistAlt"
 		}
 	]
 }
