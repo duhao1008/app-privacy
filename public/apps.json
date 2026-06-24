@@ -8720,6 +8720,21 @@
 				"es":"Tone Sandhi Cards Alt"
 			},
 			"slug":"toneSandhiCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Book Club Question Box Alt",
+				"ru":"Book Club Question Box Alt",
+				"ko":"Book Club Question Box Alt",
+				"pt":"Book Club Question Box Alt",
+				"ja":"Book Club Question Box Alt",
+				"en":"Book Club Question Box Alt",
+				"fr":"Book Club Question Box Alt",
+				"zh":"读书会题夹",
+				"es":"Book Club Question Box Alt"
+			},
+			"slug":"bookClubQuestionBoxAlt"
 		}
 	]
 }
