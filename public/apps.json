@@ -8765,6 +8765,21 @@
 				"es":"Standup Set Notebook Alt"
 			},
 			"slug":"standupSetNotebookAlt"
+		},
+		{
+			"lastUpdated":"2026-06-24",
+			"appName":{
+				"de":"Commission Split Ledger Alt",
+				"ru":"Commission Split Ledger Alt",
+				"ko":"Commission Split Ledger Alt",
+				"pt":"Commission Split Ledger Alt",
+				"ja":"Commission Split Ledger Alt",
+				"en":"Commission Split Ledger Alt",
+				"fr":"Commission Split Ledger Alt",
+				"zh":"佣金拆分夹",
+				"es":"Commission Split Ledger Alt"
+			},
+			"slug":"commissionSplitLedgerAlt"
 		}
 	]
 }
