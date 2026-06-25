@@ -9335,6 +9335,21 @@
 				"es":"Invoice Follow Up Board Alt"
 			},
 			"slug":"invoiceFollowUpBoardAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Screen Grid Ruler Alt",
+				"ru":"Screen Grid Ruler Alt",
+				"ko":"Screen Grid Ruler Alt",
+				"pt":"Screen Grid Ruler Alt",
+				"ja":"Screen Grid Ruler Alt",
+				"en":"Screen Grid Ruler Alt",
+				"fr":"Screen Grid Ruler Alt",
+				"zh":"屏幕网格尺",
+				"es":"Screen Grid Ruler Alt"
+			},
+			"slug":"screenGridRulerAlt"
 		}
 	]
 }
