@@ -9110,6 +9110,21 @@
 				"es":"Crate Label Planner Alt"
 			},
 			"slug":"crateLabelPlannerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Closet Declutter Board Alt",
+				"ru":"Closet Declutter Board Alt",
+				"ko":"Closet Declutter Board Alt",
+				"pt":"Closet Declutter Board Alt",
+				"ja":"Closet Declutter Board Alt",
+				"en":"Closet Declutter Board Alt",
+				"fr":"Closet Declutter Board Alt",
+				"zh":"断舍离衣橱",
+				"es":"Closet Declutter Board Alt"
+			},
+			"slug":"closetDeclutterBoardAlt"
 		}
 	]
 }
