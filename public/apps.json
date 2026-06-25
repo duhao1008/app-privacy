@@ -9320,6 +9320,21 @@
 				"es":"Karaoke Queue Pad Alt"
 			},
 			"slug":"karaokeQueuePadAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Invoice Follow Up Board Alt",
+				"ru":"Invoice Follow Up Board Alt",
+				"ko":"Invoice Follow Up Board Alt",
+				"pt":"Invoice Follow Up Board Alt",
+				"ja":"Invoice Follow Up Board Alt",
+				"en":"Invoice Follow Up Board Alt",
+				"fr":"Invoice Follow Up Board Alt",
+				"zh":"开票跟进板",
+				"es":"Invoice Follow Up Board Alt"
+			},
+			"slug":"invoiceFollowUpBoardAlt"
 		}
 	]
 }
