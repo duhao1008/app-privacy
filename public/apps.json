@@ -9170,6 +9170,21 @@
 				"es":"Classical Particle Cards Alt"
 			},
 			"slug":"classicalParticleCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Book Quote Ledger Alt",
+				"ru":"Book Quote Ledger Alt",
+				"ko":"Book Quote Ledger Alt",
+				"pt":"Book Quote Ledger Alt",
+				"ja":"Book Quote Ledger Alt",
+				"en":"Book Quote Ledger Alt",
+				"fr":"Book Quote Ledger Alt",
+				"zh":"书摘台账",
+				"es":"Book Quote Ledger Alt"
+			},
+			"slug":"bookQuoteLedgerAlt"
 		}
 	]
 }
