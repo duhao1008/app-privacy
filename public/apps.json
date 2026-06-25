@@ -9380,6 +9380,21 @@
 				"es":"Office Supply Reorder Pad Alt"
 			},
 			"slug":"officeSupplyReorderPadAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Match Stat Cards Alt",
+				"ru":"Match Stat Cards Alt",
+				"ko":"Match Stat Cards Alt",
+				"pt":"Match Stat Cards Alt",
+				"ja":"Match Stat Cards Alt",
+				"en":"Match Stat Cards Alt",
+				"fr":"Match Stat Cards Alt",
+				"zh":"比赛统计夹",
+				"es":"Match Stat Cards Alt"
+			},
+			"slug":"matchStatCardsAlt"
 		}
 	]
 }
