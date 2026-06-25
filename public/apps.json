@@ -9395,6 +9395,21 @@
 				"es":"Match Stat Cards Alt"
 			},
 			"slug":"matchStatCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Geometry Hint Notebook Alt",
+				"ru":"Geometry Hint Notebook Alt",
+				"ko":"Geometry Hint Notebook Alt",
+				"pt":"Geometry Hint Notebook Alt",
+				"ja":"Geometry Hint Notebook Alt",
+				"en":"Geometry Hint Notebook Alt",
+				"fr":"Geometry Hint Notebook Alt",
+				"zh":"几何提示夹",
+				"es":"Geometry Hint Notebook Alt"
+			},
+			"slug":"geometryHintNotebookAlt"
 		}
 	]
 }
