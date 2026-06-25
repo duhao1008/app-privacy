@@ -9200,6 +9200,21 @@
 				"es":"Concert Setlist Keeper Alt"
 			},
 			"slug":"concertSetlistKeeperAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Booth Lead Sorter Alt",
+				"ru":"Booth Lead Sorter Alt",
+				"ko":"Booth Lead Sorter Alt",
+				"pt":"Booth Lead Sorter Alt",
+				"ja":"Booth Lead Sorter Alt",
+				"en":"Booth Lead Sorter Alt",
+				"fr":"Booth Lead Sorter Alt",
+				"zh":"展位线索筛",
+				"es":"Booth Lead Sorter Alt"
+			},
+			"slug":"boothLeadSorterAlt"
 		}
 	]
 }
