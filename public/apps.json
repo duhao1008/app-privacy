@@ -9095,6 +9095,21 @@
 				"es":"Client Objection Cards Alt"
 			},
 			"slug":"clientObjectionCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Crate Label Planner Alt",
+				"ru":"Crate Label Planner Alt",
+				"ko":"Crate Label Planner Alt",
+				"pt":"Crate Label Planner Alt",
+				"ja":"Crate Label Planner Alt",
+				"en":"Crate Label Planner Alt",
+				"fr":"Crate Label Planner Alt",
+				"zh":"周转箱标签",
+				"es":"Crate Label Planner Alt"
+			},
+			"slug":"crateLabelPlannerAlt"
 		}
 	]
 }
