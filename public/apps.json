@@ -9080,6 +9080,21 @@
 				"es":"Movie Night Ledger Alt"
 			},
 			"slug":"movieNightLedgerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Client Objection Cards Alt",
+				"ru":"Client Objection Cards Alt",
+				"ko":"Client Objection Cards Alt",
+				"pt":"Client Objection Cards Alt",
+				"ja":"Client Objection Cards Alt",
+				"en":"Client Objection Cards Alt",
+				"fr":"Client Objection Cards Alt",
+				"zh":"异议话术夹",
+				"es":"Client Objection Cards Alt"
+			},
+			"slug":"clientObjectionCardsAlt"
 		}
 	]
 }
