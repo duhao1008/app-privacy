@@ -9065,6 +9065,21 @@
 				"es":"Book Repair Log Alt"
 			},
 			"slug":"bookRepairLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Movie Night Ledger Alt",
+				"ru":"Movie Night Ledger Alt",
+				"ko":"Movie Night Ledger Alt",
+				"pt":"Movie Night Ledger Alt",
+				"ja":"Movie Night Ledger Alt",
+				"en":"Movie Night Ledger Alt",
+				"fr":"Movie Night Ledger Alt",
+				"zh":"观影夜夹",
+				"es":"Movie Night Ledger Alt"
+			},
+			"slug":"movieNightLedgerAlt"
 		}
 	]
 }
