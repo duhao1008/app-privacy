@@ -9215,6 +9215,21 @@
 				"es":"Booth Lead Sorter Alt"
 			},
 			"slug":"boothLeadSorterAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Spare Fuse Index Alt",
+				"ru":"Spare Fuse Index Alt",
+				"ko":"Spare Fuse Index Alt",
+				"pt":"Spare Fuse Index Alt",
+				"ja":"Spare Fuse Index Alt",
+				"en":"Spare Fuse Index Alt",
+				"fr":"Spare Fuse Index Alt",
+				"zh":"保险丝备件册",
+				"es":"Spare Fuse Index Alt"
+			},
+			"slug":"spareFuseIndexAlt"
 		}
 	]
 }
