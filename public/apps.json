@@ -9155,6 +9155,21 @@
 				"es":"Ski Tuning Journal Alt"
 			},
 			"slug":"skiTuningJournalAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Classical Particle Cards Alt",
+				"ru":"Classical Particle Cards Alt",
+				"ko":"Classical Particle Cards Alt",
+				"pt":"Classical Particle Cards Alt",
+				"ja":"Classical Particle Cards Alt",
+				"en":"Classical Particle Cards Alt",
+				"fr":"Classical Particle Cards Alt",
+				"zh":"虚词辨析夹",
+				"es":"Classical Particle Cards Alt"
+			},
+			"slug":"classicalParticleCardsAlt"
 		}
 	]
 }
