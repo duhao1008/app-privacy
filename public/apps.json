@@ -9245,6 +9245,21 @@
 				"es":"Aroma Diffuser Shelf Alt"
 			},
 			"slug":"aromaDiffuserShelfAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Focus Session Ledger Alt",
+				"ru":"Focus Session Ledger Alt",
+				"ko":"Focus Session Ledger Alt",
+				"pt":"Focus Session Ledger Alt",
+				"ja":"Focus Session Ledger Alt",
+				"en":"Focus Session Ledger Alt",
+				"fr":"Focus Session Ledger Alt",
+				"zh":"专注时段夹",
+				"es":"Focus Session Ledger Alt"
+			},
+			"slug":"focusSessionLedgerAlt"
 		}
 	]
 }
