@@ -9260,6 +9260,21 @@
 				"es":"Focus Session Ledger Alt"
 			},
 			"slug":"focusSessionLedgerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Court Rotation Board Alt",
+				"ru":"Court Rotation Board Alt",
+				"ko":"Court Rotation Board Alt",
+				"pt":"Court Rotation Board Alt",
+				"ja":"Court Rotation Board Alt",
+				"en":"Court Rotation Board Alt",
+				"fr":"Court Rotation Board Alt",
+				"zh":"轮换站位板",
+				"es":"Court Rotation Board Alt"
+			},
+			"slug":"courtRotationBoardAlt"
 		}
 	]
 }
