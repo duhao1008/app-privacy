@@ -9230,6 +9230,21 @@
 				"es":"Spare Fuse Index Alt"
 			},
 			"slug":"spareFuseIndexAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Aroma Diffuser Shelf Alt",
+				"ru":"Aroma Diffuser Shelf Alt",
+				"ko":"Aroma Diffuser Shelf Alt",
+				"pt":"Aroma Diffuser Shelf Alt",
+				"ja":"Aroma Diffuser Shelf Alt",
+				"en":"Aroma Diffuser Shelf Alt",
+				"fr":"Aroma Diffuser Shelf Alt",
+				"zh":"香薰补充夹",
+				"es":"Aroma Diffuser Shelf Alt"
+			},
+			"slug":"aromaDiffuserShelfAlt"
 		}
 	]
 }
