@@ -9185,6 +9185,21 @@
 				"es":"Book Quote Ledger Alt"
 			},
 			"slug":"bookQuoteLedgerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Concert Setlist Keeper Alt",
+				"ru":"Concert Setlist Keeper Alt",
+				"ko":"Concert Setlist Keeper Alt",
+				"pt":"Concert Setlist Keeper Alt",
+				"ja":"Concert Setlist Keeper Alt",
+				"en":"Concert Setlist Keeper Alt",
+				"fr":"Concert Setlist Keeper Alt",
+				"zh":"演唱会歌单",
+				"es":"Concert Setlist Keeper Alt"
+			},
+			"slug":"concertSetlistKeeperAlt"
 		}
 	]
 }
