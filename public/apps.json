@@ -9305,6 +9305,21 @@
 				"es":"Dust Jacket Planner Alt"
 			},
 			"slug":"dustJacketPlannerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Karaoke Queue Pad Alt",
+				"ru":"Karaoke Queue Pad Alt",
+				"ko":"Karaoke Queue Pad Alt",
+				"pt":"Karaoke Queue Pad Alt",
+				"ja":"Karaoke Queue Pad Alt",
+				"en":"Karaoke Queue Pad Alt",
+				"fr":"Karaoke Queue Pad Alt",
+				"zh":"K歌排队板",
+				"es":"Karaoke Queue Pad Alt"
+			},
+			"slug":"karaokeQueuePadAlt"
 		}
 	]
 }
