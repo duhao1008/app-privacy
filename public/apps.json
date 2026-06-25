@@ -9275,6 +9275,21 @@
 				"es":"Court Rotation Board Alt"
 			},
 			"slug":"courtRotationBoardAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"English Prefix Cards Alt",
+				"ru":"English Prefix Cards Alt",
+				"ko":"English Prefix Cards Alt",
+				"pt":"English Prefix Cards Alt",
+				"ja":"English Prefix Cards Alt",
+				"en":"English Prefix Cards Alt",
+				"fr":"English Prefix Cards Alt",
+				"zh":"词缀卡片",
+				"es":"English Prefix Cards Alt"
+			},
+			"slug":"englishPrefixCardsAlt"
 		}
 	]
 }
