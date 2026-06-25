@@ -9140,6 +9140,21 @@
 				"es":"Decision Matrix Notebook Alt"
 			},
 			"slug":"decisionMatrixNotebookAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Ski Tuning Journal Alt",
+				"ru":"Ski Tuning Journal Alt",
+				"ko":"Ski Tuning Journal Alt",
+				"pt":"Ski Tuning Journal Alt",
+				"ja":"Ski Tuning Journal Alt",
+				"en":"Ski Tuning Journal Alt",
+				"fr":"Ski Tuning Journal Alt",
+				"zh":"滑雪调板记",
+				"es":"Ski Tuning Journal Alt"
+			},
+			"slug":"skiTuningJournalAlt"
 		}
 	]
 }
