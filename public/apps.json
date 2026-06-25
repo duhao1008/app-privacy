@@ -9350,6 +9350,21 @@
 				"es":"Screen Grid Ruler Alt"
 			},
 			"slug":"screenGridRulerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Cat Litter Change Log Alt",
+				"ru":"Cat Litter Change Log Alt",
+				"ko":"Cat Litter Change Log Alt",
+				"pt":"Cat Litter Change Log Alt",
+				"ja":"Cat Litter Change Log Alt",
+				"en":"Cat Litter Change Log Alt",
+				"fr":"Cat Litter Change Log Alt",
+				"zh":"猫砂换砂夹",
+				"es":"Cat Litter Change Log Alt"
+			},
+			"slug":"catLitterChangeLogAlt"
 		}
 	]
 }
