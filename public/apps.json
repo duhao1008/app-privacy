@@ -9125,6 +9125,21 @@
 				"es":"Closet Declutter Board Alt"
 			},
 			"slug":"closetDeclutterBoardAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Decision Matrix Notebook Alt",
+				"ru":"Decision Matrix Notebook Alt",
+				"ko":"Decision Matrix Notebook Alt",
+				"pt":"Decision Matrix Notebook Alt",
+				"ja":"Decision Matrix Notebook Alt",
+				"en":"Decision Matrix Notebook Alt",
+				"fr":"Decision Matrix Notebook Alt",
+				"zh":"决策矩阵夹",
+				"es":"Decision Matrix Notebook Alt"
+			},
+			"slug":"decisionMatrixNotebookAlt"
 		}
 	]
 }
