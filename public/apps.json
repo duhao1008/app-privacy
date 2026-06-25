@@ -9365,6 +9365,21 @@
 				"es":"Cat Litter Change Log Alt"
 			},
 			"slug":"catLitterChangeLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Office Supply Reorder Pad Alt",
+				"ru":"Office Supply Reorder Pad Alt",
+				"ko":"Office Supply Reorder Pad Alt",
+				"pt":"Office Supply Reorder Pad Alt",
+				"ja":"Office Supply Reorder Pad Alt",
+				"en":"Office Supply Reorder Pad Alt",
+				"fr":"Office Supply Reorder Pad Alt",
+				"zh":"办公补货夹",
+				"es":"Office Supply Reorder Pad Alt"
+			},
+			"slug":"officeSupplyReorderPadAlt"
 		}
 	]
 }
