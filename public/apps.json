@@ -9290,6 +9290,21 @@
 				"es":"English Prefix Cards Alt"
 			},
 			"slug":"englishPrefixCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-25",
+			"appName":{
+				"de":"Dust Jacket Planner Alt",
+				"ru":"Dust Jacket Planner Alt",
+				"ko":"Dust Jacket Planner Alt",
+				"pt":"Dust Jacket Planner Alt",
+				"ja":"Dust Jacket Planner Alt",
+				"en":"Dust Jacket Planner Alt",
+				"fr":"Dust Jacket Planner Alt",
+				"zh":"护封尺寸",
+				"es":"Dust Jacket Planner Alt"
+			},
+			"slug":"dustJacketPlannerAlt"
 		}
 	]
 }
