@@ -9410,6 +9410,21 @@
 				"es":"Geometry Hint Notebook Alt"
 			},
 			"slug":"geometryHintNotebookAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Reading Copywork Cards Alt",
+				"ru":"Reading Copywork Cards Alt",
+				"ko":"Reading Copywork Cards Alt",
+				"pt":"Reading Copywork Cards Alt",
+				"ja":"Reading Copywork Cards Alt",
+				"en":"Reading Copywork Cards Alt",
+				"fr":"Reading Copywork Cards Alt",
+				"zh":"摘抄卡片",
+				"es":"Reading Copywork Cards Alt"
+			},
+			"slug":"readingCopyworkCardsAlt"
 		}
 	]
 }
