@@ -9530,6 +9530,21 @@
 				"es":"Chem Equation Trainer Alt"
 			},
 			"slug":"chemEquationTrainerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Personal Library Loan Desk Alt",
+				"ru":"Personal Library Loan Desk Alt",
+				"ko":"Personal Library Loan Desk Alt",
+				"pt":"Personal Library Loan Desk Alt",
+				"ja":"Personal Library Loan Desk Alt",
+				"en":"Personal Library Loan Desk Alt",
+				"fr":"Personal Library Loan Desk Alt",
+				"zh":"藏书借阅夹",
+				"es":"Personal Library Loan Desk Alt"
+			},
+			"slug":"personalLibraryLoanDeskAlt"
 		}
 	]
 }
