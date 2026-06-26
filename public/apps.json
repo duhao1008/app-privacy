@@ -9545,6 +9545,21 @@
 				"es":"Personal Library Loan Desk Alt"
 			},
 			"slug":"personalLibraryLoanDeskAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Cosplay Makeup Plan Alt",
+				"ru":"Cosplay Makeup Plan Alt",
+				"ko":"Cosplay Makeup Plan Alt",
+				"pt":"Cosplay Makeup Plan Alt",
+				"ja":"Cosplay Makeup Plan Alt",
+				"en":"Cosplay Makeup Plan Alt",
+				"fr":"Cosplay Makeup Plan Alt",
+				"zh":"妆造计划夹",
+				"es":"Cosplay Makeup Plan Alt"
+			},
+			"slug":"cosplayMakeupPlanAlt"
 		}
 	]
 }
