@@ -9455,6 +9455,21 @@
 				"es":"Client Visit Memo Alt"
 			},
 			"slug":"clientVisitMemoAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Batch Rename Draft Alt",
+				"ru":"Batch Rename Draft Alt",
+				"ko":"Batch Rename Draft Alt",
+				"pt":"Batch Rename Draft Alt",
+				"ja":"Batch Rename Draft Alt",
+				"en":"Batch Rename Draft Alt",
+				"fr":"Batch Rename Draft Alt",
+				"zh":"批量命名草稿",
+				"es":"Batch Rename Draft Alt"
+			},
+			"slug":"batchRenameDraftAlt"
 		}
 	]
 }
