@@ -9470,6 +9470,21 @@
 				"es":"Batch Rename Draft Alt"
 			},
 			"slug":"batchRenameDraftAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Pantry Spice Freshness Alt",
+				"ru":"Pantry Spice Freshness Alt",
+				"ko":"Pantry Spice Freshness Alt",
+				"pt":"Pantry Spice Freshness Alt",
+				"ja":"Pantry Spice Freshness Alt",
+				"en":"Pantry Spice Freshness Alt",
+				"fr":"Pantry Spice Freshness Alt",
+				"zh":"调味开封夹",
+				"es":"Pantry Spice Freshness Alt"
+			},
+			"slug":"pantrySpiceFreshnessAlt"
 		}
 	]
 }
