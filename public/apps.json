@@ -9710,6 +9710,21 @@
 				"es":"Air Filter Stock Card Alt"
 			},
 			"slug":"airFilterStockCardAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Umbrella Dry Rack Alt",
+				"ru":"Umbrella Dry Rack Alt",
+				"ko":"Umbrella Dry Rack Alt",
+				"pt":"Umbrella Dry Rack Alt",
+				"ja":"Umbrella Dry Rack Alt",
+				"en":"Umbrella Dry Rack Alt",
+				"fr":"Umbrella Dry Rack Alt",
+				"zh":"雨伞晾干夹",
+				"es":"Umbrella Dry Rack Alt"
+			},
+			"slug":"umbrellaDryRackAlt"
 		}
 	]
 }
