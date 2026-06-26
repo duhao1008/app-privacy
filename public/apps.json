@@ -9560,6 +9560,21 @@
 				"es":"Cosplay Makeup Plan Alt"
 			},
 			"slug":"cosplayMakeupPlanAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Purchase Approval Pad Alt",
+				"ru":"Purchase Approval Pad Alt",
+				"ko":"Purchase Approval Pad Alt",
+				"pt":"Purchase Approval Pad Alt",
+				"ja":"Purchase Approval Pad Alt",
+				"en":"Purchase Approval Pad Alt",
+				"fr":"Purchase Approval Pad Alt",
+				"zh":"采购审批夹",
+				"es":"Purchase Approval Pad Alt"
+			},
+			"slug":"purchaseApprovalPadAlt"
 		}
 	]
 }
