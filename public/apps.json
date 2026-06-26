@@ -9620,6 +9620,21 @@
 				"es":"Document Renewal Desk Alt"
 			},
 			"slug":"documentRenewalDeskAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Climbing Route Journal Alt",
+				"ru":"Climbing Route Journal Alt",
+				"ko":"Climbing Route Journal Alt",
+				"pt":"Climbing Route Journal Alt",
+				"ja":"Climbing Route Journal Alt",
+				"en":"Climbing Route Journal Alt",
+				"fr":"Climbing Route Journal Alt",
+				"zh":"攀岩路线夹",
+				"es":"Climbing Route Journal Alt"
+			},
+			"slug":"climbingRouteJournalAlt"
 		}
 	]
 }
