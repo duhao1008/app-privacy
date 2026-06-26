@@ -9440,6 +9440,21 @@
 				"es":"Exhibit Stamp Album Alt"
 			},
 			"slug":"exhibitStampAlbumAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Client Visit Memo Alt",
+				"ru":"Client Visit Memo Alt",
+				"ko":"Client Visit Memo Alt",
+				"pt":"Client Visit Memo Alt",
+				"ja":"Client Visit Memo Alt",
+				"en":"Client Visit Memo Alt",
+				"fr":"Client Visit Memo Alt",
+				"zh":"客户拜访笺",
+				"es":"Client Visit Memo Alt"
+			},
+			"slug":"clientVisitMemoAlt"
 		}
 	]
 }
