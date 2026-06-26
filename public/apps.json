@@ -9500,6 +9500,21 @@
 				"es":"Locker Key Checkout Alt"
 			},
 			"slug":"lockerKeyCheckoutAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Swim Split Notebook Alt",
+				"ru":"Swim Split Notebook Alt",
+				"ko":"Swim Split Notebook Alt",
+				"pt":"Swim Split Notebook Alt",
+				"ja":"Swim Split Notebook Alt",
+				"en":"Swim Split Notebook Alt",
+				"fr":"Swim Split Notebook Alt",
+				"zh":"游泳分段夹",
+				"es":"Swim Split Notebook Alt"
+			},
+			"slug":"swimSplitNotebookAlt"
 		}
 	]
 }
