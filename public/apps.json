@@ -9515,6 +9515,21 @@
 				"es":"Swim Split Notebook Alt"
 			},
 			"slug":"swimSplitNotebookAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Chem Equation Trainer Alt",
+				"ru":"Chem Equation Trainer Alt",
+				"ko":"Chem Equation Trainer Alt",
+				"pt":"Chem Equation Trainer Alt",
+				"ja":"Chem Equation Trainer Alt",
+				"en":"Chem Equation Trainer Alt",
+				"fr":"Chem Equation Trainer Alt",
+				"zh":"配平练习",
+				"es":"Chem Equation Trainer Alt"
+			},
+			"slug":"chemEquationTrainerAlt"
 		}
 	]
 }
