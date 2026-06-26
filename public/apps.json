@@ -9575,6 +9575,21 @@
 				"es":"Purchase Approval Pad Alt"
 			},
 			"slug":"purchaseApprovalPadAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Lubricant Change Ledger Alt",
+				"ru":"Lubricant Change Ledger Alt",
+				"ko":"Lubricant Change Ledger Alt",
+				"pt":"Lubricant Change Ledger Alt",
+				"ja":"Lubricant Change Ledger Alt",
+				"en":"Lubricant Change Ledger Alt",
+				"fr":"Lubricant Change Ledger Alt",
+				"zh":"润滑更换夹",
+				"es":"Lubricant Change Ledger Alt"
+			},
+			"slug":"lubricantChangeLedgerAlt"
 		}
 	]
 }
