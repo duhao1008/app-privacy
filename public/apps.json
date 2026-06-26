@@ -9755,6 +9755,21 @@
 				"es":"Rope Skip Interval Log Reserve"
 			},
 			"slug":"ropeSkipIntervalLogReserve"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Phonics Blend Cards Alt",
+				"ru":"Phonics Blend Cards Alt",
+				"ko":"Phonics Blend Cards Alt",
+				"pt":"Phonics Blend Cards Alt",
+				"ja":"Phonics Blend Cards Alt",
+				"en":"Phonics Blend Cards Alt",
+				"fr":"Phonics Blend Cards Alt",
+				"zh":"拼读音组夹",
+				"es":"Phonics Blend Cards Alt"
+			},
+			"slug":"phonicsBlendCardsAlt"
 		}
 	]
 }
