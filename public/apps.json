@@ -9635,6 +9635,21 @@
 				"es":"Climbing Route Journal Alt"
 			},
 			"slug":"climbingRouteJournalAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Probability Tree Drill Alt",
+				"ru":"Probability Tree Drill Alt",
+				"ko":"Probability Tree Drill Alt",
+				"pt":"Probability Tree Drill Alt",
+				"ja":"Probability Tree Drill Alt",
+				"en":"Probability Tree Drill Alt",
+				"fr":"Probability Tree Drill Alt",
+				"zh":"概率树练习",
+				"es":"Probability Tree Drill Alt"
+			},
+			"slug":"probabilityTreeDrillAlt"
 		}
 	]
 }
