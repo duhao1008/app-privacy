@@ -9650,6 +9650,21 @@
 				"es":"Probability Tree Drill Alt"
 			},
 			"slug":"probabilityTreeDrillAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Reading Syllabus Tracker Alt",
+				"ru":"Reading Syllabus Tracker Alt",
+				"ko":"Reading Syllabus Tracker Alt",
+				"pt":"Reading Syllabus Tracker Alt",
+				"ja":"Reading Syllabus Tracker Alt",
+				"en":"Reading Syllabus Tracker Alt",
+				"fr":"Reading Syllabus Tracker Alt",
+				"zh":"阅读课夹",
+				"es":"Reading Syllabus Tracker Alt"
+			},
+			"slug":"readingSyllabusTrackerAlt"
 		}
 	]
 }
