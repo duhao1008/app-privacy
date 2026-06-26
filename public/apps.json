@@ -9485,6 +9485,21 @@
 				"es":"Pantry Spice Freshness Alt"
 			},
 			"slug":"pantrySpiceFreshnessAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Locker Key Checkout Alt",
+				"ru":"Locker Key Checkout Alt",
+				"ko":"Locker Key Checkout Alt",
+				"pt":"Locker Key Checkout Alt",
+				"ja":"Locker Key Checkout Alt",
+				"en":"Locker Key Checkout Alt",
+				"fr":"Locker Key Checkout Alt",
+				"zh":"钥匙借还册",
+				"es":"Locker Key Checkout Alt"
+			},
+			"slug":"lockerKeyCheckoutAlt"
 		}
 	]
 }
