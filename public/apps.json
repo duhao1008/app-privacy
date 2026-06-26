@@ -9695,6 +9695,21 @@
 				"es":"Receivable Reminder Desk Alt"
 			},
 			"slug":"receivableReminderDeskAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Air Filter Stock Card Alt",
+				"ru":"Air Filter Stock Card Alt",
+				"ko":"Air Filter Stock Card Alt",
+				"pt":"Air Filter Stock Card Alt",
+				"ja":"Air Filter Stock Card Alt",
+				"en":"Air Filter Stock Card Alt",
+				"fr":"Air Filter Stock Card Alt",
+				"zh":"滤网备件夹",
+				"es":"Air Filter Stock Card Alt"
+			},
+			"slug":"airFilterStockCardAlt"
 		}
 	]
 }
