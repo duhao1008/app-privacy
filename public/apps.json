@@ -9590,6 +9590,21 @@
 				"es":"Lubricant Change Ledger Alt"
 			},
 			"slug":"lubricantChangeLedgerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Balcony Drying Planner Alt",
+				"ru":"Balcony Drying Planner Alt",
+				"ko":"Balcony Drying Planner Alt",
+				"pt":"Balcony Drying Planner Alt",
+				"ja":"Balcony Drying Planner Alt",
+				"en":"Balcony Drying Planner Alt",
+				"fr":"Balcony Drying Planner Alt",
+				"zh":"阳台晾晒夹",
+				"es":"Balcony Drying Planner Alt"
+			},
+			"slug":"balconyDryingPlannerAlt"
 		}
 	]
 }
