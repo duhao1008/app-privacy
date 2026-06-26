@@ -9605,6 +9605,21 @@
 				"es":"Balcony Drying Planner Alt"
 			},
 			"slug":"balconyDryingPlannerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Document Renewal Desk Alt",
+				"ru":"Document Renewal Desk Alt",
+				"ko":"Document Renewal Desk Alt",
+				"pt":"Document Renewal Desk Alt",
+				"ja":"Document Renewal Desk Alt",
+				"en":"Document Renewal Desk Alt",
+				"fr":"Document Renewal Desk Alt",
+				"zh":"证件续办夹",
+				"es":"Document Renewal Desk Alt"
+			},
+			"slug":"documentRenewalDeskAlt"
 		}
 	]
 }
