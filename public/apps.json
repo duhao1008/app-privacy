@@ -9680,6 +9680,21 @@
 				"es":"Idol Photocard Binder Alt"
 			},
 			"slug":"idolPhotocardBinderAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Receivable Reminder Desk Alt",
+				"ru":"Receivable Reminder Desk Alt",
+				"ko":"Receivable Reminder Desk Alt",
+				"pt":"Receivable Reminder Desk Alt",
+				"ja":"Receivable Reminder Desk Alt",
+				"en":"Receivable Reminder Desk Alt",
+				"fr":"Receivable Reminder Desk Alt",
+				"zh":"回款提醒夹",
+				"es":"Receivable Reminder Desk Alt"
+			},
+			"slug":"receivableReminderDeskAlt"
 		}
 	]
 }
