@@ -9425,6 +9425,21 @@
 				"es":"Reading Copywork Cards Alt"
 			},
 			"slug":"readingCopyworkCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-26",
+			"appName":{
+				"de":"Exhibit Stamp Album Alt",
+				"ru":"Exhibit Stamp Album Alt",
+				"ko":"Exhibit Stamp Album Alt",
+				"pt":"Exhibit Stamp Album Alt",
+				"ja":"Exhibit Stamp Album Alt",
+				"en":"Exhibit Stamp Album Alt",
+				"fr":"Exhibit Stamp Album Alt",
+				"zh":"展览打卡册",
+				"es":"Exhibit Stamp Album Alt"
+			},
+			"slug":"exhibitStampAlbumAlt"
 		}
 	]
 }
