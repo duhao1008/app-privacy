@@ -9725,6 +9725,21 @@
 				"es":"Umbrella Dry Rack Alt"
 			},
 			"slug":"umbrellaDryRackAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Handoff Checklist Binder Alt",
+				"ru":"Handoff Checklist Binder Alt",
+				"ko":"Handoff Checklist Binder Alt",
+				"pt":"Handoff Checklist Binder Alt",
+				"ja":"Handoff Checklist Binder Alt",
+				"en":"Handoff Checklist Binder Alt",
+				"fr":"Handoff Checklist Binder Alt",
+				"zh":"交接清单夹",
+				"es":"Handoff Checklist Binder Alt"
+			},
+			"slug":"handoffChecklistBinderAlt"
 		}
 	]
 }
