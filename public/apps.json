@@ -9740,6 +9740,21 @@
 				"es":"Handoff Checklist Binder Alt"
 			},
 			"slug":"handoffChecklistBinderAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Rope Skip Interval Log Reserve",
+				"ru":"Rope Skip Interval Log Reserve",
+				"ko":"Rope Skip Interval Log Reserve",
+				"pt":"Rope Skip Interval Log Reserve",
+				"ja":"Rope Skip Interval Log Reserve",
+				"en":"Rope Skip Interval Log Reserve",
+				"fr":"Rope Skip Interval Log Reserve",
+				"zh":"跳绳节奏专项夹",
+				"es":"Rope Skip Interval Log Reserve"
+			},
+			"slug":"ropeSkipIntervalLogReserve"
 		}
 	]
 }
