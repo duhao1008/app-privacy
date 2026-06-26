@@ -9665,6 +9665,21 @@
 				"es":"Reading Syllabus Tracker Alt"
 			},
 			"slug":"readingSyllabusTrackerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Idol Photocard Binder Alt",
+				"ru":"Idol Photocard Binder Alt",
+				"ko":"Idol Photocard Binder Alt",
+				"pt":"Idol Photocard Binder Alt",
+				"ja":"Idol Photocard Binder Alt",
+				"en":"Idol Photocard Binder Alt",
+				"fr":"Idol Photocard Binder Alt",
+				"zh":"小卡收纳册",
+				"es":"Idol Photocard Binder Alt"
+			},
+			"slug":"idolPhotocardBinderAlt"
 		}
 	]
 }
