@@ -9920,6 +9920,21 @@
 				"es":"Escape Room Puzzle Log Alt"
 			},
 			"slug":"escapeRoomPuzzleLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Sample Dispatch Tracker Alt",
+				"ru":"Sample Dispatch Tracker Alt",
+				"ko":"Sample Dispatch Tracker Alt",
+				"pt":"Sample Dispatch Tracker Alt",
+				"ja":"Sample Dispatch Tracker Alt",
+				"en":"Sample Dispatch Tracker Alt",
+				"fr":"Sample Dispatch Tracker Alt",
+				"zh":"样品寄送夹",
+				"es":"Sample Dispatch Tracker Alt"
+			},
+			"slug":"sampleDispatchTrackerAlt"
 		}
 	]
 }
