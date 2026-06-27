@@ -9815,6 +9815,21 @@
 				"es":"Quote Expiry Keeper Alt"
 			},
 			"slug":"quoteExpiryKeeperAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Shim Stack Calculator Alt",
+				"ru":"Shim Stack Calculator Alt",
+				"ko":"Shim Stack Calculator Alt",
+				"pt":"Shim Stack Calculator Alt",
+				"ja":"Shim Stack Calculator Alt",
+				"en":"Shim Stack Calculator Alt",
+				"fr":"Shim Stack Calculator Alt",
+				"zh":"垫片叠厚尺",
+				"es":"Shim Stack Calculator Alt"
+			},
+			"slug":"shimStackCalculatorAlt"
 		}
 	]
 }
