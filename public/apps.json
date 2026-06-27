@@ -9830,6 +9830,21 @@
 				"es":"Shim Stack Calculator Alt"
 			},
 			"slug":"shimStackCalculatorAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Shoe Box Rotation Log Alt",
+				"ru":"Shoe Box Rotation Log Alt",
+				"ko":"Shoe Box Rotation Log Alt",
+				"pt":"Shoe Box Rotation Log Alt",
+				"ja":"Shoe Box Rotation Log Alt",
+				"en":"Shoe Box Rotation Log Alt",
+				"fr":"Shoe Box Rotation Log Alt",
+				"zh":"鞋盒轮换夹",
+				"es":"Shoe Box Rotation Log Alt"
+			},
+			"slug":"shoeBoxRotationLogAlt"
 		}
 	]
 }
