@@ -9770,6 +9770,21 @@
 				"es":"Phonics Blend Cards Alt"
 			},
 			"slug":"phonicsBlendCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Book Errata Notebook Alt",
+				"ru":"Book Errata Notebook Alt",
+				"ko":"Book Errata Notebook Alt",
+				"pt":"Book Errata Notebook Alt",
+				"ja":"Book Errata Notebook Alt",
+				"en":"Book Errata Notebook Alt",
+				"fr":"Book Errata Notebook Alt",
+				"zh":"勘误笔记",
+				"es":"Book Errata Notebook Alt"
+			},
+			"slug":"bookErrataNotebookAlt"
 		}
 	]
 }
