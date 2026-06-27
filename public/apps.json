@@ -9950,6 +9950,21 @@
 				"es":"Bracket Hole Pitch Card Alt"
 			},
 			"slug":"bracketHolePitchCardAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Linen Air Cycle Board Alt",
+				"ru":"Linen Air Cycle Board Alt",
+				"ko":"Linen Air Cycle Board Alt",
+				"pt":"Linen Air Cycle Board Alt",
+				"ja":"Linen Air Cycle Board Alt",
+				"en":"Linen Air Cycle Board Alt",
+				"fr":"Linen Air Cycle Board Alt",
+				"zh":"家纺通风牌",
+				"es":"Linen Air Cycle Board Alt"
+			},
+			"slug":"linenAirCycleBoardAlt"
 		}
 	]
 }
