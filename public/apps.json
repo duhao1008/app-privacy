@@ -9890,6 +9890,21 @@
 				"es":"Physics Free Body Cards Alt"
 			},
 			"slug":"physicsFreeBodyCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Review Draft Shelf Reserve",
+				"ru":"Review Draft Shelf Reserve",
+				"ko":"Review Draft Shelf Reserve",
+				"pt":"Review Draft Shelf Reserve",
+				"ja":"Review Draft Shelf Reserve",
+				"en":"Review Draft Shelf Reserve",
+				"fr":"Review Draft Shelf Reserve",
+				"zh":"书评草稿专项夹",
+				"es":"Review Draft Shelf Reserve"
+			},
+			"slug":"reviewDraftShelfReserve"
 		}
 	]
 }
