@@ -9785,6 +9785,21 @@
 				"es":"Book Errata Notebook Alt"
 			},
 			"slug":"bookErrataNotebookAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Livehouse Gig Log Alt",
+				"ru":"Livehouse Gig Log Alt",
+				"ko":"Livehouse Gig Log Alt",
+				"pt":"Livehouse Gig Log Alt",
+				"ja":"Livehouse Gig Log Alt",
+				"en":"Livehouse Gig Log Alt",
+				"fr":"Livehouse Gig Log Alt",
+				"zh":"Live演出夹",
+				"es":"Livehouse Gig Log Alt"
+			},
+			"slug":"livehouseGigLogAlt"
 		}
 	]
 }
