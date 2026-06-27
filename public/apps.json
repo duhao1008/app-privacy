@@ -9860,6 +9860,21 @@
 				"es":"Task Retrospective Cards Alt"
 			},
 			"slug":"taskRetrospectiveCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Rope Skip Interval Log Fallbac",
+				"ru":"Rope Skip Interval Log Fallbac",
+				"ko":"Rope Skip Interval Log Fallbac",
+				"pt":"Rope Skip Interval Log Fallbac",
+				"ja":"Rope Skip Interval Log Fallbac",
+				"en":"Rope Skip Interval Log Fallbac",
+				"fr":"Rope Skip Interval Log Fallbac",
+				"zh":"跳绳节奏精选夹",
+				"es":"Rope Skip Interval Log Fallbac"
+			},
+			"slug":"ropeSkipIntervalLogFallback"
 		}
 	]
 }
