@@ -9845,6 +9845,21 @@
 				"es":"Shoe Box Rotation Log Alt"
 			},
 			"slug":"shoeBoxRotationLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Task Retrospective Cards Alt",
+				"ru":"Task Retrospective Cards Alt",
+				"ko":"Task Retrospective Cards Alt",
+				"pt":"Task Retrospective Cards Alt",
+				"ja":"Task Retrospective Cards Alt",
+				"en":"Task Retrospective Cards Alt",
+				"fr":"Task Retrospective Cards Alt",
+				"zh":"复盘卡片",
+				"es":"Task Retrospective Cards Alt"
+			},
+			"slug":"taskRetrospectiveCardsAlt"
 		}
 	]
 }
