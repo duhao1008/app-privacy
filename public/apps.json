@@ -9935,6 +9935,21 @@
 				"es":"Sample Dispatch Tracker Alt"
 			},
 			"slug":"sampleDispatchTrackerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Bracket Hole Pitch Card Alt",
+				"ru":"Bracket Hole Pitch Card Alt",
+				"ko":"Bracket Hole Pitch Card Alt",
+				"pt":"Bracket Hole Pitch Card Alt",
+				"ja":"Bracket Hole Pitch Card Alt",
+				"en":"Bracket Hole Pitch Card Alt",
+				"fr":"Bracket Hole Pitch Card Alt",
+				"zh":"支架孔距夹",
+				"es":"Bracket Hole Pitch Card Alt"
+			},
+			"slug":"bracketHolePitchCardAlt"
 		}
 	]
 }
