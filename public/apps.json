@@ -9965,6 +9965,21 @@
 				"es":"Linen Air Cycle Board Alt"
 			},
 			"slug":"linenAirCycleBoardAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Handover Asset Map Alt",
+				"ru":"Handover Asset Map Alt",
+				"ko":"Handover Asset Map Alt",
+				"pt":"Handover Asset Map Alt",
+				"ja":"Handover Asset Map Alt",
+				"en":"Handover Asset Map Alt",
+				"fr":"Handover Asset Map Alt",
+				"zh":"交接资产图",
+				"es":"Handover Asset Map Alt"
+			},
+			"slug":"handoverAssetMapAlt"
 		}
 	]
 }
