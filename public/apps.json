@@ -9875,6 +9875,21 @@
 				"es":"Rope Skip Interval Log Fallbac"
 			},
 			"slug":"ropeSkipIntervalLogFallback"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Physics Free Body Cards Alt",
+				"ru":"Physics Free Body Cards Alt",
+				"ko":"Physics Free Body Cards Alt",
+				"pt":"Physics Free Body Cards Alt",
+				"ja":"Physics Free Body Cards Alt",
+				"en":"Physics Free Body Cards Alt",
+				"fr":"Physics Free Body Cards Alt",
+				"zh":"受力卡片",
+				"es":"Physics Free Body Cards Alt"
+			},
+			"slug":"physicsFreeBodyCardsAlt"
 		}
 	]
 }
