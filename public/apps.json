@@ -9800,6 +9800,21 @@
 				"es":"Livehouse Gig Log Alt"
 			},
 			"slug":"livehouseGigLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-27",
+			"appName":{
+				"de":"Quote Expiry Keeper Alt",
+				"ru":"Quote Expiry Keeper Alt",
+				"ko":"Quote Expiry Keeper Alt",
+				"pt":"Quote Expiry Keeper Alt",
+				"ja":"Quote Expiry Keeper Alt",
+				"en":"Quote Expiry Keeper Alt",
+				"fr":"Quote Expiry Keeper Alt",
+				"zh":"报价有效期",
+				"es":"Quote Expiry Keeper Alt"
+			},
+			"slug":"quoteExpiryKeeperAlt"
 		}
 	]
 }
