@@ -10205,6 +10205,21 @@
 				"es":"Fragrance Cotton Diary Alt"
 			},
 			"slug":"fragranceCottonDiaryAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Approval Packet Tracker Alt",
+				"ru":"Approval Packet Tracker Alt",
+				"ko":"Approval Packet Tracker Alt",
+				"pt":"Approval Packet Tracker Alt",
+				"ja":"Approval Packet Tracker Alt",
+				"en":"Approval Packet Tracker Alt",
+				"fr":"Approval Packet Tracker Alt",
+				"zh":"审批材料包",
+				"es":"Approval Packet Tracker Alt"
+			},
+			"slug":"approvalPacketTrackerAlt"
 		}
 	]
 }
