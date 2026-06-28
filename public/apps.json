@@ -10160,6 +10160,21 @@
 				"es":"Spotlight Moment Board Alt"
 			},
 			"slug":"spotlightMomentBoardAlt"
+		},
+		{
+			"lastUpdated":"2026-06-28",
+			"appName":{
+				"de":"Warranty Claim Desk Alt",
+				"ru":"Warranty Claim Desk Alt",
+				"ko":"Warranty Claim Desk Alt",
+				"pt":"Warranty Claim Desk Alt",
+				"ja":"Warranty Claim Desk Alt",
+				"en":"Warranty Claim Desk Alt",
+				"fr":"Warranty Claim Desk Alt",
+				"zh":"质保索赔夹",
+				"es":"Warranty Claim Desk Alt"
+			},
+			"slug":"warrantyClaimDeskAlt"
 		}
 	]
 }
