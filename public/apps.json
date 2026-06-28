@@ -10070,6 +10070,21 @@
 				"es":"Label Roll Core Gauge Alt"
 			},
 			"slug":"labelRollCoreGaugeAlt"
+		},
+		{
+			"lastUpdated":"2026-06-28",
+			"appName":{
+				"de":"Drawer Divider Map Alt",
+				"ru":"Drawer Divider Map Alt",
+				"ko":"Drawer Divider Map Alt",
+				"pt":"Drawer Divider Map Alt",
+				"ja":"Drawer Divider Map Alt",
+				"en":"Drawer Divider Map Alt",
+				"fr":"Drawer Divider Map Alt",
+				"zh":"抽屉分格图",
+				"es":"Drawer Divider Map Alt"
+			},
+			"slug":"drawerDividerMapAlt"
 		}
 	]
 }
