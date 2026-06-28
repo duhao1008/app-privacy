@@ -10130,6 +10130,21 @@
 				"es":"Map Projection Drill Alt"
 			},
 			"slug":"mapProjectionDrillAlt"
+		},
+		{
+			"lastUpdated":"2026-06-28",
+			"appName":{
+				"de":"Marginalia Index Map Alt",
+				"ru":"Marginalia Index Map Alt",
+				"ko":"Marginalia Index Map Alt",
+				"pt":"Marginalia Index Map Alt",
+				"ja":"Marginalia Index Map Alt",
+				"en":"Marginalia Index Map Alt",
+				"fr":"Marginalia Index Map Alt",
+				"zh":"批注索引图",
+				"es":"Marginalia Index Map Alt"
+			},
+			"slug":"marginaliaIndexMapAlt"
 		}
 	]
 }
