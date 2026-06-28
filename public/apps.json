@@ -10010,6 +10010,21 @@
 				"es":"Ancient Poem Line Cards Alt"
 			},
 			"slug":"ancientPoemLineCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-28",
+			"appName":{
+				"de":"Review Draft Shelf Fallback",
+				"ru":"Review Draft Shelf Fallback",
+				"ko":"Review Draft Shelf Fallback",
+				"pt":"Review Draft Shelf Fallback",
+				"ja":"Review Draft Shelf Fallback",
+				"en":"Review Draft Shelf Fallback",
+				"fr":"Review Draft Shelf Fallback",
+				"zh":"书评草稿精选夹",
+				"es":"Review Draft Shelf Fallback"
+			},
+			"slug":"reviewDraftShelfFallback"
 		}
 	]
 }
