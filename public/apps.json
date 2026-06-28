@@ -10055,6 +10055,21 @@
 				"es":"Supplier Trial Board Alt"
 			},
 			"slug":"supplierTrialBoardAlt"
+		},
+		{
+			"lastUpdated":"2026-06-28",
+			"appName":{
+				"de":"Label Roll Core Gauge Alt",
+				"ru":"Label Roll Core Gauge Alt",
+				"ko":"Label Roll Core Gauge Alt",
+				"pt":"Label Roll Core Gauge Alt",
+				"ja":"Label Roll Core Gauge Alt",
+				"en":"Label Roll Core Gauge Alt",
+				"fr":"Label Roll Core Gauge Alt",
+				"zh":"标签卷芯尺",
+				"es":"Label Roll Core Gauge Alt"
+			},
+			"slug":"labelRollCoreGaugeAlt"
 		}
 	]
 }
