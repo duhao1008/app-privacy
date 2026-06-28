@@ -10145,6 +10145,21 @@
 				"es":"Marginalia Index Map Alt"
 			},
 			"slug":"marginaliaIndexMapAlt"
+		},
+		{
+			"lastUpdated":"2026-06-28",
+			"appName":{
+				"de":"Spotlight Moment Board Alt",
+				"ru":"Spotlight Moment Board Alt",
+				"ko":"Spotlight Moment Board Alt",
+				"pt":"Spotlight Moment Board Alt",
+				"ja":"Spotlight Moment Board Alt",
+				"en":"Spotlight Moment Board Alt",
+				"fr":"Spotlight Moment Board Alt",
+				"zh":"亮点时刻板",
+				"es":"Spotlight Moment Board Alt"
+			},
+			"slug":"spotlightMomentBoardAlt"
 		}
 	]
 }
