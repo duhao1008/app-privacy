@@ -10040,6 +10040,21 @@
 				"es":"Stage Rehearsal Timer Alt"
 			},
 			"slug":"stageRehearsalTimerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-28",
+			"appName":{
+				"de":"Supplier Trial Board Alt",
+				"ru":"Supplier Trial Board Alt",
+				"ko":"Supplier Trial Board Alt",
+				"pt":"Supplier Trial Board Alt",
+				"ja":"Supplier Trial Board Alt",
+				"en":"Supplier Trial Board Alt",
+				"fr":"Supplier Trial Board Alt",
+				"zh":"供应商试单",
+				"es":"Supplier Trial Board Alt"
+			},
+			"slug":"supplierTrialBoardAlt"
 		}
 	]
 }
