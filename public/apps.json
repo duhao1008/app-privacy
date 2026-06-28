@@ -10175,6 +10175,21 @@
 				"es":"Warranty Claim Desk Alt"
 			},
 			"slug":"warrantyClaimDeskAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Outlet Load Notebook Alt",
+				"ru":"Outlet Load Notebook Alt",
+				"ko":"Outlet Load Notebook Alt",
+				"pt":"Outlet Load Notebook Alt",
+				"ja":"Outlet Load Notebook Alt",
+				"en":"Outlet Load Notebook Alt",
+				"fr":"Outlet Load Notebook Alt",
+				"zh":"插座负载夹",
+				"es":"Outlet Load Notebook Alt"
+			},
+			"slug":"outletLoadNotebookAlt"
 		}
 	]
 }
