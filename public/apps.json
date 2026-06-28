@@ -10235,6 +10235,21 @@
 				"es":"Race Fuel Plan Card"
 			},
 			"slug":"raceFuelPlanCard"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Math Formula Slipbox Alt",
+				"ru":"Math Formula Slipbox Alt",
+				"ko":"Math Formula Slipbox Alt",
+				"pt":"Math Formula Slipbox Alt",
+				"ja":"Math Formula Slipbox Alt",
+				"en":"Math Formula Slipbox Alt",
+				"fr":"Math Formula Slipbox Alt",
+				"zh":"公式卡片夹",
+				"es":"Math Formula Slipbox Alt"
+			},
+			"slug":"mathFormulaSlipboxAlt"
 		}
 	]
 }
