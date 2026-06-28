@@ -10190,6 +10190,21 @@
 				"es":"Outlet Load Notebook Alt"
 			},
 			"slug":"outletLoadNotebookAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Fragrance Cotton Diary Alt",
+				"ru":"Fragrance Cotton Diary Alt",
+				"ko":"Fragrance Cotton Diary Alt",
+				"pt":"Fragrance Cotton Diary Alt",
+				"ja":"Fragrance Cotton Diary Alt",
+				"en":"Fragrance Cotton Diary Alt",
+				"fr":"Fragrance Cotton Diary Alt",
+				"zh":"香片留香夹",
+				"es":"Fragrance Cotton Diary Alt"
+			},
+			"slug":"fragranceCottonDiaryAlt"
 		}
 	]
 }
