@@ -10025,6 +10025,21 @@
 				"es":"Review Draft Shelf Fallback"
 			},
 			"slug":"reviewDraftShelfFallback"
+		},
+		{
+			"lastUpdated":"2026-06-28",
+			"appName":{
+				"de":"Stage Rehearsal Timer Alt",
+				"ru":"Stage Rehearsal Timer Alt",
+				"ko":"Stage Rehearsal Timer Alt",
+				"pt":"Stage Rehearsal Timer Alt",
+				"ja":"Stage Rehearsal Timer Alt",
+				"en":"Stage Rehearsal Timer Alt",
+				"fr":"Stage Rehearsal Timer Alt",
+				"zh":"排练计时夹",
+				"es":"Stage Rehearsal Timer Alt"
+			},
+			"slug":"stageRehearsalTimerAlt"
 		}
 	]
 }
