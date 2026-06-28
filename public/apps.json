@@ -9980,6 +9980,21 @@
 				"es":"Handover Asset Map Alt"
 			},
 			"slug":"handoverAssetMapAlt"
+		},
+		{
+			"lastUpdated":"2026-06-28",
+			"appName":{
+				"de":"Table Serve Pattern Log",
+				"ru":"Table Serve Pattern Log",
+				"ko":"Table Serve Pattern Log",
+				"pt":"Table Serve Pattern Log",
+				"ja":"Table Serve Pattern Log",
+				"en":"Table Serve Pattern Log",
+				"fr":"Table Serve Pattern Log",
+				"zh":"发球套路簿",
+				"es":"Table Serve Pattern Log"
+			},
+			"slug":"tableServePatternLog"
 		}
 	]
 }
