@@ -10220,6 +10220,21 @@
 				"es":"Approval Packet Tracker Alt"
 			},
 			"slug":"approvalPacketTrackerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Race Fuel Plan Card",
+				"ru":"Race Fuel Plan Card",
+				"ko":"Race Fuel Plan Card",
+				"pt":"Race Fuel Plan Card",
+				"ja":"Race Fuel Plan Card",
+				"en":"Race Fuel Plan Card",
+				"fr":"Race Fuel Plan Card",
+				"zh":"比赛补给卡",
+				"es":"Race Fuel Plan Card"
+			},
+			"slug":"raceFuelPlanCard"
 		}
 	]
 }
