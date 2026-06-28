@@ -10115,6 +10115,21 @@
 				"es":"Cycling Climb Ledger"
 			},
 			"slug":"cyclingClimbLedger"
+		},
+		{
+			"lastUpdated":"2026-06-28",
+			"appName":{
+				"de":"Map Projection Drill Alt",
+				"ru":"Map Projection Drill Alt",
+				"ko":"Map Projection Drill Alt",
+				"pt":"Map Projection Drill Alt",
+				"ja":"Map Projection Drill Alt",
+				"en":"Map Projection Drill Alt",
+				"fr":"Map Projection Drill Alt",
+				"zh":"地图投影练习",
+				"es":"Map Projection Drill Alt"
+			},
+			"slug":"mapProjectionDrillAlt"
 		}
 	]
 }
