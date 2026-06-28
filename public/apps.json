@@ -10085,6 +10085,21 @@
 				"es":"Drawer Divider Map Alt"
 			},
 			"slug":"drawerDividerMapAlt"
+		},
+		{
+			"lastUpdated":"2026-06-28",
+			"appName":{
+				"de":"Deadline Buffer Planner Alt",
+				"ru":"Deadline Buffer Planner Alt",
+				"ko":"Deadline Buffer Planner Alt",
+				"pt":"Deadline Buffer Planner Alt",
+				"ja":"Deadline Buffer Planner Alt",
+				"en":"Deadline Buffer Planner Alt",
+				"fr":"Deadline Buffer Planner Alt",
+				"zh":"缓冲期计划",
+				"es":"Deadline Buffer Planner Alt"
+			},
+			"slug":"deadlineBufferPlannerAlt"
 		}
 	]
 }
