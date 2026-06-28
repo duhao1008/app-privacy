@@ -10280,6 +10280,21 @@
 				"es":"Skit Rehearsal Cue Deck"
 			},
 			"slug":"skitRehearsalCueDeck"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Booth Lead Cards Alt",
+				"ru":"Booth Lead Cards Alt",
+				"ko":"Booth Lead Cards Alt",
+				"pt":"Booth Lead Cards Alt",
+				"ja":"Booth Lead Cards Alt",
+				"en":"Booth Lead Cards Alt",
+				"fr":"Booth Lead Cards Alt",
+				"zh":"展会线索夹",
+				"es":"Booth Lead Cards Alt"
+			},
+			"slug":"boothLeadCardsAlt"
 		}
 	]
 }
