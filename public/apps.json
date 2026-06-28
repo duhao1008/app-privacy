@@ -10250,6 +10250,21 @@
 				"es":"Math Formula Slipbox Alt"
 			},
 			"slug":"mathFormulaSlipboxAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Reading Quote Mood Shelf",
+				"ru":"Reading Quote Mood Shelf",
+				"ko":"Reading Quote Mood Shelf",
+				"pt":"Reading Quote Mood Shelf",
+				"ja":"Reading Quote Mood Shelf",
+				"en":"Reading Quote Mood Shelf",
+				"fr":"Reading Quote Mood Shelf",
+				"zh":"摘句情绪架",
+				"es":"Reading Quote Mood Shelf"
+			},
+			"slug":"readingQuoteMoodShelf"
 		}
 	]
 }
