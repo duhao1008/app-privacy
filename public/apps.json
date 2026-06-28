@@ -9995,6 +9995,21 @@
 				"es":"Table Serve Pattern Log"
 			},
 			"slug":"tableServePatternLog"
+		},
+		{
+			"lastUpdated":"2026-06-28",
+			"appName":{
+				"de":"Ancient Poem Line Cards Alt",
+				"ru":"Ancient Poem Line Cards Alt",
+				"ko":"Ancient Poem Line Cards Alt",
+				"pt":"Ancient Poem Line Cards Alt",
+				"ja":"Ancient Poem Line Cards Alt",
+				"en":"Ancient Poem Line Cards Alt",
+				"fr":"Ancient Poem Line Cards Alt",
+				"zh":"诗句填空夹",
+				"es":"Ancient Poem Line Cards Alt"
+			},
+			"slug":"ancientPoemLineCardsAlt"
 		}
 	]
 }
