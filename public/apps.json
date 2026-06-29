@@ -10730,6 +10730,21 @@
 				"es":"Rhetoric Device Cards Alt"
 			},
 			"slug":"rhetoricDeviceCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Book Mold Care Ledger",
+				"ru":"Book Mold Care Ledger",
+				"ko":"Book Mold Care Ledger",
+				"pt":"Book Mold Care Ledger",
+				"ja":"Book Mold Care Ledger",
+				"en":"Book Mold Care Ledger",
+				"fr":"Book Mold Care Ledger",
+				"zh":"藏书防霉夹",
+				"es":"Book Mold Care Ledger"
+			},
+			"slug":"bookMoldCareLedger"
 		}
 	]
 }
