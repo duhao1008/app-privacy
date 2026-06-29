@@ -10865,6 +10865,21 @@
 				"es":"Book Mold Care Ledger Alt"
 			},
 			"slug":"bookMoldCareLedgerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Post Credit Scene Ledger Alt",
+				"ru":"Post Credit Scene Ledger Alt",
+				"ko":"Post Credit Scene Ledger Alt",
+				"pt":"Post Credit Scene Ledger Alt",
+				"ja":"Post Credit Scene Ledger Alt",
+				"en":"Post Credit Scene Ledger Alt",
+				"fr":"Post Credit Scene Ledger Alt",
+				"zh":"片尾彩蛋夹精选",
+				"es":"Post Credit Scene Ledger Alt"
+			},
+			"slug":"postCreditSceneLedgerAlt"
 		}
 	]
 }
