@@ -10610,6 +10610,21 @@
 				"es":"Latin Root Lab Alt"
 			},
 			"slug":"latinRootLabAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Reading Quote Mood Shelf Fallb",
+				"ru":"Reading Quote Mood Shelf Fallb",
+				"ko":"Reading Quote Mood Shelf Fallb",
+				"pt":"Reading Quote Mood Shelf Fallb",
+				"ja":"Reading Quote Mood Shelf Fallb",
+				"en":"Reading Quote Mood Shelf Fallb",
+				"fr":"Reading Quote Mood Shelf Fallb",
+				"zh":"摘句情绪精选夹",
+				"es":"Reading Quote Mood Shelf Fallb"
+			},
+			"slug":"readingQuoteMoodShelfFallback"
 		}
 	]
 }
