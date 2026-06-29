@@ -10925,6 +10925,21 @@
 				"es":"Fabric Pill Care Log Alt"
 			},
 			"slug":"fabricPillCareLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Attachment Name Checklist Alt",
+				"ru":"Attachment Name Checklist Alt",
+				"ko":"Attachment Name Checklist Alt",
+				"pt":"Attachment Name Checklist Alt",
+				"ja":"Attachment Name Checklist Alt",
+				"en":"Attachment Name Checklist Alt",
+				"fr":"Attachment Name Checklist Alt",
+				"zh":"附件命名夹精选",
+				"es":"Attachment Name Checklist Alt"
+			},
+			"slug":"attachmentNameChecklistAlt"
 		}
 	]
 }
