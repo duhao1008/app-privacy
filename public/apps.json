@@ -10760,6 +10760,21 @@
 				"es":"Post Credit Scene Ledger"
 			},
 			"slug":"postCreditSceneLedger"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Retainer Hours Ledger Alt",
+				"ru":"Retainer Hours Ledger Alt",
+				"ko":"Retainer Hours Ledger Alt",
+				"pt":"Retainer Hours Ledger Alt",
+				"ja":"Retainer Hours Ledger Alt",
+				"en":"Retainer Hours Ledger Alt",
+				"fr":"Retainer Hours Ledger Alt",
+				"zh":"工时包台账",
+				"es":"Retainer Hours Ledger Alt"
+			},
+			"slug":"retainerHoursLedgerAlt"
 		}
 	]
 }
