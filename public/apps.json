@@ -10400,6 +10400,21 @@
 				"es":"Skit Rehearsal Cue Deck Alt"
 			},
 			"slug":"skitRehearsalCueDeckAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Deposit Release Log Alt",
+				"ru":"Deposit Release Log Alt",
+				"ko":"Deposit Release Log Alt",
+				"pt":"Deposit Release Log Alt",
+				"ja":"Deposit Release Log Alt",
+				"en":"Deposit Release Log Alt",
+				"fr":"Deposit Release Log Alt",
+				"zh":"押金释放夹",
+				"es":"Deposit Release Log Alt"
+			},
+			"slug":"depositReleaseLogAlt"
 		}
 	]
 }
