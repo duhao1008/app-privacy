@@ -10715,6 +10715,21 @@
 				"es":"Cycling Climb Ledger Alt"
 			},
 			"slug":"cyclingClimbLedgerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Rhetoric Device Cards Alt",
+				"ru":"Rhetoric Device Cards Alt",
+				"ko":"Rhetoric Device Cards Alt",
+				"pt":"Rhetoric Device Cards Alt",
+				"ja":"Rhetoric Device Cards Alt",
+				"en":"Rhetoric Device Cards Alt",
+				"fr":"Rhetoric Device Cards Alt",
+				"zh":"修辞手法夹",
+				"es":"Rhetoric Device Cards Alt"
+			},
+			"slug":"rhetoricDeviceCardsAlt"
 		}
 	]
 }
