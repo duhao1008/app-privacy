@@ -10325,6 +10325,21 @@
 				"es":"Leftover Pairing Cards Alt"
 			},
 			"slug":"leftoverPairingCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Handoff Question Cards Alt",
+				"ru":"Handoff Question Cards Alt",
+				"ko":"Handoff Question Cards Alt",
+				"pt":"Handoff Question Cards Alt",
+				"ja":"Handoff Question Cards Alt",
+				"en":"Handoff Question Cards Alt",
+				"fr":"Handoff Question Cards Alt",
+				"zh":"交接问答夹",
+				"es":"Handoff Question Cards Alt"
+			},
+			"slug":"handoffQuestionCardsAlt"
 		}
 	]
 }
