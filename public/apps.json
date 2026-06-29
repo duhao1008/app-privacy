@@ -10565,6 +10565,21 @@
 				"es":"Plant Watering Ledger Reserve"
 			},
 			"slug":"plantWateringLedgerReserve"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Return Evidence Folder Reserve",
+				"ru":"Return Evidence Folder Reserve",
+				"ko":"Return Evidence Folder Reserve",
+				"pt":"Return Evidence Folder Reserve",
+				"ja":"Return Evidence Folder Reserve",
+				"en":"Return Evidence Folder Reserve",
+				"fr":"Return Evidence Folder Reserve",
+				"zh":"退货凭证专项夹",
+				"es":"Return Evidence Folder Reserve"
+			},
+			"slug":"returnEvidenceFolderReserve"
 		}
 	]
 }
