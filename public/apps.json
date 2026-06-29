@@ -10850,6 +10850,21 @@
 				"es":"Biology Cycle Cards Alt"
 			},
 			"slug":"biologyCycleCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Book Mold Care Ledger Alt",
+				"ru":"Book Mold Care Ledger Alt",
+				"ko":"Book Mold Care Ledger Alt",
+				"pt":"Book Mold Care Ledger Alt",
+				"ja":"Book Mold Care Ledger Alt",
+				"en":"Book Mold Care Ledger Alt",
+				"fr":"Book Mold Care Ledger Alt",
+				"zh":"藏书防霉夹精选",
+				"es":"Book Mold Care Ledger Alt"
+			},
+			"slug":"bookMoldCareLedgerAlt"
 		}
 	]
 }
