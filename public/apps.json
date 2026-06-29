@@ -10685,6 +10685,21 @@
 				"es":"Plant Watering Ledger Fallback"
 			},
 			"slug":"plantWateringLedgerFallback"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Return Evidence Folder Fallbac",
+				"ru":"Return Evidence Folder Fallbac",
+				"ko":"Return Evidence Folder Fallbac",
+				"pt":"Return Evidence Folder Fallbac",
+				"ja":"Return Evidence Folder Fallbac",
+				"en":"Return Evidence Folder Fallbac",
+				"fr":"Return Evidence Folder Fallbac",
+				"zh":"退货凭证精选夹",
+				"es":"Return Evidence Folder Fallbac"
+			},
+			"slug":"returnEvidenceFolderFallback"
 		}
 	]
 }
