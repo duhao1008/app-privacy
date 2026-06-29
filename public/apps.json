@@ -10880,6 +10880,21 @@
 				"es":"Post Credit Scene Ledger Alt"
 			},
 			"slug":"postCreditSceneLedgerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Training Attendance Proof Alt",
+				"ru":"Training Attendance Proof Alt",
+				"ko":"Training Attendance Proof Alt",
+				"pt":"Training Attendance Proof Alt",
+				"ja":"Training Attendance Proof Alt",
+				"en":"Training Attendance Proof Alt",
+				"fr":"Training Attendance Proof Alt",
+				"zh":"培训签到证",
+				"es":"Training Attendance Proof Alt"
+			},
+			"slug":"trainingAttendanceProofAlt"
 		}
 	]
 }
