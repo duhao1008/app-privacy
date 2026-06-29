@@ -10295,6 +10295,21 @@
 				"es":"Booth Lead Cards Alt"
 			},
 			"slug":"boothLeadCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Sealant Open Tracker Alt",
+				"ru":"Sealant Open Tracker Alt",
+				"ko":"Sealant Open Tracker Alt",
+				"pt":"Sealant Open Tracker Alt",
+				"ja":"Sealant Open Tracker Alt",
+				"en":"Sealant Open Tracker Alt",
+				"fr":"Sealant Open Tracker Alt",
+				"zh":"胶管开封夹",
+				"es":"Sealant Open Tracker Alt"
+			},
+			"slug":"sealantOpenTrackerAlt"
 		}
 	]
 }
