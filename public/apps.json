@@ -10745,6 +10745,21 @@
 				"es":"Book Mold Care Ledger"
 			},
 			"slug":"bookMoldCareLedger"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Post Credit Scene Ledger",
+				"ru":"Post Credit Scene Ledger",
+				"ko":"Post Credit Scene Ledger",
+				"pt":"Post Credit Scene Ledger",
+				"ja":"Post Credit Scene Ledger",
+				"en":"Post Credit Scene Ledger",
+				"fr":"Post Credit Scene Ledger",
+				"zh":"片尾彩蛋夹",
+				"es":"Post Credit Scene Ledger"
+			},
+			"slug":"postCreditSceneLedger"
 		}
 	]
 }
