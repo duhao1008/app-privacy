@@ -10310,6 +10310,21 @@
 				"es":"Sealant Open Tracker Alt"
 			},
 			"slug":"sealantOpenTrackerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Leftover Pairing Cards Alt",
+				"ru":"Leftover Pairing Cards Alt",
+				"ko":"Leftover Pairing Cards Alt",
+				"pt":"Leftover Pairing Cards Alt",
+				"ja":"Leftover Pairing Cards Alt",
+				"en":"Leftover Pairing Cards Alt",
+				"fr":"Leftover Pairing Cards Alt",
+				"zh":"剩食搭配夹",
+				"es":"Leftover Pairing Cards Alt"
+			},
+			"slug":"leftoverPairingCardsAlt"
 		}
 	]
 }
