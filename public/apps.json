@@ -10490,6 +10490,21 @@
 				"es":"History Chronology Cards Alt"
 			},
 			"slug":"historyChronologyCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Reading Quote Mood Shelf Reser",
+				"ru":"Reading Quote Mood Shelf Reser",
+				"ko":"Reading Quote Mood Shelf Reser",
+				"pt":"Reading Quote Mood Shelf Reser",
+				"ja":"Reading Quote Mood Shelf Reser",
+				"en":"Reading Quote Mood Shelf Reser",
+				"fr":"Reading Quote Mood Shelf Reser",
+				"zh":"摘句情绪专项夹",
+				"es":"Reading Quote Mood Shelf Reser"
+			},
+			"slug":"readingQuoteMoodShelfReserve"
 		}
 	]
 }
