@@ -10790,6 +10790,21 @@
 				"es":"Packing Tape Estimator"
 			},
 			"slug":"packingTapeEstimator"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Fabric Pill Care Log",
+				"ru":"Fabric Pill Care Log",
+				"ko":"Fabric Pill Care Log",
+				"pt":"Fabric Pill Care Log",
+				"ja":"Fabric Pill Care Log",
+				"en":"Fabric Pill Care Log",
+				"fr":"Fabric Pill Care Log",
+				"zh":"起球护理夹",
+				"es":"Fabric Pill Care Log"
+			},
+			"slug":"fabricPillCareLog"
 		}
 	]
 }
