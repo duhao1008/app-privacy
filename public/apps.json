@@ -10625,6 +10625,21 @@
 				"es":"Reading Quote Mood Shelf Fallb"
 			},
 			"slug":"readingQuoteMoodShelfFallback"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Skit Rehearsal Cue Deck Fallba",
+				"ru":"Skit Rehearsal Cue Deck Fallba",
+				"ko":"Skit Rehearsal Cue Deck Fallba",
+				"pt":"Skit Rehearsal Cue Deck Fallba",
+				"ja":"Skit Rehearsal Cue Deck Fallba",
+				"en":"Skit Rehearsal Cue Deck Fallba",
+				"fr":"Skit Rehearsal Cue Deck Fallba",
+				"zh":"短剧排练精选夹",
+				"es":"Skit Rehearsal Cue Deck Fallba"
+			},
+			"slug":"skitRehearsalCueDeckFallback"
 		}
 	]
 }
