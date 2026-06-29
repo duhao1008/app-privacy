@@ -10595,6 +10595,21 @@
 				"es":"Badminton Landing Grid Alt"
 			},
 			"slug":"badmintonLandingGridAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Latin Root Lab Alt",
+				"ru":"Latin Root Lab Alt",
+				"ko":"Latin Root Lab Alt",
+				"pt":"Latin Root Lab Alt",
+				"ja":"Latin Root Lab Alt",
+				"en":"Latin Root Lab Alt",
+				"fr":"Latin Root Lab Alt",
+				"zh":"拉丁词根夹",
+				"es":"Latin Root Lab Alt"
+			},
+			"slug":"latinRootLabAlt"
 		}
 	]
 }
