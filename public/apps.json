@@ -10370,6 +10370,21 @@
 				"es":"Biology Diagram Notes Alt"
 			},
 			"slug":"biologyDiagramNotesAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Reading Quote Mood Shelf Alt",
+				"ru":"Reading Quote Mood Shelf Alt",
+				"ko":"Reading Quote Mood Shelf Alt",
+				"pt":"Reading Quote Mood Shelf Alt",
+				"ja":"Reading Quote Mood Shelf Alt",
+				"en":"Reading Quote Mood Shelf Alt",
+				"fr":"Reading Quote Mood Shelf Alt",
+				"zh":"摘句情绪夹",
+				"es":"Reading Quote Mood Shelf Alt"
+			},
+			"slug":"readingQuoteMoodShelfAlt"
 		}
 	]
 }
