@@ -10670,6 +10670,21 @@
 				"es":"Gasket Size Binder Fallback"
 			},
 			"slug":"gasketSizeBinderFallback"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Plant Watering Ledger Fallback",
+				"ru":"Plant Watering Ledger Fallback",
+				"ko":"Plant Watering Ledger Fallback",
+				"pt":"Plant Watering Ledger Fallback",
+				"ja":"Plant Watering Ledger Fallback",
+				"en":"Plant Watering Ledger Fallback",
+				"fr":"Plant Watering Ledger Fallback",
+				"zh":"盆栽浇水精选夹",
+				"es":"Plant Watering Ledger Fallback"
+			},
+			"slug":"plantWateringLedgerFallback"
 		}
 	]
 }
