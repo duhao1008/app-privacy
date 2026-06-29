@@ -10970,6 +10970,21 @@
 				"es":"Chem Ion Color Cards Alt"
 			},
 			"slug":"chemIonColorCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Book Edge Note Index Alt",
+				"ru":"Book Edge Note Index Alt",
+				"ko":"Book Edge Note Index Alt",
+				"pt":"Book Edge Note Index Alt",
+				"ja":"Book Edge Note Index Alt",
+				"en":"Book Edge Note Index Alt",
+				"fr":"Book Edge Note Index Alt",
+				"zh":"书边批注夹精选",
+				"es":"Book Edge Note Index Alt"
+			},
+			"slug":"bookEdgeNoteIndexAlt"
 		}
 	]
 }
