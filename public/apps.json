@@ -10820,6 +10820,21 @@
 				"es":"Attachment Name Checklist"
 			},
 			"slug":"attachmentNameChecklist"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Race Fuel Plan Card Alt",
+				"ru":"Race Fuel Plan Card Alt",
+				"ko":"Race Fuel Plan Card Alt",
+				"pt":"Race Fuel Plan Card Alt",
+				"ja":"Race Fuel Plan Card Alt",
+				"en":"Race Fuel Plan Card Alt",
+				"fr":"Race Fuel Plan Card Alt",
+				"zh":"比赛补给夹",
+				"es":"Race Fuel Plan Card Alt"
+			},
+			"slug":"raceFuelPlanCardAlt"
 		}
 	]
 }
