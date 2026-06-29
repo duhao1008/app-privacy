@@ -10415,6 +10415,21 @@
 				"es":"Deposit Release Log Alt"
 			},
 			"slug":"depositReleaseLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Spare Part Tag Book Alt",
+				"ru":"Spare Part Tag Book Alt",
+				"ko":"Spare Part Tag Book Alt",
+				"pt":"Spare Part Tag Book Alt",
+				"ja":"Spare Part Tag Book Alt",
+				"en":"Spare Part Tag Book Alt",
+				"fr":"Spare Part Tag Book Alt",
+				"zh":"备件标签夹",
+				"es":"Spare Part Tag Book Alt"
+			},
+			"slug":"sparePartTagBookAlt"
 		}
 	]
 }
