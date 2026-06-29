@@ -10700,6 +10700,21 @@
 				"es":"Return Evidence Folder Fallbac"
 			},
 			"slug":"returnEvidenceFolderFallback"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Cycling Climb Ledger Alt",
+				"ru":"Cycling Climb Ledger Alt",
+				"ko":"Cycling Climb Ledger Alt",
+				"pt":"Cycling Climb Ledger Alt",
+				"ja":"Cycling Climb Ledger Alt",
+				"en":"Cycling Climb Ledger Alt",
+				"fr":"Cycling Climb Ledger Alt",
+				"zh":"骑行爬坡夹",
+				"es":"Cycling Climb Ledger Alt"
+			},
+			"slug":"cyclingClimbLedgerAlt"
 		}
 	]
 }
