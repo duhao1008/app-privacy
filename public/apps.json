@@ -10775,6 +10775,21 @@
 				"es":"Retainer Hours Ledger Alt"
 			},
 			"slug":"retainerHoursLedgerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Packing Tape Estimator",
+				"ru":"Packing Tape Estimator",
+				"ko":"Packing Tape Estimator",
+				"pt":"Packing Tape Estimator",
+				"ja":"Packing Tape Estimator",
+				"en":"Packing Tape Estimator",
+				"fr":"Packing Tape Estimator",
+				"zh":"胶带估算器",
+				"es":"Packing Tape Estimator"
+			},
+			"slug":"packingTapeEstimator"
 		}
 	]
 }
