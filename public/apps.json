@@ -10445,6 +10445,21 @@
 				"es":"Laundry Color Batch Alt"
 			},
 			"slug":"laundryColorBatchAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Template Choice Board Alt",
+				"ru":"Template Choice Board Alt",
+				"ko":"Template Choice Board Alt",
+				"pt":"Template Choice Board Alt",
+				"ja":"Template Choice Board Alt",
+				"en":"Template Choice Board Alt",
+				"fr":"Template Choice Board Alt",
+				"zh":"模板选择板",
+				"es":"Template Choice Board Alt"
+			},
+			"slug":"templateChoiceBoardAlt"
 		}
 	]
 }
