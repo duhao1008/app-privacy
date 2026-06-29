@@ -10520,6 +10520,21 @@
 				"es":"Skit Rehearsal Cue Deck Reserv"
 			},
 			"slug":"skitRehearsalCueDeckReserve"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Service Scope Cards Alt",
+				"ru":"Service Scope Cards Alt",
+				"ko":"Service Scope Cards Alt",
+				"pt":"Service Scope Cards Alt",
+				"ja":"Service Scope Cards Alt",
+				"en":"Service Scope Cards Alt",
+				"fr":"Service Scope Cards Alt",
+				"zh":"服务范围夹",
+				"es":"Service Scope Cards Alt"
+			},
+			"slug":"serviceScopeCardsAlt"
 		}
 	]
 }
