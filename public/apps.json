@@ -10655,6 +10655,21 @@
 				"es":"Vendor Onboarding Checklist Al"
 			},
 			"slug":"vendorOnboardingChecklistAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Gasket Size Binder Fallback",
+				"ru":"Gasket Size Binder Fallback",
+				"ko":"Gasket Size Binder Fallback",
+				"pt":"Gasket Size Binder Fallback",
+				"ja":"Gasket Size Binder Fallback",
+				"en":"Gasket Size Binder Fallback",
+				"fr":"Gasket Size Binder Fallback",
+				"zh":"垫圈尺寸精选夹",
+				"es":"Gasket Size Binder Fallback"
+			},
+			"slug":"gasketSizeBinderFallback"
 		}
 	]
 }
