@@ -10460,6 +10460,21 @@
 				"es":"Template Choice Board Alt"
 			},
 			"slug":"templateChoiceBoardAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Table Serve Pattern Log Alt",
+				"ru":"Table Serve Pattern Log Alt",
+				"ko":"Table Serve Pattern Log Alt",
+				"pt":"Table Serve Pattern Log Alt",
+				"ja":"Table Serve Pattern Log Alt",
+				"en":"Table Serve Pattern Log Alt",
+				"fr":"Table Serve Pattern Log Alt",
+				"zh":"发球套路夹",
+				"es":"Table Serve Pattern Log Alt"
+			},
+			"slug":"tableServePatternLogAlt"
 		}
 	]
 }
