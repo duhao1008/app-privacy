@@ -10550,6 +10550,21 @@
 				"es":"Gasket Size Binder Reserve"
 			},
 			"slug":"gasketSizeBinderReserve"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Plant Watering Ledger Reserve",
+				"ru":"Plant Watering Ledger Reserve",
+				"ko":"Plant Watering Ledger Reserve",
+				"pt":"Plant Watering Ledger Reserve",
+				"ja":"Plant Watering Ledger Reserve",
+				"en":"Plant Watering Ledger Reserve",
+				"fr":"Plant Watering Ledger Reserve",
+				"zh":"盆栽浇水专项夹",
+				"es":"Plant Watering Ledger Reserve"
+			},
+			"slug":"plantWateringLedgerReserve"
 		}
 	]
 }
