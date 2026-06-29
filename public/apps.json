@@ -10895,6 +10895,21 @@
 				"es":"Training Attendance Proof Alt"
 			},
 			"slug":"trainingAttendanceProofAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Packing Tape Estimator Alt",
+				"ru":"Packing Tape Estimator Alt",
+				"ko":"Packing Tape Estimator Alt",
+				"pt":"Packing Tape Estimator Alt",
+				"ja":"Packing Tape Estimator Alt",
+				"en":"Packing Tape Estimator Alt",
+				"fr":"Packing Tape Estimator Alt",
+				"zh":"胶带估算器精选",
+				"es":"Packing Tape Estimator Alt"
+			},
+			"slug":"packingTapeEstimatorAlt"
 		}
 	]
 }
