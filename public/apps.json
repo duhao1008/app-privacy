@@ -10955,6 +10955,21 @@
 				"es":"Bike Cleat Position Log"
 			},
 			"slug":"bikeCleatPositionLog"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Chem Ion Color Cards Alt",
+				"ru":"Chem Ion Color Cards Alt",
+				"ko":"Chem Ion Color Cards Alt",
+				"pt":"Chem Ion Color Cards Alt",
+				"ja":"Chem Ion Color Cards Alt",
+				"en":"Chem Ion Color Cards Alt",
+				"fr":"Chem Ion Color Cards Alt",
+				"zh":"离子颜色夹",
+				"es":"Chem Ion Color Cards Alt"
+			},
+			"slug":"chemIonColorCardsAlt"
 		}
 	]
 }
