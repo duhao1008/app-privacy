@@ -10340,6 +10340,21 @@
 				"es":"Handoff Question Cards Alt"
 			},
 			"slug":"handoffQuestionCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Disc Defense Matchbook Alt",
+				"ru":"Disc Defense Matchbook Alt",
+				"ko":"Disc Defense Matchbook Alt",
+				"pt":"Disc Defense Matchbook Alt",
+				"ja":"Disc Defense Matchbook Alt",
+				"en":"Disc Defense Matchbook Alt",
+				"fr":"Disc Defense Matchbook Alt",
+				"zh":"飞盘防守册",
+				"es":"Disc Defense Matchbook Alt"
+			},
+			"slug":"discDefenseMatchbookAlt"
 		}
 	]
 }
