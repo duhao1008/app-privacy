@@ -10940,6 +10940,21 @@
 				"es":"Attachment Name Checklist Alt"
 			},
 			"slug":"attachmentNameChecklistAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Bike Cleat Position Log",
+				"ru":"Bike Cleat Position Log",
+				"ko":"Bike Cleat Position Log",
+				"pt":"Bike Cleat Position Log",
+				"ja":"Bike Cleat Position Log",
+				"en":"Bike Cleat Position Log",
+				"fr":"Bike Cleat Position Log",
+				"zh":"锁片位置夹",
+				"es":"Bike Cleat Position Log"
+			},
+			"slug":"bikeCleatPositionLog"
 		}
 	]
 }
