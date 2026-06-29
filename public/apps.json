@@ -10475,6 +10475,21 @@
 				"es":"Table Serve Pattern Log Alt"
 			},
 			"slug":"tableServePatternLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"History Chronology Cards Alt",
+				"ru":"History Chronology Cards Alt",
+				"ko":"History Chronology Cards Alt",
+				"pt":"History Chronology Cards Alt",
+				"ja":"History Chronology Cards Alt",
+				"en":"History Chronology Cards Alt",
+				"fr":"History Chronology Cards Alt",
+				"zh":"历史年表夹",
+				"es":"History Chronology Cards Alt"
+			},
+			"slug":"historyChronologyCardsAlt"
 		}
 	]
 }
