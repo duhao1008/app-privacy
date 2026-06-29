@@ -10430,6 +10430,21 @@
 				"es":"Spare Part Tag Book Alt"
 			},
 			"slug":"sparePartTagBookAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Laundry Color Batch Alt",
+				"ru":"Laundry Color Batch Alt",
+				"ko":"Laundry Color Batch Alt",
+				"pt":"Laundry Color Batch Alt",
+				"ja":"Laundry Color Batch Alt",
+				"en":"Laundry Color Batch Alt",
+				"fr":"Laundry Color Batch Alt",
+				"zh":"洗衣分色签",
+				"es":"Laundry Color Batch Alt"
+			},
+			"slug":"laundryColorBatchAlt"
 		}
 	]
 }
