@@ -10580,6 +10580,21 @@
 				"es":"Return Evidence Folder Reserve"
 			},
 			"slug":"returnEvidenceFolderReserve"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Badminton Landing Grid Alt",
+				"ru":"Badminton Landing Grid Alt",
+				"ko":"Badminton Landing Grid Alt",
+				"pt":"Badminton Landing Grid Alt",
+				"ja":"Badminton Landing Grid Alt",
+				"en":"Badminton Landing Grid Alt",
+				"fr":"Badminton Landing Grid Alt",
+				"zh":"羽球落点格",
+				"es":"Badminton Landing Grid Alt"
+			},
+			"slug":"badmintonLandingGridAlt"
 		}
 	]
 }
