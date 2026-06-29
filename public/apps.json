@@ -10355,6 +10355,21 @@
 				"es":"Disc Defense Matchbook Alt"
 			},
 			"slug":"discDefenseMatchbookAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Biology Diagram Notes Alt",
+				"ru":"Biology Diagram Notes Alt",
+				"ko":"Biology Diagram Notes Alt",
+				"pt":"Biology Diagram Notes Alt",
+				"ja":"Biology Diagram Notes Alt",
+				"en":"Biology Diagram Notes Alt",
+				"fr":"Biology Diagram Notes Alt",
+				"zh":"生物图解夹",
+				"es":"Biology Diagram Notes Alt"
+			},
+			"slug":"biologyDiagramNotesAlt"
 		}
 	]
 }
