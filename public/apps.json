@@ -10835,6 +10835,21 @@
 				"es":"Race Fuel Plan Card Alt"
 			},
 			"slug":"raceFuelPlanCardAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Biology Cycle Cards Alt",
+				"ru":"Biology Cycle Cards Alt",
+				"ko":"Biology Cycle Cards Alt",
+				"pt":"Biology Cycle Cards Alt",
+				"ja":"Biology Cycle Cards Alt",
+				"en":"Biology Cycle Cards Alt",
+				"fr":"Biology Cycle Cards Alt",
+				"zh":"生物循环夹",
+				"es":"Biology Cycle Cards Alt"
+			},
+			"slug":"biologyCycleCardsAlt"
 		}
 	]
 }
