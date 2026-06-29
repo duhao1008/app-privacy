@@ -10640,6 +10640,21 @@
 				"es":"Skit Rehearsal Cue Deck Fallba"
 			},
 			"slug":"skitRehearsalCueDeckFallback"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Vendor Onboarding Checklist Al",
+				"ru":"Vendor Onboarding Checklist Al",
+				"ko":"Vendor Onboarding Checklist Al",
+				"pt":"Vendor Onboarding Checklist Al",
+				"ja":"Vendor Onboarding Checklist Al",
+				"en":"Vendor Onboarding Checklist Al",
+				"fr":"Vendor Onboarding Checklist Al",
+				"zh":"供应商准入夹",
+				"es":"Vendor Onboarding Checklist Al"
+			},
+			"slug":"vendorOnboardingChecklistAlt"
 		}
 	]
 }
