@@ -10385,6 +10385,21 @@
 				"es":"Reading Quote Mood Shelf Alt"
 			},
 			"slug":"readingQuoteMoodShelfAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Skit Rehearsal Cue Deck Alt",
+				"ru":"Skit Rehearsal Cue Deck Alt",
+				"ko":"Skit Rehearsal Cue Deck Alt",
+				"pt":"Skit Rehearsal Cue Deck Alt",
+				"ja":"Skit Rehearsal Cue Deck Alt",
+				"en":"Skit Rehearsal Cue Deck Alt",
+				"fr":"Skit Rehearsal Cue Deck Alt",
+				"zh":"短剧排练夹",
+				"es":"Skit Rehearsal Cue Deck Alt"
+			},
+			"slug":"skitRehearsalCueDeckAlt"
 		}
 	]
 }
