@@ -10535,6 +10535,21 @@
 				"es":"Service Scope Cards Alt"
 			},
 			"slug":"serviceScopeCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-29",
+			"appName":{
+				"de":"Gasket Size Binder Reserve",
+				"ru":"Gasket Size Binder Reserve",
+				"ko":"Gasket Size Binder Reserve",
+				"pt":"Gasket Size Binder Reserve",
+				"ja":"Gasket Size Binder Reserve",
+				"en":"Gasket Size Binder Reserve",
+				"fr":"Gasket Size Binder Reserve",
+				"zh":"垫圈尺寸专项夹",
+				"es":"Gasket Size Binder Reserve"
+			},
+			"slug":"gasketSizeBinderReserve"
 		}
 	]
 }
