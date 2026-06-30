@@ -11030,6 +11030,21 @@
 				"es":"Shelf Peg Hole Guide"
 			},
 			"slug":"shelfPegHoleGuide"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Mattress Flip Care Log",
+				"ru":"Mattress Flip Care Log",
+				"ko":"Mattress Flip Care Log",
+				"pt":"Mattress Flip Care Log",
+				"ja":"Mattress Flip Care Log",
+				"en":"Mattress Flip Care Log",
+				"fr":"Mattress Flip Care Log",
+				"zh":"床垫翻面夹",
+				"es":"Mattress Flip Care Log"
+			},
+			"slug":"mattressFlipCareLog"
 		}
 	]
 }
