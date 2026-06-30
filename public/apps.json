@@ -11675,6 +11675,21 @@
 				"es":"Running Shoe Mileage Log Fallb"
 			},
 			"slug":"runningShoeMileageLogFallbackAlt"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Chem Equation Error Log Fallba",
+				"ru":"Chem Equation Error Log Fallba",
+				"ko":"Chem Equation Error Log Fallba",
+				"pt":"Chem Equation Error Log Fallba",
+				"ja":"Chem Equation Error Log Fallba",
+				"en":"Chem Equation Error Log Fallba",
+				"fr":"Chem Equation Error Log Fallba",
+				"zh":"化学配平夹",
+				"es":"Chem Equation Error Log Fallba"
+			},
+			"slug":"chemEquationErrorLogFallback"
 		}
 	]
 }
