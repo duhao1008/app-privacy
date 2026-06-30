@@ -11135,6 +11135,21 @@
 				"es":"Commission Split Ledger Reserv"
 			},
 			"slug":"commissionSplitLedgerReserve"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Shelf Peg Hole Guide Alt",
+				"ru":"Shelf Peg Hole Guide Alt",
+				"ko":"Shelf Peg Hole Guide Alt",
+				"pt":"Shelf Peg Hole Guide Alt",
+				"ja":"Shelf Peg Hole Guide Alt",
+				"en":"Shelf Peg Hole Guide Alt",
+				"fr":"Shelf Peg Hole Guide Alt",
+				"zh":"层板孔距夹精选",
+				"es":"Shelf Peg Hole Guide Alt"
+			},
+			"slug":"shelfPegHoleGuideAlt"
 		}
 	]
 }
