@@ -11390,6 +11390,21 @@
 				"es":"Cable Tie Length Planner Alt"
 			},
 			"slug":"cableTieLengthPlannerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Shoe Drying Rotation Log Alt",
+				"ru":"Shoe Drying Rotation Log Alt",
+				"ko":"Shoe Drying Rotation Log Alt",
+				"pt":"Shoe Drying Rotation Log Alt",
+				"ja":"Shoe Drying Rotation Log Alt",
+				"en":"Shoe Drying Rotation Log Alt",
+				"fr":"Shoe Drying Rotation Log Alt",
+				"zh":"鞋履晾护夹精选",
+				"es":"Shoe Drying Rotation Log Alt"
+			},
+			"slug":"shoeDryingRotationLogAlt"
 		}
 	]
 }
