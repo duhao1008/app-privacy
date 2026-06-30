@@ -11570,6 +11570,21 @@
 				"es":"Geometry Proof Step Cards Fall"
 			},
 			"slug":"geometryProofStepCardsFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Dust Jacket Fit Log Fallback",
+				"ru":"Dust Jacket Fit Log Fallback",
+				"ko":"Dust Jacket Fit Log Fallback",
+				"pt":"Dust Jacket Fit Log Fallback",
+				"ja":"Dust Jacket Fit Log Fallback",
+				"en":"Dust Jacket Fit Log Fallback",
+				"fr":"Dust Jacket Fit Log Fallback",
+				"zh":"书衣尺寸夹",
+				"es":"Dust Jacket Fit Log Fallback"
+			},
+			"slug":"dustJacketFitLogFallback"
 		}
 	]
 }
