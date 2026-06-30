@@ -11255,6 +11255,21 @@
 				"es":"Commission Split Ledger Fallba"
 			},
 			"slug":"commissionSplitLedgerFallback"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Drawer Slide Screw Map Alt",
+				"ru":"Drawer Slide Screw Map Alt",
+				"ko":"Drawer Slide Screw Map Alt",
+				"pt":"Drawer Slide Screw Map Alt",
+				"ja":"Drawer Slide Screw Map Alt",
+				"en":"Drawer Slide Screw Map Alt",
+				"fr":"Drawer Slide Screw Map Alt",
+				"zh":"滑轨螺丝夹精选",
+				"es":"Drawer Slide Screw Map Alt"
+			},
+			"slug":"drawerSlideScrewMapAlt"
 		}
 	]
 }
