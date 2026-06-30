@@ -11225,6 +11225,21 @@
 				"es":"Reading Lamp Glare Log Alt"
 			},
 			"slug":"readingLampGlareLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Show Intermission Cue Log Alt",
+				"ru":"Show Intermission Cue Log Alt",
+				"ko":"Show Intermission Cue Log Alt",
+				"pt":"Show Intermission Cue Log Alt",
+				"ja":"Show Intermission Cue Log Alt",
+				"en":"Show Intermission Cue Log Alt",
+				"fr":"Show Intermission Cue Log Alt",
+				"zh":"观演中场夹精选",
+				"es":"Show Intermission Cue Log Alt"
+			},
+			"slug":"showIntermissionCueLogAlt"
 		}
 	]
 }
