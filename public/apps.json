@@ -11150,6 +11150,21 @@
 				"es":"Shelf Peg Hole Guide Alt"
 			},
 			"slug":"shelfPegHoleGuideAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Mattress Flip Care Log Alt",
+				"ru":"Mattress Flip Care Log Alt",
+				"ko":"Mattress Flip Care Log Alt",
+				"pt":"Mattress Flip Care Log Alt",
+				"ja":"Mattress Flip Care Log Alt",
+				"en":"Mattress Flip Care Log Alt",
+				"fr":"Mattress Flip Care Log Alt",
+				"zh":"床垫翻面夹精选",
+				"es":"Mattress Flip Care Log Alt"
+			},
+			"slug":"mattressFlipCareLogAlt"
 		}
 	]
 }
