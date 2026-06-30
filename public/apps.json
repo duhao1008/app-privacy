@@ -11285,6 +11285,21 @@
 				"es":"Pillow Height Trial Log Alt"
 			},
 			"slug":"pillowHeightTrialLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Handoff Evidence Checklist Alt",
+				"ru":"Handoff Evidence Checklist Alt",
+				"ko":"Handoff Evidence Checklist Alt",
+				"pt":"Handoff Evidence Checklist Alt",
+				"ja":"Handoff Evidence Checklist Alt",
+				"en":"Handoff Evidence Checklist Alt",
+				"fr":"Handoff Evidence Checklist Alt",
+				"zh":"交接凭证夹精选",
+				"es":"Handoff Evidence Checklist Alt"
+			},
+			"slug":"handoffEvidenceChecklistAlt"
 		}
 	]
 }
