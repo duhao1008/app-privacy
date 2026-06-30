@@ -11180,6 +11180,21 @@
 				"es":"Meeting Question Tracker Alt"
 			},
 			"slug":"meetingQuestionTrackerAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Goalkeeper Dive Notes Alt",
+				"ru":"Goalkeeper Dive Notes Alt",
+				"ko":"Goalkeeper Dive Notes Alt",
+				"pt":"Goalkeeper Dive Notes Alt",
+				"ja":"Goalkeeper Dive Notes Alt",
+				"en":"Goalkeeper Dive Notes Alt",
+				"fr":"Goalkeeper Dive Notes Alt",
+				"zh":"门将扑救夹精选",
+				"es":"Goalkeeper Dive Notes Alt"
+			},
+			"slug":"goalkeeperDiveNotesAlt"
 		}
 	]
 }
