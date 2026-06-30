@@ -11090,6 +11090,21 @@
 				"es":"Music Interval Ear Pad Alt"
 			},
 			"slug":"musicIntervalEarPadAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Reading Lamp Glare Log",
+				"ru":"Reading Lamp Glare Log",
+				"ko":"Reading Lamp Glare Log",
+				"pt":"Reading Lamp Glare Log",
+				"ja":"Reading Lamp Glare Log",
+				"en":"Reading Lamp Glare Log",
+				"fr":"Reading Lamp Glare Log",
+				"zh":"夜读灯位夹",
+				"es":"Reading Lamp Glare Log"
+			},
+			"slug":"readingLampGlareLog"
 		}
 	]
 }
