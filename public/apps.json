@@ -11405,6 +11405,21 @@
 				"es":"Shoe Drying Rotation Log Alt"
 			},
 			"slug":"shoeDryingRotationLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Handoff Asset Gap Log Alt",
+				"ru":"Handoff Asset Gap Log Alt",
+				"ko":"Handoff Asset Gap Log Alt",
+				"pt":"Handoff Asset Gap Log Alt",
+				"ja":"Handoff Asset Gap Log Alt",
+				"en":"Handoff Asset Gap Log Alt",
+				"fr":"Handoff Asset Gap Log Alt",
+				"zh":"交接缺口夹精选",
+				"es":"Handoff Asset Gap Log Alt"
+			},
+			"slug":"handoffAssetGapLogAlt"
 		}
 	]
 }
