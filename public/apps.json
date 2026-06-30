@@ -11660,6 +11660,21 @@
 				"es":"Revision Proof Log Alt"
 			},
 			"slug":"revisionProofLogAlt"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Running Shoe Mileage Log Fallb",
+				"ru":"Running Shoe Mileage Log Fallb",
+				"ko":"Running Shoe Mileage Log Fallb",
+				"pt":"Running Shoe Mileage Log Fallb",
+				"ja":"Running Shoe Mileage Log Fallb",
+				"en":"Running Shoe Mileage Log Fallb",
+				"fr":"Running Shoe Mileage Log Fallb",
+				"zh":"跑鞋里程夹精选",
+				"es":"Running Shoe Mileage Log Fallb"
+			},
+			"slug":"runningShoeMileageLogFallbackAlt"
 		}
 	]
 }
