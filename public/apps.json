@@ -11600,6 +11600,21 @@
 				"es":"Theater Exit Meetup Log Fallba"
 			},
 			"slug":"theaterExitMeetupLogFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Client Delivery Packet Fallbac",
+				"ru":"Client Delivery Packet Fallbac",
+				"ko":"Client Delivery Packet Fallbac",
+				"pt":"Client Delivery Packet Fallbac",
+				"ja":"Client Delivery Packet Fallbac",
+				"en":"Client Delivery Packet Fallbac",
+				"fr":"Client Delivery Packet Fallbac",
+				"zh":"客户交付包夹",
+				"es":"Client Delivery Packet Fallbac"
+			},
+			"slug":"clientDeliveryPacketFallback"
 		}
 	]
 }
