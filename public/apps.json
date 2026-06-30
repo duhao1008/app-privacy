@@ -11210,6 +11210,21 @@
 				"es":"Essay Argument Grid Alt"
 			},
 			"slug":"essayArgumentGridAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Reading Lamp Glare Log Alt",
+				"ru":"Reading Lamp Glare Log Alt",
+				"ko":"Reading Lamp Glare Log Alt",
+				"pt":"Reading Lamp Glare Log Alt",
+				"ja":"Reading Lamp Glare Log Alt",
+				"en":"Reading Lamp Glare Log Alt",
+				"fr":"Reading Lamp Glare Log Alt",
+				"zh":"夜读灯位夹精选",
+				"es":"Reading Lamp Glare Log Alt"
+			},
+			"slug":"readingLampGlareLogAlt"
 		}
 	]
 }
