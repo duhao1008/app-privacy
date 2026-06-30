@@ -11615,6 +11615,21 @@
 				"es":"Client Delivery Packet Fallbac"
 			},
 			"slug":"clientDeliveryPacketFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Envelope Window Aligner Fallba",
+				"ru":"Envelope Window Aligner Fallba",
+				"ko":"Envelope Window Aligner Fallba",
+				"pt":"Envelope Window Aligner Fallba",
+				"ja":"Envelope Window Aligner Fallba",
+				"en":"Envelope Window Aligner Fallba",
+				"fr":"Envelope Window Aligner Fallba",
+				"zh":"信封窗口夹精选精选",
+				"es":"Envelope Window Aligner Fallba"
+			},
+			"slug":"envelopeWindowAlignerFallbackAlt"
 		}
 	]
 }
