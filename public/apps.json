@@ -11000,6 +11000,21 @@
 				"es":"Fan Chant Cue Cards Alt"
 			},
 			"slug":"fanChantCueCardsAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Milestone Billing Board Alt",
+				"ru":"Milestone Billing Board Alt",
+				"ko":"Milestone Billing Board Alt",
+				"pt":"Milestone Billing Board Alt",
+				"ja":"Milestone Billing Board Alt",
+				"en":"Milestone Billing Board Alt",
+				"fr":"Milestone Billing Board Alt",
+				"zh":"节点开款板",
+				"es":"Milestone Billing Board Alt"
+			},
+			"slug":"milestoneBillingBoardAlt"
 		}
 	]
 }
