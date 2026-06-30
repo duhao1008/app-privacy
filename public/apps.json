@@ -11015,6 +11015,21 @@
 				"es":"Milestone Billing Board Alt"
 			},
 			"slug":"milestoneBillingBoardAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Shelf Peg Hole Guide",
+				"ru":"Shelf Peg Hole Guide",
+				"ko":"Shelf Peg Hole Guide",
+				"pt":"Shelf Peg Hole Guide",
+				"ja":"Shelf Peg Hole Guide",
+				"en":"Shelf Peg Hole Guide",
+				"fr":"Shelf Peg Hole Guide",
+				"zh":"层板孔距夹",
+				"es":"Shelf Peg Hole Guide"
+			},
+			"slug":"shelfPegHoleGuide"
 		}
 	]
 }
