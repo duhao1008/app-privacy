@@ -11345,6 +11345,21 @@
 				"es":"Book Spine Repair Log Fallback"
 			},
 			"slug":"bookSpineRepairLogFallback"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Movie Snack Prep Log Fallback",
+				"ru":"Movie Snack Prep Log Fallback",
+				"ko":"Movie Snack Prep Log Fallback",
+				"pt":"Movie Snack Prep Log Fallback",
+				"ja":"Movie Snack Prep Log Fallback",
+				"en":"Movie Snack Prep Log Fallback",
+				"fr":"Movie Snack Prep Log Fallback",
+				"zh":"观影零食夹",
+				"es":"Movie Snack Prep Log Fallback"
+			},
+			"slug":"movieSnackPrepLogFallback"
 		}
 	]
 }
