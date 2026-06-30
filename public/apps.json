@@ -11585,6 +11585,21 @@
 				"es":"Dust Jacket Fit Log Fallback"
 			},
 			"slug":"dustJacketFitLogFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Theater Exit Meetup Log Fallba",
+				"ru":"Theater Exit Meetup Log Fallba",
+				"ko":"Theater Exit Meetup Log Fallba",
+				"pt":"Theater Exit Meetup Log Fallba",
+				"ja":"Theater Exit Meetup Log Fallba",
+				"en":"Theater Exit Meetup Log Fallba",
+				"fr":"Theater Exit Meetup Log Fallba",
+				"zh":"散场集合夹",
+				"es":"Theater Exit Meetup Log Fallba"
+			},
+			"slug":"theaterExitMeetupLogFallback"
 		}
 	]
 }
