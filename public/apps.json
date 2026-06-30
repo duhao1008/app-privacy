@@ -10985,6 +10985,21 @@
 				"es":"Book Edge Note Index Alt"
 			},
 			"slug":"bookEdgeNoteIndexAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Fan Chant Cue Cards Alt",
+				"ru":"Fan Chant Cue Cards Alt",
+				"ko":"Fan Chant Cue Cards Alt",
+				"pt":"Fan Chant Cue Cards Alt",
+				"ja":"Fan Chant Cue Cards Alt",
+				"en":"Fan Chant Cue Cards Alt",
+				"fr":"Fan Chant Cue Cards Alt",
+				"zh":"应援口号夹精选",
+				"es":"Fan Chant Cue Cards Alt"
+			},
+			"slug":"fanChantCueCardsAlt"
 		}
 	]
 }
