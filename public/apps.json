@@ -11645,6 +11645,21 @@
 				"es":"Laundry Color Run Log Fallback"
 			},
 			"slug":"laundryColorRunLogFallbackAlt"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Revision Proof Log Alt",
+				"ru":"Revision Proof Log Alt",
+				"ko":"Revision Proof Log Alt",
+				"pt":"Revision Proof Log Alt",
+				"ja":"Revision Proof Log Alt",
+				"en":"Revision Proof Log Alt",
+				"fr":"Revision Proof Log Alt",
+				"zh":"修订留痕夹精选",
+				"es":"Revision Proof Log Alt"
+			},
+			"slug":"revisionProofLogAlt"
 		}
 	]
 }
