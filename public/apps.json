@@ -11435,6 +11435,21 @@
 				"es":"Badminton String Tension Log F"
 			},
 			"slug":"badmintonStringTensionLogFallbackAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Tone Sandhi Cards Fallback",
+				"ru":"Tone Sandhi Cards Fallback",
+				"ko":"Tone Sandhi Cards Fallback",
+				"pt":"Tone Sandhi Cards Fallback",
+				"ja":"Tone Sandhi Cards Fallback",
+				"en":"Tone Sandhi Cards Fallback",
+				"fr":"Tone Sandhi Cards Fallback",
+				"zh":"变调练习精选夹",
+				"es":"Tone Sandhi Cards Fallback"
+			},
+			"slug":"toneSandhiCardsFallback"
 		}
 	]
 }
