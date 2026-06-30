@@ -11690,6 +11690,21 @@
 				"es":"Chem Equation Error Log Fallba"
 			},
 			"slug":"chemEquationErrorLogFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Dust Jacket Fit Log Fallback A",
+				"ru":"Dust Jacket Fit Log Fallback A",
+				"ko":"Dust Jacket Fit Log Fallback A",
+				"pt":"Dust Jacket Fit Log Fallback A",
+				"ja":"Dust Jacket Fit Log Fallback A",
+				"en":"Dust Jacket Fit Log Fallback A",
+				"fr":"Dust Jacket Fit Log Fallback A",
+				"zh":"书衣尺寸夹精选",
+				"es":"Dust Jacket Fit Log Fallback A"
+			},
+			"slug":"dustJacketFitLogFallbackAlt"
 		}
 	]
 }
