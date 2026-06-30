@@ -11195,6 +11195,21 @@
 				"es":"Goalkeeper Dive Notes Alt"
 			},
 			"slug":"goalkeeperDiveNotesAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Essay Argument Grid Alt",
+				"ru":"Essay Argument Grid Alt",
+				"ko":"Essay Argument Grid Alt",
+				"pt":"Essay Argument Grid Alt",
+				"ja":"Essay Argument Grid Alt",
+				"en":"Essay Argument Grid Alt",
+				"fr":"Essay Argument Grid Alt",
+				"zh":"议论文论点格",
+				"es":"Essay Argument Grid Alt"
+			},
+			"slug":"essayArgumentGridAlt"
 		}
 	]
 }
