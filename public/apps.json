@@ -11060,6 +11060,21 @@
 				"es":"Handoff Evidence Checklist"
 			},
 			"slug":"handoffEvidenceChecklist"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Bike Cleat Position Log Alt",
+				"ru":"Bike Cleat Position Log Alt",
+				"ko":"Bike Cleat Position Log Alt",
+				"pt":"Bike Cleat Position Log Alt",
+				"ja":"Bike Cleat Position Log Alt",
+				"en":"Bike Cleat Position Log Alt",
+				"fr":"Bike Cleat Position Log Alt",
+				"zh":"锁片位置夹精选",
+				"es":"Bike Cleat Position Log Alt"
+			},
+			"slug":"bikeCleatPositionLogAlt"
 		}
 	]
 }
