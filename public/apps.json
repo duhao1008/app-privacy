@@ -11525,6 +11525,21 @@
 				"es":"Laundry Color Run Log Fallback"
 			},
 			"slug":"laundryColorRunLogFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Deliverable Scope Card Alt",
+				"ru":"Deliverable Scope Card Alt",
+				"ko":"Deliverable Scope Card Alt",
+				"pt":"Deliverable Scope Card Alt",
+				"ja":"Deliverable Scope Card Alt",
+				"en":"Deliverable Scope Card Alt",
+				"fr":"Deliverable Scope Card Alt",
+				"zh":"交付范围夹精选",
+				"es":"Deliverable Scope Card Alt"
+			},
+			"slug":"deliverableScopeCardAlt"
 		}
 	]
 }
