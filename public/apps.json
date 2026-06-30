@@ -11360,6 +11360,21 @@
 				"es":"Movie Snack Prep Log Fallback"
 			},
 			"slug":"movieSnackPrepLogFallback"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Meeting Room Gear Check Fallba",
+				"ru":"Meeting Room Gear Check Fallba",
+				"ko":"Meeting Room Gear Check Fallba",
+				"pt":"Meeting Room Gear Check Fallba",
+				"ja":"Meeting Room Gear Check Fallba",
+				"en":"Meeting Room Gear Check Fallba",
+				"fr":"Meeting Room Gear Check Fallba",
+				"zh":"会议设备核对夹",
+				"es":"Meeting Room Gear Check Fallba"
+			},
+			"slug":"meetingRoomGearCheckFallback"
 		}
 	]
 }
