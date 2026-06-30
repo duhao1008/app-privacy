@@ -11165,6 +11165,21 @@
 				"es":"Mattress Flip Care Log Alt"
 			},
 			"slug":"mattressFlipCareLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Meeting Question Tracker Alt",
+				"ru":"Meeting Question Tracker Alt",
+				"ko":"Meeting Question Tracker Alt",
+				"pt":"Meeting Question Tracker Alt",
+				"ja":"Meeting Question Tracker Alt",
+				"en":"Meeting Question Tracker Alt",
+				"fr":"Meeting Question Tracker Alt",
+				"zh":"会议问题夹精选",
+				"es":"Meeting Question Tracker Alt"
+			},
+			"slug":"meetingQuestionTrackerAlt"
 		}
 	]
 }
