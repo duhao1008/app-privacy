@@ -11075,6 +11075,21 @@
 				"es":"Bike Cleat Position Log Alt"
 			},
 			"slug":"bikeCleatPositionLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Music Interval Ear Pad Alt",
+				"ru":"Music Interval Ear Pad Alt",
+				"ko":"Music Interval Ear Pad Alt",
+				"pt":"Music Interval Ear Pad Alt",
+				"ja":"Music Interval Ear Pad Alt",
+				"en":"Music Interval Ear Pad Alt",
+				"fr":"Music Interval Ear Pad Alt",
+				"zh":"音程听辨垫",
+				"es":"Music Interval Ear Pad Alt"
+			},
+			"slug":"musicIntervalEarPadAlt"
 		}
 	]
 }
