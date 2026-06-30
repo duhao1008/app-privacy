@@ -11630,6 +11630,21 @@
 				"es":"Envelope Window Aligner Fallba"
 			},
 			"slug":"envelopeWindowAlignerFallbackAlt"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Laundry Color Run Log Fallback",
+				"ru":"Laundry Color Run Log Fallback",
+				"ko":"Laundry Color Run Log Fallback",
+				"pt":"Laundry Color Run Log Fallback",
+				"ja":"Laundry Color Run Log Fallback",
+				"en":"Laundry Color Run Log Fallback",
+				"fr":"Laundry Color Run Log Fallback",
+				"zh":"串色防护夹精选精选",
+				"es":"Laundry Color Run Log Fallback"
+			},
+			"slug":"laundryColorRunLogFallbackAlt"
 		}
 	]
 }
