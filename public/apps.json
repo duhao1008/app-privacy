@@ -11420,6 +11420,21 @@
 				"es":"Handoff Asset Gap Log Alt"
 			},
 			"slug":"handoffAssetGapLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Badminton String Tension Log F",
+				"ru":"Badminton String Tension Log F",
+				"ko":"Badminton String Tension Log F",
+				"pt":"Badminton String Tension Log F",
+				"ja":"Badminton String Tension Log F",
+				"en":"Badminton String Tension Log F",
+				"fr":"Badminton String Tension Log F",
+				"zh":"羽球穿线夹精选",
+				"es":"Badminton String Tension Log F"
+			},
+			"slug":"badmintonStringTensionLogFallbackAlt"
 		}
 	]
 }
