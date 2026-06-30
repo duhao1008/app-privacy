@@ -11105,6 +11105,21 @@
 				"es":"Reading Lamp Glare Log"
 			},
 			"slug":"readingLampGlareLog"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Show Intermission Cue Log",
+				"ru":"Show Intermission Cue Log",
+				"ko":"Show Intermission Cue Log",
+				"pt":"Show Intermission Cue Log",
+				"ja":"Show Intermission Cue Log",
+				"en":"Show Intermission Cue Log",
+				"fr":"Show Intermission Cue Log",
+				"zh":"观演中场夹",
+				"es":"Show Intermission Cue Log"
+			},
+			"slug":"showIntermissionCueLog"
 		}
 	]
 }
