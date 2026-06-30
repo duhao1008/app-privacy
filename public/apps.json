@@ -11555,6 +11555,21 @@
 				"es":"Running Shoe Mileage Log Fallb"
 			},
 			"slug":"runningShoeMileageLogFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Geometry Proof Step Cards Fall",
+				"ru":"Geometry Proof Step Cards Fall",
+				"ko":"Geometry Proof Step Cards Fall",
+				"pt":"Geometry Proof Step Cards Fall",
+				"ja":"Geometry Proof Step Cards Fall",
+				"en":"Geometry Proof Step Cards Fall",
+				"fr":"Geometry Proof Step Cards Fall",
+				"zh":"几何证明夹",
+				"es":"Geometry Proof Step Cards Fall"
+			},
+			"slug":"geometryProofStepCardsFallback"
 		}
 	]
 }
