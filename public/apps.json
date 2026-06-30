@@ -11240,6 +11240,21 @@
 				"es":"Show Intermission Cue Log Alt"
 			},
 			"slug":"showIntermissionCueLogAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Commission Split Ledger Fallba",
+				"ru":"Commission Split Ledger Fallba",
+				"ko":"Commission Split Ledger Fallba",
+				"pt":"Commission Split Ledger Fallba",
+				"ja":"Commission Split Ledger Fallba",
+				"en":"Commission Split Ledger Fallba",
+				"fr":"Commission Split Ledger Fallba",
+				"zh":"佣金拆分精选夹",
+				"es":"Commission Split Ledger Fallba"
+			},
+			"slug":"commissionSplitLedgerFallback"
 		}
 	]
 }
