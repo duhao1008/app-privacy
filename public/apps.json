@@ -11315,6 +11315,21 @@
 				"es":"Badminton String Tension Log F"
 			},
 			"slug":"badmintonStringTensionLogFallback"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Tone Sandhi Cards Reserve",
+				"ru":"Tone Sandhi Cards Reserve",
+				"ko":"Tone Sandhi Cards Reserve",
+				"pt":"Tone Sandhi Cards Reserve",
+				"ja":"Tone Sandhi Cards Reserve",
+				"en":"Tone Sandhi Cards Reserve",
+				"fr":"Tone Sandhi Cards Reserve",
+				"zh":"变调练习专项夹",
+				"es":"Tone Sandhi Cards Reserve"
+			},
+			"slug":"toneSandhiCardsReserve"
 		}
 	]
 }
