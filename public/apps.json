@@ -11045,6 +11045,21 @@
 				"es":"Mattress Flip Care Log"
 			},
 			"slug":"mattressFlipCareLog"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Handoff Evidence Checklist",
+				"ru":"Handoff Evidence Checklist",
+				"ko":"Handoff Evidence Checklist",
+				"pt":"Handoff Evidence Checklist",
+				"ja":"Handoff Evidence Checklist",
+				"en":"Handoff Evidence Checklist",
+				"fr":"Handoff Evidence Checklist",
+				"zh":"交接凭证夹",
+				"es":"Handoff Evidence Checklist"
+			},
+			"slug":"handoffEvidenceChecklist"
 		}
 	]
 }
