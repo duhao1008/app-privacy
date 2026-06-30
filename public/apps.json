@@ -11120,6 +11120,21 @@
 				"es":"Show Intermission Cue Log"
 			},
 			"slug":"showIntermissionCueLog"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Commission Split Ledger Reserv",
+				"ru":"Commission Split Ledger Reserv",
+				"ko":"Commission Split Ledger Reserv",
+				"pt":"Commission Split Ledger Reserv",
+				"ja":"Commission Split Ledger Reserv",
+				"en":"Commission Split Ledger Reserv",
+				"fr":"Commission Split Ledger Reserv",
+				"zh":"佣金拆分专项夹",
+				"es":"Commission Split Ledger Reserv"
+			},
+			"slug":"commissionSplitLedgerReserve"
 		}
 	]
 }
