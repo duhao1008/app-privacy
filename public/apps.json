@@ -11375,6 +11375,21 @@
 				"es":"Meeting Room Gear Check Fallba"
 			},
 			"slug":"meetingRoomGearCheckFallback"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Cable Tie Length Planner Alt",
+				"ru":"Cable Tie Length Planner Alt",
+				"ko":"Cable Tie Length Planner Alt",
+				"pt":"Cable Tie Length Planner Alt",
+				"ja":"Cable Tie Length Planner Alt",
+				"en":"Cable Tie Length Planner Alt",
+				"fr":"Cable Tie Length Planner Alt",
+				"zh":"扎带长度夹精选",
+				"es":"Cable Tie Length Planner Alt"
+			},
+			"slug":"cableTieLengthPlannerAlt"
 		}
 	]
 }
