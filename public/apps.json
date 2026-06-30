@@ -11270,6 +11270,21 @@
 				"es":"Drawer Slide Screw Map Alt"
 			},
 			"slug":"drawerSlideScrewMapAlt"
+		},
+		{
+			"lastUpdated":"2026-06-30",
+			"appName":{
+				"de":"Pillow Height Trial Log Alt",
+				"ru":"Pillow Height Trial Log Alt",
+				"ko":"Pillow Height Trial Log Alt",
+				"pt":"Pillow Height Trial Log Alt",
+				"ja":"Pillow Height Trial Log Alt",
+				"en":"Pillow Height Trial Log Alt",
+				"fr":"Pillow Height Trial Log Alt",
+				"zh":"枕高试睡夹精选",
+				"es":"Pillow Height Trial Log Alt"
+			},
+			"slug":"pillowHeightTrialLogAlt"
 		}
 	]
 }
