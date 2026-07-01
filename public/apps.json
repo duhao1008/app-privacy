@@ -11780,6 +11780,21 @@
 				"es":"Printer Toner Stock Log"
 			},
 			"slug":"printerTonerStockLog"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Table Tennis Serve Practice Lo",
+				"ru":"Table Tennis Serve Practice Lo",
+				"ko":"Table Tennis Serve Practice Lo",
+				"pt":"Table Tennis Serve Practice Lo",
+				"ja":"Table Tennis Serve Practice Lo",
+				"en":"Table Tennis Serve Practice Lo",
+				"fr":"Table Tennis Serve Practice Lo",
+				"zh":"发球练习夹精选",
+				"es":"Table Tennis Serve Practice Lo"
+			},
+			"slug":"tableTennisServePracticeLogFallbackAlt"
 		}
 	]
 }
