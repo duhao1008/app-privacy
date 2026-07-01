@@ -11765,6 +11765,21 @@
 				"es":"Fridge Odor Source Log Fallbac"
 			},
 			"slug":"fridgeOdorSourceLogFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Printer Toner Stock Log",
+				"ru":"Printer Toner Stock Log",
+				"ko":"Printer Toner Stock Log",
+				"pt":"Printer Toner Stock Log",
+				"ja":"Printer Toner Stock Log",
+				"en":"Printer Toner Stock Log",
+				"fr":"Printer Toner Stock Log",
+				"zh":"硒鼓库存夹",
+				"es":"Printer Toner Stock Log"
+			},
+			"slug":"printerTonerStockLog"
 		}
 	]
 }
