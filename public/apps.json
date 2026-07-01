@@ -11930,6 +11930,21 @@
 				"es":"Word Usage Contrast Cards Fall"
 			},
 			"slug":"wordUsageContrastCardsFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Reading Quote Reuse Cards Fall",
+				"ru":"Reading Quote Reuse Cards Fall",
+				"ko":"Reading Quote Reuse Cards Fall",
+				"pt":"Reading Quote Reuse Cards Fall",
+				"ja":"Reading Quote Reuse Cards Fall",
+				"en":"Reading Quote Reuse Cards Fall",
+				"fr":"Reading Quote Reuse Cards Fall",
+				"zh":"摘句复用夹精选",
+				"es":"Reading Quote Reuse Cards Fall"
+			},
+			"slug":"readingQuoteReuseCardsFallbackAlt"
 		}
 	]
 }
