@@ -12035,6 +12035,21 @@
 				"es":"Marathon Aid Station Plan Fall"
 			},
 			"slug":"marathonAidStationPlanFallbackAlt"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Experiment Observation Log Fal",
+				"ru":"Experiment Observation Log Fal",
+				"ko":"Experiment Observation Log Fal",
+				"pt":"Experiment Observation Log Fal",
+				"ja":"Experiment Observation Log Fal",
+				"en":"Experiment Observation Log Fal",
+				"fr":"Experiment Observation Log Fal",
+				"zh":"实验观察夹",
+				"es":"Experiment Observation Log Fal"
+			},
+			"slug":"experimentObservationLogFallback"
 		}
 	]
 }
