@@ -11735,6 +11735,21 @@
 				"es":"Meeting Room Gear Check Fallba"
 			},
 			"slug":"meetingRoomGearCheckFallbackAlt"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Cable Label Wrap Sizer Fallbac",
+				"ru":"Cable Label Wrap Sizer Fallbac",
+				"ko":"Cable Label Wrap Sizer Fallbac",
+				"pt":"Cable Label Wrap Sizer Fallbac",
+				"ja":"Cable Label Wrap Sizer Fallbac",
+				"en":"Cable Label Wrap Sizer Fallbac",
+				"fr":"Cable Label Wrap Sizer Fallbac",
+				"zh":"线缆标签夹精选",
+				"es":"Cable Label Wrap Sizer Fallbac"
+			},
+			"slug":"cableLabelWrapSizerFallback"
 		}
 	]
 }
