@@ -12050,6 +12050,21 @@
 				"es":"Experiment Observation Log Fal"
 			},
 			"slug":"experimentObservationLogFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Book Club Discussion Deck Fall",
+				"ru":"Book Club Discussion Deck Fall",
+				"ko":"Book Club Discussion Deck Fall",
+				"pt":"Book Club Discussion Deck Fall",
+				"ja":"Book Club Discussion Deck Fall",
+				"en":"Book Club Discussion Deck Fall",
+				"fr":"Book Club Discussion Deck Fall",
+				"zh":"读书会提问夹",
+				"es":"Book Club Discussion Deck Fall"
+			},
+			"slug":"bookClubDiscussionDeckFallback"
 		}
 	]
 }
