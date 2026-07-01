@@ -12095,6 +12095,21 @@
 				"es":"Quote Follow Ledger"
 			},
 			"slug":"quoteFollowLedger"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Curtain Fabric Calc",
+				"ru":"Curtain Fabric Calc",
+				"ko":"Curtain Fabric Calc",
+				"pt":"Curtain Fabric Calc",
+				"ja":"Curtain Fabric Calc",
+				"en":"Curtain Fabric Calc",
+				"fr":"Curtain Fabric Calc",
+				"zh":"窗帘用料",
+				"es":"Curtain Fabric Calc"
+			},
+			"slug":"curtainFabricCalc"
 		}
 	]
 }
