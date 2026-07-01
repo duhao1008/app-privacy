@@ -11975,6 +11975,21 @@
 				"es":"Client Delivery Packet Fallbac"
 			},
 			"slug":"clientDeliveryPacketFallbackAlt"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Drawer Handle Hole Guide Fallb",
+				"ru":"Drawer Handle Hole Guide Fallb",
+				"ko":"Drawer Handle Hole Guide Fallb",
+				"pt":"Drawer Handle Hole Guide Fallb",
+				"ja":"Drawer Handle Hole Guide Fallb",
+				"en":"Drawer Handle Hole Guide Fallb",
+				"fr":"Drawer Handle Hole Guide Fallb",
+				"zh":"拉手孔距夹精选",
+				"es":"Drawer Handle Hole Guide Fallb"
+			},
+			"slug":"drawerHandleHoleGuideFallback"
 		}
 	]
 }
