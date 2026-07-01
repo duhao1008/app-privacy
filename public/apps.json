@@ -11870,6 +11870,21 @@
 				"es":"Cable Label Wrap Sizer Fallbac"
 			},
 			"slug":"cableLabelWrapSizerFallbackAlt"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Fridge Odor Source Log Fallbac",
+				"ru":"Fridge Odor Source Log Fallbac",
+				"ko":"Fridge Odor Source Log Fallbac",
+				"pt":"Fridge Odor Source Log Fallbac",
+				"ja":"Fridge Odor Source Log Fallbac",
+				"en":"Fridge Odor Source Log Fallbac",
+				"fr":"Fridge Odor Source Log Fallbac",
+				"zh":"冰箱异味夹精选精选",
+				"es":"Fridge Odor Source Log Fallbac"
+			},
+			"slug":"fridgeOdorSourceLogFallbackAlt"
 		}
 	]
 }
