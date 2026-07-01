@@ -11900,6 +11900,21 @@
 				"es":"Printer Toner Stock Log Alt"
 			},
 			"slug":"printerTonerStockLogAlt"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Marathon Aid Station Plan Fall",
+				"ru":"Marathon Aid Station Plan Fall",
+				"ko":"Marathon Aid Station Plan Fall",
+				"pt":"Marathon Aid Station Plan Fall",
+				"ja":"Marathon Aid Station Plan Fall",
+				"en":"Marathon Aid Station Plan Fall",
+				"fr":"Marathon Aid Station Plan Fall",
+				"zh":"补给点计划夹",
+				"es":"Marathon Aid Station Plan Fall"
+			},
+			"slug":"marathonAidStationPlanFallback"
 		}
 	]
 }
