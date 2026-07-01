@@ -12125,6 +12125,21 @@
 				"es":"Scent Wardrobe"
 			},
 			"slug":"scentWardrobe"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Stamp Ledger",
+				"ru":"Stamp Ledger",
+				"ko":"Stamp Ledger",
+				"pt":"Stamp Ledger",
+				"ja":"Stamp Ledger",
+				"en":"Stamp Ledger",
+				"fr":"Stamp Ledger",
+				"zh":"用印台账",
+				"es":"Stamp Ledger"
+			},
+			"slug":"stampLedger"
 		}
 	]
 }
