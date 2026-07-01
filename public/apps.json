@@ -11915,6 +11915,21 @@
 				"es":"Marathon Aid Station Plan Fall"
 			},
 			"slug":"marathonAidStationPlanFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Word Usage Contrast Cards Fall",
+				"ru":"Word Usage Contrast Cards Fall",
+				"ko":"Word Usage Contrast Cards Fall",
+				"pt":"Word Usage Contrast Cards Fall",
+				"ja":"Word Usage Contrast Cards Fall",
+				"en":"Word Usage Contrast Cards Fall",
+				"fr":"Word Usage Contrast Cards Fall",
+				"zh":"近义词辨析夹",
+				"es":"Word Usage Contrast Cards Fall"
+			},
+			"slug":"wordUsageContrastCardsFallback"
 		}
 	]
 }
