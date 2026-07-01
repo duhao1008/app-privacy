@@ -11720,6 +11720,21 @@
 				"es":"Theater Exit Meetup Log Fallba"
 			},
 			"slug":"theaterExitMeetupLogFallbackAlt"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Meeting Room Gear Check Fallba",
+				"ru":"Meeting Room Gear Check Fallba",
+				"ko":"Meeting Room Gear Check Fallba",
+				"pt":"Meeting Room Gear Check Fallba",
+				"ja":"Meeting Room Gear Check Fallba",
+				"en":"Meeting Room Gear Check Fallba",
+				"fr":"Meeting Room Gear Check Fallba",
+				"zh":"会议设备核对夹精选",
+				"es":"Meeting Room Gear Check Fallba"
+			},
+			"slug":"meetingRoomGearCheckFallbackAlt"
 		}
 	]
 }
