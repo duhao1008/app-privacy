@@ -12065,6 +12065,21 @@
 				"es":"Book Club Discussion Deck Fall"
 			},
 			"slug":"bookClubDiscussionDeckFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Escape Room Cipher Notes",
+				"ru":"Escape Room Cipher Notes",
+				"ko":"Escape Room Cipher Notes",
+				"pt":"Escape Room Cipher Notes",
+				"ja":"Escape Room Cipher Notes",
+				"en":"Escape Room Cipher Notes",
+				"fr":"Escape Room Cipher Notes",
+				"zh":"密室笔记",
+				"es":"Escape Room Cipher Notes"
+			},
+			"slug":"escapeRoomCipherNotes"
 		}
 	]
 }
