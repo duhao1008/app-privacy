@@ -12110,6 +12110,21 @@
 				"es":"Curtain Fabric Calc"
 			},
 			"slug":"curtainFabricCalc"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Scent Wardrobe",
+				"ru":"Scent Wardrobe",
+				"ko":"Scent Wardrobe",
+				"pt":"Scent Wardrobe",
+				"ja":"Scent Wardrobe",
+				"en":"Scent Wardrobe",
+				"fr":"Scent Wardrobe",
+				"zh":"香水衣橱",
+				"es":"Scent Wardrobe"
+			},
+			"slug":"scentWardrobe"
 		}
 	]
 }
