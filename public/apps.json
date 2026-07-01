@@ -11795,6 +11795,21 @@
 				"es":"Table Tennis Serve Practice Lo"
 			},
 			"slug":"tableTennisServePracticeLogFallbackAlt"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Classroom Exit Ticket Cards Fa",
+				"ru":"Classroom Exit Ticket Cards Fa",
+				"ko":"Classroom Exit Ticket Cards Fa",
+				"pt":"Classroom Exit Ticket Cards Fa",
+				"ja":"Classroom Exit Ticket Cards Fa",
+				"en":"Classroom Exit Ticket Cards Fa",
+				"fr":"Classroom Exit Ticket Cards Fa",
+				"zh":"出口票复盘夹",
+				"es":"Classroom Exit Ticket Cards Fa"
+			},
+			"slug":"classroomExitTicketCardsFallback"
 		}
 	]
 }
