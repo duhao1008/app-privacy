@@ -11825,6 +11825,21 @@
 				"es":"Reading Quote Reuse Cards Fall"
 			},
 			"slug":"readingQuoteReuseCardsFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Karaoke Key Change Notes Fallb",
+				"ru":"Karaoke Key Change Notes Fallb",
+				"ko":"Karaoke Key Change Notes Fallb",
+				"pt":"Karaoke Key Change Notes Fallb",
+				"ja":"Karaoke Key Change Notes Fallb",
+				"en":"Karaoke Key Change Notes Fallb",
+				"fr":"Karaoke Key Change Notes Fallb",
+				"zh":"K歌升降调夹",
+				"es":"Karaoke Key Change Notes Fallb"
+			},
+			"slug":"karaokeKeyChangeNotesFallback"
 		}
 	]
 }
