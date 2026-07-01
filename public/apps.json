@@ -11990,6 +11990,21 @@
 				"es":"Drawer Handle Hole Guide Fallb"
 			},
 			"slug":"drawerHandleHoleGuideFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Raincoat Drying Log Fallback",
+				"ru":"Raincoat Drying Log Fallback",
+				"ko":"Raincoat Drying Log Fallback",
+				"pt":"Raincoat Drying Log Fallback",
+				"ja":"Raincoat Drying Log Fallback",
+				"en":"Raincoat Drying Log Fallback",
+				"fr":"Raincoat Drying Log Fallback",
+				"zh":"雨衣晾护夹精选",
+				"es":"Raincoat Drying Log Fallback"
+			},
+			"slug":"raincoatDryingLogFallback"
 		}
 	]
 }
