@@ -12005,6 +12005,21 @@
 				"es":"Raincoat Drying Log Fallback"
 			},
 			"slug":"raincoatDryingLogFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Badge Return Desk Alt",
+				"ru":"Badge Return Desk Alt",
+				"ko":"Badge Return Desk Alt",
+				"pt":"Badge Return Desk Alt",
+				"ja":"Badge Return Desk Alt",
+				"en":"Badge Return Desk Alt",
+				"fr":"Badge Return Desk Alt",
+				"zh":"证卡归还夹精选",
+				"es":"Badge Return Desk Alt"
+			},
+			"slug":"badgeReturnDeskAlt"
 		}
 	]
 }
