@@ -11840,6 +11840,21 @@
 				"es":"Karaoke Key Change Notes Fallb"
 			},
 			"slug":"karaokeKeyChangeNotesFallback"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Contract Attachment Check Fall",
+				"ru":"Contract Attachment Check Fall",
+				"ko":"Contract Attachment Check Fall",
+				"pt":"Contract Attachment Check Fall",
+				"ja":"Contract Attachment Check Fall",
+				"en":"Contract Attachment Check Fall",
+				"fr":"Contract Attachment Check Fall",
+				"zh":"合同附件核对夹精选",
+				"es":"Contract Attachment Check Fall"
+			},
+			"slug":"contractAttachmentCheckFallbackAlt"
 		}
 	]
 }
