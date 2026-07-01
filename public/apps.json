@@ -12080,6 +12080,21 @@
 				"es":"Escape Room Cipher Notes"
 			},
 			"slug":"escapeRoomCipherNotes"
+		},
+		{
+			"lastUpdated":"2026-07-01",
+			"appName":{
+				"de":"Quote Follow Ledger",
+				"ru":"Quote Follow Ledger",
+				"ko":"Quote Follow Ledger",
+				"pt":"Quote Follow Ledger",
+				"ja":"Quote Follow Ledger",
+				"en":"Quote Follow Ledger",
+				"fr":"Quote Follow Ledger",
+				"zh":"报价跟进",
+				"es":"Quote Follow Ledger"
+			},
+			"slug":"quoteFollowLedger"
 		}
 	]
 }
