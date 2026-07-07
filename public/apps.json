@@ -12140,6 +12140,21 @@
 				"es":"Stamp Ledger"
 			},
 			"slug":"stampLedger"
+		},
+		{
+			"lastUpdated":"2026-07-07",
+			"appName":{
+				"de":"Latin Root Notebook Fallback",
+				"ru":"Latin Root Notebook Fallback",
+				"ko":"Latin Root Notebook Fallback",
+				"pt":"Latin Root Notebook Fallback",
+				"ja":"Latin Root Notebook Fallback",
+				"en":"Latin Root Notebook Fallback",
+				"fr":"Latin Root Notebook Fallback",
+				"zh":"拉丁词根夹",
+				"es":"Latin Root Notebook Fallback"
+			},
+			"slug":"latinRootNotebookFallback"
 		}
 	]
 }
