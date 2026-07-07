@@ -12335,6 +12335,21 @@
 				"es":"Container Load Calc"
 			},
 			"slug":"containerLoadCalc"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Rental Moveout Checklist",
+				"ru":"Rental Moveout Checklist",
+				"ko":"Rental Moveout Checklist",
+				"pt":"Rental Moveout Checklist",
+				"ja":"Rental Moveout Checklist",
+				"en":"Rental Moveout Checklist",
+				"fr":"Rental Moveout Checklist",
+				"zh":"退租验房",
+				"es":"Rental Moveout Checklist"
+			},
+			"slug":"rentalMoveoutChecklist"
 		}
 	]
 }
