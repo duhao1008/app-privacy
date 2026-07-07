@@ -12185,6 +12185,21 @@
 				"es":"Karaoke Key Book"
 			},
 			"slug":"karaokeKeyBook"
+		},
+		{
+			"lastUpdated":"2026-07-07",
+			"appName":{
+				"de":"Invoice Due Ledger",
+				"ru":"Invoice Due Ledger",
+				"ko":"Invoice Due Ledger",
+				"pt":"Invoice Due Ledger",
+				"ja":"Invoice Due Ledger",
+				"en":"Invoice Due Ledger",
+				"fr":"Invoice Due Ledger",
+				"zh":"票据到期簿",
+				"es":"Invoice Due Ledger"
+			},
+			"slug":"invoiceDueLedger"
 		}
 	]
 }
