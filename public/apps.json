@@ -12305,6 +12305,21 @@
 				"es":"Spotlight Moment Board Alt Alt"
 			},
 			"slug":"spotlightMomentBoardAltAlt"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Sample Loan Keeper",
+				"ru":"Sample Loan Keeper",
+				"ko":"Sample Loan Keeper",
+				"pt":"Sample Loan Keeper",
+				"ja":"Sample Loan Keeper",
+				"en":"Sample Loan Keeper",
+				"fr":"Sample Loan Keeper",
+				"zh":"样品借还",
+				"es":"Sample Loan Keeper"
+			},
+			"slug":"sampleLoanKeeper"
 		}
 	]
 }
