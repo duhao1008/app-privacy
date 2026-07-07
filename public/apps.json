@@ -12365,6 +12365,21 @@
 				"es":"Office Key Audit Log Alt"
 			},
 			"slug":"officeKeyAuditLogAlt"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Climb Route Log",
+				"ru":"Climb Route Log",
+				"ko":"Climb Route Log",
+				"pt":"Climb Route Log",
+				"ja":"Climb Route Log",
+				"en":"Climb Route Log",
+				"fr":"Climb Route Log",
+				"zh":"岩线复盘",
+				"es":"Climb Route Log"
+			},
+			"slug":"climbRouteLog"
 		}
 	]
 }
