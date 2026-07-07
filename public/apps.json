@@ -12230,6 +12230,21 @@
 				"es":"Fragrance Expiry Ledger"
 			},
 			"slug":"fragranceExpiryLedger"
+		},
+		{
+			"lastUpdated":"2026-07-07",
+			"appName":{
+				"de":"Batch Rename Planner",
+				"ru":"Batch Rename Planner",
+				"ko":"Batch Rename Planner",
+				"pt":"Batch Rename Planner",
+				"ja":"Batch Rename Planner",
+				"en":"Batch Rename Planner",
+				"fr":"Batch Rename Planner",
+				"zh":"命名清单",
+				"es":"Batch Rename Planner"
+			},
+			"slug":"batchRenamePlanner"
 		}
 	]
 }
