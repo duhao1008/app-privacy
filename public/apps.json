@@ -12155,6 +12155,21 @@
 				"es":"Latin Root Notebook Fallback"
 			},
 			"slug":"latinRootNotebookFallback"
+		},
+		{
+			"lastUpdated":"2026-07-07",
+			"appName":{
+				"de":"Reading Club Question Deck",
+				"ru":"Reading Club Question Deck",
+				"ko":"Reading Club Question Deck",
+				"pt":"Reading Club Question Deck",
+				"ja":"Reading Club Question Deck",
+				"en":"Reading Club Question Deck",
+				"fr":"Reading Club Question Deck",
+				"zh":"共读题卡",
+				"es":"Reading Club Question Deck"
+			},
+			"slug":"readingClubQuestionDeck"
 		}
 	]
 }
