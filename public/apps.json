@@ -12350,6 +12350,21 @@
 				"es":"Rental Moveout Checklist"
 			},
 			"slug":"rentalMoveoutChecklist"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Office Key Audit Log Alt",
+				"ru":"Office Key Audit Log Alt",
+				"ko":"Office Key Audit Log Alt",
+				"pt":"Office Key Audit Log Alt",
+				"ja":"Office Key Audit Log Alt",
+				"en":"Office Key Audit Log Alt",
+				"fr":"Office Key Audit Log Alt",
+				"zh":"钥匙盘点夹精选",
+				"es":"Office Key Audit Log Alt"
+			},
+			"slug":"officeKeyAuditLogAlt"
 		}
 	]
 }
