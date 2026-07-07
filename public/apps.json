@@ -12395,6 +12395,21 @@
 				"es":"Poetry Meter Coach"
 			},
 			"slug":"poetryMeterCoach"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Novel Clue Book",
+				"ru":"Novel Clue Book",
+				"ko":"Novel Clue Book",
+				"pt":"Novel Clue Book",
+				"ja":"Novel Clue Book",
+				"en":"Novel Clue Book",
+				"fr":"Novel Clue Book",
+				"zh":"线索读书",
+				"es":"Novel Clue Book"
+			},
+			"slug":"novelClueBook"
 		}
 	]
 }
