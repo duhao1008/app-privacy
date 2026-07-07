@@ -12320,6 +12320,21 @@
 				"es":"Sample Loan Keeper"
 			},
 			"slug":"sampleLoanKeeper"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Container Load Calc",
+				"ru":"Container Load Calc",
+				"ko":"Container Load Calc",
+				"pt":"Container Load Calc",
+				"ja":"Container Load Calc",
+				"en":"Container Load Calc",
+				"fr":"Container Load Calc",
+				"zh":"装柜计算",
+				"es":"Container Load Calc"
+			},
+			"slug":"containerLoadCalc"
 		}
 	]
 }
