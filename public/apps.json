@@ -12260,6 +12260,21 @@
 				"es":"Golf Club Yardage Book"
 			},
 			"slug":"golfClubYardageBook"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Wenyan Core Words",
+				"ru":"Wenyan Core Words",
+				"ko":"Wenyan Core Words",
+				"pt":"Wenyan Core Words",
+				"ja":"Wenyan Core Words",
+				"en":"Wenyan Core Words",
+				"fr":"Wenyan Core Words",
+				"zh":"文言实词本",
+				"es":"Wenyan Core Words"
+			},
+			"slug":"wenyanCoreWords"
 		}
 	]
 }
