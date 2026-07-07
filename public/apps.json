@@ -12170,6 +12170,21 @@
 				"es":"Reading Club Question Deck"
 			},
 			"slug":"readingClubQuestionDeck"
+		},
+		{
+			"lastUpdated":"2026-07-07",
+			"appName":{
+				"de":"Karaoke Key Book",
+				"ru":"Karaoke Key Book",
+				"ko":"Karaoke Key Book",
+				"pt":"Karaoke Key Book",
+				"ja":"Karaoke Key Book",
+				"en":"Karaoke Key Book",
+				"fr":"Karaoke Key Book",
+				"zh":"K歌调本",
+				"es":"Karaoke Key Book"
+			},
+			"slug":"karaokeKeyBook"
 		}
 	]
 }
