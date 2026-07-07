@@ -12290,6 +12290,21 @@
 				"es":"Book Lend Keeper"
 			},
 			"slug":"bookLendKeeper"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Spotlight Moment Board Alt Alt",
+				"ru":"Spotlight Moment Board Alt Alt",
+				"ko":"Spotlight Moment Board Alt Alt",
+				"pt":"Spotlight Moment Board Alt Alt",
+				"ja":"Spotlight Moment Board Alt Alt",
+				"en":"Spotlight Moment Board Alt Alt",
+				"fr":"Spotlight Moment Board Alt Alt",
+				"zh":"亮点时刻板",
+				"es":"Spotlight Moment Board Alt Alt"
+			},
+			"slug":"spotlightMomentBoardAltAlt"
 		}
 	]
 }
