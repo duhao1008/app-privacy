@@ -12425,6 +12425,21 @@
 				"es":"Cos Expo Planner"
 			},
 			"slug":"cosExpoPlanner"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Quote Validity Tracker",
+				"ru":"Quote Validity Tracker",
+				"ko":"Quote Validity Tracker",
+				"pt":"Quote Validity Tracker",
+				"ja":"Quote Validity Tracker",
+				"en":"Quote Validity Tracker",
+				"fr":"Quote Validity Tracker",
+				"zh":"报价有效期",
+				"es":"Quote Validity Tracker"
+			},
+			"slug":"quoteValidityTracker"
 		}
 	]
 }
