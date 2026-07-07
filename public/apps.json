@@ -12410,6 +12410,21 @@
 				"es":"Novel Clue Book"
 			},
 			"slug":"novelClueBook"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Cos Expo Planner",
+				"ru":"Cos Expo Planner",
+				"ko":"Cos Expo Planner",
+				"pt":"Cos Expo Planner",
+				"ja":"Cos Expo Planner",
+				"en":"Cos Expo Planner",
+				"fr":"Cos Expo Planner",
+				"zh":"出展清单",
+				"es":"Cos Expo Planner"
+			},
+			"slug":"cosExpoPlanner"
 		}
 	]
 }
