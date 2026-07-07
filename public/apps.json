@@ -12200,6 +12200,21 @@
 				"es":"Invoice Due Ledger"
 			},
 			"slug":"invoiceDueLedger"
+		},
+		{
+			"lastUpdated":"2026-07-07",
+			"appName":{
+				"de":"Warranty Keeper",
+				"ru":"Warranty Keeper",
+				"ko":"Warranty Keeper",
+				"pt":"Warranty Keeper",
+				"ja":"Warranty Keeper",
+				"en":"Warranty Keeper",
+				"fr":"Warranty Keeper",
+				"zh":"保修管家",
+				"es":"Warranty Keeper"
+			},
+			"slug":"warrantyKeeper"
 		}
 	]
 }
