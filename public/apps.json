@@ -12245,6 +12245,21 @@
 				"es":"Batch Rename Planner"
 			},
 			"slug":"batchRenamePlanner"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Golf Club Yardage Book",
+				"ru":"Golf Club Yardage Book",
+				"ko":"Golf Club Yardage Book",
+				"pt":"Golf Club Yardage Book",
+				"ja":"Golf Club Yardage Book",
+				"en":"Golf Club Yardage Book",
+				"fr":"Golf Club Yardage Book",
+				"zh":"球杆码数本",
+				"es":"Golf Club Yardage Book"
+			},
+			"slug":"golfClubYardageBook"
 		}
 	]
 }
