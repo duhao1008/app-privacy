@@ -12215,6 +12215,21 @@
 				"es":"Warranty Keeper"
 			},
 			"slug":"warrantyKeeper"
+		},
+		{
+			"lastUpdated":"2026-07-07",
+			"appName":{
+				"de":"Fragrance Expiry Ledger",
+				"ru":"Fragrance Expiry Ledger",
+				"ko":"Fragrance Expiry Ledger",
+				"pt":"Fragrance Expiry Ledger",
+				"ja":"Fragrance Expiry Ledger",
+				"en":"Fragrance Expiry Ledger",
+				"fr":"Fragrance Expiry Ledger",
+				"zh":"香水保质期",
+				"es":"Fragrance Expiry Ledger"
+			},
+			"slug":"fragranceExpiryLedger"
 		}
 	]
 }
