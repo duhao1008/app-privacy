@@ -12380,6 +12380,21 @@
 				"es":"Climb Route Log"
 			},
 			"slug":"climbRouteLog"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Poetry Meter Coach",
+				"ru":"Poetry Meter Coach",
+				"ko":"Poetry Meter Coach",
+				"pt":"Poetry Meter Coach",
+				"ja":"Poetry Meter Coach",
+				"en":"Poetry Meter Coach",
+				"fr":"Poetry Meter Coach",
+				"zh":"格律校对",
+				"es":"Poetry Meter Coach"
+			},
+			"slug":"poetryMeterCoach"
 		}
 	]
 }
