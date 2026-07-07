@@ -12275,6 +12275,21 @@
 				"es":"Wenyan Core Words"
 			},
 			"slug":"wenyanCoreWords"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Book Lend Keeper",
+				"ru":"Book Lend Keeper",
+				"ko":"Book Lend Keeper",
+				"pt":"Book Lend Keeper",
+				"ja":"Book Lend Keeper",
+				"en":"Book Lend Keeper",
+				"fr":"Book Lend Keeper",
+				"zh":"借书管家",
+				"es":"Book Lend Keeper"
+			},
+			"slug":"bookLendKeeper"
 		}
 	]
 }
