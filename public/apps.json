@@ -12695,6 +12695,21 @@
 				"es":"Seam Stamp Planner"
 			},
 			"slug":"seamStampPlanner"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Archery Sight Book",
+				"ru":"Archery Sight Book",
+				"ko":"Archery Sight Book",
+				"pt":"Archery Sight Book",
+				"ja":"Archery Sight Book",
+				"en":"Archery Sight Book",
+				"fr":"Archery Sight Book",
+				"zh":"箭表本",
+				"es":"Archery Sight Book"
+			},
+			"slug":"archerySightBook"
 		}
 	]
 }
