@@ -12440,6 +12440,21 @@
 				"es":"Quote Validity Tracker"
 			},
 			"slug":"quoteValidityTracker"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Meter Split Book",
+				"ru":"Meter Split Book",
+				"ko":"Meter Split Book",
+				"pt":"Meter Split Book",
+				"ja":"Meter Split Book",
+				"en":"Meter Split Book",
+				"fr":"Meter Split Book",
+				"zh":"抄表本",
+				"es":"Meter Split Book"
+			},
+			"slug":"meterSplitBook"
 		}
 	]
 }
