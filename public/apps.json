@@ -12665,6 +12665,21 @@
 				"es":"Stamp Ink Ledger"
 			},
 			"slug":"stampInkLedger"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Moving Box List",
+				"ru":"Moving Box List",
+				"ko":"Moving Box List",
+				"pt":"Moving Box List",
+				"ja":"Moving Box List",
+				"en":"Moving Box List",
+				"fr":"Moving Box List",
+				"zh":"搬家箱清单",
+				"es":"Moving Box List"
+			},
+			"slug":"movingBoxList"
 		}
 	]
 }
