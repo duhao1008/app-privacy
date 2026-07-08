@@ -12545,6 +12545,21 @@
 				"es":"Board Game Score Book"
 			},
 			"slug":"boardGameScoreBook"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Tile Usage Planner",
+				"ru":"Tile Usage Planner",
+				"ko":"Tile Usage Planner",
+				"pt":"Tile Usage Planner",
+				"ja":"Tile Usage Planner",
+				"en":"Tile Usage Planner",
+				"fr":"Tile Usage Planner",
+				"zh":"瓷砖用量",
+				"es":"Tile Usage Planner"
+			},
+			"slug":"tileUsagePlanner"
 		}
 	]
 }
