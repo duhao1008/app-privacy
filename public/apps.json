@@ -12470,6 +12470,21 @@
 				"es":"Filter Change Log"
 			},
 			"slug":"filterChangeLog"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Binder Spine Maker",
+				"ru":"Binder Spine Maker",
+				"ko":"Binder Spine Maker",
+				"pt":"Binder Spine Maker",
+				"ja":"Binder Spine Maker",
+				"en":"Binder Spine Maker",
+				"fr":"Binder Spine Maker",
+				"zh":"背脊标签",
+				"es":"Binder Spine Maker"
+			},
+			"slug":"binderSpineMaker"
 		}
 	]
 }
