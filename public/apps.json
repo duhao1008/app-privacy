@@ -12680,6 +12680,21 @@
 				"es":"Moving Box List"
 			},
 			"slug":"movingBoxList"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Seam Stamp Planner",
+				"ru":"Seam Stamp Planner",
+				"ko":"Seam Stamp Planner",
+				"pt":"Seam Stamp Planner",
+				"ja":"Seam Stamp Planner",
+				"en":"Seam Stamp Planner",
+				"fr":"Seam Stamp Planner",
+				"zh":"骑缝章助手",
+				"es":"Seam Stamp Planner"
+			},
+			"slug":"seamStampPlanner"
 		}
 	]
 }
