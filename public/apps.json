@@ -12650,6 +12650,21 @@
 				"es":"Offline Expense Reimburse Kit"
 			},
 			"slug":"offlineExpenseReimburseKit"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Stamp Ink Ledger",
+				"ru":"Stamp Ink Ledger",
+				"ko":"Stamp Ink Ledger",
+				"pt":"Stamp Ink Ledger",
+				"ja":"Stamp Ink Ledger",
+				"en":"Stamp Ink Ledger",
+				"fr":"Stamp Ink Ledger",
+				"zh":"印油管家",
+				"es":"Stamp Ink Ledger"
+			},
+			"slug":"stampInkLedger"
 		}
 	]
 }
