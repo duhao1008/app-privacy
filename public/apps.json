@@ -12590,6 +12590,21 @@
 				"es":"Shift Roster Planner"
 			},
 			"slug":"shiftRosterPlanner"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Badminton Doubles Coach",
+				"ru":"Badminton Doubles Coach",
+				"ko":"Badminton Doubles Coach",
+				"pt":"Badminton Doubles Coach",
+				"ja":"Badminton Doubles Coach",
+				"en":"Badminton Doubles Coach",
+				"fr":"Badminton Doubles Coach",
+				"zh":"羽双站位",
+				"es":"Badminton Doubles Coach"
+			},
+			"slug":"badmintonDoublesCoach"
 		}
 	]
 }
