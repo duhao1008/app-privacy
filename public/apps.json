@@ -12455,6 +12455,21 @@
 				"es":"Meter Split Book"
 			},
 			"slug":"meterSplitBook"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Filter Change Log",
+				"ru":"Filter Change Log",
+				"ko":"Filter Change Log",
+				"pt":"Filter Change Log",
+				"ja":"Filter Change Log",
+				"en":"Filter Change Log",
+				"fr":"Filter Change Log",
+				"zh":"滤芯提醒",
+				"es":"Filter Change Log"
+			},
+			"slug":"filterChangeLog"
 		}
 	]
 }
