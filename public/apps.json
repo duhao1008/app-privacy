@@ -12605,6 +12605,21 @@
 				"es":"Badminton Doubles Coach"
 			},
 			"slug":"badmintonDoublesCoach"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Recitation Meter",
+				"ru":"Recitation Meter",
+				"ko":"Recitation Meter",
+				"pt":"Recitation Meter",
+				"ja":"Recitation Meter",
+				"en":"Recitation Meter",
+				"fr":"Recitation Meter",
+				"zh":"背诵尺",
+				"es":"Recitation Meter"
+			},
+			"slug":"recitationMeter"
 		}
 	]
 }
