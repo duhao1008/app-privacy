@@ -12530,6 +12530,21 @@
 				"es":"Reading Club Question Box"
 			},
 			"slug":"readingClubQuestionBox"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Board Game Score Book",
+				"ru":"Board Game Score Book",
+				"ko":"Board Game Score Book",
+				"pt":"Board Game Score Book",
+				"ja":"Board Game Score Book",
+				"en":"Board Game Score Book",
+				"fr":"Board Game Score Book",
+				"zh":"桌游计分本",
+				"es":"Board Game Score Book"
+			},
+			"slug":"boardGameScoreBook"
 		}
 	]
 }
