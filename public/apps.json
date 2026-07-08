@@ -12515,6 +12515,21 @@
 				"es":"Bingju Fix Trainer"
 			},
 			"slug":"bingjuFixTrainer"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Reading Club Question Box",
+				"ru":"Reading Club Question Box",
+				"ko":"Reading Club Question Box",
+				"pt":"Reading Club Question Box",
+				"ja":"Reading Club Question Box",
+				"en":"Reading Club Question Box",
+				"fr":"Reading Club Question Box",
+				"zh":"读书会题盒",
+				"es":"Reading Club Question Box"
+			},
+			"slug":"readingClubQuestionBox"
 		}
 	]
 }
