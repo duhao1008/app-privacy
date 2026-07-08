@@ -12485,6 +12485,21 @@
 				"es":"Binder Spine Maker"
 			},
 			"slug":"binderSpineMaker"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Ski Wax Notebook",
+				"ru":"Ski Wax Notebook",
+				"ko":"Ski Wax Notebook",
+				"pt":"Ski Wax Notebook",
+				"ja":"Ski Wax Notebook",
+				"en":"Ski Wax Notebook",
+				"fr":"Ski Wax Notebook",
+				"zh":"雪蜡手册",
+				"es":"Ski Wax Notebook"
+			},
+			"slug":"skiWaxNotebook"
 		}
 	]
 }
