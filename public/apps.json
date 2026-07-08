@@ -12560,6 +12560,21 @@
 				"es":"Tile Usage Planner"
 			},
 			"slug":"tileUsagePlanner"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Gift Ledger Book",
+				"ru":"Gift Ledger Book",
+				"ko":"Gift Ledger Book",
+				"pt":"Gift Ledger Book",
+				"ja":"Gift Ledger Book",
+				"en":"Gift Ledger Book",
+				"fr":"Gift Ledger Book",
+				"zh":"礼金账本",
+				"es":"Gift Ledger Book"
+			},
+			"slug":"giftLedgerBook"
 		}
 	]
 }
