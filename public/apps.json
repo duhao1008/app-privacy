@@ -12725,6 +12725,21 @@
 				"es":"Classroom Question Bank"
 			},
 			"slug":"classroomQuestionBank"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Book Set Gap Tracker",
+				"ru":"Book Set Gap Tracker",
+				"ko":"Book Set Gap Tracker",
+				"pt":"Book Set Gap Tracker",
+				"ja":"Book Set Gap Tracker",
+				"en":"Book Set Gap Tracker",
+				"fr":"Book Set Gap Tracker",
+				"zh":"缺册补书",
+				"es":"Book Set Gap Tracker"
+			},
+			"slug":"bookSetGapTracker"
 		}
 	]
 }
