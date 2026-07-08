@@ -12500,6 +12500,21 @@
 				"es":"Ski Wax Notebook"
 			},
 			"slug":"skiWaxNotebook"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Bingju Fix Trainer",
+				"ru":"Bingju Fix Trainer",
+				"ko":"Bingju Fix Trainer",
+				"pt":"Bingju Fix Trainer",
+				"ja":"Bingju Fix Trainer",
+				"en":"Bingju Fix Trainer",
+				"fr":"Bingju Fix Trainer",
+				"zh":"病句训练",
+				"es":"Bingju Fix Trainer"
+			},
+			"slug":"bingjuFixTrainer"
 		}
 	]
 }
