@@ -12620,6 +12620,21 @@
 				"es":"Recitation Meter"
 			},
 			"slug":"recitationMeter"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Leveled Kids Book Log",
+				"ru":"Leveled Kids Book Log",
+				"ko":"Leveled Kids Book Log",
+				"pt":"Leveled Kids Book Log",
+				"ja":"Leveled Kids Book Log",
+				"en":"Leveled Kids Book Log",
+				"fr":"Leveled Kids Book Log",
+				"zh":"童书分级",
+				"es":"Leveled Kids Book Log"
+			},
+			"slug":"leveledKidsBookLog"
 		}
 	]
 }
