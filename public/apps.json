@@ -12635,6 +12635,21 @@
 				"es":"Leveled Kids Book Log"
 			},
 			"slug":"leveledKidsBookLog"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Offline Expense Reimburse Kit",
+				"ru":"Offline Expense Reimburse Kit",
+				"ko":"Offline Expense Reimburse Kit",
+				"pt":"Offline Expense Reimburse Kit",
+				"ja":"Offline Expense Reimburse Kit",
+				"en":"Offline Expense Reimburse Kit",
+				"fr":"Offline Expense Reimburse Kit",
+				"zh":"报销夹",
+				"es":"Offline Expense Reimburse Kit"
+			},
+			"slug":"offlineExpenseReimburseKit"
 		}
 	]
 }
