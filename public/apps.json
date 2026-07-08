@@ -12575,6 +12575,21 @@
 				"es":"Gift Ledger Book"
 			},
 			"slug":"giftLedgerBook"
+		},
+		{
+			"lastUpdated":"2026-07-08",
+			"appName":{
+				"de":"Shift Roster Planner",
+				"ru":"Shift Roster Planner",
+				"ko":"Shift Roster Planner",
+				"pt":"Shift Roster Planner",
+				"ja":"Shift Roster Planner",
+				"en":"Shift Roster Planner",
+				"fr":"Shift Roster Planner",
+				"zh":"轮班表",
+				"es":"Shift Roster Planner"
+			},
+			"slug":"shiftRosterPlanner"
 		}
 	]
 }
