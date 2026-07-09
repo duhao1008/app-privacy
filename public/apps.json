@@ -2302,17 +2302,17 @@
 			"slug":"bearingFitCalc"
 		},
 		{
-			"lastUpdated":"2026-06-13",
+			"lastUpdated":"2026-07-10",
 			"appName":{
-				"de":"Phonics Übung",
-				"ru":"Практика Phonics",
-				"ko":"파닉스 연습",
-				"pt":"Prática Phonics",
-				"ja":"フォニックス練習",
-				"en":"Phonics Practice",
-				"fr":"Exercice Phonics",
-				"zh":"拼读练习",
-				"es":"Práctica Phonics"
+				"de":"Phonics Blend Trainer",
+				"ru":"Phonics Blend Trainer",
+				"ko":"Phonics Blend Trainer",
+				"pt":"Phonics Blend Trainer",
+				"ja":"Phonics Blend Trainer",
+				"en":"Phonics Blend Trainer",
+				"fr":"Phonics Blend Trainer",
+				"zh":"自然拼读卡",
+				"es":"Phonics Blend Trainer"
 			},
 			"slug":"phonicsBlendTrainer"
 		},
