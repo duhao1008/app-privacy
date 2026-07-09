@@ -13130,6 +13130,21 @@
 				"es":"Volumetric Weight Tool"
 			},
 			"slug":"volumetricWeightTool"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Coffee Bean Log",
+				"ru":"Coffee Bean Log",
+				"ko":"Coffee Bean Log",
+				"pt":"Coffee Bean Log",
+				"ja":"Coffee Bean Log",
+				"en":"Coffee Bean Log",
+				"fr":"Coffee Bean Log",
+				"zh":"咖啡豆记",
+				"es":"Coffee Bean Log"
+			},
+			"slug":"coffeeBeanLog"
 		}
 	]
 }
