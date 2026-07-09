@@ -13025,6 +13025,21 @@
 				"es":"Furniture Fit Route"
 			},
 			"slug":"furnitureFitRoute"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Seat Plan Pro",
+				"ru":"Seat Plan Pro",
+				"ko":"Seat Plan Pro",
+				"pt":"Seat Plan Pro",
+				"ja":"Seat Plan Pro",
+				"en":"Seat Plan Pro",
+				"fr":"Seat Plan Pro",
+				"zh":"座次排版",
+				"es":"Seat Plan Pro"
+			},
+			"slug":"seatPlanPro"
 		}
 	]
 }
