@@ -12830,6 +12830,21 @@
 				"es":"Billiard Drill Log"
 			},
 			"slug":"billiardDrillLog"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Wenyan Judou Trainer",
+				"ru":"Wenyan Judou Trainer",
+				"ko":"Wenyan Judou Trainer",
+				"pt":"Wenyan Judou Trainer",
+				"ja":"Wenyan Judou Trainer",
+				"en":"Wenyan Judou Trainer",
+				"fr":"Wenyan Judou Trainer",
+				"zh":"文言句读",
+				"es":"Wenyan Judou Trainer"
+			},
+			"slug":"wenyanJudouTrainer"
 		}
 	]
 }
