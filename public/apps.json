@@ -12785,6 +12785,21 @@
 				"es":"Tire Care Log"
 			},
 			"slug":"tireCareLog"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Pet Sitter Handover",
+				"ru":"Pet Sitter Handover",
+				"ko":"Pet Sitter Handover",
+				"pt":"Pet Sitter Handover",
+				"ja":"Pet Sitter Handover",
+				"en":"Pet Sitter Handover",
+				"fr":"Pet Sitter Handover",
+				"zh":"宠物交接",
+				"es":"Pet Sitter Handover"
+			},
+			"slug":"petSitterHandover"
 		}
 	]
 }
