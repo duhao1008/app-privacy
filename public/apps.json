@@ -12995,6 +12995,21 @@
 				"es":"Bid Seal Check"
 			},
 			"slug":"bidSealCheck"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Aquarium Care Calc",
+				"ru":"Aquarium Care Calc",
+				"ko":"Aquarium Care Calc",
+				"pt":"Aquarium Care Calc",
+				"ja":"Aquarium Care Calc",
+				"en":"Aquarium Care Calc",
+				"fr":"Aquarium Care Calc",
+				"zh":"鱼缸换水",
+				"es":"Aquarium Care Calc"
+			},
+			"slug":"aquariumCareCalc"
 		}
 	]
 }
