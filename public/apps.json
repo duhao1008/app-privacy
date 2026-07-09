@@ -13145,6 +13145,21 @@
 				"es":"Coffee Bean Log"
 			},
 			"slug":"coffeeBeanLog"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Breaker Panel Labeler",
+				"ru":"Breaker Panel Labeler",
+				"ko":"Breaker Panel Labeler",
+				"pt":"Breaker Panel Labeler",
+				"ja":"Breaker Panel Labeler",
+				"en":"Breaker Panel Labeler",
+				"fr":"Breaker Panel Labeler",
+				"zh":"电箱标签",
+				"es":"Breaker Panel Labeler"
+			},
+			"slug":"breakerPanelLabeler"
 		}
 	]
 }
