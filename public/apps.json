@@ -12950,6 +12950,21 @@
 				"es":"Answer Sheet Trainer"
 			},
 			"slug":"answerSheetTrainer"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Booklet Impose Mate",
+				"ru":"Booklet Impose Mate",
+				"ko":"Booklet Impose Mate",
+				"pt":"Booklet Impose Mate",
+				"ja":"Booklet Impose Mate",
+				"en":"Booklet Impose Mate",
+				"fr":"Booklet Impose Mate",
+				"zh":"小册拼页",
+				"es":"Booklet Impose Mate"
+			},
+			"slug":"bookletImposeMate"
 		}
 	]
 }
