@@ -13175,6 +13175,21 @@
 				"es":"Triathlon Race Kit"
 			},
 			"slug":"triathlonRaceKit"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Phonics Dictation Coach",
+				"ru":"Phonics Dictation Coach",
+				"ko":"Phonics Dictation Coach",
+				"pt":"Phonics Dictation Coach",
+				"ja":"Phonics Dictation Coach",
+				"en":"Phonics Dictation Coach",
+				"fr":"Phonics Dictation Coach",
+				"zh":"自然拼读听写",
+				"es":"Phonics Dictation Coach"
+			},
+			"slug":"phonicsDictationCoach"
 		}
 	]
 }
