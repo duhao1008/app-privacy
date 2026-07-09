@@ -12965,6 +12965,21 @@
 				"es":"Booklet Impose Mate"
 			},
 			"slug":"bookletImposeMate"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Fan Support Kit",
+				"ru":"Fan Support Kit",
+				"ko":"Fan Support Kit",
+				"pt":"Fan Support Kit",
+				"ja":"Fan Support Kit",
+				"en":"Fan Support Kit",
+				"fr":"Fan Support Kit",
+				"zh":"应援清单",
+				"es":"Fan Support Kit"
+			},
+			"slug":"fanSupportKit"
 		}
 	]
 }
