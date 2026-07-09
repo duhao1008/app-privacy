@@ -12770,6 +12770,21 @@
 				"es":"Factory Audit Fix"
 			},
 			"slug":"factoryAuditFix"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Tire Care Log",
+				"ru":"Tire Care Log",
+				"ko":"Tire Care Log",
+				"pt":"Tire Care Log",
+				"ja":"Tire Care Log",
+				"en":"Tire Care Log",
+				"fr":"Tire Care Log",
+				"zh":"胎压换位",
+				"es":"Tire Care Log"
+			},
+			"slug":"tireCareLog"
 		}
 	]
 }
