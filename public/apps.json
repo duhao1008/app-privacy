@@ -13070,6 +13070,21 @@
 				"es":"Circuit Exam Drill"
 			},
 			"slug":"circuitExamDrill"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Page Read Plan",
+				"ru":"Page Read Plan",
+				"ko":"Page Read Plan",
+				"pt":"Page Read Plan",
+				"ja":"Page Read Plan",
+				"en":"Page Read Plan",
+				"fr":"Page Read Plan",
+				"zh":"页读计划",
+				"es":"Page Read Plan"
+			},
+			"slug":"pageReadPlan"
 		}
 	]
 }
