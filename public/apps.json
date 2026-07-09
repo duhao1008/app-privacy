@@ -12875,6 +12875,21 @@
 				"es":"Con Stamp Book"
 			},
 			"slug":"conStampBook"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Wholesale Quote Calc",
+				"ru":"Wholesale Quote Calc",
+				"ko":"Wholesale Quote Calc",
+				"pt":"Wholesale Quote Calc",
+				"ja":"Wholesale Quote Calc",
+				"en":"Wholesale Quote Calc",
+				"fr":"Wholesale Quote Calc",
+				"zh":"批发报价",
+				"es":"Wholesale Quote Calc"
+			},
+			"slug":"wholesaleQuoteCalc"
 		}
 	]
 }
