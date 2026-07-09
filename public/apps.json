@@ -12815,6 +12815,21 @@
 				"es":"Shift Handover Ledger"
 			},
 			"slug":"shiftHandoverLedger"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Billiard Drill Log",
+				"ru":"Billiard Drill Log",
+				"ko":"Billiard Drill Log",
+				"pt":"Billiard Drill Log",
+				"ja":"Billiard Drill Log",
+				"en":"Billiard Drill Log",
+				"fr":"Billiard Drill Log",
+				"zh":"台球练球本",
+				"es":"Billiard Drill Log"
+			},
+			"slug":"billiardDrillLog"
 		}
 	]
 }
