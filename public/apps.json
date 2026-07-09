@@ -13010,6 +13010,21 @@
 				"es":"Aquarium Care Calc"
 			},
 			"slug":"aquariumCareCalc"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Furniture Fit Route",
+				"ru":"Furniture Fit Route",
+				"ko":"Furniture Fit Route",
+				"pt":"Furniture Fit Route",
+				"ja":"Furniture Fit Route",
+				"en":"Furniture Fit Route",
+				"fr":"Furniture Fit Route",
+				"zh":"入户尺算",
+				"es":"Furniture Fit Route"
+			},
+			"slug":"furnitureFitRoute"
 		}
 	]
 }
