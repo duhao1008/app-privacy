@@ -13190,6 +13190,21 @@
 				"es":"Phonics Dictation Coach"
 			},
 			"slug":"phonicsDictationCoach"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Old Book Pricing",
+				"ru":"Old Book Pricing",
+				"ko":"Old Book Pricing",
+				"pt":"Old Book Pricing",
+				"ja":"Old Book Pricing",
+				"en":"Old Book Pricing",
+				"fr":"Old Book Pricing",
+				"zh":"旧书定价",
+				"es":"Old Book Pricing"
+			},
+			"slug":"oldBookPricing"
 		}
 	]
 }
