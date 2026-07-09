@@ -12935,6 +12935,21 @@
 				"es":"Shot Heatbook"
 			},
 			"slug":"shotHeatbook"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Answer Sheet Trainer",
+				"ru":"Answer Sheet Trainer",
+				"ko":"Answer Sheet Trainer",
+				"pt":"Answer Sheet Trainer",
+				"ja":"Answer Sheet Trainer",
+				"en":"Answer Sheet Trainer",
+				"fr":"Answer Sheet Trainer",
+				"zh":"涂卡练习",
+				"es":"Answer Sheet Trainer"
+			},
+			"slug":"answerSheetTrainer"
 		}
 	]
 }
