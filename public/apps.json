@@ -12920,6 +12920,21 @@
 				"es":"Carton Mark Maker"
 			},
 			"slug":"cartonMarkMaker"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Shot Heatbook",
+				"ru":"Shot Heatbook",
+				"ko":"Shot Heatbook",
+				"pt":"Shot Heatbook",
+				"ja":"Shot Heatbook",
+				"en":"Shot Heatbook",
+				"fr":"Shot Heatbook",
+				"zh":"投篮热区",
+				"es":"Shot Heatbook"
+			},
+			"slug":"shotHeatbook"
 		}
 	]
 }
