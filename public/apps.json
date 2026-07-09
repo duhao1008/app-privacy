@@ -12905,6 +12905,21 @@
 				"es":"Stair Step Planner"
 			},
 			"slug":"stairStepPlanner"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Carton Mark Maker",
+				"ru":"Carton Mark Maker",
+				"ko":"Carton Mark Maker",
+				"pt":"Carton Mark Maker",
+				"ja":"Carton Mark Maker",
+				"en":"Carton Mark Maker",
+				"fr":"Carton Mark Maker",
+				"zh":"箱唛助手",
+				"es":"Carton Mark Maker"
+			},
+			"slug":"cartonMarkMaker"
 		}
 	]
 }
