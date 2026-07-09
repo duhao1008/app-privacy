@@ -13100,6 +13100,21 @@
 				"es":"Improv Cue Deck"
 			},
 			"slug":"improvCueDeck"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"License Due Keeper",
+				"ru":"License Due Keeper",
+				"ko":"License Due Keeper",
+				"pt":"License Due Keeper",
+				"ja":"License Due Keeper",
+				"en":"License Due Keeper",
+				"fr":"License Due Keeper",
+				"zh":"证照到期",
+				"es":"License Due Keeper"
+			},
+			"slug":"licenseDueKeeper"
 		}
 	]
 }
