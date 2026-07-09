@@ -12800,6 +12800,21 @@
 				"es":"Pet Sitter Handover"
 			},
 			"slug":"petSitterHandover"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Shift Handover Ledger",
+				"ru":"Shift Handover Ledger",
+				"ko":"Shift Handover Ledger",
+				"pt":"Shift Handover Ledger",
+				"ja":"Shift Handover Ledger",
+				"en":"Shift Handover Ledger",
+				"fr":"Shift Handover Ledger",
+				"zh":"交接班本",
+				"es":"Shift Handover Ledger"
+			},
+			"slug":"shiftHandoverLedger"
 		}
 	]
 }
