@@ -12740,6 +12740,21 @@
 				"es":"Book Set Gap Tracker"
 			},
 			"slug":"bookSetGapTracker"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Magic Practice Log",
+				"ru":"Magic Practice Log",
+				"ko":"Magic Practice Log",
+				"pt":"Magic Practice Log",
+				"ja":"Magic Practice Log",
+				"en":"Magic Practice Log",
+				"fr":"Magic Practice Log",
+				"zh":"魔术练习本",
+				"es":"Magic Practice Log"
+			},
+			"slug":"magicPracticeLog"
 		}
 	]
 }
