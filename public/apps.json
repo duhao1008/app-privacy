@@ -12980,6 +12980,21 @@
 				"es":"Fan Support Kit"
 			},
 			"slug":"fanSupportKit"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Bid Seal Check",
+				"ru":"Bid Seal Check",
+				"ko":"Bid Seal Check",
+				"pt":"Bid Seal Check",
+				"ja":"Bid Seal Check",
+				"en":"Bid Seal Check",
+				"fr":"Bid Seal Check",
+				"zh":"投标密封",
+				"es":"Bid Seal Check"
+			},
+			"slug":"bidSealCheck"
 		}
 	]
 }
