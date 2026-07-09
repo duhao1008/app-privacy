@@ -13040,6 +13040,21 @@
 				"es":"Seat Plan Pro"
 			},
 			"slug":"seatPlanPro"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Pickleball Rotation Kit",
+				"ru":"Pickleball Rotation Kit",
+				"ko":"Pickleball Rotation Kit",
+				"pt":"Pickleball Rotation Kit",
+				"ja":"Pickleball Rotation Kit",
+				"en":"Pickleball Rotation Kit",
+				"fr":"Pickleball Rotation Kit",
+				"zh":"匹克球轮转",
+				"es":"Pickleball Rotation Kit"
+			},
+			"slug":"pickleballRotationKit"
 		}
 	]
 }
