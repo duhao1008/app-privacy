@@ -13085,6 +13085,21 @@
 				"es":"Page Read Plan"
 			},
 			"slug":"pageReadPlan"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Improv Cue Deck",
+				"ru":"Improv Cue Deck",
+				"ko":"Improv Cue Deck",
+				"pt":"Improv Cue Deck",
+				"ja":"Improv Cue Deck",
+				"en":"Improv Cue Deck",
+				"fr":"Improv Cue Deck",
+				"zh":"即兴提示卡",
+				"es":"Improv Cue Deck"
+			},
+			"slug":"improvCueDeck"
 		}
 	]
 }
