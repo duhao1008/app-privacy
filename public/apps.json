@@ -12860,6 +12860,21 @@
 				"es":"Special Edition Library"
 			},
 			"slug":"specialEditionLibrary"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Con Stamp Book",
+				"ru":"Con Stamp Book",
+				"ko":"Con Stamp Book",
+				"pt":"Con Stamp Book",
+				"ja":"Con Stamp Book",
+				"en":"Con Stamp Book",
+				"fr":"Con Stamp Book",
+				"zh":"逛展本",
+				"es":"Con Stamp Book"
+			},
+			"slug":"conStampBook"
 		}
 	]
 }
