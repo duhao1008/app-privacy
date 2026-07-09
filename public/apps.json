@@ -12845,6 +12845,21 @@
 				"es":"Wenyan Judou Trainer"
 			},
 			"slug":"wenyanJudouTrainer"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Special Edition Library",
+				"ru":"Special Edition Library",
+				"ko":"Special Edition Library",
+				"pt":"Special Edition Library",
+				"ja":"Special Edition Library",
+				"en":"Special Edition Library",
+				"fr":"Special Edition Library",
+				"zh":"特装藏书",
+				"es":"Special Edition Library"
+			},
+			"slug":"specialEditionLibrary"
 		}
 	]
 }
