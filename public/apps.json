@@ -13115,6 +13115,21 @@
 				"es":"License Due Keeper"
 			},
 			"slug":"licenseDueKeeper"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Volumetric Weight Tool",
+				"ru":"Volumetric Weight Tool",
+				"ko":"Volumetric Weight Tool",
+				"pt":"Volumetric Weight Tool",
+				"ja":"Volumetric Weight Tool",
+				"en":"Volumetric Weight Tool",
+				"fr":"Volumetric Weight Tool",
+				"zh":"体积重助手",
+				"es":"Volumetric Weight Tool"
+			},
+			"slug":"volumetricWeightTool"
 		}
 	]
 }
