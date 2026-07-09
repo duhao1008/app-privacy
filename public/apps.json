@@ -13055,6 +13055,21 @@
 				"es":"Pickleball Rotation Kit"
 			},
 			"slug":"pickleballRotationKit"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Circuit Exam Drill",
+				"ru":"Circuit Exam Drill",
+				"ko":"Circuit Exam Drill",
+				"pt":"Circuit Exam Drill",
+				"ja":"Circuit Exam Drill",
+				"en":"Circuit Exam Drill",
+				"fr":"Circuit Exam Drill",
+				"zh":"电路题卡",
+				"es":"Circuit Exam Drill"
+			},
+			"slug":"circuitExamDrill"
 		}
 	]
 }
