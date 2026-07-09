@@ -12755,6 +12755,21 @@
 				"es":"Magic Practice Log"
 			},
 			"slug":"magicPracticeLog"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Factory Audit Fix",
+				"ru":"Factory Audit Fix",
+				"ko":"Factory Audit Fix",
+				"pt":"Factory Audit Fix",
+				"ja":"Factory Audit Fix",
+				"en":"Factory Audit Fix",
+				"fr":"Factory Audit Fix",
+				"zh":"验厂整改",
+				"es":"Factory Audit Fix"
+			},
+			"slug":"factoryAuditFix"
 		}
 	]
 }
