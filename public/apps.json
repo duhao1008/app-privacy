@@ -12890,6 +12890,21 @@
 				"es":"Wholesale Quote Calc"
 			},
 			"slug":"wholesaleQuoteCalc"
+		},
+		{
+			"lastUpdated":"2026-07-09",
+			"appName":{
+				"de":"Stair Step Planner",
+				"ru":"Stair Step Planner",
+				"ko":"Stair Step Planner",
+				"pt":"Stair Step Planner",
+				"ja":"Stair Step Planner",
+				"en":"Stair Step Planner",
+				"fr":"Stair Step Planner",
+				"zh":"楼梯算尺",
+				"es":"Stair Step Planner"
+			},
+			"slug":"stairStepPlanner"
 		}
 	]
 }
