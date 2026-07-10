@@ -13430,6 +13430,21 @@
 				"es":"Journal Bind Planner"
 			},
 			"slug":"journalBindPlanner"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Guankou Practice",
+				"ru":"Guankou Practice",
+				"ko":"Guankou Practice",
+				"pt":"Guankou Practice",
+				"ja":"Guankou Practice",
+				"en":"Guankou Practice",
+				"fr":"Guankou Practice",
+				"zh":"贯口练习",
+				"es":"Guankou Practice"
+			},
+			"slug":"guankouPractice"
 		}
 	]
 }
