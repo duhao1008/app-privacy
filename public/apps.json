@@ -13340,6 +13340,21 @@
 				"es":"Purchase Quote Matrix"
 			},
 			"slug":"purchaseQuoteMatrix"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Voltage Drop Tool",
+				"ru":"Voltage Drop Tool",
+				"ko":"Voltage Drop Tool",
+				"pt":"Voltage Drop Tool",
+				"ja":"Voltage Drop Tool",
+				"en":"Voltage Drop Tool",
+				"fr":"Voltage Drop Tool",
+				"zh":"压降线径",
+				"es":"Voltage Drop Tool"
+			},
+			"slug":"voltageDropTool"
 		}
 	]
 }
