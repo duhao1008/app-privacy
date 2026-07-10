@@ -13310,6 +13310,21 @@
 				"es":"Book Citation Maker"
 			},
 			"slug":"bookCitationMaker"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Board Game Rule Turn Aid Fallb",
+				"ru":"Board Game Rule Turn Aid Fallb",
+				"ko":"Board Game Rule Turn Aid Fallb",
+				"pt":"Board Game Rule Turn Aid Fallb",
+				"ja":"Board Game Rule Turn Aid Fallb",
+				"en":"Board Game Rule Turn Aid Fallb",
+				"fr":"Board Game Rule Turn Aid Fallb",
+				"zh":"桌游回合夹",
+				"es":"Board Game Rule Turn Aid Fallb"
+			},
+			"slug":"boardGameRuleTurnAidFallback"
 		}
 	]
 }
