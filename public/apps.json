@@ -13370,6 +13370,21 @@
 				"es":"Storage Box Planner"
 			},
 			"slug":"storageBoxPlanner"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Handover Checklist",
+				"ru":"Handover Checklist",
+				"ko":"Handover Checklist",
+				"pt":"Handover Checklist",
+				"ja":"Handover Checklist",
+				"en":"Handover Checklist",
+				"fr":"Handover Checklist",
+				"zh":"交接清单",
+				"es":"Handover Checklist"
+			},
+			"slug":"handoverChecklist"
 		}
 	]
 }
