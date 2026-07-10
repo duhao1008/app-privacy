@@ -13415,6 +13415,21 @@
 				"es":"Phonics Minimal Pairs"
 			},
 			"slug":"phonicsMinimalPairs"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Journal Bind Planner",
+				"ru":"Journal Bind Planner",
+				"ko":"Journal Bind Planner",
+				"pt":"Journal Bind Planner",
+				"ja":"Journal Bind Planner",
+				"en":"Journal Bind Planner",
+				"fr":"Journal Bind Planner",
+				"zh":"合订册",
+				"es":"Journal Bind Planner"
+			},
+			"slug":"journalBindPlanner"
 		}
 	]
 }
