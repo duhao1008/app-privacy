@@ -13325,6 +13325,21 @@
 				"es":"Board Game Rule Turn Aid Fallb"
 			},
 			"slug":"boardGameRuleTurnAidFallback"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Purchase Quote Matrix",
+				"ru":"Purchase Quote Matrix",
+				"ko":"Purchase Quote Matrix",
+				"pt":"Purchase Quote Matrix",
+				"ja":"Purchase Quote Matrix",
+				"en":"Purchase Quote Matrix",
+				"fr":"Purchase Quote Matrix",
+				"zh":"采购比价",
+				"es":"Purchase Quote Matrix"
+			},
+			"slug":"purchaseQuoteMatrix"
 		}
 	]
 }
