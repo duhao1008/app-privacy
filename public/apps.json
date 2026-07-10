@@ -13250,6 +13250,21 @@
 				"es":"Cross Stitch Thread Keeper"
 			},
 			"slug":"crossStitchThreadKeeper"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Screen Mesh Planner",
+				"ru":"Screen Mesh Planner",
+				"ko":"Screen Mesh Planner",
+				"pt":"Screen Mesh Planner",
+				"ja":"Screen Mesh Planner",
+				"en":"Screen Mesh Planner",
+				"fr":"Screen Mesh Planner",
+				"zh":"纱窗管家",
+				"es":"Screen Mesh Planner"
+			},
+			"slug":"screenMeshPlanner"
 		}
 	]
 }
