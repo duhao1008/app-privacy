@@ -13295,6 +13295,21 @@
 				"es":"Typo Practice Cards"
 			},
 			"slug":"typoPracticeCards"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Book Citation Maker",
+				"ru":"Book Citation Maker",
+				"ko":"Book Citation Maker",
+				"pt":"Book Citation Maker",
+				"ja":"Book Citation Maker",
+				"en":"Book Citation Maker",
+				"fr":"Book Citation Maker",
+				"zh":"引文书单",
+				"es":"Book Citation Maker"
+			},
+			"slug":"bookCitationMaker"
 		}
 	]
 }
