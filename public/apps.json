@@ -13220,6 +13220,21 @@
 				"es":"Karaoke Setlist Planner"
 			},
 			"slug":"karaokeSetlistPlanner"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Site Change Ledger",
+				"ru":"Site Change Ledger",
+				"ko":"Site Change Ledger",
+				"pt":"Site Change Ledger",
+				"ja":"Site Change Ledger",
+				"en":"Site Change Ledger",
+				"fr":"Site Change Ledger",
+				"zh":"签证台账",
+				"es":"Site Change Ledger"
+			},
+			"slug":"siteChangeLedger"
 		}
 	]
 }
