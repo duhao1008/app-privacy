@@ -13385,6 +13385,21 @@
 				"es":"Handover Checklist"
 			},
 			"slug":"handoverChecklist"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Tennis Serve Log",
+				"ru":"Tennis Serve Log",
+				"ko":"Tennis Serve Log",
+				"pt":"Tennis Serve Log",
+				"ja":"Tennis Serve Log",
+				"en":"Tennis Serve Log",
+				"fr":"Tennis Serve Log",
+				"zh":"网球发球本",
+				"es":"Tennis Serve Log"
+			},
+			"slug":"tennisServeLog"
 		}
 	]
 }
