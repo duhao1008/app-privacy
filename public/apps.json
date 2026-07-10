@@ -13205,6 +13205,21 @@
 				"es":"Old Book Pricing"
 			},
 			"slug":"oldBookPricing"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Karaoke Setlist Planner",
+				"ru":"Karaoke Setlist Planner",
+				"ko":"Karaoke Setlist Planner",
+				"pt":"Karaoke Setlist Planner",
+				"ja":"Karaoke Setlist Planner",
+				"en":"Karaoke Setlist Planner",
+				"fr":"Karaoke Setlist Planner",
+				"zh":"K歌歌单",
+				"es":"Karaoke Setlist Planner"
+			},
+			"slug":"karaokeSetlistPlanner"
 		}
 	]
 }
