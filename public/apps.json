@@ -13235,6 +13235,21 @@
 				"es":"Site Change Ledger"
 			},
 			"slug":"siteChangeLedger"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Cross Stitch Thread Keeper",
+				"ru":"Cross Stitch Thread Keeper",
+				"ko":"Cross Stitch Thread Keeper",
+				"pt":"Cross Stitch Thread Keeper",
+				"ja":"Cross Stitch Thread Keeper",
+				"en":"Cross Stitch Thread Keeper",
+				"fr":"Cross Stitch Thread Keeper",
+				"zh":"绣线管家",
+				"es":"Cross Stitch Thread Keeper"
+			},
+			"slug":"crossStitchThreadKeeper"
 		}
 	]
 }
