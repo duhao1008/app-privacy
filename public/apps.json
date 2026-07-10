@@ -13265,6 +13265,21 @@
 				"es":"Screen Mesh Planner"
 			},
 			"slug":"screenMeshPlanner"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Badminton String Log",
+				"ru":"Badminton String Log",
+				"ko":"Badminton String Log",
+				"pt":"Badminton String Log",
+				"ja":"Badminton String Log",
+				"en":"Badminton String Log",
+				"fr":"Badminton String Log",
+				"zh":"穿线簿",
+				"es":"Badminton String Log"
+			},
+			"slug":"badmintonStringLog"
 		}
 	]
 }
