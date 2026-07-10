@@ -13355,6 +13355,21 @@
 				"es":"Voltage Drop Tool"
 			},
 			"slug":"voltageDropTool"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Storage Box Planner",
+				"ru":"Storage Box Planner",
+				"ko":"Storage Box Planner",
+				"pt":"Storage Box Planner",
+				"ja":"Storage Box Planner",
+				"en":"Storage Box Planner",
+				"fr":"Storage Box Planner",
+				"zh":"收纳盒规划",
+				"es":"Storage Box Planner"
+			},
+			"slug":"storageBoxPlanner"
 		}
 	]
 }
