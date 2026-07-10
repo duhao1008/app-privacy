@@ -13400,6 +13400,21 @@
 				"es":"Tennis Serve Log"
 			},
 			"slug":"tennisServeLog"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Phonics Minimal Pairs",
+				"ru":"Phonics Minimal Pairs",
+				"ko":"Phonics Minimal Pairs",
+				"pt":"Phonics Minimal Pairs",
+				"ja":"Phonics Minimal Pairs",
+				"en":"Phonics Minimal Pairs",
+				"fr":"Phonics Minimal Pairs",
+				"zh":"音素听辨",
+				"es":"Phonics Minimal Pairs"
+			},
+			"slug":"phonicsMinimalPairs"
 		}
 	]
 }
