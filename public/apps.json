@@ -13280,6 +13280,21 @@
 				"es":"Badminton String Log"
 			},
 			"slug":"badmintonStringLog"
+		},
+		{
+			"lastUpdated":"2026-07-10",
+			"appName":{
+				"de":"Typo Practice Cards",
+				"ru":"Typo Practice Cards",
+				"ko":"Typo Practice Cards",
+				"pt":"Typo Practice Cards",
+				"ja":"Typo Practice Cards",
+				"en":"Typo Practice Cards",
+				"fr":"Typo Practice Cards",
+				"zh":"错字练习",
+				"es":"Typo Practice Cards"
+			},
+			"slug":"typoPracticeCards"
 		}
 	]
 }
