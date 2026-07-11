@@ -13955,6 +13955,21 @@
 				"es":"Flower Care Journal"
 			},
 			"slug":"flowerCareJournal"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Royalty Ledger",
+				"ru":"Royalty Ledger",
+				"ko":"Royalty Ledger",
+				"pt":"Royalty Ledger",
+				"ja":"Royalty Ledger",
+				"en":"Royalty Ledger",
+				"fr":"Royalty Ledger",
+				"zh":"稿费账本",
+				"es":"Royalty Ledger"
+			},
+			"slug":"royaltyLedger"
 		}
 	]
 }
