@@ -13985,6 +13985,21 @@
 				"es":"Marathon Pace Kit"
 			},
 			"slug":"marathonPaceKit"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Chemistry Balancer Cards",
+				"ru":"Chemistry Balancer Cards",
+				"ko":"Chemistry Balancer Cards",
+				"pt":"Chemistry Balancer Cards",
+				"ja":"Chemistry Balancer Cards",
+				"en":"Chemistry Balancer Cards",
+				"fr":"Chemistry Balancer Cards",
+				"zh":"配平题卡",
+				"es":"Chemistry Balancer Cards"
+			},
+			"slug":"chemistryBalancerCards"
 		}
 	]
 }
