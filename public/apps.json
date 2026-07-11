@@ -13940,6 +13940,21 @@
 				"es":"Drawer Handle Hole Guide Fallb"
 			},
 			"slug":"drawerHandleHoleGuideFallbackAlt"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Flower Care Journal",
+				"ru":"Flower Care Journal",
+				"ko":"Flower Care Journal",
+				"pt":"Flower Care Journal",
+				"ja":"Flower Care Journal",
+				"en":"Flower Care Journal",
+				"fr":"Flower Care Journal",
+				"zh":"花养记",
+				"es":"Flower Care Journal"
+			},
+			"slug":"flowerCareJournal"
 		}
 	]
 }
