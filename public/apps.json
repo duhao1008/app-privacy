@@ -13505,6 +13505,21 @@
 				"es":"Stamp Pad Ledger"
 			},
 			"slug":"stampPadLedger"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Bowling Frame Log",
+				"ru":"Bowling Frame Log",
+				"ko":"Bowling Frame Log",
+				"pt":"Bowling Frame Log",
+				"ja":"Bowling Frame Log",
+				"en":"Bowling Frame Log",
+				"fr":"Bowling Frame Log",
+				"zh":"保龄球计分本",
+				"es":"Bowling Frame Log"
+			},
+			"slug":"bowlingFrameLog"
 		}
 	]
 }
