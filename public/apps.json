@@ -13775,6 +13775,21 @@
 				"es":"Marginalia Index Map Alt Alt"
 			},
 			"slug":"marginaliaIndexMapAltAlt"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Karaoke Setlist Book",
+				"ru":"Karaoke Setlist Book",
+				"ko":"Karaoke Setlist Book",
+				"pt":"Karaoke Setlist Book",
+				"ja":"Karaoke Setlist Book",
+				"en":"Karaoke Setlist Book",
+				"fr":"Karaoke Setlist Book",
+				"zh":"歌房本",
+				"es":"Karaoke Setlist Book"
+			},
+			"slug":"karaokeSetlistBook"
 		}
 	]
 }
