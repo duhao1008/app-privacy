@@ -13700,6 +13700,21 @@
 				"es":"Cable Tray Bend Calc"
 			},
 			"slug":"cableTrayBendCalc"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Shoe Size Wardrobe",
+				"ru":"Shoe Size Wardrobe",
+				"ko":"Shoe Size Wardrobe",
+				"pt":"Shoe Size Wardrobe",
+				"ja":"Shoe Size Wardrobe",
+				"en":"Shoe Size Wardrobe",
+				"fr":"Shoe Size Wardrobe",
+				"zh":"鞋码衣橱",
+				"es":"Shoe Size Wardrobe"
+			},
+			"slug":"shoeSizeWardrobe"
 		}
 	]
 }
