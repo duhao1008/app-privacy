@@ -14015,6 +14015,21 @@
 				"es":"Textbook Version Ledger"
 			},
 			"slug":"textbookVersionLedger"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Blind Box Ledger",
+				"ru":"Blind Box Ledger",
+				"ko":"Blind Box Ledger",
+				"pt":"Blind Box Ledger",
+				"ja":"Blind Box Ledger",
+				"en":"Blind Box Ledger",
+				"fr":"Blind Box Ledger",
+				"zh":"抽盒记",
+				"es":"Blind Box Ledger"
+			},
+			"slug":"blindBoxLedger"
 		}
 	]
 }
