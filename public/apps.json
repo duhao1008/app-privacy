@@ -13760,6 +13760,21 @@
 				"es":"Force Diagram Tutor"
 			},
 			"slug":"forceDiagramTutor"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Marginalia Index Map Alt Alt",
+				"ru":"Marginalia Index Map Alt Alt",
+				"ko":"Marginalia Index Map Alt Alt",
+				"pt":"Marginalia Index Map Alt Alt",
+				"ja":"Marginalia Index Map Alt Alt",
+				"en":"Marginalia Index Map Alt Alt",
+				"fr":"Marginalia Index Map Alt Alt",
+				"zh":"批注索引图",
+				"es":"Marginalia Index Map Alt Alt"
+			},
+			"slug":"marginaliaIndexMapAltAlt"
 		}
 	]
 }
