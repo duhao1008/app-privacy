@@ -13895,6 +13895,21 @@
 				"es":"Call Number Shelf"
 			},
 			"slug":"callNumberShelf"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Movie Ticket Diary",
+				"ru":"Movie Ticket Diary",
+				"ko":"Movie Ticket Diary",
+				"pt":"Movie Ticket Diary",
+				"ja":"Movie Ticket Diary",
+				"en":"Movie Ticket Diary",
+				"fr":"Movie Ticket Diary",
+				"zh":"票根影记",
+				"es":"Movie Ticket Diary"
+			},
+			"slug":"movieTicketDiary"
 		}
 	]
 }
