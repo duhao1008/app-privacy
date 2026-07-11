@@ -13655,6 +13655,21 @@
 				"es":"Rare Book Ledger"
 			},
 			"slug":"rareBookLedger"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Xiangsheng Cue Book",
+				"ru":"Xiangsheng Cue Book",
+				"ko":"Xiangsheng Cue Book",
+				"pt":"Xiangsheng Cue Book",
+				"ja":"Xiangsheng Cue Book",
+				"en":"Xiangsheng Cue Book",
+				"fr":"Xiangsheng Cue Book",
+				"zh":"贯口本",
+				"es":"Xiangsheng Cue Book"
+			},
+			"slug":"xiangshengCueBook"
 		}
 	]
 }
