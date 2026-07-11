@@ -13820,6 +13820,21 @@
 				"es":"Stitch Fabric Calculator"
 			},
 			"slug":"stitchFabricCalculator"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Home Light Bulb Keeper",
+				"ru":"Home Light Bulb Keeper",
+				"ko":"Home Light Bulb Keeper",
+				"pt":"Home Light Bulb Keeper",
+				"ja":"Home Light Bulb Keeper",
+				"en":"Home Light Bulb Keeper",
+				"fr":"Home Light Bulb Keeper",
+				"zh":"灯泡管家",
+				"es":"Home Light Bulb Keeper"
+			},
+			"slug":"homeLightBulbKeeper"
 		}
 	]
 }
