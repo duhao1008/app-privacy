@@ -13595,6 +13595,21 @@
 				"es":"Shoe Cabinet Keeper"
 			},
 			"slug":"shoeCabinetKeeper"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Parcel Privacy Printer",
+				"ru":"Parcel Privacy Printer",
+				"ko":"Parcel Privacy Printer",
+				"pt":"Parcel Privacy Printer",
+				"ja":"Parcel Privacy Printer",
+				"en":"Parcel Privacy Printer",
+				"fr":"Parcel Privacy Printer",
+				"zh":"地址脱敏",
+				"es":"Parcel Privacy Printer"
+			},
+			"slug":"parcelPrivacyPrinter"
 		}
 	]
 }
