@@ -13970,6 +13970,21 @@
 				"es":"Royalty Ledger"
 			},
 			"slug":"royaltyLedger"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Marathon Pace Kit",
+				"ru":"Marathon Pace Kit",
+				"ko":"Marathon Pace Kit",
+				"pt":"Marathon Pace Kit",
+				"ja":"Marathon Pace Kit",
+				"en":"Marathon Pace Kit",
+				"fr":"Marathon Pace Kit",
+				"zh":"配速贴",
+				"es":"Marathon Pace Kit"
+			},
+			"slug":"marathonPaceKit"
 		}
 	]
 }
