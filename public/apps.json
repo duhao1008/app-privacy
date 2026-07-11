@@ -13640,6 +13640,21 @@
 				"es":"Geo Time Drill"
 			},
 			"slug":"geoTimeDrill"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Rare Book Ledger",
+				"ru":"Rare Book Ledger",
+				"ko":"Rare Book Ledger",
+				"pt":"Rare Book Ledger",
+				"ja":"Rare Book Ledger",
+				"en":"Rare Book Ledger",
+				"fr":"Rare Book Ledger",
+				"zh":"旧书册",
+				"es":"Rare Book Ledger"
+			},
+			"slug":"rareBookLedger"
 		}
 	]
 }
