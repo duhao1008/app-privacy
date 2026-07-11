@@ -14000,6 +14000,21 @@
 				"es":"Chemistry Balancer Cards"
 			},
 			"slug":"chemistryBalancerCards"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Textbook Version Ledger",
+				"ru":"Textbook Version Ledger",
+				"ko":"Textbook Version Ledger",
+				"pt":"Textbook Version Ledger",
+				"ja":"Textbook Version Ledger",
+				"en":"Textbook Version Ledger",
+				"fr":"Textbook Version Ledger",
+				"zh":"课本清单",
+				"es":"Textbook Version Ledger"
+			},
+			"slug":"textbookVersionLedger"
 		}
 	]
 }
