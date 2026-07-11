@@ -13520,6 +13520,21 @@
 				"es":"Bowling Frame Log"
 			},
 			"slug":"bowlingFrameLog"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Phonics Blend Coach",
+				"ru":"Phonics Blend Coach",
+				"ko":"Phonics Blend Coach",
+				"pt":"Phonics Blend Coach",
+				"ja":"Phonics Blend Coach",
+				"en":"Phonics Blend Coach",
+				"fr":"Phonics Blend Coach",
+				"zh":"拼读教练",
+				"es":"Phonics Blend Coach"
+			},
+			"slug":"phonicsBlendCoach"
 		}
 	]
 }
