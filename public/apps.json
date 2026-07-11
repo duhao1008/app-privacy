@@ -13685,6 +13685,21 @@
 				"es":"Supplier Audit Book"
 			},
 			"slug":"supplierAuditBook"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Cable Tray Bend Calc",
+				"ru":"Cable Tray Bend Calc",
+				"ko":"Cable Tray Bend Calc",
+				"pt":"Cable Tray Bend Calc",
+				"ja":"Cable Tray Bend Calc",
+				"en":"Cable Tray Bend Calc",
+				"fr":"Cable Tray Bend Calc",
+				"zh":"桥架算",
+				"es":"Cable Tray Bend Calc"
+			},
+			"slug":"cableTrayBendCalc"
 		}
 	]
 }
