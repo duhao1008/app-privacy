@@ -13550,6 +13550,21 @@
 				"es":"Library Due Keeper"
 			},
 			"slug":"libraryDueKeeper"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Seat View Diary",
+				"ru":"Seat View Diary",
+				"ko":"Seat View Diary",
+				"pt":"Seat View Diary",
+				"ja":"Seat View Diary",
+				"en":"Seat View Diary",
+				"fr":"Seat View Diary",
+				"zh":"座位观演",
+				"es":"Seat View Diary"
+			},
+			"slug":"seatViewDiary"
 		}
 	]
 }
