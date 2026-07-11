@@ -13475,6 +13475,21 @@
 				"es":"Screw Spec Kit"
 			},
 			"slug":"screwSpecKit"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Alter Fit Log",
+				"ru":"Alter Fit Log",
+				"ko":"Alter Fit Log",
+				"pt":"Alter Fit Log",
+				"ja":"Alter Fit Log",
+				"en":"Alter Fit Log",
+				"fr":"Alter Fit Log",
+				"zh":"改衣尺码",
+				"es":"Alter Fit Log"
+			},
+			"slug":"alterFitLog"
 		}
 	]
 }
