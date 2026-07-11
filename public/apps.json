@@ -13925,6 +13925,21 @@
 				"es":"Client Gift Ledger"
 			},
 			"slug":"clientGiftLedger"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Drawer Handle Hole Guide Fallb",
+				"ru":"Drawer Handle Hole Guide Fallb",
+				"ko":"Drawer Handle Hole Guide Fallb",
+				"pt":"Drawer Handle Hole Guide Fallb",
+				"ja":"Drawer Handle Hole Guide Fallb",
+				"en":"Drawer Handle Hole Guide Fallb",
+				"fr":"Drawer Handle Hole Guide Fallb",
+				"zh":"拉手孔距夹精选精选",
+				"es":"Drawer Handle Hole Guide Fallb"
+			},
+			"slug":"drawerHandleHoleGuideFallbackAlt"
 		}
 	]
 }
