@@ -13670,6 +13670,21 @@
 				"es":"Xiangsheng Cue Book"
 			},
 			"slug":"xiangshengCueBook"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Supplier Audit Book",
+				"ru":"Supplier Audit Book",
+				"ko":"Supplier Audit Book",
+				"pt":"Supplier Audit Book",
+				"ja":"Supplier Audit Book",
+				"en":"Supplier Audit Book",
+				"fr":"Supplier Audit Book",
+				"zh":"供审本",
+				"es":"Supplier Audit Book"
+			},
+			"slug":"supplierAuditBook"
 		}
 	]
 }
