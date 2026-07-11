@@ -13835,6 +13835,21 @@
 				"es":"Home Light Bulb Keeper"
 			},
 			"slug":"homeLightBulbKeeper"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Meeting Minutes Checklist",
+				"ru":"Meeting Minutes Checklist",
+				"ko":"Meeting Minutes Checklist",
+				"pt":"Meeting Minutes Checklist",
+				"ja":"Meeting Minutes Checklist",
+				"en":"Meeting Minutes Checklist",
+				"fr":"Meeting Minutes Checklist",
+				"zh":"纪要核对",
+				"es":"Meeting Minutes Checklist"
+			},
+			"slug":"meetingMinutesChecklist"
 		}
 	]
 }
