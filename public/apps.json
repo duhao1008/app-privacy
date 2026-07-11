@@ -13730,6 +13730,21 @@
 				"es":"File Handover List"
 			},
 			"slug":"fileHandoverList"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Dive Logbook",
+				"ru":"Dive Logbook",
+				"ko":"Dive Logbook",
+				"pt":"Dive Logbook",
+				"ja":"Dive Logbook",
+				"en":"Dive Logbook",
+				"fr":"Dive Logbook",
+				"zh":"潜水本",
+				"es":"Dive Logbook"
+			},
+			"slug":"diveLogbook"
 		}
 	]
 }
