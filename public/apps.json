@@ -13790,6 +13790,21 @@
 				"es":"Karaoke Setlist Book"
 			},
 			"slug":"karaokeSetlistBook"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Contract Ledger Pro",
+				"ru":"Contract Ledger Pro",
+				"ko":"Contract Ledger Pro",
+				"pt":"Contract Ledger Pro",
+				"ja":"Contract Ledger Pro",
+				"en":"Contract Ledger Pro",
+				"fr":"Contract Ledger Pro",
+				"zh":"合同台账",
+				"es":"Contract Ledger Pro"
+			},
+			"slug":"contractLedgerPro"
 		}
 	]
 }
