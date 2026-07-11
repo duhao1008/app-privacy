@@ -13910,6 +13910,21 @@
 				"es":"Movie Ticket Diary"
 			},
 			"slug":"movieTicketDiary"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Client Gift Ledger",
+				"ru":"Client Gift Ledger",
+				"ko":"Client Gift Ledger",
+				"pt":"Client Gift Ledger",
+				"ja":"Client Gift Ledger",
+				"en":"Client Gift Ledger",
+				"fr":"Client Gift Ledger",
+				"zh":"礼赠台账",
+				"es":"Client Gift Ledger"
+			},
+			"slug":"clientGiftLedger"
 		}
 	]
 }
