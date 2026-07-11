@@ -13625,6 +13625,21 @@
 				"es":"Table Tennis Serve Book"
 			},
 			"slug":"tableTennisServeBook"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Geo Time Drill",
+				"ru":"Geo Time Drill",
+				"ko":"Geo Time Drill",
+				"pt":"Geo Time Drill",
+				"ja":"Geo Time Drill",
+				"en":"Geo Time Drill",
+				"fr":"Geo Time Drill",
+				"zh":"区时练习",
+				"es":"Geo Time Drill"
+			},
+			"slug":"geoTimeDrill"
 		}
 	]
 }
