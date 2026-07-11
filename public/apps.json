@@ -13535,6 +13535,21 @@
 				"es":"Phonics Blend Coach"
 			},
 			"slug":"phonicsBlendCoach"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Library Due Keeper",
+				"ru":"Library Due Keeper",
+				"ko":"Library Due Keeper",
+				"pt":"Library Due Keeper",
+				"ja":"Library Due Keeper",
+				"en":"Library Due Keeper",
+				"fr":"Library Due Keeper",
+				"zh":"还书提醒",
+				"es":"Library Due Keeper"
+			},
+			"slug":"libraryDueKeeper"
 		}
 	]
 }
