@@ -13715,6 +13715,21 @@
 				"es":"Shoe Size Wardrobe"
 			},
 			"slug":"shoeSizeWardrobe"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"File Handover List",
+				"ru":"File Handover List",
+				"ko":"File Handover List",
+				"pt":"File Handover List",
+				"ja":"File Handover List",
+				"en":"File Handover List",
+				"fr":"File Handover List",
+				"zh":"文件交接",
+				"es":"File Handover List"
+			},
+			"slug":"fileHandoverList"
 		}
 	]
 }
