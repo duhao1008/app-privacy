@@ -13490,6 +13490,21 @@
 				"es":"Alter Fit Log"
 			},
 			"slug":"alterFitLog"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Stamp Pad Ledger",
+				"ru":"Stamp Pad Ledger",
+				"ko":"Stamp Pad Ledger",
+				"pt":"Stamp Pad Ledger",
+				"ja":"Stamp Pad Ledger",
+				"en":"Stamp Pad Ledger",
+				"fr":"Stamp Pad Ledger",
+				"zh":"印泥管家",
+				"es":"Stamp Pad Ledger"
+			},
+			"slug":"stampPadLedger"
 		}
 	]
 }
