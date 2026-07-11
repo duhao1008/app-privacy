@@ -13865,6 +13865,21 @@
 				"es":"Bike Gear Cadence"
 			},
 			"slug":"bikeGearCadence"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Exam Formula Notebook",
+				"ru":"Exam Formula Notebook",
+				"ko":"Exam Formula Notebook",
+				"pt":"Exam Formula Notebook",
+				"ja":"Exam Formula Notebook",
+				"en":"Exam Formula Notebook",
+				"fr":"Exam Formula Notebook",
+				"zh":"公式错题本",
+				"es":"Exam Formula Notebook"
+			},
+			"slug":"examFormulaNotebook"
 		}
 	]
 }
