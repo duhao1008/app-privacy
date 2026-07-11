@@ -13850,6 +13850,21 @@
 				"es":"Meeting Minutes Checklist"
 			},
 			"slug":"meetingMinutesChecklist"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Bike Gear Cadence",
+				"ru":"Bike Gear Cadence",
+				"ko":"Bike Gear Cadence",
+				"pt":"Bike Gear Cadence",
+				"ja":"Bike Gear Cadence",
+				"en":"Bike Gear Cadence",
+				"fr":"Bike Gear Cadence",
+				"zh":"骑行齿比",
+				"es":"Bike Gear Cadence"
+			},
+			"slug":"bikeGearCadence"
 		}
 	]
 }
