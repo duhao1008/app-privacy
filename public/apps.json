@@ -13880,6 +13880,21 @@
 				"es":"Exam Formula Notebook"
 			},
 			"slug":"examFormulaNotebook"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Call Number Shelf",
+				"ru":"Call Number Shelf",
+				"ko":"Call Number Shelf",
+				"pt":"Call Number Shelf",
+				"ja":"Call Number Shelf",
+				"en":"Call Number Shelf",
+				"fr":"Call Number Shelf",
+				"zh":"索书排架",
+				"es":"Call Number Shelf"
+			},
+			"slug":"callNumberShelf"
 		}
 	]
 }
