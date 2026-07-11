@@ -13460,6 +13460,21 @@
 				"es":"Expo Lead Notebook"
 			},
 			"slug":"expoLeadNotebook"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Screw Spec Kit",
+				"ru":"Screw Spec Kit",
+				"ko":"Screw Spec Kit",
+				"pt":"Screw Spec Kit",
+				"ja":"Screw Spec Kit",
+				"en":"Screw Spec Kit",
+				"fr":"Screw Spec Kit",
+				"zh":"螺丝规格",
+				"es":"Screw Spec Kit"
+			},
+			"slug":"screwSpecKit"
 		}
 	]
 }
