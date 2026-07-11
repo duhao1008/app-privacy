@@ -13745,6 +13745,21 @@
 				"es":"Dive Logbook"
 			},
 			"slug":"diveLogbook"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Force Diagram Tutor",
+				"ru":"Force Diagram Tutor",
+				"ko":"Force Diagram Tutor",
+				"pt":"Force Diagram Tutor",
+				"ja":"Force Diagram Tutor",
+				"en":"Force Diagram Tutor",
+				"fr":"Force Diagram Tutor",
+				"zh":"受力分析板",
+				"es":"Force Diagram Tutor"
+			},
+			"slug":"forceDiagramTutor"
 		}
 	]
 }
