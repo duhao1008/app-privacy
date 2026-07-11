@@ -13445,6 +13445,21 @@
 				"es":"Guankou Practice"
 			},
 			"slug":"guankouPractice"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Expo Lead Notebook",
+				"ru":"Expo Lead Notebook",
+				"ko":"Expo Lead Notebook",
+				"pt":"Expo Lead Notebook",
+				"ja":"Expo Lead Notebook",
+				"en":"Expo Lead Notebook",
+				"fr":"Expo Lead Notebook",
+				"zh":"展会线索",
+				"es":"Expo Lead Notebook"
+			},
+			"slug":"expoLeadNotebook"
 		}
 	]
 }
