@@ -13805,6 +13805,21 @@
 				"es":"Contract Ledger Pro"
 			},
 			"slug":"contractLedgerPro"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Stitch Fabric Calculator",
+				"ru":"Stitch Fabric Calculator",
+				"ko":"Stitch Fabric Calculator",
+				"pt":"Stitch Fabric Calculator",
+				"ja":"Stitch Fabric Calculator",
+				"en":"Stitch Fabric Calculator",
+				"fr":"Stitch Fabric Calculator",
+				"zh":"缝料助手",
+				"es":"Stitch Fabric Calculator"
+			},
+			"slug":"stitchFabricCalculator"
 		}
 	]
 }
