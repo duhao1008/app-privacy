@@ -13565,6 +13565,21 @@
 				"es":"Seat View Diary"
 			},
 			"slug":"seatViewDiary"
+		},
+		{
+			"lastUpdated":"2026-07-11",
+			"appName":{
+				"de":"Calibration Ledger",
+				"ru":"Calibration Ledger",
+				"ko":"Calibration Ledger",
+				"pt":"Calibration Ledger",
+				"ja":"Calibration Ledger",
+				"en":"Calibration Ledger",
+				"fr":"Calibration Ledger",
+				"zh":"校准台账",
+				"es":"Calibration Ledger"
+			},
+			"slug":"calibrationLedger"
 		}
 	]
 }
