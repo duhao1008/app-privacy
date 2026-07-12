@@ -14330,6 +14330,21 @@
 				"es":"Work Hour Wage Book"
 			},
 			"slug":"workHourWageBook"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Ski Wax Log",
+				"ru":"Ski Wax Log",
+				"ko":"Ski Wax Log",
+				"pt":"Ski Wax Log",
+				"ja":"Ski Wax Log",
+				"en":"Ski Wax Log",
+				"fr":"Ski Wax Log",
+				"zh":"雪板管家",
+				"es":"Ski Wax Log"
+			},
+			"slug":"skiWaxLog"
 		}
 	]
 }
