@@ -14210,6 +14210,21 @@
 				"es":"Mail Merge Labeler"
 			},
 			"slug":"mailMergeLabeler"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Climb Logbook",
+				"ru":"Climb Logbook",
+				"ko":"Climb Logbook",
+				"pt":"Climb Logbook",
+				"ja":"Climb Logbook",
+				"en":"Climb Logbook",
+				"fr":"Climb Logbook",
+				"zh":"抱石日志",
+				"es":"Climb Logbook"
+			},
+			"slug":"climbLogbook"
 		}
 	]
 }
