@@ -14345,6 +14345,21 @@
 				"es":"Ski Wax Log"
 			},
 			"slug":"skiWaxLog"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Poetry Meter Tutor",
+				"ru":"Poetry Meter Tutor",
+				"ko":"Poetry Meter Tutor",
+				"pt":"Poetry Meter Tutor",
+				"ja":"Poetry Meter Tutor",
+				"en":"Poetry Meter Tutor",
+				"fr":"Poetry Meter Tutor",
+				"zh":"平仄格律",
+				"es":"Poetry Meter Tutor"
+			},
+			"slug":"poetryMeterTutor"
 		}
 	]
 }
