@@ -14360,6 +14360,21 @@
 				"es":"Poetry Meter Tutor"
 			},
 			"slug":"poetryMeterTutor"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Book Club Host",
+				"ru":"Book Club Host",
+				"ko":"Book Club Host",
+				"pt":"Book Club Host",
+				"ja":"Book Club Host",
+				"en":"Book Club Host",
+				"fr":"Book Club Host",
+				"zh":"读书会领读",
+				"es":"Book Club Host"
+			},
+			"slug":"bookClubHost"
 		}
 	]
 }
