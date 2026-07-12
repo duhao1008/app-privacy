@@ -14165,6 +14165,21 @@
 				"es":"Receivable Aging Book"
 			},
 			"slug":"receivableAgingBook"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Curtain Measure Calc",
+				"ru":"Curtain Measure Calc",
+				"ko":"Curtain Measure Calc",
+				"pt":"Curtain Measure Calc",
+				"ja":"Curtain Measure Calc",
+				"en":"Curtain Measure Calc",
+				"fr":"Curtain Measure Calc",
+				"zh":"窗帘用量",
+				"es":"Curtain Measure Calc"
+			},
+			"slug":"curtainMeasureCalc"
 		}
 	]
 }
