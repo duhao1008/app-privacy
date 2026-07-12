@@ -14105,6 +14105,21 @@
 				"es":"Pitch Count Keeper"
 			},
 			"slug":"pitchCountKeeper"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Geometry Line Coach",
+				"ru":"Geometry Line Coach",
+				"ko":"Geometry Line Coach",
+				"pt":"Geometry Line Coach",
+				"ja":"Geometry Line Coach",
+				"en":"Geometry Line Coach",
+				"fr":"Geometry Line Coach",
+				"zh":"辅助线题卡",
+				"es":"Geometry Line Coach"
+			},
+			"slug":"geometryLineCoach"
 		}
 	]
 }
