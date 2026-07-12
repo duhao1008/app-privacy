@@ -14075,6 +14075,21 @@
 				"es":"Raincoat Drying Log Fallback A"
 			},
 			"slug":"raincoatDryingLogFallbackAlt"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Renovation Delivery Check",
+				"ru":"Renovation Delivery Check",
+				"ko":"Renovation Delivery Check",
+				"pt":"Renovation Delivery Check",
+				"ja":"Renovation Delivery Check",
+				"en":"Renovation Delivery Check",
+				"fr":"Renovation Delivery Check",
+				"zh":"收货验收",
+				"es":"Renovation Delivery Check"
+			},
+			"slug":"renovationDeliveryCheck"
 		}
 	]
 }
