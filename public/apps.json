@@ -14180,6 +14180,21 @@
 				"es":"Curtain Measure Calc"
 			},
 			"slug":"curtainMeasureCalc"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Memorial Visit Planner",
+				"ru":"Memorial Visit Planner",
+				"ko":"Memorial Visit Planner",
+				"pt":"Memorial Visit Planner",
+				"ja":"Memorial Visit Planner",
+				"en":"Memorial Visit Planner",
+				"fr":"Memorial Visit Planner",
+				"zh":"祭扫清单",
+				"es":"Memorial Visit Planner"
+			},
+			"slug":"memorialVisitPlanner"
 		}
 	]
 }
