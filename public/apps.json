@@ -14135,6 +14135,21 @@
 				"es":"Book Care Vault"
 			},
 			"slug":"bookCareVault"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Jigsaw Puzzle Tracker",
+				"ru":"Jigsaw Puzzle Tracker",
+				"ko":"Jigsaw Puzzle Tracker",
+				"pt":"Jigsaw Puzzle Tracker",
+				"ja":"Jigsaw Puzzle Tracker",
+				"en":"Jigsaw Puzzle Tracker",
+				"fr":"Jigsaw Puzzle Tracker",
+				"zh":"拼图档案",
+				"es":"Jigsaw Puzzle Tracker"
+			},
+			"slug":"jigsawPuzzleTracker"
 		}
 	]
 }
