@@ -14300,6 +14300,21 @@
 				"es":"Refrigerant Charge Calc"
 			},
 			"slug":"refrigerantChargeCalc"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Perfume Wardrobe",
+				"ru":"Perfume Wardrobe",
+				"ko":"Perfume Wardrobe",
+				"pt":"Perfume Wardrobe",
+				"ja":"Perfume Wardrobe",
+				"en":"Perfume Wardrobe",
+				"fr":"Perfume Wardrobe",
+				"zh":"香水衣橱",
+				"es":"Perfume Wardrobe"
+			},
+			"slug":"perfumeWardrobe"
 		}
 	]
 }
