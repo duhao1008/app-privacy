@@ -14315,6 +14315,21 @@
 				"es":"Perfume Wardrobe"
 			},
 			"slug":"perfumeWardrobe"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Work Hour Wage Book",
+				"ru":"Work Hour Wage Book",
+				"ko":"Work Hour Wage Book",
+				"pt":"Work Hour Wage Book",
+				"ja":"Work Hour Wage Book",
+				"en":"Work Hour Wage Book",
+				"fr":"Work Hour Wage Book",
+				"zh":"记工工资本",
+				"es":"Work Hour Wage Book"
+			},
+			"slug":"workHourWageBook"
 		}
 	]
 }
