@@ -14240,6 +14240,21 @@
 				"es":"Motion Word Problem Kit"
 			},
 			"slug":"motionWordProblemKit"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Reading Quote Indexer",
+				"ru":"Reading Quote Indexer",
+				"ko":"Reading Quote Indexer",
+				"pt":"Reading Quote Indexer",
+				"ja":"Reading Quote Indexer",
+				"en":"Reading Quote Indexer",
+				"fr":"Reading Quote Indexer",
+				"zh":"摘录索引",
+				"es":"Reading Quote Indexer"
+			},
+			"slug":"readingQuoteIndexer"
 		}
 	]
 }
