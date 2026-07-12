@@ -14120,6 +14120,21 @@
 				"es":"Geometry Line Coach"
 			},
 			"slug":"geometryLineCoach"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Book Care Vault",
+				"ru":"Book Care Vault",
+				"ko":"Book Care Vault",
+				"pt":"Book Care Vault",
+				"ja":"Book Care Vault",
+				"en":"Book Care Vault",
+				"fr":"Book Care Vault",
+				"zh":"藏书养护",
+				"es":"Book Care Vault"
+			},
+			"slug":"bookCareVault"
 		}
 	]
 }
