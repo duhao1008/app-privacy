@@ -14060,6 +14060,21 @@
 				"es":"Thread Tap Drill Kit"
 			},
 			"slug":"threadTapDrillKit"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Raincoat Drying Log Fallback A",
+				"ru":"Raincoat Drying Log Fallback A",
+				"ko":"Raincoat Drying Log Fallback A",
+				"pt":"Raincoat Drying Log Fallback A",
+				"ja":"Raincoat Drying Log Fallback A",
+				"en":"Raincoat Drying Log Fallback A",
+				"fr":"Raincoat Drying Log Fallback A",
+				"zh":"雨衣晾护夹精选精选",
+				"es":"Raincoat Drying Log Fallback A"
+			},
+			"slug":"raincoatDryingLogFallbackAlt"
 		}
 	]
 }
