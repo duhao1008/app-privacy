@@ -14090,6 +14090,21 @@
 				"es":"Renovation Delivery Check"
 			},
 			"slug":"renovationDeliveryCheck"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Pitch Count Keeper",
+				"ru":"Pitch Count Keeper",
+				"ko":"Pitch Count Keeper",
+				"pt":"Pitch Count Keeper",
+				"ja":"Pitch Count Keeper",
+				"en":"Pitch Count Keeper",
+				"fr":"Pitch Count Keeper",
+				"zh":"投球数本",
+				"es":"Pitch Count Keeper"
+			},
+			"slug":"pitchCountKeeper"
 		}
 	]
 }
