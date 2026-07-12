@@ -14030,6 +14030,21 @@
 				"es":"Blind Box Ledger"
 			},
 			"slug":"blindBoxLedger"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Seal Use Register",
+				"ru":"Seal Use Register",
+				"ko":"Seal Use Register",
+				"pt":"Seal Use Register",
+				"ja":"Seal Use Register",
+				"en":"Seal Use Register",
+				"fr":"Seal Use Register",
+				"zh":"用印台账",
+				"es":"Seal Use Register"
+			},
+			"slug":"sealUseRegister"
 		}
 	]
 }
