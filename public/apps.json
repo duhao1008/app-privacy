@@ -14285,6 +14285,21 @@
 				"es":"Sample Send Tracker"
 			},
 			"slug":"sampleSendTracker"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Refrigerant Charge Calc",
+				"ru":"Refrigerant Charge Calc",
+				"ko":"Refrigerant Charge Calc",
+				"pt":"Refrigerant Charge Calc",
+				"ja":"Refrigerant Charge Calc",
+				"en":"Refrigerant Charge Calc",
+				"fr":"Refrigerant Charge Calc",
+				"zh":"冷媒助手",
+				"es":"Refrigerant Charge Calc"
+			},
+			"slug":"refrigerantChargeCalc"
 		}
 	]
 }
