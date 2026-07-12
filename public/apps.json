@@ -14255,6 +14255,21 @@
 				"es":"Reading Quote Indexer"
 			},
 			"slug":"readingQuoteIndexer"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Cube Formula Trainer",
+				"ru":"Cube Formula Trainer",
+				"ko":"Cube Formula Trainer",
+				"pt":"Cube Formula Trainer",
+				"ja":"Cube Formula Trainer",
+				"en":"Cube Formula Trainer",
+				"fr":"Cube Formula Trainer",
+				"zh":"魔方练习本",
+				"es":"Cube Formula Trainer"
+			},
+			"slug":"cubeFormulaTrainer"
 		}
 	]
 }
