@@ -14195,6 +14195,21 @@
 				"es":"Memorial Visit Planner"
 			},
 			"slug":"memorialVisitPlanner"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Mail Merge Labeler",
+				"ru":"Mail Merge Labeler",
+				"ko":"Mail Merge Labeler",
+				"pt":"Mail Merge Labeler",
+				"ja":"Mail Merge Labeler",
+				"en":"Mail Merge Labeler",
+				"fr":"Mail Merge Labeler",
+				"zh":"套打助手",
+				"es":"Mail Merge Labeler"
+			},
+			"slug":"mailMergeLabeler"
 		}
 	]
 }
