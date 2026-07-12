@@ -14150,6 +14150,21 @@
 				"es":"Jigsaw Puzzle Tracker"
 			},
 			"slug":"jigsawPuzzleTracker"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Receivable Aging Book",
+				"ru":"Receivable Aging Book",
+				"ko":"Receivable Aging Book",
+				"pt":"Receivable Aging Book",
+				"ja":"Receivable Aging Book",
+				"en":"Receivable Aging Book",
+				"fr":"Receivable Aging Book",
+				"zh":"回款台账",
+				"es":"Receivable Aging Book"
+			},
+			"slug":"receivableAgingBook"
 		}
 	]
 }
