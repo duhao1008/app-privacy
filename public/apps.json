@@ -14045,6 +14045,21 @@
 				"es":"Seal Use Register"
 			},
 			"slug":"sealUseRegister"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Thread Tap Drill Kit",
+				"ru":"Thread Tap Drill Kit",
+				"ko":"Thread Tap Drill Kit",
+				"pt":"Thread Tap Drill Kit",
+				"ja":"Thread Tap Drill Kit",
+				"en":"Thread Tap Drill Kit",
+				"fr":"Thread Tap Drill Kit",
+				"zh":"攻牙钻孔",
+				"es":"Thread Tap Drill Kit"
+			},
+			"slug":"threadTapDrillKit"
 		}
 	]
 }
