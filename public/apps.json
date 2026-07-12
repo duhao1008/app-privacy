@@ -14270,6 +14270,21 @@
 				"es":"Cube Formula Trainer"
 			},
 			"slug":"cubeFormulaTrainer"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Sample Send Tracker",
+				"ru":"Sample Send Tracker",
+				"ko":"Sample Send Tracker",
+				"pt":"Sample Send Tracker",
+				"ja":"Sample Send Tracker",
+				"en":"Sample Send Tracker",
+				"fr":"Sample Send Tracker",
+				"zh":"寄样助手",
+				"es":"Sample Send Tracker"
+			},
+			"slug":"sampleSendTracker"
 		}
 	]
 }
