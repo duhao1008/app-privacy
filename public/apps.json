@@ -14375,6 +14375,21 @@
 				"es":"Book Club Host"
 			},
 			"slug":"bookClubHost"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Bjd Doll Wardrobe",
+				"ru":"Bjd Doll Wardrobe",
+				"ko":"Bjd Doll Wardrobe",
+				"pt":"Bjd Doll Wardrobe",
+				"ja":"Bjd Doll Wardrobe",
+				"en":"Bjd Doll Wardrobe",
+				"fr":"Bjd Doll Wardrobe",
+				"zh":"娃柜",
+				"es":"Bjd Doll Wardrobe"
+			},
+			"slug":"bjdDollWardrobe"
 		}
 	]
 }
