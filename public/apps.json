@@ -14225,6 +14225,21 @@
 				"es":"Climb Logbook"
 			},
 			"slug":"climbLogbook"
+		},
+		{
+			"lastUpdated":"2026-07-12",
+			"appName":{
+				"de":"Motion Word Problem Kit",
+				"ru":"Motion Word Problem Kit",
+				"ko":"Motion Word Problem Kit",
+				"pt":"Motion Word Problem Kit",
+				"ja":"Motion Word Problem Kit",
+				"en":"Motion Word Problem Kit",
+				"fr":"Motion Word Problem Kit",
+				"zh":"行程题卡",
+				"es":"Motion Word Problem Kit"
+			},
+			"slug":"motionWordProblemKit"
 		}
 	]
 }
