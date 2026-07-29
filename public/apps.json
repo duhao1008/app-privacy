@@ -1,6 +1,21 @@
 {
 	"apps":[
 		{
+			"lastUpdated":"2026-07-29",
+			"appName":{
+				"de":"Bike-Fit-Notizbuch",
+				"ru":"Дневник Bike Fit",
+				"ko":"바이크 핏 노트",
+				"pt":"Caderno Bike Fit",
+				"ja":"バイクフィットノート",
+				"en":"Bike Fit Notebook",
+				"fr":"Carnet Bike Fit",
+				"zh":"骑行设定簿",
+				"es":"Cuaderno Bike Fit"
+			},
+			"slug":"bikeFitNotebook"
+		},
+		{
 			"lastUpdated":"2026-05-30",
 			"appName":{
 				"de":"Cable Drop Calc",
